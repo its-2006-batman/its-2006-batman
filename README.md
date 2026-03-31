@@ -29,8 +29,7 @@
 
 🧠 **Impact:** Demonstrates advanced frontend engineering beyond basic UI  
 
-🔗 Live: (add link)  
-🔗 Code: (add link)
+
 
 ---
 
@@ -43,7 +42,7 @@
 
 🧠 **Impact:** Shows real-world automation & product thinking  
 
-🔗 Code: (add link)
+
 
 ---
 
@@ -56,9 +55,10 @@
 
 🧠 **Impact:** Strong backend fundamentals  
 
-🔗 Code: (add link)
+
 
 ---
+
 
 ## 🧰 Tech Arsenal
 
@@ -110,7 +110,7 @@
 <div align="center">
 
 💼 LinkedIn: (add)  
-📧 Email: (add)  
+📧 Email: (itz.harshit.2006@gmail.com)  
 🐙 GitHub: https://github.com/its-2006-batman  
 
 </div>
@@ -119,11 +119,16 @@
 
 ## 🐍 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-2006-batman/its-2006-batman/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-2006-batman/its-2006-batman/output/github-snake.svg" />
-  <img alt="github snake" src="https://raw.githubusercontent.com/its-2006-batman/its-2006-batman/output/github-snake.svg" width="100%" />
-</picture>
+> 🧠 This grid represents my development activity over time.<br>
+> Each node = a commit.<br>
+> The snake = consistency hunting contribution energy.
+
+---
+<div align="center"> <img src="https://raw.githubusercontent.com/its-2006-batman/its-2006-batman/output/github-snake-dark.svg" width="100%" /> </div>
+
+
+
+</div>
 
 ---
 
