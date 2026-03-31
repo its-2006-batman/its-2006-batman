@@ -123,15 +123,29 @@
 > Each node = a commit.<br>
 > The snake = consistency hunting contribution energy.
 
----
 <div align="center"> <img src="https://raw.githubusercontent.com/its-2006-batman/its-2006-batman/output/github-snake-dark.svg" width="100%" /> </div>
 
 
 
 </div>
 
+
 ---
 
+
+
+
+
+
+## 🧠 Developer Thoughts
+
++ Works on localhost ✔
+- Breaks in production ✖
++ Fix deployed ✔
+- New bug unlocked ✖
+  <div align="center"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="45%" /> <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="45%" /> </div>
+
+---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0C134F" />
 </div>
