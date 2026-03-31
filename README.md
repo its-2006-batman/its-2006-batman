@@ -105,16 +105,16 @@
 
 ---
 
-## 🧲 Let’s Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
 <div align="center">
 
-💼 LinkedIn: (add)  
-📧 Email: (itz.harshit.2006@gmail.com)  
-🐙 GitHub: https://github.com/its-2006-batman  
+[![Gmail](https://img.shields.io/badge/Gmail-vishnu9027872285%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:itz.harshit.2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)]([https://linkedin.com](https://www.linkedin.com/in/harshit-singh-7791ba279/))
+[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com)
+
 
 </div>
-
 ---
 
 ## 🐍 Contribution Graph
