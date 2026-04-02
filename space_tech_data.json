@@ -14,50 +14,44 @@
     "url": "https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "28.84\u00b0N",
-    "longitude": "10.23\u00b0E",
-    "timestamp": "2026-04-02T17:45:06+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
       "title": "Google releases Gemma 4 open models",
-      "score": 370,
+      "score": 544,
       "url": "https://deepmind.google/models/gemma/gemma-4/",
       "time": "2026-04-02T16:10:54"
     },
     {
-      "title": "LinkedIn Is Illegally Searching Your Computer",
-      "score": 1114,
+      "title": "Qwen3.6-Plus: Towards real world agents",
+      "score": 282,
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "time": "2026-04-02T14:28:52"
+    },
+    {
+      "title": "LinkedIn is illegally searching your computer",
+      "score": 1226,
       "url": "https://browsergate.eu/",
       "time": "2026-04-02T13:09:09"
     },
     {
-      "title": "A forecast of the fair market value of SpaceX's businesses",
-      "score": 53,
-      "url": "https://futuresearch.ai/spacex-ipo-valuation/",
-      "time": "2026-04-02T17:00:11"
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "score": 319,
+      "url": "https://lemonade-server.ai",
+      "time": "2026-04-02T11:04:51"
     },
     {
-      "title": "Delve allegedly forked an open-source tool and sold it as its own",
-      "score": 151,
-      "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-      "time": "2026-04-02T15:03:08"
-    },
-    {
-      "title": "Qwen3.6-Plus: Towards Real World Agents",
-      "score": 223,
-      "url": "https://qwen.ai/blog?id=qwen3.6",
-      "time": "2026-04-02T14:28:52"
+      "title": "Hugo's New CSS Powers",
+      "score": 8,
+      "url": "https://www.brycewray.com/posts/2026/04/hugos-new-css-powers/",
+      "time": "2026-04-02T18:16:57"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244344,
+      "stars": 244346,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,24 +65,24 @@
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148115,
+      "stars": 148116,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138588,
+      "stars": 138589,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 133247,
+      "stars": 133307,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     }
   ],
-  "last_updated": "2026-04-02T17:45:04.051069+00:00"
+  "last_updated": "2026-04-02T18:41:27.687395+00:00"
 }
