@@ -302,20 +302,29 @@ console.log("🚀 Mission: Build the future, one commit at a time");
 
 </div>
 
+<!-- LIVE_DATA_START -->
+## 🛸 [ LIVE SPACE DATA ]
+
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║  🛰️  TRACKING: ISS (ZARYA)                                    ║
+║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  27.09°N                                         ║
-║  📍 LONGITUDE: 77.67°E                                         ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                    ║
-║  🌍 ALTITUDE:  ~408 km                                         ║
-║  ⏰ TIMESTAMP: 2026-04-01 UTC                                  ║
+║  📍 LATITUDE:  50.45°N                                       ║
+║  📍 LONGITUDE: 34.77°W                                       ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ LAST UPDATE: 2026-04-02 17:34 UTC                       ║
+╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║  🚀 LATEST SPACEX MISSION                                      ║
 ╠════════════════════════════════════════════════════════════════╣
-║  Next visible pass over your location: Calculate at            ║
-║  https://spotthestation.nasa.gov                               ║
+║  MISSION: Crew-5                                               ║
+║  STATUS:  ✓ SUCCESS                                            ║
+║  FLIGHT:  #187                                                 ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
+<!-- LIVE_DATA_END -->
 
 ---
 
@@ -454,26 +463,4 @@ END TRANSMISSION
 █
 ```
 
-<!-- LIVE_DATA_START -->
-## 🛸 [ LIVE SPACE DATA ]
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
-╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  50.45°N                                       ║
-║  📍 LONGITUDE: 34.77°W                                       ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ LAST UPDATE: 2026-04-02 17:34 UTC                       ║
-╚════════════════════════════════════════════════════════════════╝
-
-╔════════════════════════════════════════════════════════════════╗
-║  🚀 LATEST SPACEX MISSION                                      ║
-╠════════════════════════════════════════════════════════════════╣
-║  MISSION: Crew-5                                               ║
-║  STATUS:  ✓ SUCCESS                                            ║
-║  FLIGHT:  #187                                                 ║
-╚════════════════════════════════════════════════════════════════╝
-```
-<!-- LIVE_DATA_END -->
