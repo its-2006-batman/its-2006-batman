@@ -213,9 +213,30 @@ class SpaceTechScraper:
         """Generate markdown section with fetched data"""
         iss = self.data.get('iss_position') or {}
         spacex = self.data.get('spacex_launch') or {}
+        nasa = self.data.get('nasa_apod') or {}
+        headlines = self.data.get('tech_headlines') or []
+        repos = self.data.get('github_trending') or []
+        
+        # Format headlines
+        headlines_section = ""
+        if headlines:
+            headlines_section = "\n### 💻 TOP TECH HEADLINES\n"
+            for i, h in enumerate(headlines[:3], 1):
+                title = (h.get('title', 'N/A')[:60] + '...') if len(h.get('title', '')) > 60 else h.get('title', 'N/A')
+                score = h.get('score', 0)
+                headlines_section += f"{i}. **{title}** ({score} ⭐)\n"
+        
+        # Format repos
+        repos_section = ""
+        if repos:
+            repos_section = "\n### ⭐ TRENDING REPOS\n"
+            for i, r in enumerate(repos[:3], 1):
+                name = r.get('name', 'N/A')
+                stars = r.get('stars', 0)
+                repos_section += f"{i}. **{name}** ({stars}★)\n"
         
         section = f"""
-## 🛸 [ LIVE SPACE DATA ]
+## 🛸 [ LIVE SPACE & TECH DATA ]
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
@@ -225,17 +246,27 @@ class SpaceTechScraper:
 ║  📍 LONGITUDE: {iss.get('longitude', 'N/A'):<45} ║
 ║  ⚡ VELOCITY:  {iss.get('velocity', 'N/A'):<45} ║
 ║  🌍 ALTITUDE:  {iss.get('altitude', 'N/A'):<45} ║
-║  ⏰ LAST UPDATE: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'):<42} ║
+║  ⏰ UPDATE: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'):<38} ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
 ║  🚀 LATEST SPACEX MISSION                                      ║
 ╠════════════════════════════════════════════════════════════════╣
 ║  MISSION: {spacex.get('mission', 'N/A'):<52} ║
+║  ROCKET:  {spacex.get('rocket', 'N/A'):<52} ║
 ║  STATUS:  {('✓ SUCCESS' if spacex.get('success') else '⚠ PENDING'):<52} ║
 ║  FLIGHT:  #{spacex.get('flight_number', 'N/A'):<51} ║
 ╚════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
+╠════════════════════════════════════════════════════════════════╣
+║  TITLE: {(nasa.get('title', 'N/A')[:56]):<56} ║
+║  DATE:  {nasa.get('date', 'N/A'):<57} ║
+║  TYPE:  {nasa.get('media_type', 'N/A'):<57} ║
+╚════════════════════════════════════════════════════════════════╝
 ```
+{headlines_section}{repos_section}
 """
         return section
     
