@@ -1,21 +1,68 @@
-"""
-🚀 Space & Tech Data Scraper for GitHub Profile
-================================================
-This script fetches real-time space and tech data to keep your README fresh.
+name: Update Space & Tech Data
 
-Data Sources:
-- SpaceX API: Latest launch data
-- NASA API: Astronomy Picture of the Day  
-- ISS Tracking API: Current ISS position
-- HackerNews API: Trending tech headlines
-- GitHub API: Trending repositories
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/update-space-data.yml'
 
-Usage:
-    python update_space_data.py
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
     
-Setup:
-    pip install requests beautifulsoup4 python-dotenv
-"""
+    steps:
+      - name: 🚀 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: 📦 Install Dependencies
+        run: |
+          pip install requests beautifulsoup4
+      
+      - name: 🛸 Scrape Space & Tech Data
+        env:
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+        run: |
+          if [ -f update_space_data.py ]; then
+            python update_space_data.py
+          elif [ -f scripts/update_space_data.py ]; then
+            python scripts/update_space_data.py
+          else
+            echo "Could not find update_space_data.py in repository root or scripts/"
+            ls -la
+            ls -la scripts || true
+            exit 1
+          fi
+      
+      - name: 📊 Update README with Live Data
+        run: |
+          # Add your README update logic here
+          echo "README update logic would go here"
+          # Example: python update_readme_with_data.py
+      
+      - name: 💾 Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🚀 Auto-update: Space & Tech data [$(date +'%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi
 
 import requests
 import json
