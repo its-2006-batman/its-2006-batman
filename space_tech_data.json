@@ -1,0 +1,94 @@
+{
+  "spacex_launch": {
+    "mission": "Crew-5",
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "date": "2022-10-05T16:00:00.000Z",
+    "success": true,
+    "details": "No details available",
+    "flight_number": 187
+  },
+  "nasa_apod": {
+    "title": "Liftoff! Returning to the Moon",
+    "date": "2026-04-02",
+    "explanation": "We are one small step closer to returning to the Moon. A new chapter in human exploration began yesterday when NASA's Artemis II launched aboard the Space Launch System (SLS) from Kennedy Space Center. Carrying four astronauts, the Orion spacecraft's planned lunar flyby will be the first in over hal...",
+    "url": "https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg",
+    "media_type": "image"
+  },
+  "iss_position": {
+    "latitude": "50.45\u00b0N",
+    "longitude": "34.77\u00b0W",
+    "timestamp": "2026-04-02T17:34:21+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
+  "tech_headlines": [
+    {
+      "title": "Google releases Gemma 4 open models",
+      "score": 333,
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "time": "2026-04-02T16:10:54"
+    },
+    {
+      "title": "LinkedIn Is Illegally Searching Your Computer",
+      "score": 1084,
+      "url": "https://browsergate.eu/",
+      "time": "2026-04-02T13:09:09"
+    },
+    {
+      "title": "Delve allegedly forked an open-source tool and sold it as its own",
+      "score": 138,
+      "url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+      "time": "2026-04-02T15:03:08"
+    },
+    {
+      "title": "A $1.75T IPO Would Be Overpaying 30% for SpaceX",
+      "score": 35,
+      "url": "https://futuresearch.ai/spacex-ipo-valuation/",
+      "time": "2026-04-02T17:00:11"
+    },
+    {
+      "title": "Qwen3.6-Plus: Towards Real World Agents",
+      "score": 215,
+      "url": "https://qwen.ai/blog?id=qwen3.6",
+      "time": "2026-04-02T14:28:52"
+    }
+  ],
+  "github_trending": [
+    {
+      "name": "facebook/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 244344,
+      "language": "JavaScript",
+      "url": "https://github.com/facebook/react"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 195783,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148115,
+      "language": "JavaScript",
+      "url": "https://github.com/airbnb/javascript"
+    },
+    {
+      "name": "vercel/next.js",
+      "description": "The React Framework",
+      "stars": 138588,
+      "language": "JavaScript",
+      "url": "https://github.com/vercel/next.js"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 133238,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/everything-claude-code"
+    }
+  ],
+  "last_updated": "2026-04-02T17:34:19.449087+00:00"
+}

@@ -1,5 +1,8 @@
 name: Update Space & Tech Data
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Run every 6 hours
@@ -34,7 +37,16 @@ jobs:
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
         run: |
-          python update_space_data.py
+          if [ -f update_space_data.py ]; then
+            python update_space_data.py
+          elif [ -f scripts/update_space_data.py ]; then
+            python scripts/update_space_data.py
+          else
+            echo "Could not find update_space_data.py in repository root or scripts/"
+            ls -la
+            ls -la scripts || true
+            exit 1
+          fi
       
       - name: 📊 Update README with Live Data
         run: |

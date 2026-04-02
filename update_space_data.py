@@ -19,14 +19,17 @@ Setup:
 
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Dict, List, Optional
 import os
+
+LIVE_DATA_START = "<!-- LIVE_DATA_START -->"
+LIVE_DATA_END = "<!-- LIVE_DATA_END -->"
 
 class SpaceTechScraper:
     def __init__(self):
         self.data = {}
-        self.timestamp = datetime.utcnow().isoformat()
+        self.timestamp = datetime.now(timezone.utc).isoformat()
         
     def fetch_spacex_latest_launch(self) -> Optional[Dict]:
         """Fetch latest SpaceX launch information"""
@@ -35,13 +38,18 @@ class SpaceTechScraper:
             response = requests.get(url, timeout=10)
             response.raise_for_status()
             data = response.json()
+            if not isinstance(data, dict):
+                raise ValueError("Unexpected SpaceX API response format")
+            rocket = data.get('rocket')
+            rocket_name = rocket.get('name', 'Unknown') if isinstance(rocket, dict) else (rocket or 'Unknown')
+            details = (data.get('details') or 'No details available')[:200]
             
             return {
                 'mission': data.get('name', 'Unknown'),
-                'rocket': data.get('rocket', {}).get('name', 'Unknown'),
+                'rocket': rocket_name,
                 'date': data.get('date_utc', 'Unknown'),
                 'success': data.get('success', None),
-                'details': data.get('details', 'No details available')[:200],
+                'details': details,
                 'flight_number': data.get('flight_number', 0)
             }
         except Exception as e:
@@ -86,7 +94,7 @@ class SpaceTechScraper:
             return {
                 'latitude': f"{abs(lat):.2f}°{lat_dir}",
                 'longitude': f"{abs(lon):.2f}°{lon_dir}",
-                'timestamp': datetime.fromtimestamp(data.get('timestamp', 0)).isoformat(),
+                'timestamp': datetime.fromtimestamp(data.get('timestamp', 0), timezone.utc).isoformat(),
                 'velocity': '~27,600 km/h',  # ISS orbital velocity
                 'altitude': '~408 km'         # Average ISS altitude
             }
@@ -156,8 +164,8 @@ class SpaceTechScraper:
     
     def generate_readme_section(self) -> str:
         """Generate markdown section with fetched data"""
-        iss = self.data.get('iss_position', {})
-        spacex = self.data.get('spacex_launch', {})
+        iss = self.data.get('iss_position') or {}
+        spacex = self.data.get('spacex_launch') or {}
         
         section = f"""
 ## 🛸 [ LIVE SPACE DATA ]
@@ -170,7 +178,7 @@ class SpaceTechScraper:
 ║  📍 LONGITUDE: {iss.get('longitude', 'N/A'):<45} ║
 ║  ⚡ VELOCITY:  {iss.get('velocity', 'N/A'):<45} ║
 ║  🌍 ALTITUDE:  {iss.get('altitude', 'N/A'):<45} ║
-║  ⏰ LAST UPDATE: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC'):<42} ║
+║  ⏰ LAST UPDATE: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'):<42} ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -195,7 +203,7 @@ class SpaceTechScraper:
         
         # NASA
         print("🌌 Fetching NASA APOD...")
-        self.data['nasa_apod'] = self.fetch_nasa_apod()
+        self.data['nasa_apod'] = self.fetch_nasa_apod(os.getenv("NASA_API_KEY", "DEMO_KEY"))
         
         # ISS
         print("🛰️  Tracking ISS...")
@@ -225,19 +233,33 @@ class SpaceTechScraper:
     def update_readme(self, readme_path: str = "README.md"):
         """Update README with new data"""
         try:
-            with open(readme_path, 'r') as f:
+            with open(readme_path, 'r', encoding='utf-8') as f:
                 content = f.read()
-            
-            # Find and replace live data section
-            # This is a placeholder - implement your own logic
+
             new_section = self.generate_readme_section()
-            
-            # You would implement markers in your README like:
-            # <!-- LIVE_DATA_START -->
-            # ... data here ...
-            # <!-- LIVE_DATA_END -->
-            
-            print(f"✓ README update prepared (implement marker logic)")
+
+            if LIVE_DATA_START in content and LIVE_DATA_END in content:
+                before = content.split(LIVE_DATA_START, 1)[0]
+                after = content.split(LIVE_DATA_END, 1)[1]
+                updated_content = (
+                    f"{before}{LIVE_DATA_START}\n"
+                    f"{new_section.strip()}\n"
+                    f"{LIVE_DATA_END}{after}"
+                )
+                action = "updated"
+            else:
+                updated_content = (
+                    f"{content.rstrip()}\n\n"
+                    f"{LIVE_DATA_START}\n"
+                    f"{new_section.strip()}\n"
+                    f"{LIVE_DATA_END}\n"
+                )
+                action = "inserted"
+
+            with open(readme_path, 'w', encoding='utf-8') as f:
+                f.write(updated_content)
+
+            print(f"✓ README {action} with live space data")
             
         except Exception as e:
             print(f"❌ README update error: {e}")
@@ -246,6 +268,7 @@ def main():
     scraper = SpaceTechScraper()
     data = scraper.scrape_all()
     scraper.save_to_json()
+    scraper.update_readme()
     
     # Print summary
     print("\n" + "="*70)
