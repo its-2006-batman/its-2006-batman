@@ -1,151 +1,455 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0C134F&text=ORBITAL%20TRANSMISSION&fontColor=00F5FF&fontSize=60&animation=twinkling&stroke=7C00FF&strokeWidth=1.4&desc=Harshit%20Singh%20%7C%20Full-Stack%20Engineer&descAlignY=70&fontAlignY=42" width="100%" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&duration=2500&pause=700&color=39FF14&center=true&vCenter=true&width=900&lines=Designing+Cinematic+Web+Experiences;Spring+Boot+%2B+Reactive+Frontend+Systems;Automation+Agents+%26+Chrome+Extensions;Building+What+Feels+Like+The+Future" />
-</div>
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   ░█▀▀░█▀█░█▀▀░█▀▄░█▀█░█░█░▀█▀░█▀▀░░░█▀▀░█▀█░█▀▀░▀█▀░█▀█░█▀▀░█▀▀░█▀▄   ║
+║   ░█░░░█░█░▀▀█░█▀▄░█▀▀░█▀█░░█░░▀▀█░░░█▀▀░█░█░█░█░░█░░█░█░█▀▀░█▀▀░█▀▄   ║
+║   ░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀░░░▀░▀░▀▀▀░▀▀▀░░░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░▀░▀   ║
+║                                                                           ║
+║                    >> HARSHIT SINGH | MISSION CONTROL <<                 ║
+║                 FULL-STACK ARCHITECT | ORBITAL ENGINEER                  ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
----
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=black&text=⚡%20TRANSMISSION%20ACTIVE%20⚡&fontColor=FFFFFF&fontSize=35&animation=twinkling&fontAlignY=50&desc=SYSTEMS%20OPERATIONAL%20|%20LATITUDE:%2027.09°N%20|%20STATUS:%20ONLINE&descSize=14&descAlignY=70" width="100%" />
 
-## 🧠 Who Am I
-
-🚀 Full-stack developer focused on **experience-driven engineering**  
-🎬 I don’t just build apps — I build **interactive systems that feel alive**  
-⚙️ Backend precision + frontend storytelling  
-
-> ⚡ *Goal: Merge engineering with cinematic UX*
-
----
-
-## 🚀 Featured Work (Proof > Claims)
-
-### 🌌 1. Cinematic UI Engine
-> GSAP + Three.js powered immersive frontend
-
-- Real-time animations & transitions  
-- Scroll-based storytelling  
-- High-performance rendering  
-
-🧠 **Impact:** Demonstrates advanced frontend engineering beyond basic UI  
-
-
-
----
-
-### 🤖 2. Automation Agent (Chrome Extension - MV3)
-> Automates browser workflows intelligently  
-
-- DOM interaction + scripting  
-- Task automation pipelines  
-- Productivity-focused tooling  
-
-🧠 **Impact:** Shows real-world automation & product thinking  
-
-
-
----
-
-### 🛰️ 3. Spring Boot Backend System
-> Scalable backend architecture  
-
-- REST APIs + MySQL  
-- Authentication & data flow  
-- Clean layered architecture  
-
-🧠 **Impact:** Strong backend fundamentals  
-
-
-
----
-
-
-## 🧰 Tech Arsenal
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,html,css,mysql,git,github,vscode&theme=dark" />
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/GSAP-Expert-88CE02?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Three.js-Advanced-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Automation-Browser_Agents-FF00E5?style=for-the-badge" />
 </div>
 
 ---
-
-## 🎯 What Makes Me Different
-
-- 🎬 I treat frontend like a **movie, not a form**
-- ⚙️ I combine **backend logic with UI storytelling**
-- 🤖 I build **automation, not just apps**
-- 🧠 I focus on **experience + engineering**
-
----
-
-## 📊 GitHub Intelligence
-
-<div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=its-2006-batman&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-2006-batman&layout=donut&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img width="98%" src="https://streak-stats.demolab.com?user=its-2006-batman&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🧪 Currently Building
-
-- 🌌 3D Web Interfaces (Three.js)
-- ⚡ Advanced animation systems (GSAP)
-- 🤖 Smart browser automation agents
-- 🔗 Full-stack (React + Spring Boot)
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-itz.harshit.2006@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:itz.harshit.2006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)]([https://linkedin.com](https://www.linkedin.com/in/harshit-singh-7791ba279/))
-[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117)](https://discord.com)
-
-
-</div>
----
-
-## 🐍 Contribution Graph
-
-> 🧠 This grid represents my development activity over time.<br>
-> Each node = a commit.<br>
-> The snake = consistency hunting contribution energy.
-
-<div align="center"> <img src="https://raw.githubusercontent.com/its-2006-batman/its-2006-batman/output/github-snake-dark.svg" width="100%" /> </div>
-
-
+### 🛸 [ MISSION BRIEFING ] 
 
 </div>
 
+```yaml
+OPERATIVE: Harshit Singh
+CALLSIGN: "The Architect"
+MISSION: Build immersive web systems that transcend conventional interfaces
+SPECIALTY: Full-stack engineering with cinematic execution
+STATUS: 🟢 Active Development
 
----
+CORE_DIRECTIVE: >
+  Merge backend precision with frontend artistry.
+  Every commit is a launch sequence.
+  Every deploy is a mission milestone.
+```
 
-
-
-
-
-
-## 🧠 Developer Thoughts
-
-+ Works on localhost ✔
-- Breaks in production ✖
-+ Fix deployed ✔
-- New bug unlocked ✖
-  <div align="center"> <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="45%" /> <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="45%" /> </div>
-
----
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0C134F" />
+
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⡀⠀⠀⠀
+⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀
+⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀
+⢰⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠉⠉⠉⠉⠉⠉⠛⠛⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⢸⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⡇
+⢸⣿⣿⣿⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⡇
+⢸⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⡇
+⢸⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⡇
+⠘⣿⣿⣿⣿⣿⣿⣦⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣾⣿⣿⣿⣿⣿⣿⠃
+⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⠀
+⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀
+⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀
+⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠻⠿⠿⠿⠿⠿⠿⠟⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀
+```
+
+**"We choose to build web experiences not because they are easy,**  
+**but because they are hard."**
+
 </div>
+
+---
+
+<div align="center">
+
+## 🚀 [ MISSION CONTROL - ACTIVE PROJECTS ]
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│ PROJECT ALPHA-1: CINEMATIC UI ENGINE                                    │
+├─────────────────────────────────────────────────────────────────────────┤
+│ TECH STACK: GSAP × Three.js × React × WebGL                            │
+│ OBJECTIVE: Next-gen scroll-driven 3D interfaces                         │
+│                                                                         │
+│ [████████████████████░░░░] 80% COMPLETE                                │
+│                                                                         │
+│ ✓ Real-time 3D scene rendering (60fps locked)                          │
+│ ✓ Physics-based particle systems                                       │
+│ ✓ Scroll-triggered camera choreography                                 │
+│ ✓ Dynamic lighting & shader effects                                    │
+│ ⚡ IMPACT: Pushing boundaries of web animation                          │
+└─────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│ PROJECT OMEGA-2: AUTONOMOUS BROWSER AGENT                               │
+├─────────────────────────────────────────────────────────────────────────┤
+│ TECH STACK: Chrome APIs × MV3 × JavaScript                             │
+│ OBJECTIVE: Intelligent workflow automation system                       │
+│                                                                         │
+│ [████████████████████████] 95% OPERATIONAL                             │
+│                                                                         │
+│ ✓ Context-aware DOM manipulation                                       │
+│ ✓ Multi-step task orchestration                                        │
+│ ✓ Background service workers                                           │
+│ ✓ Cross-tab state synchronization                                      │
+│ ⚡ IMPACT: 10+ hours saved weekly on repetitive tasks                   │
+└─────────────────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│ PROJECT DELTA-3: ORBITAL BACKEND SYSTEM                                 │
+├─────────────────────────────────────────────────────────────────────────┤
+│ TECH STACK: Spring Boot × MySQL × JWT × REST                           │
+│ OBJECTIVE: Enterprise-grade scalable architecture                       │
+│                                                                         │
+│ [████████████████████████] 100% DEPLOYED                               │
+│                                                                         │
+│ ✓ Clean layered architecture (MVC pattern)                             │
+│ ✓ Secure authentication & authorization                                │
+│ ✓ Optimized query performance                                          │
+│ ✓ Comprehensive error handling                                         │
+│ ⚡ IMPACT: Production-ready RESTful services                            │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## 🛰️ [ TELEMETRY DATA - LIVE STATS ]
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=its-2006-batman&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00d9ff&ring_color=ff00e5" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=its-2006-batman&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=ff00e5&currStreakLabel=00d9ff" />
+
+</div>
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║  SYSTEM METRICS                                                ║
+╠════════════════════════════════════════════════════════════════╣
+║  📡 COMMITS THIS CYCLE: ████████░░ 847                        ║
+║  🎯 MISSION SUCCESS RATE: ████████░░ 89%                      ║
+║  ⚡ ACTIVE REPOSITORIES: ███████░░░ 23                        ║
+║  🌟 ORBITAL VELOCITY: ██████████ ACCELERATING                 ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧬 [ TECHNOLOGY MATRIX ]
+
+</div>
+
+<div align="center">
+
+### >> PROPULSION SYSTEMS <<
+
+<img src="https://skillicons.dev/icons?i=java,spring,typescript,javascript,react,nodejs,html,css,mysql,mongodb,redis,postgres&theme=dark" />
+
+### >> SPECIALIZED INSTRUMENTS <<
+
+</div>
+
+```diff
+╔═══════════════════════════════════════════════════════════════════════╗
+║  FRONTEND PROPULSION                                                  ║
+╠═══════════════════════════════════════════════════════════════════════╣
++ GSAP ........................... Advanced animation orchestration
++ Three.js ....................... 3D graphics & WebGL rendering  
++ Framer Motion .................. React animation library
++ Tailwind CSS ................... Utility-first styling
++ Vite ........................... Next-gen build tooling
+╠═══════════════════════════════════════════════════════════════════════╣
+║  BACKEND ARCHITECTURE                                                 ║
+╠═══════════════════════════════════════════════════════════════════════╣
++ Spring Boot .................... Enterprise Java framework
++ Spring Security ................ Authentication & authorization
++ JPA/Hibernate .................. ORM & database management
++ JWT ............................ Stateless authentication
++ RESTful APIs ................... HTTP service design
+╠═══════════════════════════════════════════════════════════════════════╣
+║  AUTOMATION & TOOLING                                                 ║
+╠═══════════════════════════════════════════════════════════════════════╣
++ Chrome Extensions .............. Browser automation (MV3)
++ Puppeteer/Playwright ........... Headless browser control
++ Node.js Scripts ................ Task automation
++ Git/GitHub Actions ............. CI/CD pipelines
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+## 🌌 [ COSMIC PHILOSOPHY ]
+
+</div>
+
+```typescript
+interface Engineer {
+  beliefs: string[];
+  approach: () => void;
+}
+
+const harshit: Engineer = {
+  beliefs: [
+    "Every interface should feel alive, not just functional",
+    "Backend logic + Frontend artistry = Complete experience",
+    "Automation frees humans for creative problem-solving",
+    "Code is poetry; UI is cinema; Systems are symphonies"
+  ],
+  
+  approach: () => {
+    while (true) {
+      ideate();
+      prototype();
+      refine();
+      deploy();
+      
+      if (userDelighted && systemScalable) {
+        celebrate();
+      }
+      
+      evolve(); // Never stop learning
+    }
+  }
+};
+
+console.log("🚀 Mission: Build the future, one commit at a time");
+```
+
+---
+
+<div align="center">
+
+## 🔬 [ CURRENT EXPERIMENTS ]
+
+</div>
+
+<table>
+<tr>
+<td width="33%">
+
+```
+┌──────────────────────┐
+│ FRONTEND RESEARCH    │
+├──────────────────────┤
+│ • WebGL shaders      │
+│ • GLSL animations    │
+│ • 3D scroll effects  │
+│ • Particle systems   │
+│ • Ray marching       │
+└──────────────────────┘
+```
+
+</td>
+<td width="33%">
+
+```
+┌──────────────────────┐
+│ BACKEND EXPLORATION  │
+├──────────────────────┤
+│ • Spring WebFlux     │
+│ • Microservices      │
+│ • Event sourcing     │
+│ • GraphQL APIs       │
+│ • Redis caching      │
+└──────────────────────┘
+```
+
+</td>
+<td width="33%">
+
+```
+┌──────────────────────┐
+│ AI & AUTOMATION      │
+├──────────────────────┤
+│ • Browser agents     │
+│ • LLM integration    │
+│ • RAG systems        │
+│ • Smart workflows    │
+│ • Dev tooling        │
+└──────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛸 [ ISS TRACKING - LIVE POSITION ]
+
+**International Space Station Current Location**
+
+</div>
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║  🛰️  TRACKING: ISS (ZARYA)                                    ║
+╠════════════════════════════════════════════════════════════════╣
+║  📍 LATITUDE:  27.09°N                                         ║
+║  📍 LONGITUDE: 77.67°E                                         ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                    ║
+║  🌍 ALTITUDE:  ~408 km                                         ║
+║  ⏰ TIMESTAMP: 2026-04-01 UTC                                  ║
+╠════════════════════════════════════════════════════════════════╣
+║  Next visible pass over your location: Calculate at            ║
+║  https://spotthestation.nasa.gov                               ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+## 📡 [ COMMUNICATION CHANNELS ]
+
+</div>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    >> ESTABLISH UPLINK <<                       │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+[![Email](https://img.shields.io/badge/📧_TRANSMIT_EMAIL-itz.harshit.2006@gmail.com-00ff41?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=00ff41)](mailto:itz.harshit.2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_LINKEDIN_PROFILE-Harshit_Singh-00d9ff?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=00d9ff)](https://www.linkedin.com/in/harshit-singh-7791ba279/)
+[![Portfolio](https://img.shields.io/badge/🌐_COMMAND_CENTER-View_Portfolio-ff00e5?style=for-the-badge&labelColor=0d1117&logo=safari&logoColor=ff00e5)](#)
+[![Discord](https://img.shields.io/badge/💬_DISCORD_CHANNEL-Let's_Connect-7289da?style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=7289da)](#)
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║  STATUS: Available for collaboration                              ║
+║  SEEKING: Full-Stack Roles | Frontend Engineering | Automation    ║
+║  TIMEZONE: IST (UTC+5:30)                                         ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌠 [ CONTRIBUTION TRAJECTORY ]
+
+**Mission Log: 365-Day Development Cycle**
+
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-2006-batman/its-2006-batman/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-2006-batman/its-2006-batman/output/github-snake.svg" />
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/its-2006-batman/its-2006-batman/output/github-snake-dark.svg" width="100%" />
+</picture>
+</div>
+
+---
+
+<div align="center">
+
+## 💭 [ TRANSMISSION LOG ]
+
+</div>
+
+```javascript
+// EARTH_TIMESTAMP: 2026-04-01T00:00:00Z
+// MISSION_LOG: Developer's Daily Cycle
+
+const developerLife = async () => {
+  while (alive) {
+    await drink('coffee');
+    await code('until it works');
+    await debug('why it works');
+    await commit('working code');
+    await push('to production');
+    
+    if (production === 'broken') {
+      await panic();
+      await hotfix();
+      await pretend('it was intentional');
+    }
+    
+    await sleep(4); // hours
+  }
+};
+
+// STATUS: ██████████ LOOP RUNNING
+// "Houston, we don't have a problem... yet."
+```
+
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+
+*"That's one small commit for man, one giant push for mankind."*
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║  ██████╗ ██████╗ ██████╗ ███████╗    ███████╗ ██████╗ ██████╗        ║
+║ ██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██╔════╝██╔═══██╗██╔══██╗       ║
+║ ██║     ██║   ██║██║  ██║█████╗      █████╗  ██║   ██║██████╔╝       ║
+║ ██║     ██║   ██║██║  ██║██╔══╝      ██╔══╝  ██║   ██║██╔══██╗       ║
+║ ╚██████╗╚██████╔╝██████╔╝███████╗    ██║     ╚██████╔╝██║  ██║       ║
+║  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝       ║
+║                                                                        ║
+║                    ████████╗██╗  ██╗███████╗                          ║
+║                    ╚══██╔══╝██║  ██║██╔════╝                          ║
+║                       ██║   ███████║█████╗                            ║
+║                       ██║   ██╔══██║██╔══╝                            ║
+║                       ██║   ██║  ██║███████╗                          ║
+║                       ╚═╝   ╚═╝  ╚═╝╚══════╝                          ║
+║                                                                        ║
+║                    ███████╗██╗   ██╗████████╗██╗   ██╗██████╗ ███████╗║
+║                    ██╔════╝██║   ██║╚══██╔══╝██║   ██║██╔══██╗██╔════╝║
+║                    █████╗  ██║   ██║   ██║   ██║   ██║██████╔╝█████╗  ║
+║                    ██╔══╝  ██║   ██║   ██║   ██║   ██║██╔══██╗██╔══╝  ║
+║                    ██║     ╚██████╔╝   ██║   ╚██████╔╝██║  ██║███████╗║
+║                    ╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝║
+║                                                                        ║
+╚════════════════════════════════════════════════════════════════════════╝
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=its-2006-batman&color=00ff41&style=for-the-badge&label=TRANSMISSIONS_RECEIVED)
+
+**⚡ POWERED BY:** Coffee · Code · Cosmic Ambition · Stack Overflow  
+**🎯 MISSION STATUS:** Active Development | All Systems Nominal
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=2,6,12,18,24" width="100%" />
+</div>
+
+```
+END TRANSMISSION
+█
+```
