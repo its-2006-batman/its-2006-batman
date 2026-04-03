@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "26.17\u00b0S",
-    "longitude": "130.93\u00b0E",
-    "timestamp": "2026-04-03T12:38:45+00:00",
+    "latitude": "24.62\u00b0N",
+    "longitude": "3.37\u00b0W",
+    "timestamp": "2026-04-03T18:33:18+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Show HN: Apfel \u2013 The free AI already on your Mac",
-      "score": 186,
-      "url": "https://apfel.franzai.com",
-      "time": "2026-04-03T09:15:34"
+      "title": "iNaturalist",
+      "score": 94,
+      "url": "https://www.inaturalist.org/",
+      "time": "2026-04-03T17:22:20"
     },
     {
-      "title": "Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps",
-      "score": 308,
-      "url": "https://only-eu.eu/en/",
-      "time": "2026-04-03T09:37:24"
+      "title": "Show HN: I built a frontpage for personal blogs",
+      "score": 463,
+      "url": "https://text.blogosphere.app/",
+      "time": "2026-04-03T12:33:45"
     },
     {
-      "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
-      "score": 65,
-      "url": "https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5",
-      "time": "2026-04-03T09:35:16"
+      "title": "Why the heck are we still using Markdown?",
+      "score": 21,
+      "url": "https://bgslabs.org/blog/why-are-we-using-markdown/",
+      "time": "2026-04-03T18:03:10"
     },
     {
-      "title": "Google releases Gemma 4 open models",
-      "score": 1559,
-      "url": "https://deepmind.google/models/gemma/gemma-4/",
-      "time": "2026-04-02T16:10:54"
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "score": 44,
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "time": "2026-04-02T18:24:29"
     },
     {
-      "title": "Decisions that eroded trust in Azure \u2013 by a former Azure Core engineer",
-      "score": 887,
-      "url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-      "time": "2026-04-02T16:00:27"
+      "title": "Go on Embedded Systems and WebAssembly",
+      "score": 23,
+      "url": "https://tinygo.org/",
+      "time": "2026-04-03T16:57:09"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244364,
+      "stars": 244376,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195778,
+      "stars": 195779,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148114,
+      "stars": 148115,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138596,
+      "stars": 138603,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 135183,
+      "stars": 135818,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     }
   ],
-  "last_updated": "2026-04-03T12:38:44.926582+00:00"
+  "last_updated": "2026-04-03T18:33:15.582897+00:00"
 }
