@@ -14,75 +14,81 @@
     "url": "https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "4.63\u00b0N",
+    "longitude": "72.43\u00b0W",
+    "timestamp": "2026-04-04T12:31:39+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "Apple: Embarrassingly Simple Self-Distillation Improves Code Generation",
+      "score": 106,
+      "url": "https://arxiv.org/abs/2604.01193",
+      "time": "2026-04-04T10:26:21"
+    },
+    {
       "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-      "score": 525,
+      "score": 797,
       "url": "https://news.ycombinator.com/item?id=47633396",
       "time": "2026-04-03T22:55:24"
     },
     {
+      "title": "The CMS is dead. Long live the CMS",
+      "score": 10,
+      "url": "https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms",
+      "time": "2026-04-04T11:24:30"
+    },
+    {
+      "title": "Some Unusual Trees",
+      "score": 59,
+      "url": "https://thoughts.wyounas.com/p/some-unusual-trees",
+      "time": "2026-04-04T09:04:19"
+    },
+    {
       "title": "Artemis II crew take \u201cspectacular\u201d image of Earth",
-      "score": 661,
+      "score": 822,
       "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
       "time": "2026-04-03T19:35:02"
-    },
-    {
-      "title": "Delve removed from Y Combinator",
-      "score": 214,
-      "url": "https://www.ycombinator.com/companies/delve",
-      "time": "2026-04-04T01:37:02"
-    },
-    {
-      "title": "iNaturalist",
-      "score": 388,
-      "url": "https://www.inaturalist.org/",
-      "time": "2026-04-03T17:22:20"
-    },
-    {
-      "title": "OpenClaw privilege escalation vulnerability",
-      "score": 326,
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-      "time": "2026-04-03T16:21:32"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244379,
+      "stars": 244385,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195778,
+      "stars": 195781,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148114,
+      "stars": 148111,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138605,
+      "stars": 138611,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 136497,
+      "stars": 136908,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     }
   ],
-  "last_updated": "2026-04-04T06:46:48.585651+00:00"
+  "last_updated": "2026-04-04T12:31:39.682649+00:00"
 }
