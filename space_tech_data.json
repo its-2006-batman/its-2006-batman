@@ -14,81 +14,75 @@
     "url": "https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "24.62\u00b0N",
-    "longitude": "3.37\u00b0W",
-    "timestamp": "2026-04-03T18:33:18+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "score": 200,
+      "url": "https://news.ycombinator.com/item?id=47633396",
+      "time": "2026-04-03T22:55:24"
+    },
+    {
+      "title": "Artemis II crew take \u201cspectacular\u201d image of Earth",
+      "score": 475,
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+      "time": "2026-04-03T19:35:02"
+    },
+    {
+      "title": "Show HN: TinyOS \u2013 A minimalist RTOS for Cortex-M written in C",
+      "score": 67,
+      "url": "https://github.com/cmc-labo/tinyos-rtos",
+      "time": "2026-04-03T21:46:26"
+    },
+    {
       "title": "iNaturalist",
-      "score": 94,
+      "score": 322,
       "url": "https://www.inaturalist.org/",
       "time": "2026-04-03T17:22:20"
     },
     {
-      "title": "Show HN: I built a frontpage for personal blogs",
-      "score": 463,
-      "url": "https://text.blogosphere.app/",
-      "time": "2026-04-03T12:33:45"
-    },
-    {
-      "title": "Why the heck are we still using Markdown?",
-      "score": 21,
-      "url": "https://bgslabs.org/blog/why-are-we-using-markdown/",
-      "time": "2026-04-03T18:03:10"
-    },
-    {
-      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-      "score": 44,
-      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-      "time": "2026-04-02T18:24:29"
-    },
-    {
-      "title": "Go on Embedded Systems and WebAssembly",
-      "score": 23,
-      "url": "https://tinygo.org/",
-      "time": "2026-04-03T16:57:09"
+      "title": "The FAA\u2019s flight restriction for drones is an attempt to criminalize filming ICE",
+      "score": 104,
+      "url": "https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice",
+      "time": "2026-04-03T23:56:32"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244376,
+      "stars": 244375,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195779,
+      "stars": 195775,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148115,
+      "stars": 148114,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138603,
+      "stars": 138601,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 135818,
+      "stars": 136133,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     }
   ],
-  "last_updated": "2026-04-03T18:33:15.582897+00:00"
+  "last_updated": "2026-04-04T01:13:01.212242+00:00"
 }

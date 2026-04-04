@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  24.62°N                                       ║
-║  📍 LONGITUDE: 3.37°W                                        ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-04-03 18:33 UTC                   ║
+║  📍 LATITUDE:  N/A                                           ║
+║  📍 LONGITUDE: N/A                                           ║
+║  ⚡ VELOCITY:  N/A                                           ║
+║  🌍 ALTITUDE:  N/A                                           ║
+║  ⏰ UPDATE: 2026-04-04 01:13 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **iNaturalist** (94 ⭐)
-2. **Show HN: I built a frontpage for personal blogs** (463 ⭐)
-3. **Why the heck are we still using Markdown?** (21 ⭐)
+1. **Tell HN: Anthropic no longer allowing Claude Code subscripti...** (200 ⭐)
+2. **Artemis II crew take “spectacular” image of Earth** (475 ⭐)
+3. **Show HN: TinyOS – A minimalist RTOS for Cortex-M written in ...** (67 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (244376★)
-2. **trekhleb/javascript-algorithms** (195779★)
-3. **airbnb/javascript** (148115★)
+1. **facebook/react** (244375★)
+2. **trekhleb/javascript-algorithms** (195775★)
+3. **airbnb/javascript** (148114★)
 <!-- LIVE_DATA_END -->
