@@ -8,47 +8,47 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Hello World",
-    "date": "2026-04-04",
-    "explanation": "From pole to pole our fair planet is captured in this snapshot from space, an evocative image from a window of the Orion spacecraft Integrity. From the spacecraft's perspective the Sun is moving behind Earth's bright limb along the lower right. Africa and the Iberian peninsula are in view on the pal...",
-    "url": "https://apod.nasa.gov/apod/image/2604/art002e000192_1050.jpg",
+    "title": "NGC 3310: A Starburst Spiral Galaxy",
+    "date": "2026-04-05",
+    "explanation": "The party is still going on in spiral galaxy NGC 3310.  Roughly 100 million years ago, NGC 3310 likely collided with a smaller galaxy causing the large spiral galaxy to light up with a tremendous burst of star formation.  The changing gravity during the collision created density waves that compresse...",
+    "url": "https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "47.35\u00b0N",
-    "longitude": "151.18\u00b0W",
-    "timestamp": "2026-04-05T01:21:53+00:00",
+    "latitude": "30.72\u00b0S",
+    "longitude": "24.48\u00b0W",
+    "timestamp": "2026-04-05T06:54:37+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Introduction to Computer Music (2009) [pdf]",
+      "score": 121,
+      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
+      "time": "2026-04-05T01:54:29"
+    },
+    {
       "title": "Show HN: A game where you build a GPU",
-      "score": 494,
+      "score": 636,
       "url": "https://jaso1024.com/mvidia/",
       "time": "2026-04-04T16:45:54"
     },
     {
-      "title": "Shooting down ideas is not a skill",
-      "score": 51,
-      "url": "https://scottlawsonbc.com/post/shooting-down-ideas",
-      "time": "2026-04-05T00:42:42"
+      "title": "GabeN Is Shitting Yacht Money into Flatpak and You're Still Arguing Init Systems",
+      "score": 5,
+      "url": "https://s3kshun8.games/blog/flatpak-won/",
+      "time": "2026-04-05T06:29:54"
     },
     {
       "title": "OpenScreen is an open-source alternative to Screen Studio",
-      "score": 84,
+      "score": 208,
       "url": "https://github.com/siddharthvaddem/openscreen",
       "time": "2026-04-01T01:31:46"
     },
     {
-      "title": "How many products does Microsoft have named 'Copilot'?",
-      "score": 397,
-      "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
-      "time": "2026-04-04T19:39:43"
-    },
-    {
       "title": "LLM Wiki \u2013 example of an \"idea file\"",
-      "score": 52,
+      "score": 145,
       "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
       "time": "2026-04-04T16:57:45"
     }
@@ -57,7 +57,7 @@
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244402,
+      "stars": 244405,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -78,17 +78,17 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138625,
+      "stars": 138629,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 137929,
+      "stars": 138441,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     }
   ],
-  "last_updated": "2026-04-05T01:21:53.460020+00:00"
+  "last_updated": "2026-04-05T06:54:36.731640+00:00"
 }
