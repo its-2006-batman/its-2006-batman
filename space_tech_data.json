@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "41.73\u00b0S",
-    "longitude": "148.68\u00b0E",
-    "timestamp": "2026-04-04T18:26:47+00:00",
+    "latitude": "47.35\u00b0N",
+    "longitude": "151.18\u00b0W",
+    "timestamp": "2026-04-05T01:21:53+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Show HN: A game where you build a GPU",
-      "score": 137,
+      "score": 494,
       "url": "https://jaso1024.com/mvidia/",
       "time": "2026-04-04T16:45:54"
     },
     {
-      "title": "Scientists capture how cells trigger inflammation",
-      "score": 16,
-      "url": "https://news.stanford.edu/stories/2026/03/immune-response-inside-cells-inflammation-research",
-      "time": "2026-04-04T17:52:55"
+      "title": "Shooting down ideas is not a skill",
+      "score": 51,
+      "url": "https://scottlawsonbc.com/post/shooting-down-ideas",
+      "time": "2026-04-05T00:42:42"
     },
     {
-      "title": "Simple self-distillation improves code generation",
-      "score": 377,
-      "url": "https://arxiv.org/abs/2604.01193",
-      "time": "2026-04-04T10:26:21"
+      "title": "OpenScreen is an open-source alternative to Screen Studio",
+      "score": 84,
+      "url": "https://github.com/siddharthvaddem/openscreen",
+      "time": "2026-04-01T01:31:46"
     },
     {
-      "title": "Show HN: TurboQuant-WASM \u2013 Google's vector quantization in the browser",
-      "score": 61,
-      "url": "https://github.com/teamchong/turboquant-wasm",
-      "time": "2026-04-04T14:53:16"
+      "title": "How many products does Microsoft have named 'Copilot'?",
+      "score": 397,
+      "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+      "time": "2026-04-04T19:39:43"
     },
     {
-      "title": "Apple approves driver that lets Nvidia eGPUs work with Arm Macs",
-      "score": 104,
-      "url": "https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs",
-      "time": "2026-04-04T16:16:10"
+      "title": "LLM Wiki \u2013 example of an \"idea file\"",
+      "score": 52,
+      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+      "time": "2026-04-04T16:57:45"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244395,
+      "stars": 244402,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195773,
+      "stars": 195775,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148109,
+      "stars": 148106,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138618,
+      "stars": 138625,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 137448,
+      "stars": 137929,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     }
   ],
-  "last_updated": "2026-04-04T18:26:45.394684+00:00"
+  "last_updated": "2026-04-05T01:21:53.460020+00:00"
 }
