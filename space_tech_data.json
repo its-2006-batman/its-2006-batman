@@ -7,88 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "NGC 3310: A Starburst Spiral Galaxy",
-    "date": "2026-04-05",
-    "explanation": "The party is still going on in spiral galaxy NGC 3310.  Roughly 100 million years ago, NGC 3310 likely collided with a smaller galaxy causing the large spiral galaxy to light up with a tremendous burst of star formation.  The changing gravity during the collision created density waves that compresse...",
-    "url": "https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "30.72\u00b0S",
-    "longitude": "24.48\u00b0W",
-    "timestamp": "2026-04-05T06:54:37+00:00",
+    "latitude": "8.91\u00b0S",
+    "longitude": "104.69\u00b0E",
+    "timestamp": "2026-04-05T12:33:15+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Introduction to Computer Music (2009) [pdf]",
-      "score": 121,
-      "url": "https://composerprogrammer.com/introductiontocomputermusic.pdf",
-      "time": "2026-04-05T01:54:29"
+      "title": "The threat is comfortable drift toward not understanding what you're doing",
+      "score": 100,
+      "url": "https://ergosphere.blog/posts/the-machines-are-fine/",
+      "time": "2026-04-05T09:57:25"
+    },
+    {
+      "title": "Talk like caveman",
+      "score": 150,
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "time": "2026-04-05T08:56:18"
+    },
+    {
+      "title": "Lisette a little language inspired by Rust that compiles to Go",
+      "score": 115,
+      "url": "https://lisette.run/",
+      "time": "2026-04-05T06:57:19"
     },
     {
       "title": "Show HN: A game where you build a GPU",
-      "score": 636,
+      "score": 803,
       "url": "https://jaso1024.com/mvidia/",
       "time": "2026-04-04T16:45:54"
     },
     {
-      "title": "GabeN Is Shitting Yacht Money into Flatpak and You're Still Arguing Init Systems",
-      "score": 5,
-      "url": "https://s3kshun8.games/blog/flatpak-won/",
-      "time": "2026-04-05T06:29:54"
-    },
-    {
-      "title": "OpenScreen is an open-source alternative to Screen Studio",
-      "score": 208,
-      "url": "https://github.com/siddharthvaddem/openscreen",
-      "time": "2026-04-01T01:31:46"
-    },
-    {
-      "title": "LLM Wiki \u2013 example of an \"idea file\"",
-      "score": 145,
-      "url": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
-      "time": "2026-04-04T16:57:45"
+      "title": "Ubuntu now requires more RAM than Windows 11",
+      "score": 31,
+      "url": "https://www.howtogeek.com/ubuntu-now-requires-more-ram-than-windows-11/",
+      "time": "2026-04-05T11:57:25"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244405,
+      "stars": 244411,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195775,
+      "stars": 195773,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148106,
+      "stars": 148105,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
-      "name": "vercel/next.js",
-      "description": "The React Framework",
-      "stars": 138629,
-      "language": "JavaScript",
-      "url": "https://github.com/vercel/next.js"
-    },
-    {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 138441,
+      "stars": 139093,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
+    },
+    {
+      "name": "vercel/next.js",
+      "description": "The React Framework",
+      "stars": 138639,
+      "language": "JavaScript",
+      "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-05T06:54:36.731640+00:00"
+  "last_updated": "2026-04-05T12:33:04.377102+00:00"
 }
