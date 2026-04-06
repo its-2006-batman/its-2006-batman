@@ -8,87 +8,87 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "NGC 3310: A Starburst Spiral Galaxy",
-    "date": "2026-04-05",
-    "explanation": "The party is still going on in spiral galaxy NGC 3310.  Roughly 100 million years ago, NGC 3310 likely collided with a smaller galaxy causing the large spiral galaxy to light up with a tremendous burst of star formation.  The changing gravity during the collision created density waves that compresse...",
-    "url": "https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg",
-    "media_type": "image"
+    "title": "The Path of Artemis II",
+    "date": "2026-04-06",
+    "explanation": "Why doesn't Artemis II land on the Moon? The main reason is that Artemis II is primarily a test mission designed to make a future Artemis missions -- which will land humans on the Moon -- better prepared.  Similarly, NASA's Apollo 8 and Apollo 10 went right near the Moon as tests before Apollo 11 --...",
+    "url": "https://apod.nasa.gov/apod/image/2604/Artemis2Path_NasaSvs.mp4",
+    "media_type": "video"
   },
   "iss_position": {
-    "latitude": "47.26\u00b0S",
-    "longitude": "23.13\u00b0E",
-    "timestamp": "2026-04-06T01:22:08+00:00",
+    "latitude": "33.90\u00b0S",
+    "longitude": "155.85\u00b0W",
+    "timestamp": "2026-04-06T07:16:59+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "In Japan, the robot isn't coming for your job; it's filling the one nobody wants",
-      "score": 101,
-      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-      "time": "2026-04-05T22:31:16"
+      "title": "SideX \u2013 A Tauri-based port of Visual Studio Code",
+      "score": 28,
+      "url": "https://github.com/Sidenai/sidex",
+      "time": "2026-04-06T06:49:42"
+    },
+    {
+      "title": "Show HN: I built a tiny LLM to demystify how language models work",
+      "score": 330,
+      "url": "https://github.com/arman-bd/guppylm",
+      "time": "2026-04-06T00:20:12"
     },
     {
       "title": "Gemma 4 on iPhone",
-      "score": 402,
+      "score": 567,
       "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
       "time": "2026-04-05T18:45:53"
     },
     {
-      "title": "Show HN: YouTube search barely works, I made a search form with advanced filters",
-      "score": 16,
+      "title": "Show HN: I made a YouTube search form with advanced filters",
+      "score": 197,
       "url": "https://playlists.at/youtube/search/",
       "time": "2026-04-06T00:18:26"
     },
     {
-      "title": "L\u00d6VE: 2D Game Framework for Lua",
-      "score": 196,
-      "url": "https://github.com/love2d/love",
-      "time": "2026-04-04T09:20:34"
-    },
-    {
-      "title": "Artemis II crew see first glimpse of far side of Moon [video]",
-      "score": 401,
-      "url": "https://www.bbc.com/news/videos/ce3d5gkd2geo",
-      "time": "2026-04-05T14:18:12"
+      "title": "An open-source 240-antenna array to bounce signals off the Moon",
+      "score": 60,
+      "url": "https://moonrf.com/",
+      "time": "2026-04-06T03:22:42"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244421,
+      "stars": 244431,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195773,
+      "stars": 195776,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148106,
+      "stars": 148104,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 140542,
+      "stars": 141090,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138646,
+      "stars": 138652,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-06T01:22:07.709203+00:00"
+  "last_updated": "2026-04-06T07:16:57.800218+00:00"
 }

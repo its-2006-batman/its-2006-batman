@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  47.26°S                                       ║
-║  📍 LONGITUDE: 23.13°E                                       ║
+║  📍 LATITUDE:  33.90°S                                       ║
+║  📍 LONGITUDE: 155.85°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-04-06 01:22 UTC                   ║
+║  ⏰ UPDATE: 2026-04-06 07:17 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: NGC 3310: A Starburst Spiral Galaxy                      ║
-║  DATE:  2026-04-05                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: The Path of Artemis II                                   ║
+║  DATE:  2026-04-06                                                ║
+║  TYPE:  video                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **In Japan, the robot isn't coming for your job; it's filling ...** (101 ⭐)
-2. **Gemma 4 on iPhone** (402 ⭐)
-3. **Show HN: YouTube search barely works, I made a search form w...** (16 ⭐)
+1. **SideX – A Tauri-based port of Visual Studio Code** (28 ⭐)
+2. **Show HN: I built a tiny LLM to demystify how language models...** (330 ⭐)
+3. **Gemma 4 on iPhone** (567 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (244421★)
-2. **trekhleb/javascript-algorithms** (195773★)
-3. **airbnb/javascript** (148106★)
+1. **facebook/react** (244431★)
+2. **trekhleb/javascript-algorithms** (195776★)
+3. **airbnb/javascript** (148104★)
 <!-- LIVE_DATA_END -->
