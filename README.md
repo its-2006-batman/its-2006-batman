@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  42.16°N                                       ║
-║  📍 LONGITUDE: 45.70°W                                       ║
+║  📍 LATITUDE:  1.31°S                                        ║
+║  📍 LONGITUDE: 176.95°E                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-04-06 12:45 UTC                   ║
+║  ⏰ UPDATE: 2026-04-06 18:41 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: The Path of Artemis II                                   ║
+║  DATE:  2026-04-06                                                ║
+║  TYPE:  video                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Age Verification as Mass Surveillance Infrastructure** (229 ⭐)
-2. **Show HN: I built a tiny LLM to demystify how language models...** (594 ⭐)
-3. **France pulls last gold held in US for $15B gain** (245 ⭐)
+1. **Battle for Wesnoth: open-source, turn-based strategy game** (61 ⭐)
+2. **Launch HN: Freestyle: Sandboxes for AI Coding Agents** (83 ⭐)
+3. **Germany Doxes "UNKN," Head of RU Ransomware Gangs REvil, Gan...** (186 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (244432★)
-2. **trekhleb/javascript-algorithms** (195777★)
-3. **airbnb/javascript** (148107★)
+1. **facebook/react** (244434★)
+2. **trekhleb/javascript-algorithms** (195780★)
+3. **airbnb/javascript** (148105★)
 <!-- LIVE_DATA_END -->
