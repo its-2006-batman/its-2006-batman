@@ -7,88 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "The Path of Artemis II",
-    "date": "2026-04-06",
-    "explanation": "Why doesn't Artemis II land on the Moon? The main reason is that Artemis II is primarily a test mission designed to make a future Artemis missions -- which will land humans on the Moon -- better prepared.  Similarly, NASA's Apollo 8 and Apollo 10 went right near the Moon as tests before Apollo 11 --...",
-    "url": "https://apod.nasa.gov/apod/image/2604/Artemis2Path_NasaSvs.mp4",
-    "media_type": "video"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "33.90\u00b0S",
-    "longitude": "155.85\u00b0W",
-    "timestamp": "2026-04-06T07:16:59+00:00",
+    "latitude": "42.16\u00b0N",
+    "longitude": "45.70\u00b0W",
+    "timestamp": "2026-04-06T12:45:41+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "SideX \u2013 A Tauri-based port of Visual Studio Code",
-      "score": 28,
-      "url": "https://github.com/Sidenai/sidex",
-      "time": "2026-04-06T06:49:42"
+      "title": "Age Verification as Mass Surveillance Infrastructure",
+      "score": 229,
+      "url": "https://tboteproject.com/surveillancefindings/",
+      "time": "2026-04-06T10:33:02"
     },
     {
       "title": "Show HN: I built a tiny LLM to demystify how language models work",
-      "score": 330,
+      "score": 594,
       "url": "https://github.com/arman-bd/guppylm",
       "time": "2026-04-06T00:20:12"
     },
     {
+      "title": "France pulls last gold held in US for $15B gain",
+      "score": 245,
+      "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+      "time": "2026-04-06T08:03:43"
+    },
+    {
       "title": "Gemma 4 on iPhone",
-      "score": 567,
+      "score": 698,
       "url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
       "time": "2026-04-05T18:45:53"
     },
     {
-      "title": "Show HN: I made a YouTube search form with advanced filters",
-      "score": 197,
-      "url": "https://playlists.at/youtube/search/",
-      "time": "2026-04-06T00:18:26"
-    },
-    {
-      "title": "An open-source 240-antenna array to bounce signals off the Moon",
-      "score": 60,
-      "url": "https://moonrf.com/",
-      "time": "2026-04-06T03:22:42"
+      "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+      "score": 557,
+      "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+      "time": "2026-04-05T17:27:41"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244431,
+      "stars": 244432,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195776,
+      "stars": 195777,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148104,
+      "stars": 148107,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 141090,
+      "stars": 141694,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138652,
+      "stars": 138667,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-06T07:16:57.800218+00:00"
+  "last_updated": "2026-04-06T12:45:31.125640+00:00"
 }

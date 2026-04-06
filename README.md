@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  33.90°S                                       ║
-║  📍 LONGITUDE: 155.85°W                                      ║
+║  📍 LATITUDE:  42.16°N                                       ║
+║  📍 LONGITUDE: 45.70°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-04-06 07:17 UTC                   ║
+║  ⏰ UPDATE: 2026-04-06 12:45 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: The Path of Artemis II                                   ║
-║  DATE:  2026-04-06                                                ║
-║  TYPE:  video                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **SideX – A Tauri-based port of Visual Studio Code** (28 ⭐)
-2. **Show HN: I built a tiny LLM to demystify how language models...** (330 ⭐)
-3. **Gemma 4 on iPhone** (567 ⭐)
+1. **Age Verification as Mass Surveillance Infrastructure** (229 ⭐)
+2. **Show HN: I built a tiny LLM to demystify how language models...** (594 ⭐)
+3. **France pulls last gold held in US for $15B gain** (245 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (244431★)
-2. **trekhleb/javascript-algorithms** (195776★)
-3. **airbnb/javascript** (148104★)
+1. **facebook/react** (244432★)
+2. **trekhleb/javascript-algorithms** (195777★)
+3. **airbnb/javascript** (148107★)
 <!-- LIVE_DATA_END -->
