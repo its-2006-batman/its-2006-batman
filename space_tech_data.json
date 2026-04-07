@@ -7,88 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "IC 4592: The Blue Horsehead Reflection Nebula",
-    "date": "2026-04-07",
-    "explanation": "Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are mad...",
-    "url": "https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "4.25\u00b0S",
-    "longitude": "14.03\u00b0W",
-    "timestamp": "2026-04-07T07:04:03+00:00",
+    "latitude": "51.04\u00b0S",
+    "longitude": "178.42\u00b0W",
+    "timestamp": "2026-04-07T12:55:44+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "My Experience as a Rice Farmer",
-      "score": 21,
-      "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
-      "time": "2026-04-02T13:53:55"
+      "title": "Are We Idiocracy Yet?",
+      "score": 476,
+      "url": "https://idiocracy.wtf/",
+      "time": "2026-04-07T09:57:39"
     },
     {
-      "title": "Show HN: Ghost Pepper \u2013 Local hold-to-talk speech-to-text for macOS",
-      "score": 345,
-      "url": "https://github.com/matthartman/ghost-pepper",
-      "time": "2026-04-06T19:50:16"
+      "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+      "score": 100,
+      "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+      "time": "2026-04-07T10:25:12"
     },
     {
-      "title": "Solod \u2013 A subset of Go that translates to C",
-      "score": 99,
-      "url": "https://github.com/solod-dev/solod",
-      "time": "2026-04-07T00:48:01"
+      "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+      "score": 53,
+      "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
+      "time": "2026-04-07T11:07:44"
     },
     {
-      "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
-      "score": 255,
-      "url": "https://www.freestyle.sh/",
-      "time": "2026-04-06T16:32:11"
+      "title": "LLM may be standardizing human expression \u2013 and subtly influencing how we think",
+      "score": 71,
+      "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
+      "time": "2026-04-07T11:29:02"
     },
     {
-      "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-      "score": 974,
-      "url": "https://github.com/anthropics/claude-code/issues/42796",
-      "time": "2026-04-06T13:50:35"
+      "title": "Show HN: A cartographer's attempt to realistically map Tolkien's world",
+      "score": 18,
+      "url": "https://www.intofarlands.com/atlasofarda",
+      "time": "2026-04-07T12:12:15"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244446,
+      "stars": 244451,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195788,
+      "stars": 195786,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148106,
+      "stars": 148107,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 143397,
+      "stars": 144051,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138689,
+      "stars": 138702,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-07T07:04:02.490258+00:00"
+  "last_updated": "2026-04-07T12:55:34.490451+00:00"
 }
