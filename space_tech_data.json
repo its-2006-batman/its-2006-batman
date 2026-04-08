@@ -9,49 +9,80 @@
   },
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "0.76\u00b0S",
-    "longitude": "163.56\u00b0E",
-    "timestamp": "2026-04-08T07:05:49+00:00",
+    "latitude": "50.77\u00b0N",
+    "longitude": "2.07\u00b0W",
+    "timestamp": "2026-04-08T12:56:16+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
-  "tech_headlines": [],
+  "tech_headlines": [
+    {
+      "title": "Git commands I run before reading any code",
+      "score": 450,
+      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
+      "time": "2026-04-08T08:53:42"
+    },
+    {
+      "title": "Veracrypt project update",
+      "score": 493,
+      "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+      "time": "2026-04-08T07:23:39"
+    },
+    {
+      "title": "I've sold out",
+      "score": 154,
+      "url": "https://mariozechner.at/posts/2026-04-08-ive-sold-out/",
+      "time": "2026-04-08T09:21:38"
+    },
+    {
+      "title": "Revision Demoparty 2026: Razor1911 [video]",
+      "score": 233,
+      "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
+      "time": "2026-04-08T05:34:08"
+    },
+    {
+      "title": "Project Glasswing: Securing critical software for the AI era",
+      "score": 1351,
+      "url": "https://www.anthropic.com/glasswing",
+      "time": "2026-04-07T18:09:34"
+    }
+  ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244484,
+      "stars": 244499,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195793,
+      "stars": 195799,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148108,
+      "stars": 148107,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 145384,
+      "stars": 146058,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138733,
+      "stars": 138746,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-08T07:05:49.393963+00:00"
+  "last_updated": "2026-04-08T12:56:16.088562+00:00"
 }
