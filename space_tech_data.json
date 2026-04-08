@@ -9,42 +9,42 @@
   },
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "50.77\u00b0N",
-    "longitude": "2.07\u00b0W",
-    "timestamp": "2026-04-08T12:56:16+00:00",
+    "latitude": "49.58\u00b0N",
+    "longitude": "130.59\u00b0W",
+    "timestamp": "2026-04-08T19:02:05+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "I Ported Mac OS X to the Nintendo Wii",
+      "score": 594,
+      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+      "time": "2026-04-08T15:40:00"
+    },
+    {
+      "title": "One item purchased, Ten emails",
+      "score": 64,
+      "url": "https://joshghent.com/online-shopping/",
+      "time": "2026-04-08T18:13:22"
+    },
+    {
       "title": "Git commands I run before reading any code",
-      "score": 450,
+      "score": 1339,
       "url": "https://piechowski.io/post/git-commands-before-reading-code/",
       "time": "2026-04-08T08:53:42"
     },
     {
-      "title": "Veracrypt project update",
-      "score": 493,
-      "url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-      "time": "2026-04-08T07:23:39"
+      "title": "Understanding the Kalman Filter with a Simple Radar Example",
+      "score": 51,
+      "url": "https://kalmanfilter.net",
+      "time": "2026-04-08T17:11:46"
     },
     {
-      "title": "I've sold out",
-      "score": 154,
-      "url": "https://mariozechner.at/posts/2026-04-08-ive-sold-out/",
-      "time": "2026-04-08T09:21:38"
-    },
-    {
-      "title": "Revision Demoparty 2026: Razor1911 [video]",
-      "score": 233,
-      "url": "https://www.youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
-      "time": "2026-04-08T05:34:08"
-    },
-    {
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "score": 1351,
-      "url": "https://www.anthropic.com/glasswing",
-      "time": "2026-04-07T18:09:34"
+      "title": "Muse Spark: Scaling Towards Personal Superintelligence",
+      "score": 122,
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+      "time": "2026-04-08T16:01:32"
     }
   ],
   "github_trending": [
@@ -58,31 +58,31 @@
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195799,
+      "stars": 195798,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148107,
+      "stars": 148105,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 146058,
+      "stars": 146592,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138746,
+      "stars": 138750,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-08T12:56:16.088562+00:00"
+  "last_updated": "2026-04-08T19:02:03.990460+00:00"
 }
