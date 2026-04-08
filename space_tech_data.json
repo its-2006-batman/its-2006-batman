@@ -7,88 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "IC 4592: The Blue Horsehead Reflection Nebula",
-    "date": "2026-04-07",
-    "explanation": "Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are mad...",
-    "url": "https://apod.nasa.gov/apod/image/2604/BlueHorse_Alkuwari_960.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "12.66\u00b0S",
-    "longitude": "1.10\u00b0E",
-    "timestamp": "2026-04-07T18:46:28+00:00",
+    "latitude": "49.37\u00b0S",
+    "longitude": "3.20\u00b0E",
+    "timestamp": "2026-04-08T01:20:54+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Project Glasswing: Securing critical software for the AI era",
-      "score": 108,
+      "score": 874,
       "url": "https://www.anthropic.com/glasswing",
       "time": "2026-04-07T18:09:34"
     },
     {
+      "title": "Lunar Flyby",
+      "score": 340,
+      "url": "https://www.nasa.gov/gallery/lunar-flyby/",
+      "time": "2026-04-07T15:03:18"
+    },
+    {
+      "title": "US and Iran agree to provisional ceasefire",
+      "score": 121,
+      "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+      "time": "2026-04-07T22:41:02"
+    },
+    {
       "title": "System Card: Claude Mythos Preview [pdf]",
-      "score": 78,
+      "score": 526,
       "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
       "time": "2026-04-07T18:18:36"
     },
     {
       "title": "GLM-5.1: Towards Long-Horizon Tasks",
-      "score": 209,
+      "score": 407,
       "url": "https://z.ai/blog/glm-5.1",
       "time": "2026-04-07T16:32:15"
-    },
-    {
-      "title": "Cambodia unveils a statue of famous landmine-sniffing rat Magawa",
-      "score": 88,
-      "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo",
-      "time": "2026-04-07T17:23:43"
-    },
-    {
-      "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
-      "score": 23,
-      "url": "https://red.anthropic.com/2026/mythos-preview/",
-      "time": "2026-04-07T18:11:31"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244465,
+      "stars": 244473,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195790,
+      "stars": 195794,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148108,
+      "stars": 148110,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 144519,
+      "stars": 144830,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138713,
+      "stars": 138729,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-07T18:46:25.447064+00:00"
+  "last_updated": "2026-04-08T01:20:44.575241+00:00"
 }
