@@ -9,80 +9,49 @@
   },
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "49.37\u00b0S",
-    "longitude": "3.20\u00b0E",
-    "timestamp": "2026-04-08T01:20:54+00:00",
+    "latitude": "0.76\u00b0S",
+    "longitude": "163.56\u00b0E",
+    "timestamp": "2026-04-08T07:05:49+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
-  "tech_headlines": [
-    {
-      "title": "Project Glasswing: Securing critical software for the AI era",
-      "score": 874,
-      "url": "https://www.anthropic.com/glasswing",
-      "time": "2026-04-07T18:09:34"
-    },
-    {
-      "title": "Lunar Flyby",
-      "score": 340,
-      "url": "https://www.nasa.gov/gallery/lunar-flyby/",
-      "time": "2026-04-07T15:03:18"
-    },
-    {
-      "title": "US and Iran agree to provisional ceasefire",
-      "score": 121,
-      "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
-      "time": "2026-04-07T22:41:02"
-    },
-    {
-      "title": "System Card: Claude Mythos Preview [pdf]",
-      "score": 526,
-      "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-      "time": "2026-04-07T18:18:36"
-    },
-    {
-      "title": "GLM-5.1: Towards Long-Horizon Tasks",
-      "score": 407,
-      "url": "https://z.ai/blog/glm-5.1",
-      "time": "2026-04-07T16:32:15"
-    }
-  ],
+  "tech_headlines": [],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244473,
+      "stars": 244484,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195794,
+      "stars": 195793,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148110,
+      "stars": 148108,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 144830,
+      "stars": 145384,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138729,
+      "stars": 138733,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-08T01:20:44.575241+00:00"
+  "last_updated": "2026-04-08T07:05:49.393963+00:00"
 }
