@@ -7,82 +7,88 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "Destruction of Comet C/2026 A1 (MAPS)",
+    "date": "2026-04-09",
+    "explanation": "As the crew of Artemis II travelled towards the Moon this week, Comet C/2026 A1 (MAPS) was expected to have its closest approach to the Sun on Monday. At this point, comet and Sun would be closer than half the distance separating the Earth and Moon. The comet did not survive; the featured video was ...",
+    "url": "https://apod.nasa.gov/apod/image/2604/comet_plunge.mp4",
+    "media_type": "video"
+  },
   "iss_position": {
-    "latitude": "45.56\u00b0N",
-    "longitude": "121.08\u00b0E",
-    "timestamp": "2026-04-09T01:11:00+00:00",
+    "latitude": "12.05\u00b0N",
+    "longitude": "14.22\u00b0W",
+    "timestamp": "2026-04-09T07:09:42+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "I ported Mac OS X to the Nintendo Wii",
-      "score": 1218,
-      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "time": "2026-04-08T15:40:00"
-    },
-    {
       "title": "LittleSnitch for Linux",
-      "score": 44,
+      "score": 526,
       "url": "https://obdev.at/products/littlesnitch-linux/index.html",
       "time": "2026-04-09T00:26:08"
     },
     {
-      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
-      "score": 173,
-      "url": "https://werwolv.net/posts/usb_for_sw_devs/",
-      "time": "2026-04-08T19:23:34"
+      "title": "Open Source Security at Astral",
+      "score": 114,
+      "url": "https://astral.sh/blog/open-source-security-at-astral",
+      "time": "2026-04-09T04:11:55"
     },
     {
-      "title": "Git commands I run before reading any code",
-      "score": 1782,
-      "url": "https://piechowski.io/post/git-commands-before-reading-code/",
-      "time": "2026-04-08T08:53:42"
+      "title": "I ported Mac OS X to the Nintendo Wii",
+      "score": 1473,
+      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
+      "time": "2026-04-08T15:40:00"
     },
     {
-      "title": "Understanding the Kalman filter with a simple radar example",
-      "score": 209,
-      "url": "https://kalmanfilter.net",
-      "time": "2026-04-08T17:11:46"
+      "title": "The Importance of Being Idle",
+      "score": 134,
+      "url": "https://theamericanscholar.org/the-importance-of-being-idle/",
+      "time": "2026-04-06T20:33:03"
+    },
+    {
+      "title": "Process Manager for Autonomous AI Agents",
+      "score": 7,
+      "url": "https://botctl.dev/",
+      "time": "2026-04-09T06:00:55"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244502,
+      "stars": 244483,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195795,
+      "stars": 195794,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148106,
+      "stars": 148107,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 146908,
+      "stars": 147480,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138758,
+      "stars": 138763,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-09T01:10:59.773951+00:00"
+  "last_updated": "2026-04-09T07:09:42.415064+00:00"
 }
