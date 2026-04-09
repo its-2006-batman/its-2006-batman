@@ -9,80 +9,80 @@
   },
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "49.58\u00b0N",
-    "longitude": "130.59\u00b0W",
-    "timestamp": "2026-04-08T19:02:05+00:00",
+    "latitude": "45.56\u00b0N",
+    "longitude": "121.08\u00b0E",
+    "timestamp": "2026-04-09T01:11:00+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "I Ported Mac OS X to the Nintendo Wii",
-      "score": 594,
+      "title": "I ported Mac OS X to the Nintendo Wii",
+      "score": 1218,
       "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
       "time": "2026-04-08T15:40:00"
     },
     {
-      "title": "One item purchased, Ten emails",
-      "score": 64,
-      "url": "https://joshghent.com/online-shopping/",
-      "time": "2026-04-08T18:13:22"
+      "title": "LittleSnitch for Linux",
+      "score": 44,
+      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
+      "time": "2026-04-09T00:26:08"
+    },
+    {
+      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
+      "score": 173,
+      "url": "https://werwolv.net/posts/usb_for_sw_devs/",
+      "time": "2026-04-08T19:23:34"
     },
     {
       "title": "Git commands I run before reading any code",
-      "score": 1339,
+      "score": 1782,
       "url": "https://piechowski.io/post/git-commands-before-reading-code/",
       "time": "2026-04-08T08:53:42"
     },
     {
-      "title": "Understanding the Kalman Filter with a Simple Radar Example",
-      "score": 51,
+      "title": "Understanding the Kalman filter with a simple radar example",
+      "score": 209,
       "url": "https://kalmanfilter.net",
       "time": "2026-04-08T17:11:46"
-    },
-    {
-      "title": "Muse Spark: Scaling Towards Personal Superintelligence",
-      "score": 122,
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-      "time": "2026-04-08T16:01:32"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244499,
+      "stars": 244502,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195798,
+      "stars": 195795,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148105,
+      "stars": 148106,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 146592,
+      "stars": 146908,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138750,
+      "stars": 138758,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-08T19:02:03.990460+00:00"
+  "last_updated": "2026-04-09T01:10:59.773951+00:00"
 }
