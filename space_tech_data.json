@@ -7,88 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "Destruction of Comet C/2026 A1 (MAPS)",
-    "date": "2026-04-09",
-    "explanation": "As the crew of Artemis II travelled towards the Moon this week, Comet C/2026 A1 (MAPS) was expected to have its closest approach to the Sun on Monday. At this point, comet and Sun would be closer than half the distance separating the Earth and Moon. The comet did not survive; the featured video was ...",
-    "url": "https://apod.nasa.gov/apod/image/2604/comet_plunge.mp4",
-    "media_type": "video"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "49.14\u00b0S",
-    "longitude": "178.79\u00b0W",
-    "timestamp": "2026-04-09T12:58:04+00:00",
+    "latitude": "18.52\u00b0S",
+    "longitude": "6.20\u00b0W",
+    "timestamp": "2026-04-09T18:48:43+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "LittleSnitch for Linux",
-      "score": 914,
-      "url": "https://obdev.at/products/littlesnitch-linux/index.html",
-      "time": "2026-04-09T00:26:08"
+      "title": "EFF is leaving X",
+      "score": 466,
+      "url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
+      "time": "2026-04-09T17:08:04"
     },
     {
-      "title": "Show HN: CSS Studio. Design by hand, code by agent",
-      "score": 32,
-      "url": "https://cssstudio.ai",
-      "time": "2026-04-09T11:23:31"
+      "title": "Show HN: I built a Cargo-like build tool for C/C++",
+      "score": 56,
+      "url": "https://github.com/randerson112/craft",
+      "time": "2026-04-09T16:04:54"
     },
     {
-      "title": "I ported Mac OS X to the Nintendo Wii",
-      "score": 1683,
-      "url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-      "time": "2026-04-08T15:40:00"
+      "title": "Research-Driven Agents: What Happens When Your Agent Reads Before It Codes",
+      "score": 27,
+      "url": "https://blog.skypilot.co/research-driven-agents/",
+      "time": "2026-04-09T16:58:49"
     },
     {
-      "title": "Help Keep Thunderbird Alive",
-      "score": 205,
-      "url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
-      "time": "2026-04-09T07:27:25"
+      "title": "Top laptops to use with FreeBSD",
+      "score": 188,
+      "url": "https://freebsdfoundation.github.io/freebsd-laptop-testing/",
+      "time": "2026-04-09T09:17:25"
     },
     {
-      "title": "Wit, unker, Git: The lost medieval pronouns of English intimacy",
-      "score": 44,
-      "url": "https://www.bbc.com/future/article/20260408-the-extinct-english-words-for-just-the-two-of-us",
-      "time": "2026-04-09T10:10:19"
+      "title": "Introduction to Nintendo DS Programming",
+      "score": 171,
+      "url": "https://www.patater.com/files/projects/manual/manual.html",
+      "time": "2026-04-08T05:22:42"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244426,
+      "stars": 244446,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195798,
+      "stars": 195806,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
-      "name": "airbnb/javascript",
-      "description": "JavaScript Style Guide",
-      "stars": 148105,
-      "language": "JavaScript",
-      "url": "https://github.com/airbnb/javascript"
-    },
-    {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 147997,
+      "stars": 148400,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148109,
+      "language": "JavaScript",
+      "url": "https://github.com/airbnb/javascript"
+    },
+    {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138769,
+      "stars": 138794,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-09T12:57:57.197987+00:00"
+  "last_updated": "2026-04-09T18:48:32.877697+00:00"
 }
