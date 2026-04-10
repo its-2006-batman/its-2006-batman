@@ -7,82 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
-  "iss_position": {
-    "latitude": "27.30\u00b0S",
-    "longitude": "172.88\u00b0E",
-    "timestamp": "2026-04-10T07:15:04+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
+  "nasa_apod": {
+    "title": "Exploring the Antennae",
+    "date": "2026-04-10",
+    "explanation": "Some 60 million light-years away in the southerly constellation Corvus, two large galaxies are colliding. Stars in the two galaxies, cataloged as NGC 4038 and NGC 4039, very rarely collide in the course of the ponderous cataclysm that lasts for hundreds of millions of years. But the galaxies' large ...",
+    "url": "https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeSelbyColombari1024.jpg",
+    "media_type": "image"
   },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Intel 486 CPU announced April 10, 1989",
+      "score": 31,
+      "url": "https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/",
+      "time": "2026-04-10T12:03:34"
+    },
+    {
+      "title": "Microsoft suspends dev accounts for high-profile open source projects",
+      "score": 165,
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+      "time": "2026-04-10T11:20:51"
+    },
+    {
+      "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+      "score": 572,
+      "url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
+      "time": "2026-04-10T10:37:33"
+    },
+    {
       "title": "How NASA built Artemis II\u2019s fault-tolerant computer",
-      "score": 287,
+      "score": 451,
       "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
       "time": "2026-04-09T15:12:40"
     },
     {
-      "title": "Native Instant Space Switching on macOS",
-      "score": 448,
-      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-      "time": "2026-04-09T19:48:26"
-    },
-    {
-      "title": "Generative art over the years",
-      "score": 107,
-      "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
-      "time": "2026-04-07T14:25:23"
-    },
-    {
-      "title": "I still prefer MCP over skills",
-      "score": 83,
-      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
-      "time": "2026-04-10T02:01:48"
-    },
-    {
-      "title": "We've raised $17M to build what comes after Git",
-      "score": 70,
-      "url": "https://blog.gitbutler.com/series-a",
-      "time": "2026-04-10T01:52:58"
+      "title": "ETH Zurich demonstrates 17,000 qubit array with 99.91% fidelity",
+      "score": 146,
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
+      "time": "2026-04-10T04:04:57"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244476,
+      "stars": 244483,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195814,
+      "stars": 195815,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 149153,
+      "stars": 149544,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148108,
+      "stars": 148109,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138813,
+      "stars": 138816,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-10T07:14:54.391029+00:00"
+  "last_updated": "2026-04-10T12:44:03.665557+00:00"
 }
