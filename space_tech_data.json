@@ -7,65 +7,71 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "Artemis II: Flight Day 6",
+    "date": "2026-04-11",
+    "explanation": "On flight day 6 (April 6) the Artemis II mission achieved a historic lunar flyby. Rounding the lunar far side, the deep space maneuver marked humanity's first venture to the Moon since Apollo 17 in 1972. The Orion spacecraft Integrity reached a maximum distance of nearly 407,000 kilometers, and the ...",
+    "url": "https://apod.nasa.gov/apod/image/2604/art002e009567_1024.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "45.89\u00b0S",
-    "longitude": "85.32\u00b0W",
-    "timestamp": "2026-04-11T06:48:49+00:00",
+    "latitude": "7.14\u00b0S",
+    "longitude": "67.60\u00b0E",
+    "timestamp": "2026-04-11T12:33:28+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "20 Years on AWS and Never Not My Job",
-      "score": 69,
-      "url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
-      "time": "2026-04-11T05:31:10"
-    },
-    {
       "title": "Filing the corners off my MacBooks",
-      "score": 641,
+      "score": 952,
       "url": "https://kentwalters.com/posts/corners/",
       "time": "2026-04-10T22:16:40"
     },
     {
-      "title": "Artemis II safely splashes down",
-      "score": 758,
-      "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
-      "time": "2026-04-11T00:10:51"
+      "title": "Optimal Strategy for Connect 4",
+      "score": 82,
+      "url": "https://2swap.github.io/WeakC4/explanation/",
+      "time": "2026-04-08T19:37:50"
+    },
+    {
+      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
+      "score": 254,
+      "url": "https://playstarfling.com",
+      "time": "2026-04-09T01:52:47"
+    },
+    {
+      "title": "Show HN: Pardonned.com \u2013 A searchable database of US Pardons",
+      "score": 57,
+      "url": "https://news.ycombinator.com/item?id=47727960",
+      "time": "2026-04-11T06:19:25"
     },
     {
       "title": "1D Chess",
-      "score": 763,
+      "score": 856,
       "url": "https://rowan441.github.io/1dchess/chess.html",
       "time": "2026-04-10T15:37:28"
-    },
-    {
-      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "score": 300,
-      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "time": "2026-04-10T19:10:22"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244412,
+      "stars": 244418,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195814,
+      "stars": 195815,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 150437,
+      "stars": 150775,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -79,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138846,
+      "stars": 138852,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-11T06:48:35.100938+00:00"
+  "last_updated": "2026-04-11T12:33:25.582390+00:00"
 }
