@@ -7,82 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "Exploring the Antennae",
-    "date": "2026-04-10",
-    "explanation": "Some 60 million light-years away in the southerly constellation Corvus, two large galaxies are colliding. Stars in the two galaxies, cataloged as NGC 4038 and NGC 4039, very rarely collide in the course of the ponderous cataclysm that lasts for hundreds of millions of years. But the galaxies' large ...",
-    "url": "https://apod.nasa.gov/apod/image/2604/n4038_n4039_antennaeSelbyColombari1024.jpg",
-    "media_type": "image"
+  "nasa_apod": null,
+  "iss_position": {
+    "latitude": "45.89\u00b0S",
+    "longitude": "85.32\u00b0W",
+    "timestamp": "2026-04-11T06:48:49+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
   },
-  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "20 Years on AWS and Never Not My Job",
+      "score": 69,
+      "url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
+      "time": "2026-04-11T05:31:10"
+    },
+    {
       "title": "Filing the corners off my MacBooks",
-      "score": 294,
+      "score": 641,
       "url": "https://kentwalters.com/posts/corners/",
       "time": "2026-04-10T22:16:40"
     },
     {
       "title": "Artemis II safely splashes down",
-      "score": 261,
+      "score": 758,
       "url": "https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/",
       "time": "2026-04-11T00:10:51"
     },
     {
-      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
-      "score": 219,
-      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
-      "time": "2026-04-10T19:10:22"
-    },
-    {
       "title": "1D Chess",
-      "score": 642,
+      "score": 763,
       "url": "https://rowan441.github.io/1dchess/chess.html",
       "time": "2026-04-10T15:37:28"
     },
     {
-      "title": "Installing Every* Firefox Extension",
-      "score": 108,
-      "url": "https://jack.cab/blog/every-firefox-extension",
-      "time": "2026-04-10T21:56:33"
+      "title": "Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",
+      "score": 300,
+      "url": "https://www.bbc.com/news/articles/cr71lkzv49po",
+      "time": "2026-04-10T19:10:22"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244410,
+      "stars": 244412,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195812,
+      "stars": 195814,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 150114,
+      "stars": 150437,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148105,
+      "stars": 148106,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138843,
+      "stars": 138846,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-11T01:16:26.611426+00:00"
+  "last_updated": "2026-04-11T06:48:35.100938+00:00"
 }
