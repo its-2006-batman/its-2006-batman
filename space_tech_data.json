@@ -15,63 +15,63 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "7.14\u00b0S",
-    "longitude": "67.60\u00b0E",
-    "timestamp": "2026-04-11T12:33:28+00:00",
+    "latitude": "39.43\u00b0N",
+    "longitude": "69.04\u00b0W",
+    "timestamp": "2026-04-11T18:28:46+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Filing the corners off my MacBooks",
-      "score": 952,
-      "url": "https://kentwalters.com/posts/corners/",
-      "time": "2026-04-10T22:16:40"
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "score": 238,
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "time": "2026-04-11T16:47:28"
     },
     {
-      "title": "Optimal Strategy for Connect 4",
-      "score": 82,
-      "url": "https://2swap.github.io/WeakC4/explanation/",
-      "time": "2026-04-08T19:37:50"
+      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
+      "score": 94,
+      "url": "https://www.v68k.org/advanced-mac-substitute/",
+      "time": "2026-04-11T15:39:19"
     },
     {
-      "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
-      "score": 254,
-      "url": "https://playstarfling.com",
-      "time": "2026-04-09T01:52:47"
+      "title": "Cirrus Labs to join OpenAI",
+      "score": 177,
+      "url": "https://cirruslabs.org/",
+      "time": "2026-04-11T13:01:34"
     },
     {
-      "title": "Show HN: Pardonned.com \u2013 A searchable database of US Pardons",
-      "score": 57,
-      "url": "https://news.ycombinator.com/item?id=47727960",
-      "time": "2026-04-11T06:19:25"
+      "title": "Surelock: Deadlock-Free Mutexes for Rust",
+      "score": 97,
+      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
+      "time": "2026-04-08T17:36:19"
     },
     {
-      "title": "1D Chess",
-      "score": 856,
-      "url": "https://rowan441.github.io/1dchess/chess.html",
-      "time": "2026-04-10T15:37:28"
+      "title": "Keeping a Postgres Queue Healthy",
+      "score": 28,
+      "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
+      "time": "2026-04-11T16:24:08"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244418,
+      "stars": 244421,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195815,
+      "stars": 195818,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 150775,
+      "stars": 151141,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -90,5 +90,5 @@
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-11T12:33:25.582390+00:00"
+  "last_updated": "2026-04-11T18:28:45.803609+00:00"
 }
