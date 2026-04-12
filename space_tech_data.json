@@ -7,78 +7,72 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "Artemis II: Flight Day 6",
-    "date": "2026-04-11",
-    "explanation": "On flight day 6 (April 6) the Artemis II mission achieved a historic lunar flyby. Rounding the lunar far side, the deep space maneuver marked humanity's first venture to the Moon since Apollo 17 in 1972. The Orion spacecraft Integrity reached a maximum distance of nearly 407,000 kilometers, and the ...",
-    "url": "https://apod.nasa.gov/apod/image/2604/art002e009567_1024.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "43.15\u00b0S",
-    "longitude": "2.17\u00b0W",
-    "timestamp": "2026-04-12T01:25:11+00:00",
+    "latitude": "8.83\u00b0N",
+    "longitude": "132.85\u00b0E",
+    "timestamp": "2026-04-12T07:03:06+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "The End of Eleventy",
+      "score": 130,
+      "url": "https://brennan.day/the-end-of-eleventy/",
+      "time": "2026-04-12T01:55:48"
+    },
+    {
       "title": "Small models also found the vulnerabilities that Mythos found",
-      "score": 819,
+      "score": 993,
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
       "time": "2026-04-11T16:47:28"
     },
     {
-      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
-      "score": 141,
-      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
-      "time": "2026-04-11T20:58:48"
-    },
-    {
-      "title": "447 TB/cm\u00b2 at zero retention energy \u2013 atomic-scale memory on fluorographane",
-      "score": 136,
-      "url": "https://zenodo.org/records/19513269",
-      "time": "2026-04-11T20:08:46"
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "score": 78,
+      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "time": "2026-04-12T05:08:03"
     },
     {
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "score": 207,
+      "score": 336,
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
       "time": "2026-04-11T19:15:56"
     },
     {
-      "title": "Dark Castle",
-      "score": 115,
-      "url": "https://darkcastle.co.uk/",
-      "time": "2026-04-11T20:01:59"
+      "title": "Why meaningful days look like nothing while you are living them",
+      "score": 21,
+      "url": "https://pilgrima.ge/p/the-grand-line",
+      "time": "2026-04-12T03:04:05"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244421,
+      "stars": 244424,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195820,
+      "stars": 195821,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 151380,
+      "stars": 151655,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148103,
+      "stars": 148104,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
@@ -90,5 +84,5 @@
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-12T01:25:08.023370+00:00"
+  "last_updated": "2026-04-12T07:02:54.915833+00:00"
 }
