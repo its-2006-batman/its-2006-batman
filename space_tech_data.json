@@ -15,42 +15,42 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "39.43\u00b0N",
-    "longitude": "69.04\u00b0W",
-    "timestamp": "2026-04-11T18:28:46+00:00",
+    "latitude": "43.15\u00b0S",
+    "longitude": "2.17\u00b0W",
+    "timestamp": "2026-04-12T01:25:11+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Small models also found the vulnerabilities that Mythos found",
-      "score": 238,
+      "score": 819,
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
       "time": "2026-04-11T16:47:28"
     },
     {
-      "title": "Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS",
-      "score": 94,
-      "url": "https://www.v68k.org/advanced-mac-substitute/",
-      "time": "2026-04-11T15:39:19"
+      "title": "Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023)",
+      "score": 141,
+      "url": "https://khronokernel.com/macos/2023/08/08/AS-VM.html",
+      "time": "2026-04-11T20:58:48"
     },
     {
-      "title": "Cirrus Labs to join OpenAI",
-      "score": 177,
-      "url": "https://cirruslabs.org/",
-      "time": "2026-04-11T13:01:34"
+      "title": "447 TB/cm\u00b2 at zero retention energy \u2013 atomic-scale memory on fluorographane",
+      "score": 136,
+      "url": "https://zenodo.org/records/19513269",
+      "time": "2026-04-11T20:08:46"
     },
     {
-      "title": "Surelock: Deadlock-Free Mutexes for Rust",
-      "score": 97,
-      "url": "https://notes.brooklynzelenka.com/Blog/Surelock",
-      "time": "2026-04-08T17:36:19"
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "score": 207,
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "time": "2026-04-11T19:15:56"
     },
     {
-      "title": "Keeping a Postgres Queue Healthy",
-      "score": 28,
-      "url": "https://planetscale.com/blog/keeping-a-postgres-queue-healthy",
-      "time": "2026-04-11T16:24:08"
+      "title": "Dark Castle",
+      "score": 115,
+      "url": "https://darkcastle.co.uk/",
+      "time": "2026-04-11T20:01:59"
     }
   ],
   "github_trending": [
@@ -64,31 +64,31 @@
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195818,
+      "stars": 195820,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 151141,
+      "stars": 151380,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148106,
+      "stars": 148103,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138852,
+      "stars": 138856,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-11T18:28:45.803609+00:00"
+  "last_updated": "2026-04-12T01:25:08.023370+00:00"
 }
