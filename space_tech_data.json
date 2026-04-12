@@ -17,55 +17,55 @@
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": "JVM Options Explorer",
-      "score": 43,
-      "url": "https://chriswhocodes.com/vm-options-explorer.html",
-      "time": "2026-04-12T10:29:26"
+      "title": "Show HN: boringBar \u2013 a taskbar-style dock replacement for macOS",
+      "score": 51,
+      "url": "https://boringbar.app/",
+      "time": "2026-04-12T17:25:44"
     },
     {
-      "title": "An Interview with Pat Gelsinger",
-      "score": 59,
-      "url": "https://morethanmoore.substack.com/p/an-interview-with-pat-gelsinger-2026",
-      "time": "2026-04-09T17:19:10"
-    },
-    {
-      "title": "Happy Map",
-      "score": 24,
-      "url": "https://pudding.cool/2026/02/happy-map/",
-      "time": "2026-04-07T13:55:11"
-    },
-    {
-      "title": "Phyphox \u2013 Physical Experiments Using a Smartphone",
-      "score": 44,
-      "url": "https://phyphox.org/",
-      "time": "2026-04-12T08:38:11"
-    },
-    {
-      "title": "The Miller Principle (2007)",
+      "title": "Apple has removed most of the towns and villages in Lebanon from Apple maps",
       "score": 45,
-      "url": "https://puredanger.github.io/tech.puredanger.com/2007/07/11/miller-principle/",
-      "time": "2026-04-07T13:16:36"
+      "url": "https://maps.apple.com/frame?center=33.723388%2C35.614698&span=1.983925%2C4.004193",
+      "time": "2026-04-12T18:19:02"
+    },
+    {
+      "title": "Bring Back Idiomatic Design",
+      "score": 255,
+      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+      "time": "2026-04-12T12:21:26"
+    },
+    {
+      "title": "Most people can't juggle one ball",
+      "score": 33,
+      "url": "https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball",
+      "time": "2026-04-09T12:35:20"
+    },
+    {
+      "title": "Are sugar substitutes healthier than the real thing?",
+      "score": 10,
+      "url": "https://www.economist.com/science-and-technology/2026/04/10/are-sugar-substitutes-healthier-than-the-real-thing",
+      "time": "2026-04-12T17:55:17"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244421,
+      "stars": 244427,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195822,
+      "stars": 195824,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 151992,
+      "stars": 152393,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -79,10 +79,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138859,
+      "stars": 138865,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-12T12:36:54.496217+00:00"
+  "last_updated": "2026-04-12T18:32:33.055065+00:00"
 }
