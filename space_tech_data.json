@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "15.92\u00b0N",
-    "longitude": "109.71\u00b0E",
-    "timestamp": "2026-04-13T07:47:16+00:00",
+    "latitude": "46.93\u00b0S",
+    "longitude": "165.34\u00b0E",
+    "timestamp": "2026-04-13T13:00:01+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
-      "score": 69,
-      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-      "time": "2026-04-13T05:45:32"
+      "title": "Android now stops you sharing your location in photos",
+      "score": 76,
+      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
+      "time": "2026-04-13T11:48:15"
     },
     {
       "title": "All elementary functions from a single binary operator",
-      "score": 282,
+      "score": 557,
       "url": "https://arxiv.org/abs/2603.21852",
       "time": "2026-04-13T01:49:32"
     },
     {
-      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-      "score": 146,
-      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "time": "2026-04-12T22:38:45"
+      "title": "I went to America's worst national parks so you don't have to",
+      "score": 31,
+      "url": "https://substack.com/home/post/p-193626949",
+      "time": "2026-04-13T12:29:35"
     },
     {
-      "title": "Bring Back Idiomatic Design (2023)",
-      "score": 532,
-      "url": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-      "time": "2026-04-12T12:21:26"
+      "title": "AI could be the end of the digital wave, not the next big thing",
+      "score": 11,
+      "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+      "time": "2026-04-13T12:29:39"
     },
     {
-      "title": "X Randomly Banning Users for \"Inauthentic Behavior\"",
-      "score": 46,
-      "url": "https://old.reddit.com/r/LinusTechTips/comments/1rsdk7i/anybody_here_talking_about_the_massive/",
-      "time": "2026-04-13T05:39:24"
+      "title": "The economics of software teams: Why most engineering orgs are flying blind",
+      "score": 226,
+      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+      "time": "2026-04-13T05:45:32"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244442,
+      "stars": 244444,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195827,
+      "stars": 195828,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 153306,
+      "stars": 153745,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148105,
+      "stars": 148106,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138871,
+      "stars": 138879,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-13T07:47:15.235046+00:00"
+  "last_updated": "2026-04-13T12:59:52.959511+00:00"
 }
