@@ -7,88 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "NGC 602 and Beyond",
-    "date": "2026-04-13",
-    "explanation": "The clouds may look like an oyster, and the stars like pearls, but look beyond. Near the outskirts of the Small Magellanic Cloud, a satellite galaxy some 200 thousand light-years distant, lies 5 million year young star cluster NGC 602. Surrounded by natal gas and dust, NGC 602 is featured in this st...",
-    "url": "https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_960.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "46.93\u00b0S",
-    "longitude": "165.34\u00b0E",
-    "timestamp": "2026-04-13T13:00:01+00:00",
+    "latitude": "47.20\u00b0S",
+    "longitude": "10.43\u00b0E",
+    "timestamp": "2026-04-13T19:00:50+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Android now stops you sharing your location in photos",
-      "score": 76,
-      "url": "https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/",
-      "time": "2026-04-13T11:48:15"
+      "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+      "score": 150,
+      "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+      "time": "2026-04-13T17:54:39"
     },
     {
-      "title": "All elementary functions from a single binary operator",
-      "score": 557,
-      "url": "https://arxiv.org/abs/2603.21852",
-      "time": "2026-04-13T01:49:32"
+      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
+      "score": 248,
+      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+      "time": "2026-04-13T15:31:06"
     },
     {
-      "title": "I went to America's worst national parks so you don't have to",
-      "score": 31,
-      "url": "https://substack.com/home/post/p-193626949",
-      "time": "2026-04-13T12:29:35"
+      "title": "The Future of Everything Is Lies, I Guess: Safety",
+      "score": 154,
+      "url": "https://aphyr.com/posts/417-the-future-of-everything-is-lies-i-guess-safety",
+      "time": "2026-04-13T16:23:09"
     },
     {
-      "title": "AI could be the end of the digital wave, not the next big thing",
-      "score": 11,
-      "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
-      "time": "2026-04-13T12:29:39"
+      "title": "Building a CLI for All of Cloudflare",
+      "score": 149,
+      "url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+      "time": "2026-04-13T15:44:02"
     },
     {
-      "title": "The economics of software teams: Why most engineering orgs are flying blind",
-      "score": 226,
-      "url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-      "time": "2026-04-13T05:45:32"
+      "title": "Servo is now available on crates.io",
+      "score": 316,
+      "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+      "time": "2026-04-13T12:12:22"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244444,
+      "stars": 244456,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195828,
+      "stars": 195823,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 153745,
+      "stars": 154181,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148106,
+      "stars": 148103,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138879,
+      "stars": 138891,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-13T12:59:52.959511+00:00"
+  "last_updated": "2026-04-13T19:00:33.041440+00:00"
 }
