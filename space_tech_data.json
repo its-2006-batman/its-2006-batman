@@ -8,44 +8,50 @@
     "flight_number": 187
   },
   "nasa_apod": null,
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "31.43\u00b0S",
+    "longitude": "153.50\u00b0E",
+    "timestamp": "2026-04-14T07:16:56+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "DaVinci Resolve releases Photo Editor",
+      "score": 381,
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
+      "time": "2026-04-14T02:25:15"
+    },
+    {
+      "title": "A new spam policy for \"back button hijacking\"",
+      "score": 229,
+      "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+      "time": "2026-04-14T03:06:27"
+    },
+    {
+      "title": "Can Claude Fly a Plane?",
+      "score": 28,
+      "url": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
+      "time": "2026-04-14T06:32:45"
+    },
+    {
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "score": 672,
+      "score": 876,
       "url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
       "time": "2026-04-13T17:54:39"
     },
     {
-      "title": "Lean proved this program correct; then I found a bug",
-      "score": 54,
-      "url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
-      "time": "2026-04-14T00:25:08"
-    },
-    {
-      "title": "GitHub Stacked PRs",
-      "score": 402,
-      "url": "https://github.github.com/gh-stack/",
-      "time": "2026-04-13T20:36:49"
-    },
-    {
-      "title": "WiiFin \u2013 Jellyfin Client for Nintendo Wii",
-      "score": 37,
-      "url": "https://github.com/fabienmillet/WiiFin",
-      "time": "2026-04-13T23:33:18"
-    },
-    {
-      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "score": 353,
-      "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-      "time": "2026-04-13T15:31:06"
+      "title": "Sometimes powerful people just do dumb shit",
+      "score": 148,
+      "url": "https://www.joanwestenberg.com/sometimes-powerful-people-just-do-dumb-shit/",
+      "time": "2026-04-14T03:04:20"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244468,
+      "stars": 244479,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -59,24 +65,24 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 154476,
+      "stars": 154997,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148106,
+      "stars": 148109,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138896,
+      "stars": 138907,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-14T01:25:25.847270+00:00"
+  "last_updated": "2026-04-14T07:16:45.157319+00:00"
 }
