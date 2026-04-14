@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  47.74°N                                       ║
-║  📍 LONGITUDE: 23.18°W                                       ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-04-14 12:59 UTC                   ║
+║  📍 LATITUDE:  N/A                                           ║
+║  📍 LONGITUDE: N/A                                           ║
+║  ⚡ VELOCITY:  N/A                                           ║
+║  🌍 ALTITUDE:  N/A                                           ║
+║  ⏰ UPDATE: 2026-04-14 18:58 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: The Long Wispy Tail of Comet R3 (PanSTARRS)              ║
-║  DATE:  2026-04-14                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **What is jj and why should I care?** (93 ⭐)
-2. **DaVinci Resolve – Photo** (718 ⭐)
-3. **NimConf 2026: Dates Announced, Registrations Open** (33 ⭐)
+1. **I wrote to Flock's privacy contact to opt out of their domes...** (152 ⭐)
+2. **Spain to expand internet blocks to tennis, golf, movies broa...** (229 ⭐)
+3. **Rare concert recordings are landing on the Internet Archive** (332 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (244487★)
-2. **trekhleb/javascript-algorithms** (195826★)
-3. **affaan-m/everything-claude-code** (155496★)
+1. **facebook/react** (244500★)
+2. **trekhleb/javascript-algorithms** (195827★)
+3. **affaan-m/everything-claude-code** (155897★)
 <!-- LIVE_DATA_END -->
