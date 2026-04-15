@@ -7,76 +7,88 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
-  "iss_position": null,
+  "nasa_apod": {
+    "title": "The ISS Transits the Moon",
+    "date": "2026-04-15",
+    "explanation": "Nope, that is not an alien spaceship landing on the Moon! This is an image of the International Space Station (ISS) as it begins to transit in front of the Moon. The ISS is in low-Earth orbit (LEO) where it wizzes around the Earth every 90 minutes. Orbiting the Earth 16 times per day\t for 25 years, ...",
+    "url": "https://apod.nasa.gov/apod/image/2604/iss_moon_transit_zoom.jpeg",
+    "media_type": "image"
+  },
+  "iss_position": {
+    "latitude": "45.00\u00b0S",
+    "longitude": "7.58\u00b0W",
+    "timestamp": "2026-04-15T18:59:40+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
-      "score": 171,
-      "url": "https://prog21.dadgum.com/30.html",
-      "time": "2026-04-15T09:41:19"
+      "title": "AI-Assisted Cognition Endangers Human Development",
+      "score": 60,
+      "url": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
+      "time": "2026-04-15T18:16:50"
     },
     {
-      "title": "Good Sleep, Good Learning (2012)",
-      "score": 115,
-      "url": "https://super-memory.com/articles/sleep.htm",
-      "time": "2026-04-15T09:11:18"
+      "title": "CPUs Aren't Dead. Gemma2B Out Scored GPT-3.5 Turbo on Test That Made It Famous",
+      "score": 74,
+      "url": "https://seqpu.com/CPUsArentDead/",
+      "time": "2026-04-15T17:07:36"
     },
     {
-      "title": "Costasiella kuroshimae \u2013 Solar Powered animals, that do indirect photosynthesis",
-      "score": 55,
-      "url": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
-      "time": "2026-04-12T15:26:24"
+      "title": "God Sleeps in the Minerals",
+      "score": 341,
+      "url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
+      "time": "2026-04-15T13:08:10"
     },
     {
-      "title": "Fixing a 20-year-old bug in Enlightenment E16",
-      "score": 187,
-      "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
-      "time": "2026-04-15T04:47:00"
+      "title": "Google Broke Its Promise to Me. Now ICE Has My Data",
+      "score": 265,
+      "url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+      "time": "2026-04-15T17:44:26"
     },
     {
-      "title": "Claude Code Routines",
-      "score": 658,
-      "url": "https://code.claude.com/docs/en/routines",
-      "time": "2026-04-14T16:54:33"
+      "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
+      "score": 213,
+      "url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
+      "time": "2026-04-15T15:43:37"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244525,
+      "stars": 244541,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195835,
+      "stars": 195840,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 156883,
+      "stars": 157227,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148109,
+      "stars": 148115,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138936,
+      "stars": 138941,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-15T12:58:32.282666+00:00"
+  "last_updated": "2026-04-15T18:59:34.981713+00:00"
 }
