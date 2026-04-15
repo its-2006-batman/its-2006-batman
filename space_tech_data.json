@@ -11,72 +11,72 @@
   "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
+      "score": 171,
+      "url": "https://prog21.dadgum.com/30.html",
+      "time": "2026-04-15T09:41:19"
+    },
+    {
+      "title": "Good Sleep, Good Learning (2012)",
+      "score": 115,
+      "url": "https://super-memory.com/articles/sleep.htm",
+      "time": "2026-04-15T09:11:18"
+    },
+    {
+      "title": "Costasiella kuroshimae \u2013 Solar Powered animals, that do indirect photosynthesis",
+      "score": 55,
+      "url": "https://en.wikipedia.org/wiki/Costasiella_kuroshimae",
+      "time": "2026-04-12T15:26:24"
+    },
+    {
       "title": "Fixing a 20-year-old bug in Enlightenment E16",
-      "score": 60,
+      "score": 187,
       "url": "https://iczelia.net/posts/e16-20-year-old-bug/",
       "time": "2026-04-15T04:47:00"
     },
     {
-      "title": "Dependency cooldowns turn you into a free-rider",
-      "score": 93,
-      "url": "https://calpaterson.com/deps.html",
-      "time": "2026-04-15T02:03:12"
-    },
-    {
       "title": "Claude Code Routines",
-      "score": 572,
+      "score": 658,
       "url": "https://code.claude.com/docs/en/routines",
       "time": "2026-04-14T16:54:33"
-    },
-    {
-      "title": "Not all elementary functions can be expressed with exp-minus-log",
-      "score": 80,
-      "url": "https://www.stylewarning.com/posts/not-all-elementary/",
-      "time": "2026-04-15T01:59:18"
-    },
-    {
-      "title": "Peter Steinberger \u2013 WhatsApp CLI: sync, search, send",
-      "score": 4,
-      "url": "https://github.com/steipete/wacli",
-      "time": "2026-04-15T07:04:45"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244507,
+      "stars": 244525,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195830,
+      "stars": 195835,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 156524,
+      "stars": 156883,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148105,
+      "stars": 148109,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138927,
+      "stars": 138936,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-15T07:17:27.315532+00:00"
+  "last_updated": "2026-04-15T12:58:32.282666+00:00"
 }
