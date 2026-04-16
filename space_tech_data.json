@@ -7,88 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "South Celestial Tree",
-    "date": "2026-04-16",
-    "explanation": "If you live in the northern hemisphere, you may have learned how to locate the North Star, Polaris, in the night sky. It can be used to find north, and it approximately marks the northern celestial pole. If you live in the southern hemisphere, there is no bright star marking the southern celestial p...",
-    "url": "https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole_800.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "34.45\u00b0S",
-    "longitude": "145.27\u00b0E",
-    "timestamp": "2026-04-16T07:18:12+00:00",
+    "latitude": "40.04\u00b0N",
+    "longitude": "17.17\u00b0W",
+    "timestamp": "2026-04-16T13:03:39+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Darkbloom \u2013 Private inference on idle Macs",
-      "score": 153,
-      "url": "https://darkbloom.dev",
-      "time": "2026-04-16T04:06:39"
-    },
-    {
-      "title": "Stop Using Ollama",
-      "score": 187,
-      "url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-      "time": "2026-04-16T03:35:11"
-    },
-    {
-      "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-      "score": 103,
-      "url": "https://daedal.io/@thomzane/116410863009847575",
-      "time": "2026-04-16T03:44:38"
+      "title": "\u20ac54k spike in 13h from unrestricted Firebase browser key accessing Gemini APIs",
+      "score": 120,
+      "url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+      "time": "2026-04-16T12:13:30"
     },
     {
       "title": "IPv6 traffic crosses the 50% mark",
-      "score": 43,
+      "score": 451,
       "url": "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197",
       "time": "2026-04-15T11:59:49"
     },
     {
-      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
-      "score": 56,
-      "url": "https://github.com/Nightmare-Eclipse/RedSun",
-      "time": "2026-04-16T03:54:21"
+      "title": "Apple accelerates eco progress with highest-ever recycled materials",
+      "score": 13,
+      "url": "https://www.apple.com/newsroom/2026/04/apple-accelerates-progress-with-highest-ever-recycled-material-in-its-products/",
+      "time": "2026-04-16T12:11:17"
+    },
+    {
+      "title": "Show HN: 48 absurd web projects \u2013 one every month",
+      "score": 9,
+      "url": "https://news.ycombinator.com/item?id=47792026",
+      "time": "2026-04-16T12:29:33"
+    },
+    {
+      "title": "Darkbloom \u2013 Private inference on idle Macs",
+      "score": 316,
+      "url": "https://darkbloom.dev",
+      "time": "2026-04-16T04:06:39"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244555,
+      "stars": 244563,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195846,
+      "stars": 195853,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 157838,
+      "stars": 158171,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148117,
+      "stars": 148118,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138959,
+      "stars": 138965,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-16T07:18:11.108355+00:00"
+  "last_updated": "2026-04-16T13:03:27.452146+00:00"
 }
