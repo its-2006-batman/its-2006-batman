@@ -7,88 +7,76 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "South Celestial Tree",
-    "date": "2026-04-16",
-    "explanation": "If you live in the northern hemisphere, you may have learned how to locate the North Star, Polaris, in the night sky. It can be used to find north, and it approximately marks the northern celestial pole. If you live in the southern hemisphere, there is no bright star marking the southern celestial p...",
-    "url": "https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole_800.jpg",
-    "media_type": "image"
-  },
-  "iss_position": {
-    "latitude": "42.60\u00b0N",
-    "longitude": "161.15\u00b0E",
-    "timestamp": "2026-04-16T18:58:29+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "nasa_apod": null,
+  "iss_position": null,
   "tech_headlines": [
     {
       "title": "Claude Opus 4.7",
-      "score": 976,
+      "score": 1454,
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
       "time": "2026-04-16T14:23:50"
     },
     {
-      "title": "Codex for Almost Everything",
-      "score": 266,
+      "title": "Codex for almost everything",
+      "score": 662,
       "url": "https://openai.com/index/codex-for-almost-everything/",
       "time": "2026-04-16T17:12:19"
     },
     {
-      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "score": 634,
-      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "time": "2026-04-16T13:36:27"
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "score": 82,
+      "url": "https://github.com/gainsec/autoprober",
+      "time": "2026-04-16T21:56:37"
     },
     {
-      "title": "PCI Express over Fiber [video]",
-      "score": 23,
-      "url": "https://www.youtube.com/watch?v=XaDa9bBucEI",
-      "time": "2026-04-11T18:54:58"
+      "title": "A Better R Programming Experience Thanks to Tree-sitter",
+      "score": 75,
+      "url": "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/",
+      "time": "2026-04-16T21:14:02"
     },
     {
-      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "score": 160,
-      "url": "https://blog.cloudflare.com/ai-platform/",
-      "time": "2026-04-16T13:17:37"
+      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+      "score": 101,
+      "url": "https://clojure.org/about/documentary",
+      "time": "2026-04-16T19:32:18"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244570,
+      "stars": 244561,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195852,
+      "stars": 195850,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 158446,
+      "stars": 158668,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148118,
+      "stars": 148116,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138969,
+      "stars": 138955,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-16T18:58:26.869658+00:00"
+  "last_updated": "2026-04-17T01:25:25.494896+00:00"
 }
