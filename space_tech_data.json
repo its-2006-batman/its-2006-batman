@@ -7,88 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "M82: Starburst Galaxy with a Superwind",
-    "date": "2026-04-17",
-    "explanation": "Messier 82 is a starburst galaxy with a superwind. In fact, through supernova explosions and powerful winds from massive stars, the burst of star formation in M82 is driving a prodigious outflow. Evidence for the superwind from the galaxy's central regions is clear in the sharp telescopic portrait. ...",
-    "url": "https://apod.nasa.gov/apod/image/2604/M82_V3_1024.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "51.61\u00b0S",
-    "longitude": "110.59\u00b0E",
-    "timestamp": "2026-04-17T12:54:41+00:00",
+    "latitude": "1.76\u00b0N",
+    "longitude": "68.88\u00b0W",
+    "timestamp": "2026-04-17T18:42:31+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Isaac Asimov: The Last Question",
-      "score": 31,
+      "title": "Claude Design",
+      "score": 502,
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "time": "2026-04-17T15:04:09"
+    },
+    {
+      "title": "Claude Opus 4.7 costs 20\u201330% more per session",
+      "score": 302,
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "time": "2026-04-17T15:29:36"
+    },
+    {
+      "title": "Isaac Asimov: The Last Question (1956)",
+      "score": 478,
       "url": "https://hex.ooo/library/last_question.html",
       "time": "2026-04-17T12:01:19"
     },
     {
-      "title": "Ada, Its Design, and the Language That Built the Languages",
-      "score": 130,
-      "url": "https://www.iqiipi.com/the-quiet-colossus.html",
-      "time": "2026-04-17T08:51:38"
+      "title": "NASA Force",
+      "score": 84,
+      "url": "https://nasaforce.gov/",
+      "time": "2026-04-17T15:47:41"
     },
     {
-      "title": "Claude Opus 4.7",
-      "score": 1821,
-      "url": "https://www.anthropic.com/news/claude-opus-4-7",
-      "time": "2026-04-16T14:23:50"
-    },
-    {
-      "title": "FIM \u2013 Linux framebuffer image viewer",
-      "score": 87,
-      "url": "https://www.nongnu.org/fbi-improved/",
-      "time": "2026-04-17T07:20:46"
-    },
-    {
-      "title": "Average Is All You Need",
-      "score": 28,
-      "url": "https://rawquery.dev/blog/average-is-all-you-need",
-      "time": "2026-04-13T16:36:42"
+      "title": "Middle schooler finds coin from Troy in Berlin",
+      "score": 128,
+      "url": "https://www.thehistoryblog.com/archives/75848",
+      "time": "2026-04-17T14:41:49"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244567,
+      "stars": 244576,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195852,
+      "stars": 195850,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 159328,
+      "stars": 159541,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148117,
+      "stars": 148115,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138966,
+      "stars": 138975,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-17T12:54:39.688377+00:00"
+  "last_updated": "2026-04-17T18:42:21.226172+00:00"
 }
