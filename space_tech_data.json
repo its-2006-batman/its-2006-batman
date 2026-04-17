@@ -15,44 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "35.47\u00b0N",
-    "longitude": "39.33\u00b0W",
-    "timestamp": "2026-04-17T07:18:39+00:00",
+    "latitude": "51.61\u00b0S",
+    "longitude": "110.59\u00b0E",
+    "timestamp": "2026-04-17T12:54:41+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Isaac Asimov: The Last Question",
+      "score": 31,
+      "url": "https://hex.ooo/library/last_question.html",
+      "time": "2026-04-17T12:01:19"
+    },
+    {
+      "title": "Ada, Its Design, and the Language That Built the Languages",
+      "score": 130,
+      "url": "https://www.iqiipi.com/the-quiet-colossus.html",
+      "time": "2026-04-17T08:51:38"
+    },
+    {
       "title": "Claude Opus 4.7",
-      "score": 1668,
+      "score": 1821,
       "url": "https://www.anthropic.com/news/claude-opus-4-7",
       "time": "2026-04-16T14:23:50"
     },
     {
-      "title": "First bikebell against noise-canceling headphones",
-      "score": 11,
-      "url": "https://www.welovecycling.com/wide/duobell/",
-      "time": "2026-04-17T06:27:01"
+      "title": "FIM \u2013 Linux framebuffer image viewer",
+      "score": 87,
+      "url": "https://www.nongnu.org/fbi-improved/",
+      "time": "2026-04-17T07:20:46"
     },
     {
-      "title": "Codex for almost everything",
-      "score": 816,
-      "url": "https://openai.com/index/codex-for-almost-everything/",
-      "time": "2026-04-16T17:12:19"
-    },
-    {
-      "title": "A Python Interpreter Written in Python",
-      "score": 39,
-      "url": "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html",
-      "time": "2026-04-13T17:25:50"
-    },
-    {
-      "title": "CadQuery is an open-source Python library for building 3D CAD models",
-      "score": 118,
-      "url": "https://cadquery.github.io/",
-      "time": "2026-04-14T23:20:39"
+      "title": "Average Is All You Need",
+      "score": 28,
+      "url": "https://rawquery.dev/blog/average-is-all-you-need",
+      "time": "2026-04-13T16:36:42"
     }
   ],
-  "github_trending": [],
-  "last_updated": "2026-04-17T07:18:28.710258+00:00"
+  "github_trending": [
+    {
+      "name": "facebook/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 244567,
+      "language": "JavaScript",
+      "url": "https://github.com/facebook/react"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 195852,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 159328,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/everything-claude-code"
+    },
+    {
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148117,
+      "language": "JavaScript",
+      "url": "https://github.com/airbnb/javascript"
+    },
+    {
+      "name": "vercel/next.js",
+      "description": "The React Framework",
+      "stars": 138966,
+      "language": "JavaScript",
+      "url": "https://github.com/vercel/next.js"
+    }
+  ],
+  "last_updated": "2026-04-17T12:54:39.688377+00:00"
 }
