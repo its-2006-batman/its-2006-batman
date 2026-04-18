@@ -7,88 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "PanSTARRS and Planets",
-    "date": "2026-04-18",
-    "explanation": "Near the eastern horizon before sunrise, Comet C/2025 R3 PanSTARRS is getting brighter. Readily visible in binoculars and small telescopes, the comet may be just on the verge of naked-eye visibility from dark sky sites. Though it was not quite apparent to the eye, PanSTARRS is still easy to spot in ...",
-    "url": "https://apod.nasa.gov/apod/image/2604/PanstarrsPlanetsPerrotLab1024.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "16.25\u00b0N",
-    "longitude": "147.16\u00b0W",
-    "timestamp": "2026-04-18T12:36:55+00:00",
+    "latitude": "31.56\u00b0S",
+    "longitude": "80.05\u00b0E",
+    "timestamp": "2026-04-18T18:32:20+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Category Theory Illustrated \u2013 Orders",
-      "score": 126,
-      "url": "https://abuseofnotation.github.io/category-theory-illustrated/04_order/",
-      "time": "2026-04-18T06:40:47"
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "score": 70,
+      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+      "time": "2026-04-18T16:26:47"
     },
     {
-      "title": "Michael Rabin Has Died",
-      "score": 153,
-      "url": "https://en.wikipedia.org/wiki/Michael_O._Rabin",
-      "time": "2026-04-15T18:07:46"
+      "title": "Opus 4.7 to 4.6 Inflation is ~45%",
+      "score": 217,
+      "url": "https://tokens.billchambers.me/leaderboard",
+      "time": "2026-04-18T16:05:43"
     },
     {
-      "title": "Amiga Graphics",
-      "score": 134,
-      "url": "https://amiga.lychesis.net/",
-      "time": "2026-04-18T06:20:04"
+      "title": "Migrating from DigitalOcean to Hetzner",
+      "score": 470,
+      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
+      "time": "2026-04-18T13:29:04"
     },
     {
       "title": "State of Kdenlive",
-      "score": 19,
+      "score": 238,
       "url": "https://kdenlive.org/news/2026/state-2026/",
       "time": "2026-04-18T11:42:37"
     },
     {
-      "title": "It's OK to compare floating-points for equality",
-      "score": 42,
-      "url": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
-      "time": "2026-04-14T16:00:49"
+      "title": "Fuzix OS",
+      "score": 33,
+      "url": "https://www.fuzix.org/",
+      "time": "2026-04-18T15:24:18"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244570,
+      "stars": 244574,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195853,
+      "stars": 195851,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 160057,
+      "stars": 160293,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148116,
+      "stars": 148117,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138986,
+      "stars": 138990,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-18T12:36:53.129458+00:00"
+  "last_updated": "2026-04-18T18:32:10.287524+00:00"
 }
