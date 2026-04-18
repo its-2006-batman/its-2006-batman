@@ -9,42 +9,42 @@
   },
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "1.76\u00b0N",
-    "longitude": "68.88\u00b0W",
-    "timestamp": "2026-04-17T18:42:31+00:00",
+    "latitude": "51.45\u00b0S",
+    "longitude": "72.00\u00b0W",
+    "timestamp": "2026-04-18T01:18:58+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Claude Design",
-      "score": 502,
+      "score": 827,
       "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
       "time": "2026-04-17T15:04:09"
     },
     {
-      "title": "Claude Opus 4.7 costs 20\u201330% more per session",
-      "score": 302,
+      "title": "A simplified model of Fil-C",
+      "score": 105,
+      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+      "time": "2026-04-17T21:38:20"
+    },
+    {
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+      "score": 219,
+      "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_toxic_side_of_the_Moon",
+      "time": "2026-04-17T18:17:01"
+    },
+    {
+      "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
+      "score": 43,
+      "url": "https://www.nature.com/articles/d41586-026-01204-5",
+      "time": "2026-04-17T22:30:28"
+    },
+    {
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "score": 535,
       "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
       "time": "2026-04-17T15:29:36"
-    },
-    {
-      "title": "Isaac Asimov: The Last Question (1956)",
-      "score": 478,
-      "url": "https://hex.ooo/library/last_question.html",
-      "time": "2026-04-17T12:01:19"
-    },
-    {
-      "title": "NASA Force",
-      "score": 84,
-      "url": "https://nasaforce.gov/",
-      "time": "2026-04-17T15:47:41"
-    },
-    {
-      "title": "Middle schooler finds coin from Troy in Berlin",
-      "score": 128,
-      "url": "https://www.thehistoryblog.com/archives/75848",
-      "time": "2026-04-17T14:41:49"
     }
   ],
   "github_trending": [
@@ -65,24 +65,24 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 159541,
+      "stars": 159681,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148115,
+      "stars": 148116,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138975,
+      "stars": 138979,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-17T18:42:21.226172+00:00"
+  "last_updated": "2026-04-18T01:18:47.970198+00:00"
 }
