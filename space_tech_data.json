@@ -9,80 +9,80 @@
   },
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "31.56\u00b0S",
-    "longitude": "80.05\u00b0E",
-    "timestamp": "2026-04-18T18:32:20+00:00",
+    "latitude": "35.42\u00b0N",
+    "longitude": "149.03\u00b0E",
+    "timestamp": "2026-04-19T01:28:52+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
-      "score": 70,
-      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "time": "2026-04-18T16:26:47"
+      "title": "NIST scientists create 'any wavelength' lasers",
+      "score": 157,
+      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
+      "time": "2026-04-18T20:54:17"
     },
     {
-      "title": "Opus 4.7 to 4.6 Inflation is ~45%",
-      "score": 217,
+      "title": "Anonymous request-token comparisons from Opus 4.6 and Opus 4.7",
+      "score": 420,
       "url": "https://tokens.billchambers.me/leaderboard",
       "time": "2026-04-18T16:05:43"
     },
     {
-      "title": "Migrating from DigitalOcean to Hetzner",
-      "score": 470,
-      "url": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-      "time": "2026-04-18T13:29:04"
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "score": 267,
+      "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
+      "time": "2026-04-18T16:26:47"
     },
     {
-      "title": "State of Kdenlive",
-      "score": 238,
-      "url": "https://kdenlive.org/news/2026/state-2026/",
-      "time": "2026-04-18T11:42:37"
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "score": 121,
+      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "time": "2026-04-18T19:00:00"
     },
     {
-      "title": "Fuzix OS",
-      "score": 33,
-      "url": "https://www.fuzix.org/",
-      "time": "2026-04-18T15:24:18"
+      "title": "Modern Common Lisp with FSet",
+      "score": 82,
+      "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
+      "time": "2026-04-15T14:38:38"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244574,
+      "stars": 244577,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195851,
+      "stars": 195853,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 160293,
+      "stars": 160452,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148117,
+      "stars": 148118,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 138990,
+      "stars": 138994,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-18T18:32:10.287524+00:00"
+  "last_updated": "2026-04-19T01:28:43.430623+00:00"
 }
