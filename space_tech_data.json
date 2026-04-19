@@ -9,80 +9,80 @@
   },
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "14.98\u00b0S",
-    "longitude": "25.90\u00b0E",
-    "timestamp": "2026-04-19T12:36:29+00:00",
+    "latitude": "27.41\u00b0N",
+    "longitude": "101.40\u00b0W",
+    "timestamp": "2026-04-19T18:33:50+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Vercel Says Internal Systems Hit in Breach",
+      "score": 259,
+      "url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
+      "time": "2026-04-19T15:23:39"
+    },
+    {
       "title": "Archive of Byte magazine, starting with issue #1 in 1975",
-      "score": 109,
+      "score": 430,
       "url": "https://archive.org/details/byte-magazine-1975-09",
       "time": "2026-04-17T14:07:28"
     },
     {
-      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
-      "score": 79,
-      "url": "https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf",
-      "time": "2026-04-19T08:45:48"
+      "title": "Show HN: Faceoff \u2013 A terminal UI for following NHL games",
+      "score": 15,
+      "url": "https://www.vincentgregoire.com/faceoff/",
+      "time": "2026-04-19T17:44:44"
     },
     {
-      "title": "Game devs explain the tricks involved with letting you pause a game",
-      "score": 176,
-      "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-      "time": "2026-04-16T14:05:10"
+      "title": "Notion leaks email addresses of all editors of any public page",
+      "score": 161,
+      "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+      "time": "2026-04-19T15:20:01"
     },
     {
-      "title": "What are skiplists good for?",
-      "score": 130,
-      "url": "https://antithesis.com/blog/2026/skiptrees/",
-      "time": "2026-04-17T13:57:27"
-    },
-    {
-      "title": "NIST scientists create 'any wavelength' lasers",
-      "score": 339,
-      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "time": "2026-04-18T20:54:17"
+      "title": "Nanopass Framework: Clean Compiler Creation Language",
+      "score": 86,
+      "url": "https://nanopass.org/",
+      "time": "2026-04-15T11:38:22"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244587,
+      "stars": 244582,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195859,
+      "stars": 195858,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 160822,
+      "stars": 161048,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148119,
+      "stars": 148117,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139001,
+      "stars": 139002,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-19T12:36:18.388961+00:00"
+  "last_updated": "2026-04-19T18:33:32.903650+00:00"
 }
