@@ -7,82 +7,88 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "Comet R3 PanSTARRS over a Himalayan Valley",
+    "date": "2026-04-20",
+    "explanation": "The best way to see comet R3 PanSTARRS\u2019s long tail is with a camera. This week, the recently brightened comet appears in northern skies to the east just before dawn, but is only barely visible to the unaided eye. The many-degree ion tail captured on long duration camera exposures is not unusual for ...",
+    "url": "https://apod.nasa.gov/apod/image/2604/ValleyComet_Chakrabarti_960.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "38.13\u00b0N",
-    "longitude": "37.86\u00b0W",
-    "timestamp": "2026-04-20T13:04:32+00:00",
+    "latitude": "31.57\u00b0N",
+    "longitude": "120.94\u00b0E",
+    "timestamp": "2026-04-20T18:53:57+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)",
-      "score": 197,
-      "url": "https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html",
-      "time": "2026-04-20T12:12:19"
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "score": 338,
+      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "time": "2026-04-20T14:05:34"
     },
     {
-      "title": "M 7.4 earthquake \u2013 100 km ENE of Miyako, Japan",
-      "score": 79,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
-      "time": "2026-04-20T10:04:40"
+      "title": "At long last, InfoWars is ours",
+      "score": 300,
+      "url": "https://theonion.com/at-long-last-infowars-is-ours/",
+      "time": "2026-04-20T17:23:58"
+    },
+    {
+      "title": "ggsql: A Grammar of Graphics for SQL",
+      "score": 252,
+      "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+      "time": "2026-04-20T12:51:20"
+    },
+    {
+      "title": "The Theory of Interstellar Trade [pdf] (1978)",
+      "score": 52,
+      "url": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
+      "time": "2026-04-20T16:57:10"
     },
     {
       "title": "GitHub's Fake Star Economy",
-      "score": 282,
+      "score": 567,
       "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
       "time": "2026-04-20T08:26:52"
-    },
-    {
-      "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
-      "score": 92,
-      "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
-      "time": "2026-04-17T20:14:30"
-    },
-    {
-      "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
-      "score": 56,
-      "url": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
-      "time": "2026-04-17T21:03:09"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244579,
+      "stars": 244588,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195860,
+      "stars": 195864,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 161766,
+      "stars": 162004,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148120,
+      "stars": 148123,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139022,
+      "stars": 139019,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-20T13:04:14.973848+00:00"
+  "last_updated": "2026-04-20T18:53:54.913445+00:00"
 }
