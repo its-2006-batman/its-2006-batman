@@ -9,80 +9,80 @@
   },
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "9.56\u00b0S",
-    "longitude": "107.05\u00b0W",
-    "timestamp": "2026-04-20T07:49:41+00:00",
+    "latitude": "38.13\u00b0N",
+    "longitude": "37.86\u00b0W",
+    "timestamp": "2026-04-20T13:04:32+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "SDF Public Access Unix System",
-      "score": 37,
-      "url": "https://sdf.org/?ssh",
-      "time": "2026-04-18T20:48:35"
+      "title": "Tesla Hid Fatal Accidents to Continue Testing Autonomous Driving (French)",
+      "score": 197,
+      "url": "https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html",
+      "time": "2026-04-20T12:12:19"
     },
     {
-      "title": "Ben Lerner's Big Feelings",
-      "score": 18,
-      "url": "https://www.vulture.com/article/ben-lerner-transcription-interview.html",
-      "time": "2026-04-16T05:43:09"
+      "title": "M 7.4 earthquake \u2013 100 km ENE of Miyako, Japan",
+      "score": 79,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sri7/",
+      "time": "2026-04-20T10:04:40"
     },
     {
-      "title": "Stripe's Payment APIs: the first 10 years (2020)",
-      "score": 23,
-      "url": "https://stripe.dev/blog/payment-api-design",
-      "time": "2026-04-20T05:05:43"
+      "title": "GitHub's Fake Star Economy",
+      "score": 282,
+      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+      "time": "2026-04-20T08:26:52"
     },
     {
-      "title": "Vercel April 2026 security incident",
-      "score": 711,
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-      "time": "2026-04-19T14:14:38"
+      "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
+      "score": 92,
+      "url": "https://www.discovermagazine.com/up-to-8-million-bees-are-living-in-an-underground-network-beneath-this-cemetery-48977",
+      "time": "2026-04-17T20:14:30"
     },
     {
-      "title": "A Brief History of Fish Sauce",
-      "score": 167,
-      "url": "https://www.legalnomads.com/fish-sauce/",
-      "time": "2026-04-19T08:32:53"
+      "title": "Focused microwaves allow 3D printers to fuse circuits onto almost anything",
+      "score": 56,
+      "url": "https://newatlas.com/electronics/meta-nfc-focused-microwaves-circuits/",
+      "time": "2026-04-17T21:03:09"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244576,
+      "stars": 244579,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195859,
+      "stars": 195860,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 161499,
+      "stars": 161766,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148118,
+      "stars": 148120,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139015,
+      "stars": 139022,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-20T07:49:30.974757+00:00"
+  "last_updated": "2026-04-20T13:04:14.973848+00:00"
 }
