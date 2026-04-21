@@ -7,76 +7,88 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
-  "iss_position": null,
+  "nasa_apod": {
+    "title": "Three Sky Arches over Snowy Alps",
+    "date": "2026-04-21",
+    "explanation": "Why are there three arches across the sky instead of two? Last month, after being dropped off by a helicopter at a high mountain peak in the Alps near the Swiss Italian border, an adventurous astrophotographer expected two arches of our Milky Way galaxy to be visible during the night. These were the...",
+    "url": "https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_1080.jpg",
+    "media_type": "image"
+  },
+  "iss_position": {
+    "latitude": "48.73\u00b0S",
+    "longitude": "111.55\u00b0E",
+    "timestamp": "2026-04-21T12:59:01+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "Laws of Software Engineering",
+      "score": 137,
+      "url": "https://lawsofsoftwareengineering.com",
+      "time": "2026-04-21T11:04:56"
+    },
+    {
       "title": "John Ternus to become Apple CEO",
-      "score": 1644,
+      "score": 1955,
       "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
       "time": "2026-04-20T20:39:32"
     },
     {
+      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "score": 31,
+      "url": "https://vidstudio.app/video-editor",
+      "time": "2026-04-21T11:58:16"
+    },
+    {
+      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
+      "score": 43,
+      "url": "https://codemix.com/graph",
+      "time": "2026-04-21T10:33:24"
+    },
+    {
       "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "score": 109,
+      "score": 280,
       "url": "https://docs.openclaw.ai/providers/anthropic",
       "time": "2026-04-21T03:43:03"
-    },
-    {
-      "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-      "score": 108,
-      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-      "time": "2026-04-21T04:12:12"
-    },
-    {
-      "title": "The Beauty of Bonsai Styles",
-      "score": 30,
-      "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-      "time": "2026-04-21T04:31:30"
-    },
-    {
-      "title": "Louis Zocchi, inventor of the d100, has died",
-      "score": 11,
-      "url": "https://icv2.com/articles/news/view/62176/r-i-p-louis-zocchi-the-godfather-dice",
-      "time": "2026-04-21T06:19:15"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244610,
+      "stars": 244626,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195863,
+      "stars": 195864,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 162480,
+      "stars": 162779,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148127,
+      "stars": 148130,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139044,
+      "stars": 139052,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-21T07:21:17.513173+00:00"
+  "last_updated": "2026-04-21T12:58:58.551377+00:00"
 }
