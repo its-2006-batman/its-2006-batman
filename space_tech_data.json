@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "31.57\u00b0N",
-    "longitude": "120.94\u00b0E",
-    "timestamp": "2026-04-20T18:53:57+00:00",
+    "latitude": "43.80\u00b0N",
+    "longitude": "122.95\u00b0E",
+    "timestamp": "2026-04-21T01:25:10+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "John Ternus to become Apple CEO",
+      "score": 1133,
+      "url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+      "time": "2026-04-20T20:39:32"
+    },
+    {
+      "title": "Jujutsu megamerges for fun and profit",
+      "score": 117,
+      "url": "https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit",
+      "time": "2026-04-20T21:32:10"
+    },
+    {
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-      "score": 338,
+      "score": 525,
       "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
       "time": "2026-04-20T14:05:34"
     },
     {
-      "title": "At long last, InfoWars is ours",
-      "score": 300,
-      "url": "https://theonion.com/at-long-last-infowars-is-ours/",
-      "time": "2026-04-20T17:23:58"
+      "title": "Soul Player C64 \u2013 A real transformer running on a 1 MHz Commodore 64",
+      "score": 72,
+      "url": "https://github.com/gizmo64k/soulplayer-c64",
+      "time": "2026-04-20T19:51:07"
     },
     {
-      "title": "ggsql: A Grammar of Graphics for SQL",
-      "score": 252,
-      "url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-      "time": "2026-04-20T12:51:20"
-    },
-    {
-      "title": "The Theory of Interstellar Trade [pdf] (1978)",
-      "score": 52,
-      "url": "https://www.princeton.edu/~pkrugman/interstellar.pdf",
-      "time": "2026-04-20T16:57:10"
-    },
-    {
-      "title": "GitHub's Fake Star Economy",
-      "score": 567,
-      "url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-      "time": "2026-04-20T08:26:52"
+      "title": "Kimi vendor verifier \u2013 verify accuracy of inference providers",
+      "score": 155,
+      "url": "https://www.kimi.com/blog/kimi-vendor-verifier",
+      "time": "2026-04-20T18:39:53"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244588,
+      "stars": 244599,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195864,
+      "stars": 195863,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 162004,
+      "stars": 162171,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148123,
+      "stars": 148125,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139019,
+      "stars": 139037,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-20T18:53:54.913445+00:00"
+  "last_updated": "2026-04-21T01:25:08.094472+00:00"
 }
