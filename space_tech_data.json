@@ -8,50 +8,56 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Three Sky Arches over Snowy Alps",
-    "date": "2026-04-21",
-    "explanation": "Why are there three arches across the sky instead of two? Last month, after being dropped off by a helicopter at a high mountain peak in the Alps near the Swiss Italian border, an adventurous astrophotographer expected two arches of our Milky Way galaxy to be visible during the night. These were the...",
-    "url": "https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_1080.jpg",
-    "media_type": "image"
+    "title": "Earthset with an iPhone",
+    "date": "2026-04-22",
+    "explanation": "What does it mean for the Earth to set? Artemis II Commander Reid Wiseman gave us another spectacular view of Earth from their historic flyby of the Moon. Commander Wiseman's video, taken with an iPhone at 8x zoom, shows our entire planet gradually blocked from view by the Moon. On the Earth, the 24...",
+    "url": "https://youtube.com/embed/MT8tg5b3b8E?si=46r2TF9THNvtq1ep",
+    "media_type": "video"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "36.77\u00b0S",
+    "longitude": "112.79\u00b0E",
+    "timestamp": "2026-04-22T07:19:11+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "Making RAM at Home [video]",
+      "score": 222,
+      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
+      "time": "2026-04-20T23:35:06"
+    },
+    {
       "title": "ChatGPT Images 2.0",
-      "score": 403,
+      "score": 724,
       "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
       "time": "2026-04-21T18:50:00"
     },
     {
-      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
-      "score": 213,
-      "url": "https://twitter.com/spacex/status/2046713419978453374",
-      "time": "2026-04-21T22:13:18"
+      "title": "Acetaminophen vs. ibuprofen",
+      "score": 285,
+      "url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
+      "time": "2026-04-20T15:21:16"
     },
     {
-      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "score": 257,
-      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-      "time": "2026-04-21T17:14:35"
+      "title": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
+      "score": 59,
+      "url": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
+      "time": "2026-04-21T10:19:49"
     },
     {
-      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
-      "score": 71,
-      "url": "https://www.brex.com/crabtrap",
-      "time": "2026-04-21T15:29:16"
-    },
-    {
-      "title": "Windows Server 2025 Runs Better on ARM",
-      "score": 19,
-      "url": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
-      "time": "2026-04-19T04:28:31"
+      "title": "Laws of Software Engineering",
+      "score": 941,
+      "url": "https://lawsofsoftwareengineering.com",
+      "time": "2026-04-21T11:04:56"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244643,
+      "stars": 244647,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -65,24 +71,24 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 163198,
+      "stars": 163513,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148132,
+      "stars": 148135,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139068,
+      "stars": 139077,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-22T01:23:58.364961+00:00"
+  "last_updated": "2026-04-22T07:19:08.691845+00:00"
 }

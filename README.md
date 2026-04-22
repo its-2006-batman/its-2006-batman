@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  N/A                                           ║
-║  📍 LONGITUDE: N/A                                           ║
-║  ⚡ VELOCITY:  N/A                                           ║
-║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-04-22 01:24 UTC                   ║
+║  📍 LATITUDE:  36.77°S                                       ║
+║  📍 LONGITUDE: 112.79°E                                      ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ UPDATE: 2026-04-22 07:19 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Three Sky Arches over Snowy Alps                         ║
-║  DATE:  2026-04-21                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: Earthset with an iPhone                                  ║
+║  DATE:  2026-04-22                                                ║
+║  TYPE:  video                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **ChatGPT Images 2.0** (403 ⭐)
-2. **SpaceX says it has agreement to acquire Cursor for $60B** (213 ⭐)
-3. **The Vercel breach: OAuth attack exposes risk in platform env...** (257 ⭐)
+1. **Making RAM at Home [video]** (222 ⭐)
+2. **ChatGPT Images 2.0** (724 ⭐)
+3. **Acetaminophen vs. ibuprofen** (285 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (244643★)
+1. **facebook/react** (244647★)
 2. **trekhleb/javascript-algorithms** (195861★)
-3. **affaan-m/everything-claude-code** (163198★)
+3. **affaan-m/everything-claude-code** (163513★)
 <!-- LIVE_DATA_END -->
