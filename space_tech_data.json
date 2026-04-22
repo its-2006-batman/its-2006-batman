@@ -15,49 +15,49 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "48.18\u00b0N",
-    "longitude": "72.25\u00b0W",
-    "timestamp": "2026-04-22T12:59:21+00:00",
+    "latitude": "41.06\u00b0N",
+    "longitude": "122.60\u00b0E",
+    "timestamp": "2026-04-22T18:57:47+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "score": 539,
+      "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
+      "time": "2026-04-22T16:29:25"
+    },
+    {
+      "title": "Coding Models Are Doing Too Much",
+      "score": 90,
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
+      "time": "2026-04-22T17:51:17"
+    },
+    {
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "score": 386,
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "time": "2026-04-22T13:19:58"
+    },
+    {
+      "title": "5x5 Pixel font for tiny screens",
+      "score": 130,
+      "url": "https://maurycyz.com/projects/mcufont/",
+      "time": "2026-04-19T15:19:28"
+    },
+    {
       "title": "Windows 9x Subsystem for Linux",
-      "score": 279,
+      "score": 741,
       "url": "https://social.hails.org/@hailey/116446826733136456",
       "time": "2026-04-22T09:52:52"
-    },
-    {
-      "title": "3.4M Solar Panels",
-      "score": 55,
-      "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
-      "time": "2026-04-22T12:04:30"
-    },
-    {
-      "title": "GitHub CLI now collects pseudoanonymous telemetry",
-      "score": 57,
-      "url": "https://cli.github.com/telemetry",
-      "time": "2026-04-22T11:58:58"
-    },
-    {
-      "title": "Our eighth generation TPUs: two chips for the agentic era",
-      "score": 15,
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
-      "time": "2026-04-22T12:15:29"
-    },
-    {
-      "title": "How the Heck Does GPS Work?",
-      "score": 78,
-      "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
-      "time": "2026-04-22T09:22:05"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244653,
+      "stars": 244604,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,24 +71,24 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 163808,
+      "stars": 164098,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148135,
+      "stars": 148133,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139081,
+      "stars": 139087,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-22T12:59:20.702322+00:00"
+  "last_updated": "2026-04-22T18:57:44.404930+00:00"
 }
