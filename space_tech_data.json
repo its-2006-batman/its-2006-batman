@@ -7,65 +7,65 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
-  "iss_position": {
-    "latitude": "38.78\u00b0S",
-    "longitude": "55.32\u00b0W",
-    "timestamp": "2026-04-21T18:56:48+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
+  "nasa_apod": {
+    "title": "Three Sky Arches over Snowy Alps",
+    "date": "2026-04-21",
+    "explanation": "Why are there three arches across the sky instead of two? Last month, after being dropped off by a helicopter at a high mountain peak in the Alps near the Swiss Italian border, an adventurous astrophotographer expected two arches of our Milky Way galaxy to be visible during the night. These were the...",
+    "url": "https://apod.nasa.gov/apod/image/2604/TripleArchAlps_Fux_1080.jpg",
+    "media_type": "image"
   },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "ChatGPT Images 2.0",
+      "score": 403,
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "time": "2026-04-21T18:50:00"
+    },
+    {
+      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
+      "score": 213,
+      "url": "https://twitter.com/spacex/status/2046713419978453374",
+      "time": "2026-04-21T22:13:18"
+    },
+    {
       "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-      "score": 85,
+      "score": 257,
       "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
       "time": "2026-04-21T17:14:35"
     },
     {
-      "title": "Britannica11.org \u2013 a structured edition of the 1911 Encyclop\u00e6dia Britannica",
-      "score": 51,
-      "url": "https://britannica11.org/",
-      "time": "2026-04-21T17:33:50"
+      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "score": 71,
+      "url": "https://www.brex.com/crabtrap",
+      "time": "2026-04-21T15:29:16"
     },
     {
-      "title": "Framework Laptop 13 Pro",
-      "score": 154,
-      "url": "https://frame.work/laptop13pro",
-      "time": "2026-04-21T18:00:34"
-    },
-    {
-      "title": "Laws of Software Engineering",
-      "score": 650,
-      "url": "https://lawsofsoftwareengineering.com",
-      "time": "2026-04-21T11:04:56"
-    },
-    {
-      "title": "Cal.diy: open-source community edition of cal.com",
-      "score": 13,
-      "url": "https://github.com/calcom/cal.diy",
-      "time": "2026-04-21T17:58:21"
+      "title": "Windows Server 2025 Runs Better on ARM",
+      "score": 19,
+      "url": "https://jasoneckert.github.io/myblog/server-2025-arm64/",
+      "time": "2026-04-19T04:28:31"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244632,
+      "stars": 244643,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195858,
+      "stars": 195861,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 163008,
+      "stars": 163198,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -79,10 +79,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139058,
+      "stars": 139068,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-21T18:56:38.690847+00:00"
+  "last_updated": "2026-04-22T01:23:58.364961+00:00"
 }
