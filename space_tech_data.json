@@ -15,63 +15,63 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "36.77\u00b0S",
-    "longitude": "112.79\u00b0E",
-    "timestamp": "2026-04-22T07:19:11+00:00",
+    "latitude": "48.18\u00b0N",
+    "longitude": "72.25\u00b0W",
+    "timestamp": "2026-04-22T12:59:21+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Making RAM at Home [video]",
-      "score": 222,
-      "url": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-      "time": "2026-04-20T23:35:06"
+      "title": "Windows 9x Subsystem for Linux",
+      "score": 279,
+      "url": "https://social.hails.org/@hailey/116446826733136456",
+      "time": "2026-04-22T09:52:52"
     },
     {
-      "title": "ChatGPT Images 2.0",
-      "score": 724,
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-      "time": "2026-04-21T18:50:00"
+      "title": "3.4M Solar Panels",
+      "score": 55,
+      "url": "https://tech.marksblogg.com/american-solar-farms-v2.html",
+      "time": "2026-04-22T12:04:30"
     },
     {
-      "title": "Acetaminophen vs. ibuprofen",
-      "score": 285,
-      "url": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
-      "time": "2026-04-20T15:21:16"
+      "title": "GitHub CLI now collects pseudoanonymous telemetry",
+      "score": 57,
+      "url": "https://cli.github.com/telemetry",
+      "time": "2026-04-22T11:58:58"
     },
     {
-      "title": "Diverse organic molecules on Mars revealed by the first SAM TMAH experiment",
-      "score": 59,
-      "url": "https://www.courthousenews.com/preserved-for-billions-of-years-organic-compounds-found-on-mars/",
-      "time": "2026-04-21T10:19:49"
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "score": 15,
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "time": "2026-04-22T12:15:29"
     },
     {
-      "title": "Laws of Software Engineering",
-      "score": 941,
-      "url": "https://lawsofsoftwareengineering.com",
-      "time": "2026-04-21T11:04:56"
+      "title": "How the Heck Does GPS Work?",
+      "score": 78,
+      "url": "https://perthirtysix.com/how-the-heck-does-gps-work",
+      "time": "2026-04-22T09:22:05"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244647,
+      "stars": 244653,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195861,
+      "stars": 195867,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 163513,
+      "stars": 163808,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139077,
+      "stars": 139081,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-22T07:19:08.691845+00:00"
+  "last_updated": "2026-04-22T12:59:20.702322+00:00"
 }
