@@ -7,71 +7,65 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "Earthset with an iPhone",
-    "date": "2026-04-22",
-    "explanation": "What does it mean for the Earth to set? Artemis II Commander Reid Wiseman gave us another spectacular view of Earth from their historic flyby of the Moon. Commander Wiseman's video, taken with an iPhone at 8x zoom, shows our entire planet gradually blocked from view by the Moon. On the Earth, the 24...",
-    "url": "https://youtube.com/embed/MT8tg5b3b8E?si=46r2TF9THNvtq1ep",
-    "media_type": "video"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "41.06\u00b0N",
-    "longitude": "122.60\u00b0E",
-    "timestamp": "2026-04-22T18:57:47+00:00",
+    "latitude": "34.13\u00b0N",
+    "longitude": "126.98\u00b0E",
+    "timestamp": "2026-04-23T01:29:19+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Alberta startup sells no-tech tractors for half price",
-      "score": 539,
+      "score": 1290,
       "url": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
       "time": "2026-04-22T16:29:25"
     },
     {
-      "title": "Coding Models Are Doing Too Much",
-      "score": 90,
-      "url": "https://nrehiew.github.io/blog/minimal_editing/",
-      "time": "2026-04-22T17:51:17"
+      "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+      "score": 337,
+      "url": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+      "time": "2026-04-22T20:27:31"
+    },
+    {
+      "title": "We found a stable Firefox identifier linking all your private Tor identities",
+      "score": 411,
+      "url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+      "time": "2026-04-22T17:35:03"
     },
     {
       "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "score": 386,
+      "score": 679,
       "url": "https://qwen.ai/blog?id=qwen3.6-27b",
       "time": "2026-04-22T13:19:58"
     },
     {
       "title": "5x5 Pixel font for tiny screens",
-      "score": 130,
+      "score": 413,
       "url": "https://maurycyz.com/projects/mcufont/",
       "time": "2026-04-19T15:19:28"
-    },
-    {
-      "title": "Windows 9x Subsystem for Linux",
-      "score": 741,
-      "url": "https://social.hails.org/@hailey/116446826733136456",
-      "time": "2026-04-22T09:52:52"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244604,
+      "stars": 244609,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195867,
+      "stars": 195866,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 164098,
+      "stars": 164294,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +79,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139087,
+      "stars": 139092,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-22T18:57:44.404930+00:00"
+  "last_updated": "2026-04-23T01:29:09.848816+00:00"
 }
