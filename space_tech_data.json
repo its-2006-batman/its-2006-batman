@@ -8,70 +8,70 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Large Scale Structure of the Universe",
-    "date": "2026-04-23",
-    "explanation": "This is a map of the universe. The Dark Energy Spectroscopic Instrument (DESI) at Kitt Peak National Observatory, Arizona, has finished its five-year survey. It observed more than 47 million galaxies and quasars and created a 3D map centered on the Earth. Today's featured image shows a thin slice of...",
-    "url": "https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg",
+    "title": "Young Moon and Sister Stars",
+    "date": "2026-04-24",
+    "explanation": "Sunlit arms of a crescent moon seem to embrace the faint lunar night side in this dramatic celestial scene from planet Earth. The single telephoto exposure tracking the sky was captured on the night of April 19, when a two day old Moon was near perigee in its elliptical orbit. On that date, the youn...",
+    "url": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "36.02\u00b0S",
-    "longitude": "61.46\u00b0W",
-    "timestamp": "2026-04-24T01:28:35+00:00",
+    "latitude": "15.55\u00b0S",
+    "longitude": "135.33\u00b0W",
+    "timestamp": "2026-04-24T07:47:34+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "DeepSeek v4",
+      "score": 725,
+      "url": "https://api-docs.deepseek.com/",
+      "time": "2026-04-24T03:01:21"
+    },
+    {
+      "title": "Why I Write (1946)",
+      "score": 143,
+      "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
+      "time": "2026-04-24T02:26:23"
+    },
+    {
+      "title": "Composition Shouldn't be this Hard",
+      "score": 7,
+      "url": "https://www.cambra.dev/blog/announcement/",
+      "time": "2026-04-24T07:22:31"
+    },
+    {
+      "title": "An update on recent Claude Code quality reports",
+      "score": 702,
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "time": "2026-04-23T17:48:38"
+    },
+    {
       "title": "GPT-5.5",
-      "score": 1068,
+      "score": 1324,
       "url": "https://openai.com/index/introducing-gpt-5-5/",
       "time": "2026-04-23T18:01:39"
-    },
-    {
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "score": 637,
-      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-      "time": "2026-04-23T14:17:08"
-    },
-    {
-      "title": "Show HN: Tolaria \u2013 open-source macOS app to manage Markdown knowledge bases",
-      "score": 86,
-      "url": "https://github.com/refactoringhq/tolaria",
-      "time": "2026-04-23T22:01:59"
-    },
-    {
-      "title": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market",
-      "score": 192,
-      "url": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
-      "time": "2026-04-23T22:37:01"
-    },
-    {
-      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "score": 150,
-      "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "time": "2026-04-23T16:55:13"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244636,
+      "stars": 244648,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195869,
+      "stars": 195872,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 165362,
+      "stars": 165686,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139118,
+      "stars": 139127,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-24T01:28:32.766517+00:00"
+  "last_updated": "2026-04-24T07:47:33.805330+00:00"
 }
