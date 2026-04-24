@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "33.55\u00b0S",
-    "longitude": "74.47\u00b0W",
-    "timestamp": "2026-04-23T18:54:37+00:00",
+    "latitude": "36.02\u00b0S",
+    "longitude": "61.46\u00b0W",
+    "timestamp": "2026-04-24T01:28:35+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "GPT-5.5",
-      "score": 337,
+      "score": 1068,
       "url": "https://openai.com/index/introducing-gpt-5-5/",
       "time": "2026-04-23T18:01:39"
     },
     {
-      "title": "An update on recent Claude Code quality reports",
-      "score": 187,
-      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "time": "2026-04-23T17:48:38"
-    },
-    {
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "score": 416,
+      "score": 637,
       "url": "https://socket.dev/blog/bitwarden-cli-compromised",
       "time": "2026-04-23T14:17:08"
     },
     {
-      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "score": 47,
-      "url": "https://blog.meshcore.io/2026/04/23/the-split",
-      "time": "2026-04-23T16:55:13"
+      "title": "Show HN: Tolaria \u2013 open-source macOS app to manage Markdown knowledge bases",
+      "score": 86,
+      "url": "https://github.com/refactoringhq/tolaria",
+      "time": "2026-04-23T22:01:59"
     },
     {
-      "title": "Incident with multple GitHub services",
-      "score": 102,
-      "url": "https://www.githubstatus.com/incidents/myrbk7jvvs6p",
-      "time": "2026-04-23T16:21:55"
+      "title": "U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market",
+      "score": 192,
+      "url": "https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0",
+      "time": "2026-04-23T22:37:01"
+    },
+    {
+      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+      "score": 150,
+      "url": "https://blog.meshcore.io/2026/04/23/the-split",
+      "time": "2026-04-23T16:55:13"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244624,
+      "stars": 244636,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195867,
+      "stars": 195869,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 165139,
+      "stars": 165362,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148133,
+      "stars": 148134,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139109,
+      "stars": 139118,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-23T18:54:35.158187+00:00"
+  "last_updated": "2026-04-24T01:28:32.766517+00:00"
 }
