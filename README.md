@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  15.55°S                                       ║
-║  📍 LONGITUDE: 135.33°W                                      ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-04-24 07:47 UTC                   ║
+║  📍 LATITUDE:  N/A                                           ║
+║  📍 LONGITUDE: N/A                                           ║
+║  ⚡ VELOCITY:  N/A                                           ║
+║  🌍 ALTITUDE:  N/A                                           ║
+║  ⏰ UPDATE: 2026-04-24 12:57 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Young Moon and Sister Stars                              ║
-║  DATE:  2026-04-24                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **DeepSeek v4** (725 ⭐)
-2. **Why I Write (1946)** (143 ⭐)
-3. **Composition Shouldn't be this Hard** (7 ⭐)
+1. **UK Biobank leak: Health details of 500 000 people are offere...** (96 ⭐)
+2. **S. Korea police arrest man over AI image of runaway wolf tha...** (131 ⭐)
+3. **Aspartame is not that bad?** (19 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (244648★)
-2. **trekhleb/javascript-algorithms** (195872★)
-3. **affaan-m/everything-claude-code** (165686★)
+1. **facebook/react** (244653★)
+2. **trekhleb/javascript-algorithms** (195876★)
+3. **affaan-m/everything-claude-code** (165905★)
 <!-- LIVE_DATA_END -->
