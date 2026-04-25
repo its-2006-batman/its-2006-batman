@@ -7,88 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "The Persistence of Sunlight",
-    "date": "2026-04-25",
-    "explanation": "This seaside sunset offered a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth. The Daliesque scene is a composition of sequential exposures made with a camera and long telephoto lens. The Sun is not melting, though. Its shifting and fluid appea...",
-    "url": "https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "13.29\u00b0S",
-    "longitude": "127.69\u00b0W",
-    "timestamp": "2026-04-25T07:01:50+00:00",
+    "latitude": "20.72\u00b0S",
+    "longitude": "4.96\u00b0W",
+    "timestamp": "2026-04-25T12:38:16+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Google plans to invest up to $40B in Anthropic",
-      "score": 516,
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "time": "2026-04-24T16:04:41"
-    },
-    {
-      "title": "A 3D Body from Eight Questions \u2013 No Photo, No GPU",
-      "score": 27,
-      "url": "https://clad.you/blog/posts/questionnaire-mlp/",
-      "time": "2026-04-22T12:20:01"
-    },
-    {
-      "title": "Paraloid B-72",
-      "score": 142,
-      "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-      "time": "2026-04-22T04:17:07"
-    },
-    {
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "score": 11,
+      "score": 269,
       "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
       "time": "2026-04-25T05:56:12"
     },
     {
-      "title": "Humpback whales are forming super-groups",
-      "score": 82,
-      "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-      "time": "2026-04-22T02:55:49"
+      "title": "Google plans to invest up to $40B in Anthropic",
+      "score": 636,
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "time": "2026-04-24T16:04:41"
+    },
+    {
+      "title": "How to Implement an FPS Counter",
+      "score": 50,
+      "url": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
+      "time": "2026-04-22T01:31:17"
+    },
+    {
+      "title": "A 3D Body from Eight Questions \u2013 No Photo, No GPU",
+      "score": 86,
+      "url": "https://clad.you/blog/posts/questionnaire-mlp/",
+      "time": "2026-04-22T12:20:01"
+    },
+    {
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "score": 104,
+      "url": "https://github.com/nex-crm/wuphf",
+      "time": "2026-04-25T08:53:53"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244661,
+      "stars": 244666,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195877,
+      "stars": 195875,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 166465,
+      "stars": 166645,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148131,
+      "stars": 148130,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139146,
+      "stars": 139150,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-25T07:01:49.953425+00:00"
+  "last_updated": "2026-04-25T12:38:10.201731+00:00"
 }
