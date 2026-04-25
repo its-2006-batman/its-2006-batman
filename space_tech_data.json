@@ -7,51 +7,45 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "Young Moon and Sister Stars",
-    "date": "2026-04-24",
-    "explanation": "Sunlit arms of a crescent moon seem to embrace the faint lunar night side in this dramatic celestial view from planet Earth. The single telephoto exposure tracking the sky was captured on the night of April 19, when a two day old Moon was near perigee in its elliptical orbit. On that date, the young...",
-    "url": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Google plans to invest up to $40B in Anthropic",
+      "score": 307,
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "time": "2026-04-24T16:04:41"
+    },
+    {
+      "title": "My audio interface has SSH enabled by default",
+      "score": 152,
+      "url": "https://hhh.hn/rodecaster-duo-fw/",
+      "time": "2026-04-24T19:30:46"
+    },
+    {
+      "title": "Iliad fragment found in Roman-era mummy",
+      "score": 93,
+      "url": "https://www.thehistoryblog.com/archives/75877",
+      "time": "2026-04-22T14:18:35"
+    },
+    {
+      "title": "The Classic American Diner",
+      "score": 154,
+      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
+      "time": "2026-04-24T19:01:09"
+    },
+    {
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "score": 232,
+      "score": 351,
       "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
       "time": "2026-04-24T14:28:52"
-    },
-    {
-      "title": "SDL Now Supports DOS",
-      "score": 104,
-      "url": "https://github.com/libsdl-org/SDL/pull/15377",
-      "time": "2026-04-24T16:20:15"
-    },
-    {
-      "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
-      "score": 412,
-      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "time": "2026-04-24T15:59:19"
-    },
-    {
-      "title": "DeepSeek v4",
-      "score": 1630,
-      "url": "https://api-docs.deepseek.com/",
-      "time": "2026-04-24T03:01:21"
-    },
-    {
-      "title": "I'm done making desktop applications (2009)",
-      "score": 93,
-      "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
-      "time": "2026-04-24T15:44:03"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244652,
+      "stars": 244658,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -65,24 +59,24 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 166125,
+      "stars": 166274,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148129,
+      "stars": 148130,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139140,
+      "stars": 139141,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-24T18:36:03.762442+00:00"
+  "last_updated": "2026-04-25T01:21:35.367419+00:00"
 }
