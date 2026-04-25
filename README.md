@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  N/A                                           ║
-║  📍 LONGITUDE: N/A                                           ║
-║  ⚡ VELOCITY:  N/A                                           ║
-║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-04-25 01:21 UTC                   ║
+║  📍 LATITUDE:  13.29°S                                       ║
+║  📍 LONGITUDE: 127.69°W                                      ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ UPDATE: 2026-04-25 07:01 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: The Persistence of Sunlight                              ║
+║  DATE:  2026-04-25                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Google plans to invest up to $40B in Anthropic** (307 ⭐)
-2. **My audio interface has SSH enabled by default** (152 ⭐)
-3. **Iliad fragment found in Roman-era mummy** (93 ⭐)
+1. **Google plans to invest up to $40B in Anthropic** (516 ⭐)
+2. **A 3D Body from Eight Questions – No Photo, No GPU** (27 ⭐)
+3. **Paraloid B-72** (142 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (244658★)
-2. **trekhleb/javascript-algorithms** (195874★)
-3. **affaan-m/everything-claude-code** (166274★)
+1. **facebook/react** (244661★)
+2. **trekhleb/javascript-algorithms** (195877★)
+3. **affaan-m/everything-claude-code** (166465★)
 <!-- LIVE_DATA_END -->

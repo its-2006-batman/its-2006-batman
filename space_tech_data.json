@@ -7,76 +7,88 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
-  "iss_position": null,
+  "nasa_apod": {
+    "title": "The Persistence of Sunlight",
+    "date": "2026-04-25",
+    "explanation": "This seaside sunset offered a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth. The Daliesque scene is a composition of sequential exposures made with a camera and long telephoto lens. The Sun is not melting, though. Its shifting and fluid appea...",
+    "url": "https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg",
+    "media_type": "image"
+  },
+  "iss_position": {
+    "latitude": "13.29\u00b0S",
+    "longitude": "127.69\u00b0W",
+    "timestamp": "2026-04-25T07:01:50+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
       "title": "Google plans to invest up to $40B in Anthropic",
-      "score": 307,
+      "score": 516,
       "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
       "time": "2026-04-24T16:04:41"
     },
     {
-      "title": "My audio interface has SSH enabled by default",
-      "score": 152,
-      "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "time": "2026-04-24T19:30:46"
+      "title": "A 3D Body from Eight Questions \u2013 No Photo, No GPU",
+      "score": 27,
+      "url": "https://clad.you/blog/posts/questionnaire-mlp/",
+      "time": "2026-04-22T12:20:01"
     },
     {
-      "title": "Iliad fragment found in Roman-era mummy",
-      "score": 93,
-      "url": "https://www.thehistoryblog.com/archives/75877",
-      "time": "2026-04-22T14:18:35"
+      "title": "Paraloid B-72",
+      "score": 142,
+      "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+      "time": "2026-04-22T04:17:07"
     },
     {
-      "title": "The Classic American Diner",
-      "score": 154,
-      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-      "time": "2026-04-24T19:01:09"
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "score": 11,
+      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+      "time": "2026-04-25T05:56:12"
     },
     {
-      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "score": 351,
-      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "time": "2026-04-24T14:28:52"
+      "title": "Humpback whales are forming super-groups",
+      "score": 82,
+      "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
+      "time": "2026-04-22T02:55:49"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244658,
+      "stars": 244661,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195874,
+      "stars": 195877,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 166274,
+      "stars": 166465,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148130,
+      "stars": 148131,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139141,
+      "stars": 139146,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-25T01:21:35.367419+00:00"
+  "last_updated": "2026-04-25T07:01:49.953425+00:00"
 }
