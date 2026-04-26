@@ -14,75 +14,81 @@
     "url": "https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "20.82\u00b0S",
+    "longitude": "43.24\u00b0E",
+    "timestamp": "2026-04-26T18:35:57+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Statecharts: hierarchical state machines",
-      "score": 76,
-      "url": "https://statecharts.dev/",
-      "time": "2026-04-26T09:32:22"
-    },
-    {
       "title": "Asahi Linux Progress Linux 7.0",
-      "score": 36,
+      "score": 471,
       "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
       "time": "2026-04-26T10:50:32"
     },
     {
-      "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
-      "score": 459,
-      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "time": "2026-04-25T17:40:38"
+      "title": "Clay PCB Tutorial",
+      "score": 112,
+      "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+      "time": "2026-04-26T16:02:14"
     },
     {
-      "title": "Why has there been so little progress on Alzheimer's disease?",
-      "score": 276,
-      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
-      "time": "2026-04-26T00:12:47"
+      "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
+      "score": 138,
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "time": "2026-04-26T13:58:13"
     },
     {
-      "title": "The West forgot how to make things, now it\u2019s forgetting how to code",
-      "score": 568,
-      "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-      "time": "2026-04-26T06:24:42"
+      "title": "The Visible Zorker: Zork 1",
+      "score": 23,
+      "url": "https://eblong.com/infocom/visi/zork1/",
+      "time": "2026-04-26T16:42:19"
+    },
+    {
+      "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
+      "score": 25,
+      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+      "time": "2026-04-26T16:57:56"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244694,
+      "stars": 244702,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195878,
+      "stars": 195876,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 167288,
+      "stars": 167498,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148135,
+      "stars": 148130,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139175,
+      "stars": 139181,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-26T12:40:14.741537+00:00"
+  "last_updated": "2026-04-26T18:35:56.209386+00:00"
 }
