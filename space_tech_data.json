@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "23.20\u00b0N",
-    "longitude": "132.94\u00b0W",
-    "timestamp": "2026-04-25T18:35:08+00:00",
+    "latitude": "5.01\u00b0N",
+    "longitude": "37.75\u00b0W",
+    "timestamp": "2026-04-26T01:42:40+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Niri 26.04 was just released (scrollable-tiling Wayland compositor)",
-      "score": 125,
-      "url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
-      "time": "2026-04-25T15:59:15"
+      "title": "Why has there been so little progress on Alzheimer's disease?",
+      "score": 54,
+      "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+      "time": "2026-04-26T00:12:47"
     },
     {
-      "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-      "score": 351,
-      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-      "time": "2026-04-22T13:46:23"
+      "title": "USB Cheat Sheet (2022)",
+      "score": 157,
+      "url": "https://fabiensanglard.net/usbcheat/index.html",
+      "time": "2026-04-25T21:51:18"
     },
     {
       "title": "The Free Universal Construction Kit",
-      "score": 54,
+      "score": 271,
       "url": "https://fffff.at/free-universal-construction-kit/",
       "time": "2026-04-22T07:20:23"
     },
     {
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "score": 443,
-      "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
-      "time": "2026-04-25T05:56:12"
+      "title": "Agents Aren't Coworkers, Embed Them in Your Software",
+      "score": 29,
+      "url": "https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software",
+      "time": "2026-04-25T23:53:40"
     },
     {
-      "title": "Martin Galway's music source files from 1980's Commodore 64 games",
-      "score": 117,
-      "url": "https://github.com/MartinGalway/C64_music",
-      "time": "2026-04-25T10:46:14"
+      "title": "OpenAI Privacy Filter",
+      "score": 82,
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "time": "2026-04-23T00:14:55"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244671,
+      "stars": 244674,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195877,
+      "stars": 195879,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 166850,
+      "stars": 166980,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148133,
+      "stars": 148135,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139155,
+      "stars": 139160,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-25T18:35:05.451812+00:00"
+  "last_updated": "2026-04-26T01:42:34.576342+00:00"
 }
