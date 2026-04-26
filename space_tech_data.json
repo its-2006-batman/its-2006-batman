@@ -8,87 +8,87 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "The Persistence of Sunlight",
-    "date": "2026-04-25",
-    "explanation": "This seaside sunset offered a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth. The Daliesque scene is a composition of sequential exposures made with a camera and long telephoto lens. The Sun is not melting, though. Its shifting and fluid appea...",
-    "url": "https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg",
+    "title": "Mystic Mountain Monster being Destroyed",
+    "date": "2026-04-26",
+    "explanation": "Inside the head of this interstellar monster is a star that is slowly destroying it.  The huge monster, actually an inanimate series of pillars of gas and dust, measures light years in length.  The in-head star is not itself visible through the opaque interstellar dust but is bursting out partly by ...",
+    "url": "https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "5.01\u00b0N",
-    "longitude": "37.75\u00b0W",
-    "timestamp": "2026-04-26T01:42:40+00:00",
+    "latitude": "30.01\u00b0S",
+    "longitude": "80.69\u00b0E",
+    "timestamp": "2026-04-26T07:16:21+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
+      "score": 28,
+      "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+      "time": "2026-04-26T06:24:42"
+    },
+    {
+      "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
+      "score": 296,
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "time": "2026-04-25T17:40:38"
+    },
+    {
       "title": "Why has there been so little progress on Alzheimer's disease?",
-      "score": 54,
+      "score": 195,
       "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
       "time": "2026-04-26T00:12:47"
     },
     {
       "title": "USB Cheat Sheet (2022)",
-      "score": 157,
+      "score": 264,
       "url": "https://fabiensanglard.net/usbcheat/index.html",
       "time": "2026-04-25T21:51:18"
     },
     {
-      "title": "The Free Universal Construction Kit",
-      "score": 271,
-      "url": "https://fffff.at/free-universal-construction-kit/",
-      "time": "2026-04-22T07:20:23"
-    },
-    {
-      "title": "Agents Aren't Coworkers, Embed Them in Your Software",
-      "score": 29,
-      "url": "https://www.feldera.com/blog/ai-agents-arent-coworkers-embed-them-in-your-software",
-      "time": "2026-04-25T23:53:40"
-    },
-    {
-      "title": "OpenAI Privacy Filter",
-      "score": 82,
-      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-      "time": "2026-04-23T00:14:55"
+      "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+      "score": 195,
+      "url": "https://news.ycombinator.com/item?id=47906253",
+      "time": "2026-04-26T00:50:56"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244674,
+      "stars": 244683,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195879,
+      "stars": 195881,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 166980,
+      "stars": 167125,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148135,
+      "stars": 148134,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139160,
+      "stars": 139166,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-26T01:42:34.576342+00:00"
+  "last_updated": "2026-04-26T07:16:14.334362+00:00"
 }
