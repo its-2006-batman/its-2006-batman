@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "5.47\u00b0S",
-    "longitude": "131.82\u00b0E",
-    "timestamp": "2026-04-27T13:15:52+00:00",
+    "latitude": "50.22\u00b0S",
+    "longitude": "59.95\u00b0W",
+    "timestamp": "2026-04-27T19:03:06+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Pgbackrest is no longer being maintained",
-      "score": 174,
-      "url": "https://github.com/pgbackrest/pgbackrest",
-      "time": "2026-04-27T10:56:34"
+      "title": "GitHub is having issues now",
+      "score": 137,
+      "url": "https://www.githubstatus.com",
+      "time": "2026-04-27T17:42:19"
     },
     {
-      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-      "score": 28,
-      "url": "https://github.com/dirac-run/dirac",
-      "time": "2026-04-27T12:35:55"
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "score": 499,
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "time": "2026-04-27T13:22:42"
     },
     {
-      "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
-      "score": 96,
-      "url": "https://github.com/WeebLabs/DSPi",
-      "time": "2026-04-25T13:28:29"
+      "title": "Super ZSNES \u2013 GPU Powered SNES Emulator",
+      "score": 64,
+      "url": "https://zsnes.com/",
+      "time": "2026-04-27T17:50:10"
     },
     {
-      "title": "Flipdiscs",
-      "score": 371,
-      "url": "https://flipdisc.io",
-      "time": "2026-04-23T13:54:31"
+      "title": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
+      "score": 53,
+      "url": "https://github.com/Hanqaqa/Easyduino",
+      "time": "2026-04-27T17:45:02"
     },
     {
-      "title": "Men Who Stare at Walls",
-      "score": 28,
-      "url": "https://www.alexselimov.com/posts/men_who_stare_at_walls/",
-      "time": "2026-04-27T11:08:26"
+      "title": "\u201cWhy not just use Lean?\u201d",
+      "score": 183,
+      "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+      "time": "2026-04-27T14:24:53"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244720,
+      "stars": 244726,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195883,
+      "stars": 195886,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 168110,
+      "stars": 168269,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148128,
+      "stars": 148129,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139184,
+      "stars": 139189,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-27T13:15:50.313144+00:00"
+  "last_updated": "2026-04-27T19:03:06.292831+00:00"
 }
