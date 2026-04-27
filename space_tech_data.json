@@ -8,77 +8,77 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Mystic Mountain Monster being Destroyed",
-    "date": "2026-04-26",
-    "explanation": "Inside the head of this interstellar monster is a star that is slowly destroying it.  The huge monster, actually an inanimate series of pillars of gas and dust, measures light years in length.  The in-head star is not itself visible through the opaque interstellar dust but is bursting out partly by ...",
-    "url": "https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg",
+    "title": "Comet R3 PanSTARRS Behind Satellite Trails",
+    "date": "2026-04-27",
+    "explanation": "Can you find the comet? Somewhere through this web of satellite trails is Comet C/2025 R3 (PanSTARRS), a bright visitor passing through the inner Solar System. Now, the orbiting satellites themselves only appear as streaks because of the long camera exposure, over 10 minutes in this case. On the con...",
+    "url": "https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "14.63\u00b0S",
-    "longitude": "143.48\u00b0E",
-    "timestamp": "2026-04-27T01:45:45+00:00",
+    "latitude": "33.26\u00b0S",
+    "longitude": "66.73\u00b0E",
+    "timestamp": "2026-04-27T08:03:57+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Flipdiscs",
+      "score": 194,
+      "url": "https://flipdisc.io",
+      "time": "2026-04-23T13:54:31"
+    },
+    {
       "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
-      "score": 385,
+      "score": 731,
       "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
       "time": "2026-04-26T20:41:06"
     },
     {
+      "title": "TurboQuant: A first-principles walkthrough",
+      "score": 120,
+      "url": "https://arkaung.github.io/interactive-turboquant/",
+      "time": "2026-04-27T01:54:32"
+    },
+    {
       "title": "Self-updating screenshots",
-      "score": 47,
+      "score": 258,
       "url": "https://interblah.net/self-updating-screenshots",
       "time": "2026-04-26T07:00:39"
     },
     {
-      "title": "Three constraints before I build anything",
-      "score": 32,
-      "url": "https://jordanlord.co.uk/blog/3-constraints/",
-      "time": "2026-04-25T18:41:03"
-    },
-    {
-      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-      "score": 150,
-      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-      "time": "2026-04-26T20:18:37"
-    },
-    {
-      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
-      "score": 51,
-      "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
-      "time": "2026-04-27T00:34:30"
+      "title": "AI should elevate your thinking, not replace it",
+      "score": 448,
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "time": "2026-04-26T20:03:12"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244708,
+      "stars": 244715,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195877,
+      "stars": 195882,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 167650,
+      "stars": 167913,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148131,
+      "stars": 148129,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
@@ -90,5 +90,5 @@
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-27T01:45:44.620453+00:00"
+  "last_updated": "2026-04-27T08:03:55.207162+00:00"
 }
