@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "20.82\u00b0S",
-    "longitude": "43.24\u00b0E",
-    "timestamp": "2026-04-26T18:35:57+00:00",
+    "latitude": "14.63\u00b0S",
+    "longitude": "143.48\u00b0E",
+    "timestamp": "2026-04-27T01:45:45+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Asahi Linux Progress Linux 7.0",
-      "score": 471,
-      "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
-      "time": "2026-04-26T10:50:32"
+      "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
+      "score": 385,
+      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "time": "2026-04-26T20:41:06"
     },
     {
-      "title": "Clay PCB Tutorial",
-      "score": 112,
-      "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-      "time": "2026-04-26T16:02:14"
+      "title": "Self-updating screenshots",
+      "score": 47,
+      "url": "https://interblah.net/self-updating-screenshots",
+      "time": "2026-04-26T07:00:39"
     },
     {
-      "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
-      "score": 138,
-      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-      "time": "2026-04-26T13:58:13"
+      "title": "Three constraints before I build anything",
+      "score": 32,
+      "url": "https://jordanlord.co.uk/blog/3-constraints/",
+      "time": "2026-04-25T18:41:03"
     },
     {
-      "title": "The Visible Zorker: Zork 1",
-      "score": 23,
-      "url": "https://eblong.com/infocom/visi/zork1/",
-      "time": "2026-04-26T16:42:19"
+      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "score": 150,
+      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+      "time": "2026-04-26T20:18:37"
     },
     {
-      "title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
-      "score": 25,
-      "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-      "time": "2026-04-26T16:57:56"
+      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+      "score": 51,
+      "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
+      "time": "2026-04-27T00:34:30"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244702,
+      "stars": 244708,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195876,
+      "stars": 195877,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 167498,
+      "stars": 167650,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148130,
+      "stars": 148131,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139181,
+      "stars": 139180,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-26T18:35:56.209386+00:00"
+  "last_updated": "2026-04-27T01:45:44.620453+00:00"
 }
