@@ -15,49 +15,49 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "50.22\u00b0S",
-    "longitude": "59.95\u00b0W",
-    "timestamp": "2026-04-27T19:03:06+00:00",
+    "latitude": "35.82\u00b0N",
+    "longitude": "21.43\u00b0W",
+    "timestamp": "2026-04-28T01:53:18+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "GitHub is having issues now",
-      "score": 137,
-      "url": "https://www.githubstatus.com",
-      "time": "2026-04-27T17:42:19"
+      "title": "New Integrated by Design FreeBSD Book",
+      "score": 63,
+      "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
+      "time": "2026-04-27T23:14:26"
     },
     {
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "score": 499,
+      "score": 752,
       "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
       "time": "2026-04-27T13:22:42"
     },
     {
-      "title": "Super ZSNES \u2013 GPU Powered SNES Emulator",
-      "score": 64,
-      "url": "https://zsnes.com/",
-      "time": "2026-04-27T17:50:10"
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "score": 77,
+      "url": "https://talkie-lm.com/introducing-talkie",
+      "time": "2026-04-27T21:55:48"
     },
     {
-      "title": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
-      "score": 53,
-      "url": "https://github.com/Hanqaqa/Easyduino",
-      "time": "2026-04-27T17:45:02"
+      "title": "Generative AI Vegetarianism",
+      "score": 28,
+      "url": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
+      "time": "2026-04-28T00:07:39"
     },
     {
-      "title": "\u201cWhy not just use Lean?\u201d",
-      "score": 183,
-      "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
-      "time": "2026-04-27T14:24:53"
+      "title": "I quit drinking for a year",
+      "score": 9,
+      "url": "https://dynomight.net/drinking/",
+      "time": "2026-04-28T01:26:03"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244726,
+      "stars": 244731,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,24 +71,24 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 168269,
+      "stars": 168427,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148129,
+      "stars": 148128,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139189,
+      "stars": 139192,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-27T19:03:06.292831+00:00"
+  "last_updated": "2026-04-28T01:53:17.708382+00:00"
 }
