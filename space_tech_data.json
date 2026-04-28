@@ -8,56 +8,56 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Comet R3 PanSTARRS Behind Satellite Trails",
-    "date": "2026-04-27",
-    "explanation": "Can you find the comet? Somewhere through this web of satellite trails is Comet C/2025 R3 (PanSTARRS), a bright visitor passing through the inner Solar System. Now, the orbiting satellites themselves only appear as streaks because of the long camera exposure, over 10 minutes in this case. On the con...",
-    "url": "https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_960.jpg",
+    "title": "CG 30: Cometary Globules",
+    "date": "2026-04-28",
+    "explanation": "They're like mountain peaks, but they are forming stars. Bright-rimmed, flowing shapes gather near the center of this rich starfield toward the borders of the nautical southern constellations Puppis and Vela. Composed of interstellar gas and  dust, the grouping of light-year sized cometary globules ...",
+    "url": "https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "35.82\u00b0N",
-    "longitude": "21.43\u00b0W",
-    "timestamp": "2026-04-28T01:53:18+00:00",
+    "latitude": "36.58\u00b0N",
+    "longitude": "114.81\u00b0W",
+    "timestamp": "2026-04-28T08:05:11+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "New Integrated by Design FreeBSD Book",
-      "score": 63,
-      "url": "https://vivianvoss.net/blog/integrated-by-design-launch",
-      "time": "2026-04-27T23:14:26"
-    },
-    {
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "score": 752,
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "time": "2026-04-27T13:22:42"
+      "title": "GTFOBins",
+      "score": 88,
+      "url": "https://gtfobins.org/",
+      "time": "2026-04-28T06:27:39"
     },
     {
       "title": "Talkie: a 13B vintage language model from 1930",
-      "score": 77,
+      "score": 313,
       "url": "https://talkie-lm.com/introducing-talkie",
       "time": "2026-04-27T21:55:48"
     },
     {
-      "title": "Generative AI Vegetarianism",
-      "score": 28,
-      "url": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
-      "time": "2026-04-28T00:07:39"
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "score": 859,
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "time": "2026-04-27T13:22:42"
     },
     {
-      "title": "I quit drinking for a year",
-      "score": 9,
-      "url": "https://dynomight.net/drinking/",
-      "time": "2026-04-28T01:26:03"
+      "title": "Is my blue your blue?",
+      "score": 493,
+      "url": "https://ismy.blue/",
+      "time": "2026-04-27T20:24:33"
+    },
+    {
+      "title": "Pgrx: Build Postgres Extensions with Rust",
+      "score": 66,
+      "url": "https://github.com/pgcentralfoundation/pgrx",
+      "time": "2026-04-25T08:16:19"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244731,
+      "stars": 244736,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,24 +71,24 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 168427,
+      "stars": 168740,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148128,
+      "stars": 148126,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139192,
+      "stars": 139195,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-28T01:53:17.708382+00:00"
+  "last_updated": "2026-04-28T08:05:06.766484+00:00"
 }
