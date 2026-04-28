@@ -15,63 +15,63 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "36.58\u00b0N",
-    "longitude": "114.81\u00b0W",
-    "timestamp": "2026-04-28T08:05:11+00:00",
+    "latitude": "27.30\u00b0S",
+    "longitude": "28.41\u00b0W",
+    "timestamp": "2026-04-28T13:26:47+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "GTFOBins",
-      "score": 88,
-      "url": "https://gtfobins.org/",
-      "time": "2026-04-28T06:27:39"
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "score": 144,
+      "url": "https://github.com/localsend/localsend",
+      "time": "2026-04-28T11:54:20"
+    },
+    {
+      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+      "score": 58,
+      "url": "https://github.com/microsoft/VibeVoice",
+      "time": "2026-04-28T11:56:04"
+    },
+    {
+      "title": "The World's Most Complex Machine",
+      "score": 152,
+      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+      "time": "2026-04-25T12:47:32"
     },
     {
       "title": "Talkie: a 13B vintage language model from 1930",
-      "score": 313,
+      "score": 455,
       "url": "https://talkie-lm.com/introducing-talkie",
       "time": "2026-04-27T21:55:48"
     },
     {
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "score": 859,
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "time": "2026-04-27T13:22:42"
-    },
-    {
-      "title": "Is my blue your blue?",
-      "score": 493,
-      "url": "https://ismy.blue/",
-      "time": "2026-04-27T20:24:33"
-    },
-    {
-      "title": "Pgrx: Build Postgres Extensions with Rust",
-      "score": 66,
-      "url": "https://github.com/pgcentralfoundation/pgrx",
-      "time": "2026-04-25T08:16:19"
+      "title": "UAE to leave OPEC in blow to oil cartel",
+      "score": 28,
+      "url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
+      "time": "2026-04-28T13:02:01"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244736,
+      "stars": 244740,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195886,
+      "stars": 195890,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 168740,
+      "stars": 168985,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139195,
+      "stars": 139202,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-28T08:05:06.766484+00:00"
+  "last_updated": "2026-04-28T13:26:46.861588+00:00"
 }
