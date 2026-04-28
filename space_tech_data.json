@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "27.30\u00b0S",
-    "longitude": "28.41\u00b0W",
-    "timestamp": "2026-04-28T13:26:47+00:00",
+    "latitude": "31.26\u00b0N",
+    "longitude": "170.65\u00b0W",
+    "timestamp": "2026-04-28T19:18:25+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Bankruptcies Increase 11.9 Percent",
+      "score": 69,
+      "url": "https://www.uscourts.gov/data-news/judiciary-news/2026/04/23/bankruptcies-increase-119-percent",
+      "time": "2026-04-28T18:47:09"
+    },
+    {
+      "title": "Waymo in Portland",
+      "score": 103,
+      "url": "https://waymo.com/blog/shorts/waymo-in-portland/",
+      "time": "2026-04-28T18:08:13"
+    },
+    {
       "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "score": 144,
+      "score": 623,
       "url": "https://github.com/localsend/localsend",
       "time": "2026-04-28T11:54:20"
     },
     {
+      "title": "DOOM running in ChatGPT and Claude",
+      "score": 9,
+      "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+      "time": "2026-04-28T19:08:47"
+    },
+    {
       "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
-      "score": 58,
+      "score": 264,
       "url": "https://github.com/microsoft/VibeVoice",
       "time": "2026-04-28T11:56:04"
-    },
-    {
-      "title": "The World's Most Complex Machine",
-      "score": 152,
-      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
-      "time": "2026-04-25T12:47:32"
-    },
-    {
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "score": 455,
-      "url": "https://talkie-lm.com/introducing-talkie",
-      "time": "2026-04-27T21:55:48"
-    },
-    {
-      "title": "UAE to leave OPEC in blow to oil cartel",
-      "score": 28,
-      "url": "https://www.ft.com/content/8c354f2d-3e66-47f1-aad4-9b4aa30e386d",
-      "time": "2026-04-28T13:02:01"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244740,
+      "stars": 244750,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195890,
+      "stars": 195896,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 168985,
+      "stars": 169212,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148126,
+      "stars": 148122,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139202,
+      "stars": 139209,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-28T13:26:46.861588+00:00"
+  "last_updated": "2026-04-28T19:18:22.973791+00:00"
 }
