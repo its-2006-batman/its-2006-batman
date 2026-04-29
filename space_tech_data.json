@@ -7,82 +7,88 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "The Moon, Venus, and the Pleiades",
+    "date": "2026-04-29",
+    "explanation": "No, Earth did not recently acquire six more moons!  Today\u2019s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon \u201cvisit\" each other once per month due to the...",
+    "url": "https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "20.07\u00b0S",
-    "longitude": "41.64\u00b0E",
-    "timestamp": "2026-04-29T07:59:00+00:00",
+    "latitude": "10.24\u00b0N",
+    "longitude": "131.26\u00b0E",
+    "timestamp": "2026-04-29T13:20:51+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Soft launch of open-source code platform for government",
+      "score": 262,
+      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+      "time": "2026-04-29T09:14:37"
+    },
+    {
       "title": "Ghostty is leaving GitHub",
-      "score": 2384,
+      "score": 2872,
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
       "time": "2026-04-28T19:44:52"
     },
     {
+      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
+      "score": 166,
+      "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
+      "time": "2026-04-29T11:42:46"
+    },
+    {
+      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
+      "score": 101,
+      "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
+      "time": "2026-04-29T12:38:50"
+    },
+    {
       "title": "Bugs Rust won't catch",
-      "score": 211,
+      "score": 408,
       "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
       "time": "2026-04-29T02:19:11"
-    },
-    {
-      "title": "HardenedBSD Is Now Officially on Radicle",
-      "score": 24,
-      "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-      "time": "2026-04-29T06:38:44"
-    },
-    {
-      "title": "How ChatGPT serves ads",
-      "score": 286,
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "time": "2026-04-28T23:54:14"
-    },
-    {
-      "title": "Before GitHub",
-      "score": 422,
-      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "time": "2026-04-28T21:17:40"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244759,
+      "stars": 244764,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195900,
+      "stars": 195897,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 169681,
+      "stars": 169896,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148121,
+      "stars": 148122,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139211,
+      "stars": 139216,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-29T07:58:50.140952+00:00"
+  "last_updated": "2026-04-29T13:20:51.382740+00:00"
 }
