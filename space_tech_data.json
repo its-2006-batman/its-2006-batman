@@ -15,70 +15,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "10.24\u00b0N",
-    "longitude": "131.26\u00b0E",
-    "timestamp": "2026-04-29T13:20:51+00:00",
+    "latitude": "51.00\u00b0S",
+    "longitude": "43.21\u00b0W",
+    "timestamp": "2026-04-29T19:07:46+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Soft launch of open-source code platform for government",
-      "score": 262,
-      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "time": "2026-04-29T09:14:37"
+      "title": "Zed 1.0",
+      "score": 1027,
+      "url": "https://zed.dev/blog/zed-1-0",
+      "time": "2026-04-29T14:34:19"
     },
     {
-      "title": "Ghostty is leaving GitHub",
-      "score": 2872,
-      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-      "time": "2026-04-28T19:44:52"
+      "title": "Copy Fail \u2013 CVE-2026-31431",
+      "score": 116,
+      "url": "https://copy.fail/",
+      "time": "2026-04-29T18:13:53"
     },
     {
-      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-      "score": 166,
-      "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
-      "time": "2026-04-29T11:42:46"
+      "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
+      "score": 38,
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "time": "2026-04-29T18:54:31"
     },
     {
-      "title": "He asked AI to count carbs 27000 times. It couldn't give the same answer twice",
-      "score": 101,
-      "url": "https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/",
-      "time": "2026-04-29T12:38:50"
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "score": 120,
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "time": "2026-04-29T16:16:39"
     },
     {
-      "title": "Bugs Rust won't catch",
-      "score": 408,
-      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "time": "2026-04-29T02:19:11"
+      "title": "We need a federation of forges",
+      "score": 415,
+      "url": "https://blog.tangled.org/federation/",
+      "time": "2026-04-29T14:00:59"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244764,
+      "stars": 244759,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195897,
+      "stars": 195895,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 169896,
+      "stars": 170077,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148122,
+      "stars": 148119,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
@@ -90,5 +90,5 @@
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-29T13:20:51.382740+00:00"
+  "last_updated": "2026-04-29T19:07:43.547737+00:00"
 }
