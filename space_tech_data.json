@@ -7,78 +7,72 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "CG 30: Cometary Globules",
-    "date": "2026-04-28",
-    "explanation": "They're like mountain peaks, but they are forming stars. Bright-rimmed, flowing shapes gather near the center of this rich starfield toward the borders of the nautical southern constellations Puppis and Vela. Composed of interstellar gas and  dust, the grouping of light-year sized cometary globules ...",
-    "url": "https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_960.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "41.26\u00b0S",
-    "longitude": "161.23\u00b0E",
-    "timestamp": "2026-04-29T01:55:31+00:00",
+    "latitude": "20.07\u00b0S",
+    "longitude": "41.64\u00b0E",
+    "timestamp": "2026-04-29T07:59:00+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Ghostty is leaving GitHub",
-      "score": 1682,
+      "score": 2384,
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
       "time": "2026-04-28T19:44:52"
     },
     {
-      "title": "ChatGPT serves ads. Here's the full attribution loop",
-      "score": 132,
+      "title": "Bugs Rust won't catch",
+      "score": 211,
+      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+      "time": "2026-04-29T02:19:11"
+    },
+    {
+      "title": "HardenedBSD Is Now Officially on Radicle",
+      "score": 24,
+      "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
+      "time": "2026-04-29T06:38:44"
+    },
+    {
+      "title": "How ChatGPT serves ads",
+      "score": 286,
       "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
       "time": "2026-04-28T23:54:14"
     },
     {
       "title": "Before GitHub",
-      "score": 264,
+      "score": 422,
       "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
       "time": "2026-04-28T21:17:40"
-    },
-    {
-      "title": "Claude system prompt bug wastes user money and bricks managed agents",
-      "score": 81,
-      "url": "https://github.com/anthropics/claude-code/issues/49363",
-      "time": "2026-04-28T23:59:57"
-    },
-    {
-      "title": "We decreased our LLM costs with Opus",
-      "score": 21,
-      "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
-      "time": "2026-04-29T00:57:12"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244751,
+      "stars": 244759,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195897,
+      "stars": 195900,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 169382,
+      "stars": 169681,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148123,
+      "stars": 148121,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
@@ -90,5 +84,5 @@
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-29T01:55:29.007813+00:00"
+  "last_updated": "2026-04-29T07:58:50.140952+00:00"
 }
