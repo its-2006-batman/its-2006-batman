@@ -15,42 +15,42 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "4.42\u00b0S",
-    "longitude": "58.87\u00b0W",
-    "timestamp": "2026-04-30T13:18:46+00:00",
+    "latitude": "51.52\u00b0N",
+    "longitude": "115.00\u00b0E",
+    "timestamp": "2026-04-30T19:04:56+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "score": 206,
+      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+      "time": "2026-04-30T16:41:00"
+    },
+    {
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "score": 173,
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "time": "2026-04-30T16:09:26"
+    },
+    {
+      "title": "CopyFail Was Not Disclosed to Distros",
+      "score": 121,
+      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "time": "2026-04-30T16:43:47"
+    },
+    {
+      "title": "I built a Game Boy emulator in F#",
+      "score": 74,
+      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "time": "2026-04-30T17:14:21"
+    },
+    {
       "title": "Belgium stops decommissioning nuclear power plants",
-      "score": 99,
+      "score": 612,
       "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
       "time": "2026-04-30T12:17:14"
-    },
-    {
-      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
-      "score": 147,
-      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-      "time": "2026-04-30T10:31:17"
-    },
-    {
-      "title": "I aggregated 28 US Government auction sites into one search",
-      "score": 25,
-      "url": "https://bidprowl.com",
-      "time": "2026-04-30T12:24:53"
-    },
-    {
-      "title": "Mozilla's Opposition to Chrome's Prompt API",
-      "score": 252,
-      "url": "https://github.com/mozilla/standards-positions/issues/1213",
-      "time": "2026-04-30T07:43:55"
-    },
-    {
-      "title": "Where the goblins came from",
-      "score": 790,
-      "url": "https://openai.com/index/where-the-goblins-came-from/",
-      "time": "2026-04-30T03:21:04"
     }
   ],
   "github_trending": [
@@ -64,21 +64,21 @@
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195901,
+      "stars": 195902,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 170654,
+      "stars": 170835,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148121,
+      "stars": 148119,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
@@ -90,5 +90,5 @@
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-30T13:18:45.846230+00:00"
+  "last_updated": "2026-04-30T19:04:56.134768+00:00"
 }
