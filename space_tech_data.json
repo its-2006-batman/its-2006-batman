@@ -8,70 +8,64 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "The Moon, Venus, and the Pleiades",
-    "date": "2026-04-29",
-    "explanation": "No, Earth did not recently acquire six more moons!  Today\u2019s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon \u201cvisit\" each other once per month due to the...",
-    "url": "https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg",
-    "media_type": "image"
+    "title": "Waves on Titan",
+    "date": "2026-04-30",
+    "explanation": "Have you ever thought about surfing on an alien world? We can now expand the search for the perfect wave from Earth to the rest of the Solar System, and beyond. Scientists have developed a new model for simulating waves on other planets. Titan is one of the 274 confirmed moons of Saturn to date, and...",
+    "url": "https://apod.nasa.gov/apod/image/2604/waves.mp4",
+    "media_type": "video"
   },
-  "iss_position": {
-    "latitude": "41.18\u00b0N",
-    "longitude": "24.83\u00b0W",
-    "timestamp": "2026-04-30T01:55:22+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Where the goblins came from",
+      "score": 483,
+      "url": "https://openai.com/index/where-the-goblins-came-from/",
+      "time": "2026-04-30T03:21:04"
+    },
+    {
+      "title": "Noctua releases official 3D CAD models for its cooling fans",
+      "score": 165,
+      "url": "https://www.noctua.at/en/3d-cad-models",
+      "time": "2026-04-27T21:35:07"
+    },
+    {
       "title": "Zed 1.0",
-      "score": 1528,
+      "score": 1790,
       "url": "https://zed.dev/blog/zed-1-0",
       "time": "2026-04-29T14:34:19"
     },
     {
-      "title": "Copy Fail \u2013 CVE-2026-31431",
-      "score": 582,
-      "url": "https://copy.fail/",
-      "time": "2026-04-29T18:13:53"
+      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+      "score": 206,
+      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+      "time": "2026-04-30T02:15:47"
     },
     {
-      "title": "Cursor Camp",
-      "score": 632,
-      "url": "https://neal.fun/cursor-camp/",
-      "time": "2026-04-29T15:39:43"
-    },
-    {
-      "title": "OpenTrafficMap",
-      "score": 153,
-      "url": "https://opentrafficmap.org/",
-      "time": "2026-04-29T19:49:30"
-    },
-    {
-      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
-      "score": 983,
-      "url": "https://github.com/anthropics/claude-code/issues/53262",
-      "time": "2026-04-29T18:54:31"
+      "title": "Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"",
+      "score": 40,
+      "url": "https://scottaaronson.blog/?p=9718",
+      "time": "2026-04-30T06:30:30"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244763,
+      "stars": 244770,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195896,
+      "stars": 195894,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 170240,
+      "stars": 170495,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +79,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139221,
+      "stars": 139227,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-30T01:55:20.722605+00:00"
+  "last_updated": "2026-04-30T08:02:04.091218+00:00"
 }
