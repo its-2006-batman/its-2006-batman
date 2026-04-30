@@ -14,75 +14,81 @@
     "url": "https://apod.nasa.gov/apod/image/2604/waves.mp4",
     "media_type": "video"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "4.42\u00b0S",
+    "longitude": "58.87\u00b0W",
+    "timestamp": "2026-04-30T13:18:46+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "Belgium stops decommissioning nuclear power plants",
+      "score": 99,
+      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+      "time": "2026-04-30T12:17:14"
+    },
+    {
+      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "score": 147,
+      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+      "time": "2026-04-30T10:31:17"
+    },
+    {
+      "title": "I aggregated 28 US Government auction sites into one search",
+      "score": 25,
+      "url": "https://bidprowl.com",
+      "time": "2026-04-30T12:24:53"
+    },
+    {
+      "title": "Mozilla's Opposition to Chrome's Prompt API",
+      "score": 252,
+      "url": "https://github.com/mozilla/standards-positions/issues/1213",
+      "time": "2026-04-30T07:43:55"
+    },
+    {
       "title": "Where the goblins came from",
-      "score": 483,
+      "score": 790,
       "url": "https://openai.com/index/where-the-goblins-came-from/",
       "time": "2026-04-30T03:21:04"
-    },
-    {
-      "title": "Noctua releases official 3D CAD models for its cooling fans",
-      "score": 165,
-      "url": "https://www.noctua.at/en/3d-cad-models",
-      "time": "2026-04-27T21:35:07"
-    },
-    {
-      "title": "Zed 1.0",
-      "score": 1790,
-      "url": "https://zed.dev/blog/zed-1-0",
-      "time": "2026-04-29T14:34:19"
-    },
-    {
-      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
-      "score": 206,
-      "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-      "time": "2026-04-30T02:15:47"
-    },
-    {
-      "title": "Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"",
-      "score": 40,
-      "url": "https://scottaaronson.blog/?p=9718",
-      "time": "2026-04-30T06:30:30"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244770,
+      "stars": 244772,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195894,
+      "stars": 195901,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 170495,
+      "stars": 170654,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148120,
+      "stars": 148121,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139227,
+      "stars": 139231,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-30T08:02:04.091218+00:00"
+  "last_updated": "2026-04-30T13:18:45.846230+00:00"
 }
