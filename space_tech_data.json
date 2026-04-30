@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.00\u00b0S",
-    "longitude": "43.21\u00b0W",
-    "timestamp": "2026-04-29T19:07:46+00:00",
+    "latitude": "41.18\u00b0N",
+    "longitude": "24.83\u00b0W",
+    "timestamp": "2026-04-30T01:55:22+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Zed 1.0",
-      "score": 1027,
+      "score": 1528,
       "url": "https://zed.dev/blog/zed-1-0",
       "time": "2026-04-29T14:34:19"
     },
     {
       "title": "Copy Fail \u2013 CVE-2026-31431",
-      "score": 116,
+      "score": 582,
       "url": "https://copy.fail/",
       "time": "2026-04-29T18:13:53"
     },
     {
-      "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
-      "score": 38,
+      "title": "Cursor Camp",
+      "score": 632,
+      "url": "https://neal.fun/cursor-camp/",
+      "time": "2026-04-29T15:39:43"
+    },
+    {
+      "title": "OpenTrafficMap",
+      "score": 153,
+      "url": "https://opentrafficmap.org/",
+      "time": "2026-04-29T19:49:30"
+    },
+    {
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "score": 983,
       "url": "https://github.com/anthropics/claude-code/issues/53262",
       "time": "2026-04-29T18:54:31"
-    },
-    {
-      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
-      "score": 120,
-      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
-      "time": "2026-04-29T16:16:39"
-    },
-    {
-      "title": "We need a federation of forges",
-      "score": 415,
-      "url": "https://blog.tangled.org/federation/",
-      "time": "2026-04-29T14:00:59"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244759,
+      "stars": 244763,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195895,
+      "stars": 195896,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 170077,
+      "stars": 170240,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148119,
+      "stars": 148120,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139216,
+      "stars": 139221,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-29T19:07:43.547737+00:00"
+  "last_updated": "2026-04-30T01:55:20.722605+00:00"
 }
