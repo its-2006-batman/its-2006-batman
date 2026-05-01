@@ -8,41 +8,47 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Waves on Titan",
-    "date": "2026-04-30",
-    "explanation": "Have you ever thought about surfing on an alien world? We can now expand the search for the perfect wave from Earth to the rest of the Solar System, and beyond. Scientists have developed a new model for simulating waves on other planets. Titan is one of the 274 confirmed moons of Saturn to date, and...",
-    "url": "https://apod.nasa.gov/apod/image/2604/waves.mp4",
-    "media_type": "video"
+    "title": "Markarian's Chain",
+    "date": "2026-05-01",
+    "explanation": "Near the heart of the Virgo Galaxy Cluster, a string of galaxies known as Markarian's Chain stretches across this telescopic field of view. Anchored in the frame at bottom right by prominent lenticular galaxies, M84 (bottom) and M86, you can follow the chain's gentle arc up and toward the left. Near...",
+    "url": "https://apod.nasa.gov/apod/image/2605/M84andM86_1024.png",
+    "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "24.11\u00b0S",
+    "longitude": "33.41\u00b0E",
+    "timestamp": "2026-05-01T08:00:10+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Rivian allows you to disable all internet connectivity",
-      "score": 498,
-      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-      "time": "2026-04-30T20:27:22"
-    },
-    {
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "score": 429,
+      "score": 568,
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
       "time": "2026-04-30T16:41:00"
     },
     {
-      "title": "Opus 4.7 knows the real Kelsey",
-      "score": 155,
-      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "time": "2026-04-29T17:09:03"
-    },
-    {
-      "title": "CopyFail was not disclosed to distro developers?",
-      "score": 373,
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "score": 469,
       "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
       "time": "2026-04-30T16:43:47"
     },
     {
+      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+      "score": 41,
+      "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+      "time": "2026-04-29T11:35:40"
+    },
+    {
+      "title": "Opus 4.7 knows the real Kelsey",
+      "score": 324,
+      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "time": "2026-04-29T17:09:03"
+    },
+    {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "score": 327,
+      "score": 387,
       "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
       "time": "2026-04-30T16:09:26"
     }
@@ -51,7 +57,7 @@
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244772,
+      "stars": 244775,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -65,7 +71,7 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 170997,
+      "stars": 171128,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -79,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139234,
+      "stars": 139239,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-01T01:57:21.196447+00:00"
+  "last_updated": "2026-05-01T08:00:08.114080+00:00"
 }
