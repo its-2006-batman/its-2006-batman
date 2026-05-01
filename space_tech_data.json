@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "24.11\u00b0S",
-    "longitude": "33.41\u00b0E",
-    "timestamp": "2026-05-01T08:00:10+00:00",
+    "latitude": "51.60\u00b0S",
+    "longitude": "26.37\u00b0E",
+    "timestamp": "2026-05-01T12:53:44+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "score": 568,
-      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "time": "2026-04-30T16:41:00"
+      "title": "Your Website Is Not for You",
+      "score": 65,
+      "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
+      "time": "2026-05-01T11:08:20"
     },
     {
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "score": 469,
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-      "time": "2026-04-30T16:43:47"
+      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+      "score": 15,
+      "url": "https://www.pagetable.com/?p=1854",
+      "time": "2026-05-01T11:58:11"
     },
     {
-      "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
-      "score": 41,
-      "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-      "time": "2026-04-29T11:35:40"
+      "title": "Show HN: Perfect Bluetooth MIDI for Windows",
+      "score": 50,
+      "url": "https://news.ycombinator.com/item?id=47972888",
+      "time": "2026-05-01T09:52:15"
     },
     {
-      "title": "Opus 4.7 knows the real Kelsey",
-      "score": 324,
-      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "time": "2026-04-29T17:09:03"
+      "title": "Show HN: Site Mogging",
+      "score": 12,
+      "url": "https://sitemogging.com",
+      "time": "2026-05-01T11:32:48"
     },
     {
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "score": 387,
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "time": "2026-04-30T16:09:26"
+      "title": "Apple accidentally left Claude.md files Apple Support app",
+      "score": 65,
+      "url": "https://xcancel.com/aaronp613/status/2049986504617820551",
+      "time": "2026-05-01T11:08:32"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244775,
+      "stars": 244781,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195902,
+      "stars": 195905,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 171128,
+      "stars": 171269,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148118,
+      "stars": 148121,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139239,
+      "stars": 139245,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-01T08:00:08.114080+00:00"
+  "last_updated": "2026-05-01T12:53:42.979911+00:00"
 }
