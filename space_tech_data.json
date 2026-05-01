@@ -14,43 +14,37 @@
     "url": "https://apod.nasa.gov/apod/image/2604/waves.mp4",
     "media_type": "video"
   },
-  "iss_position": {
-    "latitude": "51.52\u00b0N",
-    "longitude": "115.00\u00b0E",
-    "timestamp": "2026-04-30T19:04:56+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Rivian allows you to disable all internet connectivity",
+      "score": 498,
+      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "time": "2026-04-30T20:27:22"
+    },
+    {
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "score": 206,
+      "score": 429,
       "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
       "time": "2026-04-30T16:41:00"
     },
     {
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "score": 173,
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "time": "2026-04-30T16:09:26"
+      "title": "Opus 4.7 knows the real Kelsey",
+      "score": 155,
+      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
+      "time": "2026-04-29T17:09:03"
     },
     {
-      "title": "CopyFail Was Not Disclosed to Distros",
-      "score": 121,
+      "title": "CopyFail was not disclosed to distro developers?",
+      "score": 373,
       "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
       "time": "2026-04-30T16:43:47"
     },
     {
-      "title": "I built a Game Boy emulator in F#",
-      "score": 74,
-      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-      "time": "2026-04-30T17:14:21"
-    },
-    {
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "score": 612,
-      "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-      "time": "2026-04-30T12:17:14"
+      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "score": 327,
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "time": "2026-04-30T16:09:26"
     }
   ],
   "github_trending": [
@@ -71,24 +65,24 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 170835,
+      "stars": 170997,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148119,
+      "stars": 148118,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139231,
+      "stars": 139234,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-04-30T19:04:56.134768+00:00"
+  "last_updated": "2026-05-01T01:57:21.196447+00:00"
 }
