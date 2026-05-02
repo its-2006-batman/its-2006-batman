@@ -15,70 +15,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "36.46\u00b0S",
-    "longitude": "53.21\u00b0E",
-    "timestamp": "2026-05-02T07:18:13+00:00",
+    "latitude": "37.68\u00b0N",
+    "longitude": "152.36\u00b0E",
+    "timestamp": "2026-05-02T12:43:51+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "How fast is a macOS VM, and how small could it be?",
+      "score": 62,
+      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+      "time": "2026-05-02T09:30:49"
+    },
+    {
       "title": "Why does it take so long to release black fan versions?",
-      "score": 88,
+      "score": 337,
       "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
       "time": "2026-05-02T04:38:04"
     },
     {
-      "title": "Job Postings for Software Engineers Are Rapidly Rising",
-      "score": 146,
-      "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
-      "time": "2026-05-02T01:46:24"
+      "title": "Why are there both TMP and TEMP environment variables? (2015)",
+      "score": 69,
+      "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
+      "time": "2026-05-02T08:23:23"
     },
     {
-      "title": "Ti-84 Evo",
-      "score": 418,
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "time": "2026-05-01T20:06:59"
+      "title": "Show HN: DAC \u2013 open-source dashboard as code tool for agents and humans",
+      "score": 36,
+      "url": "https://github.com/bruin-data/dac",
+      "time": "2026-04-29T14:37:20"
     },
     {
-      "title": "Spirit Airlines Is Winding Down All Operations",
-      "score": 17,
-      "url": "https://www.spiritrestructuring.com/",
-      "time": "2026-05-02T06:28:00"
-    },
-    {
-      "title": "Ask.com has closed",
-      "score": 202,
-      "url": "https://www.ask.com/",
-      "time": "2026-05-02T04:12:35"
+      "title": "Dotcl: Common Lisp Implementation on .NET",
+      "score": 47,
+      "url": "https://github.com/dotcl/dotcl",
+      "time": "2026-04-30T16:33:24"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244797,
+      "stars": 244800,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195907,
+      "stars": 195909,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 171672,
+      "stars": 171831,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148121,
+      "stars": 148117,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
@@ -90,5 +90,5 @@
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-02T07:18:13.084320+00:00"
+  "last_updated": "2026-05-02T12:43:48.410619+00:00"
 }
