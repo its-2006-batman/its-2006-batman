@@ -15,49 +15,49 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "37.68\u00b0N",
-    "longitude": "152.36\u00b0E",
-    "timestamp": "2026-05-02T12:43:51+00:00",
+    "latitude": "1.01\u00b0S",
+    "longitude": "22.84\u00b0E",
+    "timestamp": "2026-05-02T18:41:54+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "How fast is a macOS VM, and how small could it be?",
-      "score": 62,
-      "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-      "time": "2026-05-02T09:30:49"
+      "title": "NetHack 5.0.0",
+      "score": 108,
+      "url": "https://nethack.org/v500/release.html",
+      "time": "2026-05-02T18:03:42"
     },
     {
-      "title": "Why does it take so long to release black fan versions?",
-      "score": 337,
-      "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-      "time": "2026-05-02T04:38:04"
+      "title": "Videolan Dav2d",
+      "score": 37,
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "time": "2026-05-02T17:32:29"
     },
     {
-      "title": "Why are there both TMP and TEMP environment variables? (2015)",
-      "score": 69,
-      "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
-      "time": "2026-05-02T08:23:23"
+      "title": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
+      "score": 73,
+      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "time": "2026-05-02T15:38:17"
     },
     {
-      "title": "Show HN: DAC \u2013 open-source dashboard as code tool for agents and humans",
-      "score": 36,
-      "url": "https://github.com/bruin-data/dac",
-      "time": "2026-04-29T14:37:20"
+      "title": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
+      "score": 57,
+      "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
+      "time": "2026-04-30T09:12:23"
     },
     {
-      "title": "Dotcl: Common Lisp Implementation on .NET",
-      "score": 47,
-      "url": "https://github.com/dotcl/dotcl",
-      "time": "2026-04-30T16:33:24"
+      "title": "California to begin ticketing driverless cars that violate traffic laws",
+      "score": 46,
+      "url": "https://www.bbc.com/news/articles/clypjx3rg2go",
+      "time": "2026-05-02T17:59:18"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244800,
+      "stars": 244803,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,7 +71,7 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 171831,
+      "stars": 171991,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139253,
+      "stars": 139252,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-02T12:43:48.410619+00:00"
+  "last_updated": "2026-05-02T18:41:54.028430+00:00"
 }
