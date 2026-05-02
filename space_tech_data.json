@@ -15,49 +15,49 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "38.65\u00b0S",
-    "longitude": "114.68\u00b0W",
-    "timestamp": "2026-05-01T18:55:58+00:00",
+    "latitude": "16.25\u00b0N",
+    "longitude": "64.79\u00b0W",
+    "timestamp": "2026-05-02T01:45:47+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Uber Torches 2026 AI Budget on Claude Code in Four Months",
-      "score": 314,
-      "url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
-      "time": "2026-05-01T16:08:53"
+      "title": "Ti-84 Evo",
+      "score": 284,
+      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+      "time": "2026-05-01T20:06:59"
     },
     {
-      "title": "AI Uses Less Water Than the Public Thinks",
-      "score": 48,
-      "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
-      "time": "2026-05-01T17:18:58"
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "score": 241,
+      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "time": "2026-05-01T17:47:42"
     },
     {
-      "title": "Ask HN: Who is hiring? (May 2026)",
-      "score": 140,
-      "url": "https://news.ycombinator.com/item?id=47975571",
-      "time": "2026-05-01T15:00:07"
+      "title": "Artemis II Photo Timeline",
+      "score": 47,
+      "url": "https://artemistimeline.com/#artemis-ii-walkout-nhq202604010003",
+      "time": "2026-04-29T20:48:17"
     },
     {
-      "title": "A statement about why RightsCon 2026 will not take place in Zambia",
-      "score": 10,
-      "url": "https://www.rightscon.org/rc26-statement/",
-      "time": "2026-05-01T18:38:55"
+      "title": "The smelly baby problem",
+      "score": 98,
+      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+      "time": "2026-04-29T15:48:18"
     },
     {
-      "title": "The Gay Jailbreak Technique",
-      "score": 66,
-      "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-      "time": "2026-05-01T16:59:35"
+      "title": "A Report on Burnout in Open Source Software Communities (2025) [pdf]",
+      "score": 23,
+      "url": "https://mirandaheath.website/static/oss_burnout_report_mh_25.pdf",
+      "time": "2026-05-01T23:24:10"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244788,
+      "stars": 244795,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,7 +71,7 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 171429,
+      "stars": 171547,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139246,
+      "stars": 139249,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-01T18:55:54.131931+00:00"
+  "last_updated": "2026-05-02T01:45:47.929557+00:00"
 }
