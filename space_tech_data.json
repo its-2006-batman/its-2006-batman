@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "16.22\u00b0N",
-    "longitude": "9.04\u00b0W",
-    "timestamp": "2026-05-03T07:46:23+00:00",
+    "latitude": "37.57\u00b0S",
+    "longitude": "33.71\u00b0W",
+    "timestamp": "2026-05-03T12:43:39+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Specsmaxxing \u2013 On overcoming AI psychosis, and why I write specs in YAML",
-      "score": 21,
-      "url": "https://acai.sh/blog/specsmaxxing",
-      "time": "2026-05-03T06:33:38"
+      "title": "Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web",
+      "score": 40,
+      "url": "https://github.com/bring-shrubbery/ml-sharp-web",
+      "time": "2026-05-03T09:14:56"
     },
     {
-      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
-      "score": 170,
+      "title": "A couple million lines of Haskell: Production engineering at Mercury",
+      "score": 289,
       "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
       "time": "2026-05-03T00:01:14"
     },
     {
-      "title": "This Month in Ladybird - April 2026",
-      "score": 281,
+      "title": "This Month in Ladybird \u2013 April 2026",
+      "score": 378,
       "url": "https://ladybird.org/newsletter/2026-04-30/",
       "time": "2026-05-02T20:46:30"
     },
     {
-      "title": "Windows quality update: Progress we've made since March",
-      "score": 33,
-      "url": "https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/",
-      "time": "2026-05-01T21:02:04"
+      "title": "Dav2d",
+      "score": 512,
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "time": "2026-05-02T17:32:29"
     },
     {
-      "title": "The IBM Granite 4.1 family of models",
-      "score": 64,
-      "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
-      "time": "2026-04-30T14:01:26"
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "score": 342,
+      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "time": "2026-05-02T21:14:29"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244811,
+      "stars": 244820,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195915,
+      "stars": 195913,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 172262,
+      "stars": 172386,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148114,
+      "stars": 148113,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139259,
+      "stars": 139261,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-03T07:46:20.786904+00:00"
+  "last_updated": "2026-05-03T12:43:35.020398+00:00"
 }
