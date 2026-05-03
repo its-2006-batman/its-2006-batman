@@ -8,87 +8,87 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Seeing Titan",
-    "date": "2026-05-02",
-    "explanation": "Shrouded in a thick atmosphere, the surface of Saturn's largest moon, Titan, is really hard to see. Small particles suspended in Titan's upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding surface features from prying eyes. Still, Titan's s...",
-    "url": "https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg",
+    "title": "Trifid Pillars and Jets",
+    "date": "2026-05-03",
+    "explanation": "Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pillar in the Trifid Nebu...",
+    "url": "https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "26.71\u00b0S",
-    "longitude": "118.53\u00b0E",
-    "timestamp": "2026-05-03T01:49:14+00:00",
+    "latitude": "16.22\u00b0N",
+    "longitude": "9.04\u00b0W",
+    "timestamp": "2026-05-03T07:46:23+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-      "score": 768,
-      "url": "https://github.com/microsoft/vscode/pull/310226",
-      "time": "2026-05-02T19:57:26"
+      "title": "Specsmaxxing \u2013 On overcoming AI psychosis, and why I write specs in YAML",
+      "score": 21,
+      "url": "https://acai.sh/blog/specsmaxxing",
+      "time": "2026-05-03T06:33:38"
     },
     {
       "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
-      "score": 38,
+      "score": 170,
       "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
       "time": "2026-05-03T00:01:14"
     },
     {
       "title": "This Month in Ladybird - April 2026",
-      "score": 150,
+      "score": 281,
       "url": "https://ladybird.org/newsletter/2026-04-30/",
       "time": "2026-05-02T20:46:30"
     },
     {
-      "title": "Six Years Perfecting Maps on WatchOS",
-      "score": 168,
-      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "time": "2026-05-02T21:14:29"
+      "title": "Windows quality update: Progress we've made since March",
+      "score": 33,
+      "url": "https://blogs.windows.com/windows-insider/2026/05/01/windows-quality-update-progress-weve-made-since-march/",
+      "time": "2026-05-01T21:02:04"
     },
     {
-      "title": "Dav2d",
-      "score": 332,
-      "url": "https://code.videolan.org/videolan/dav2d",
-      "time": "2026-05-02T17:32:29"
+      "title": "The IBM Granite 4.1 family of models",
+      "score": 64,
+      "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+      "time": "2026-04-30T14:01:26"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244800,
+      "stars": 244811,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195913,
+      "stars": 195915,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 172117,
+      "stars": 172262,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148117,
+      "stars": 148114,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139253,
+      "stars": 139259,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-03T01:49:12.994984+00:00"
+  "last_updated": "2026-05-03T07:46:20.786904+00:00"
 }
