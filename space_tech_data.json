@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "37.57\u00b0S",
-    "longitude": "33.71\u00b0W",
-    "timestamp": "2026-05-03T12:43:39+00:00",
+    "latitude": "0.11\u00b0N",
+    "longitude": "162.41\u00b0W",
+    "timestamp": "2026-05-03T18:41:59+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web",
-      "score": 40,
-      "url": "https://github.com/bring-shrubbery/ml-sharp-web",
-      "time": "2026-05-03T09:14:56"
+      "title": "Southwest Headquarters Tour",
+      "score": 60,
+      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+      "time": "2026-05-03T17:02:13"
     },
     {
-      "title": "A couple million lines of Haskell: Production engineering at Mercury",
-      "score": 289,
-      "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-      "time": "2026-05-03T00:01:14"
+      "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
+      "score": 14,
+      "url": "https://partyon.xyz/@nullagent/116499715071759135",
+      "time": "2026-05-03T18:03:14"
     },
     {
-      "title": "This Month in Ladybird \u2013 April 2026",
-      "score": 378,
-      "url": "https://ladybird.org/newsletter/2026-04-30/",
-      "time": "2026-05-02T20:46:30"
+      "title": "Mercedes-Benz commits to bringing back physical buttons",
+      "score": 398,
+      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+      "time": "2026-05-03T14:43:27"
     },
     {
-      "title": "Dav2d",
-      "score": 512,
-      "url": "https://code.videolan.org/videolan/dav2d",
-      "time": "2026-05-02T17:32:29"
+      "title": "How far behind is each major Chromium browser?",
+      "score": 84,
+      "url": "https://chromium-drift.pages.dev/",
+      "time": "2026-05-03T17:05:58"
     },
     {
-      "title": "Six Years Perfecting Maps on WatchOS",
-      "score": 342,
-      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-      "time": "2026-05-02T21:14:29"
+      "title": "What is Z-Angle Memory and why is Intel developing it?",
+      "score": 52,
+      "url": "https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/",
+      "time": "2026-05-01T09:56:47"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244820,
+      "stars": 244822,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195913,
+      "stars": 195912,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 172386,
+      "stars": 172572,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148113,
+      "stars": 148112,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139261,
+      "stars": 139264,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-03T12:43:35.020398+00:00"
+  "last_updated": "2026-05-03T18:41:58.712178+00:00"
 }
