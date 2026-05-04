@@ -15,80 +15,44 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "0.11\u00b0N",
-    "longitude": "162.41\u00b0W",
-    "timestamp": "2026-05-03T18:41:59+00:00",
+    "latitude": "28.93\u00b0N",
+    "longitude": "65.10\u00b0W",
+    "timestamp": "2026-05-04T01:49:55+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Southwest Headquarters Tour",
-      "score": 60,
-      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-      "time": "2026-05-03T17:02:13"
+      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+      "score": 95,
+      "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+      "time": "2026-05-03T23:59:02"
+    },
+    {
+      "title": "Agentic Coding Is a Trap",
+      "score": 130,
+      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "time": "2026-05-03T22:52:07"
     },
     {
       "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
-      "score": 14,
+      "score": 254,
       "url": "https://partyon.xyz/@nullagent/116499715071759135",
       "time": "2026-05-03T18:03:14"
     },
     {
-      "title": "Mercedes-Benz commits to bringing back physical buttons",
-      "score": 398,
-      "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
-      "time": "2026-05-03T14:43:27"
+      "title": "Let's Buy Spirit Air",
+      "score": 102,
+      "url": "https://letsbuyspiritair.com/",
+      "time": "2026-05-03T23:36:11"
     },
     {
-      "title": "How far behind is each major Chromium browser?",
-      "score": 84,
-      "url": "https://chromium-drift.pages.dev/",
-      "time": "2026-05-03T17:05:58"
-    },
-    {
-      "title": "What is Z-Angle Memory and why is Intel developing it?",
-      "score": 52,
-      "url": "https://www.hpcwire.com/2026/02/05/what-is-z-angle-memory-and-why-is-intel-developing-it/",
-      "time": "2026-05-01T09:56:47"
+      "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "score": 161,
+      "url": "https://github.com/aattaran/deepclaude",
+      "time": "2026-05-03T22:13:20"
     }
   ],
-  "github_trending": [
-    {
-      "name": "facebook/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 244822,
-      "language": "JavaScript",
-      "url": "https://github.com/facebook/react"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195912,
-      "language": "JavaScript",
-      "url": "https://github.com/trekhleb/javascript-algorithms"
-    },
-    {
-      "name": "affaan-m/everything-claude-code",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 172572,
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/everything-claude-code"
-    },
-    {
-      "name": "airbnb/javascript",
-      "description": "JavaScript Style Guide",
-      "stars": 148112,
-      "language": "JavaScript",
-      "url": "https://github.com/airbnb/javascript"
-    },
-    {
-      "name": "vercel/next.js",
-      "description": "The React Framework",
-      "stars": 139264,
-      "language": "JavaScript",
-      "url": "https://github.com/vercel/next.js"
-    }
-  ],
-  "last_updated": "2026-05-03T18:41:58.712178+00:00"
+  "github_trending": [],
+  "last_updated": "2026-05-04T01:49:55.009244+00:00"
 }
