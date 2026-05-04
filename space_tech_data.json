@@ -15,49 +15,49 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "51.54\u00b0N",
-    "longitude": "94.98\u00b0W",
-    "timestamp": "2026-05-04T08:15:30+00:00",
+    "latitude": "10.83\u00b0S",
+    "longitude": "77.79\u00b0W",
+    "timestamp": "2026-05-04T13:20:19+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Humanoid Robot Actuators",
-      "score": 110,
-      "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
-      "time": "2026-05-04T03:42:09"
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "score": 269,
+      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "time": "2026-05-04T09:31:12"
     },
     {
-      "title": "Using \u201cunderdrawings\u201d for accurate text and numbers",
-      "score": 181,
-      "url": "https://samcollins.blog/underdrawings/",
-      "time": "2026-05-01T18:07:28"
+      "title": "Talking to 35 Strangers at the Gym",
+      "score": 120,
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "time": "2026-05-04T11:41:02"
     },
     {
-      "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
-      "score": 354,
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "time": "2026-05-03T18:03:14"
+      "title": "Newton's law of gravity passes its biggest test",
+      "score": 10,
+      "url": "https://www.science.org/content/article/newton-s-law-gravity-passes-its-biggest-test-ever",
+      "time": "2026-05-04T12:52:57"
     },
     {
-      "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro",
-      "score": 414,
-      "url": "https://github.com/aattaran/deepclaude",
-      "time": "2026-05-03T22:13:20"
+      "title": "Trademark violation: Fake Notepad++ for Mac",
+      "score": 299,
+      "url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
+      "time": "2026-05-04T09:40:06"
     },
     {
-      "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
-      "score": 69,
-      "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
-      "time": "2026-04-30T21:02:06"
+      "title": "PyInfra 3.8.0 Is Out",
+      "score": 5,
+      "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
+      "time": "2026-05-04T12:53:46"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244827,
+      "stars": 244833,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,24 +71,24 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 172887,
+      "stars": 173039,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148111,
+      "stars": 148112,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139268,
+      "stars": 139270,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-04T08:15:25.442231+00:00"
+  "last_updated": "2026-05-04T13:20:19.608985+00:00"
 }
