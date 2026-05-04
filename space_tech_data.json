@@ -8,51 +8,87 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Trifid Pillars and Jets",
-    "date": "2026-05-03",
-    "explanation": "Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pillar in the Trifid Nebu...",
-    "url": "https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg",
-    "media_type": "image"
+    "title": "Superplumes Inside Earth",
+    "date": "2026-05-04",
+    "explanation": "Why are there huge, unusual masses inside the Earth? No one is sure.  By noting how earthquakes rumble through our planet's interior, humanity has discovered two deep structures that appear to have unusual temperatures and/or chemical compositions. One hypothesis holds that the superplumes are sunke...",
+    "url": "https://apod.nasa.gov/apod/image/2605/SuperPlumeEarth_Cottaar.mp4",
+    "media_type": "video"
   },
   "iss_position": {
-    "latitude": "28.93\u00b0N",
-    "longitude": "65.10\u00b0W",
-    "timestamp": "2026-05-04T01:49:55+00:00",
+    "latitude": "51.54\u00b0N",
+    "longitude": "94.98\u00b0W",
+    "timestamp": "2026-05-04T08:15:30+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
-      "score": 95,
-      "url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
-      "time": "2026-05-03T23:59:02"
+      "title": "Humanoid Robot Actuators",
+      "score": 110,
+      "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
+      "time": "2026-05-04T03:42:09"
     },
     {
-      "title": "Agentic Coding Is a Trap",
-      "score": 130,
-      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
-      "time": "2026-05-03T22:52:07"
+      "title": "Using \u201cunderdrawings\u201d for accurate text and numbers",
+      "score": 181,
+      "url": "https://samcollins.blog/underdrawings/",
+      "time": "2026-05-01T18:07:28"
     },
     {
       "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
-      "score": 254,
+      "score": 354,
       "url": "https://partyon.xyz/@nullagent/116499715071759135",
       "time": "2026-05-03T18:03:14"
     },
     {
-      "title": "Let's Buy Spirit Air",
-      "score": 102,
-      "url": "https://letsbuyspiritair.com/",
-      "time": "2026-05-03T23:36:11"
-    },
-    {
-      "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
-      "score": 161,
+      "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro",
+      "score": 414,
       "url": "https://github.com/aattaran/deepclaude",
       "time": "2026-05-03T22:13:20"
+    },
+    {
+      "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
+      "score": 69,
+      "url": "https://blog.stuffedcow.net/2019/09/hard-disk-geometry-microbenchmarking/",
+      "time": "2026-04-30T21:02:06"
     }
   ],
-  "github_trending": [],
-  "last_updated": "2026-05-04T01:49:55.009244+00:00"
+  "github_trending": [
+    {
+      "name": "facebook/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 244827,
+      "language": "JavaScript",
+      "url": "https://github.com/facebook/react"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 195914,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 172887,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/everything-claude-code"
+    },
+    {
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148111,
+      "language": "JavaScript",
+      "url": "https://github.com/airbnb/javascript"
+    },
+    {
+      "name": "vercel/next.js",
+      "description": "The React Framework",
+      "stars": 139268,
+      "language": "JavaScript",
+      "url": "https://github.com/vercel/next.js"
+    }
+  ],
+  "last_updated": "2026-05-04T08:15:25.442231+00:00"
 }
