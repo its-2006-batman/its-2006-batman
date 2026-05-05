@@ -15,80 +15,80 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "43.41\u00b0N",
-    "longitude": "135.45\u00b0E",
-    "timestamp": "2026-05-04T19:12:30+00:00",
+    "latitude": "30.47\u00b0S",
+    "longitude": "110.68\u00b0E",
+    "timestamp": "2026-05-05T01:50:17+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-      "score": 191,
-      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-      "time": "2026-05-04T17:16:36"
+      "title": "Bun is being ported from Zig to Rust",
+      "score": 64,
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "time": "2026-05-05T01:08:17"
     },
     {
-      "title": "Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability",
-      "score": 81,
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "time": "2026-05-04T17:46:32"
-    },
-    {
-      "title": "I am worried about Bun",
-      "score": 165,
-      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "time": "2026-05-04T16:45:00"
-    },
-    {
-      "title": "Stop big tech from making users behave in ways they don't want to",
-      "score": 97,
-      "url": "https://economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
-      "time": "2026-05-04T17:10:57"
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "score": 281,
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "time": "2026-05-04T19:42:47"
     },
     {
       "title": "Talking to strangers at the gym",
-      "score": 770,
+      "score": 1153,
       "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
       "time": "2026-05-04T11:41:02"
+    },
+    {
+      "title": "Agent Skills",
+      "score": 109,
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "time": "2026-05-04T21:40:42"
+    },
+    {
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "score": 168,
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "time": "2026-05-04T17:46:32"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244838,
+      "stars": 244837,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195923,
+      "stars": 195926,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 173204,
+      "stars": 173311,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148110,
+      "stars": 148111,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139271,
+      "stars": 139274,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-04T19:12:29.112419+00:00"
+  "last_updated": "2026-05-05T01:50:15.927924+00:00"
 }
