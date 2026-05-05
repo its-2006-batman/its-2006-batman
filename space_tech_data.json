@@ -8,87 +8,87 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Superplumes Inside Earth",
-    "date": "2026-05-04",
-    "explanation": "Why are there huge, unusual masses inside the Earth? No one is sure.  By noting how earthquakes rumble through our planet's interior, humanity has discovered two deep structures that appear to have unusual temperatures and/or chemical compositions. One hypothesis holds that the superplumes are sunke...",
-    "url": "https://apod.nasa.gov/apod/image/2605/SuperPlumeEarth_Cottaar.mp4",
-    "media_type": "video"
+    "title": "Orion over Mount Teide",
+    "date": "2026-05-05",
+    "explanation": "Orion is rarely seen like this.  To achieve this majestic vista, you need a camera capable of taking such long duration exposures that faint features in the night sky become revealed.  Iconic nebulas that appear include the Orion Nebula, the Flame Nebula, and Barnard's Loop. For contrast, it also he...",
+    "url": "https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg",
+    "media_type": "image"
   },
   "iss_position": {
-    "latitude": "30.47\u00b0S",
-    "longitude": "110.68\u00b0E",
-    "timestamp": "2026-05-05T01:50:17+00:00",
+    "latitude": "4.11\u00b0S",
+    "longitude": "5.96\u00b0W",
+    "timestamp": "2026-05-05T07:52:48+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Async Rust never left the MVP state",
+      "score": 20,
+      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "time": "2026-05-05T07:26:03"
+    },
+    {
+      "title": "Train Your Own LLM from Scratch",
+      "score": 169,
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "time": "2026-05-05T04:09:17"
+    },
+    {
+      "title": "Hand Drawn QR Codes",
+      "score": 59,
+      "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
+      "time": "2026-05-05T04:02:01"
+    },
+    {
       "title": "Bun is being ported from Zig to Rust",
-      "score": 64,
+      "score": 447,
       "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
       "time": "2026-05-05T01:08:17"
     },
     {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "score": 281,
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "time": "2026-05-04T19:42:47"
-    },
-    {
-      "title": "Talking to strangers at the gym",
-      "score": 1153,
-      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
-      "time": "2026-05-04T11:41:02"
-    },
-    {
-      "title": "Agent Skills",
-      "score": 109,
-      "url": "https://addyosmani.com/blog/agent-skills/",
-      "time": "2026-05-04T21:40:42"
-    },
-    {
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "score": 168,
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "time": "2026-05-04T17:46:32"
+      "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
+      "score": 84,
+      "url": "https://nobodyaskedforthis.lol/posts/connected-car/",
+      "time": "2026-05-05T02:01:15"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244837,
+      "stars": 244835,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195926,
+      "stars": 195923,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 173311,
+      "stars": 173489,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148111,
+      "stars": 148114,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139274,
+      "stars": 139278,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-05T01:50:15.927924+00:00"
+  "last_updated": "2026-05-05T07:52:47.017497+00:00"
 }
