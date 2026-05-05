@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "4.11\u00b0S",
-    "longitude": "5.96\u00b0W",
-    "timestamp": "2026-05-05T07:52:48+00:00",
+    "latitude": "51.39\u00b0S",
+    "longitude": "96.92\u00b0W",
+    "timestamp": "2026-05-05T19:03:48+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Async Rust never left the MVP state",
-      "score": 20,
-      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-      "time": "2026-05-05T07:26:03"
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "score": 187,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "time": "2026-05-05T16:14:17"
     },
     {
-      "title": "Train Your Own LLM from Scratch",
-      "score": 169,
-      "url": "https://github.com/angelos-p/llm-from-scratch",
-      "time": "2026-05-05T04:09:17"
+      "title": "Three Inverse Laws of AI",
+      "score": 239,
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "time": "2026-05-05T15:27:18"
     },
     {
-      "title": "Hand Drawn QR Codes",
-      "score": 59,
-      "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
-      "time": "2026-05-05T04:02:01"
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "score": 112,
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "time": "2026-05-05T16:34:48"
     },
     {
-      "title": "Bun is being ported from Zig to Rust",
-      "score": 447,
-      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-      "time": "2026-05-05T01:08:17"
+      "title": "EEVblog: The 555 Timer is 55 years old",
+      "score": 121,
+      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+      "time": "2026-05-05T15:47:18"
     },
     {
-      "title": "The Car That Watches You Back: The Advertising Infrastructure of Modern Cars",
-      "score": 84,
-      "url": "https://nobodyaskedforthis.lol/posts/connected-car/",
-      "time": "2026-05-05T02:01:15"
+      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+      "score": 39,
+      "url": "https://arxiv.org/abs/2604.26752",
+      "time": "2026-05-05T17:52:31"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244835,
+      "stars": 244818,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195923,
+      "stars": 195926,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 173489,
+      "stars": 173816,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148114,
+      "stars": 148112,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139278,
+      "stars": 139282,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-05T07:52:47.017497+00:00"
+  "last_updated": "2026-05-05T19:03:47.892301+00:00"
 }
