@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "32.91\u00b0S",
-    "longitude": "69.42\u00b0W",
-    "timestamp": "2026-05-06T13:27:43+00:00",
+    "latitude": "24.50\u00b0N",
+    "longitude": "149.12\u00b0E",
+    "timestamp": "2026-05-06T19:19:42+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Show HN: Red Squares \u2013 GitHub outages as contributions",
-      "score": 385,
-      "url": "https://red-squares.cian.lol/",
-      "time": "2026-05-06T10:28:40"
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "score": 547,
+      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+      "time": "2026-05-06T15:44:13"
     },
     {
-      "title": "The bottleneck was never the code",
-      "score": 113,
-      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "time": "2026-05-04T10:46:15"
+      "title": "Appearing Productive in the Workplace",
+      "score": 225,
+      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "time": "2026-05-06T16:18:29"
     },
     {
-      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
-      "score": 49,
-      "url": "https://catstret.ch/202605/srss-hipster202510/",
-      "time": "2026-05-06T10:53:52"
+      "title": "From Supabase to Clerk to Better Auth",
+      "score": 78,
+      "url": "https://blog.val.town/better-auth",
+      "time": "2026-05-06T17:19:34"
     },
     {
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "score": 439,
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "time": "2026-05-06T03:10:33"
+      "title": "BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets",
+      "score": 80,
+      "url": "https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/",
+      "time": "2026-05-06T18:25:06"
     },
     {
-      "title": "StarFighter 16-Inch",
-      "score": 460,
-      "url": "https://us.starlabs.systems/pages/starfighter",
-      "time": "2026-05-06T02:03:44"
+      "title": "A Theory of Deep Learning",
+      "score": 22,
+      "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+      "time": "2026-05-05T19:38:48"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244833,
+      "stars": 244834,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195933,
+      "stars": 195932,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 174411,
+      "stars": 174577,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148112,
+      "stars": 148113,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139293,
+      "stars": 139300,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-06T13:27:41.948532+00:00"
+  "last_updated": "2026-05-06T19:19:41.762387+00:00"
 }
