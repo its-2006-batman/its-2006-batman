@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "40.70\u00b0N",
-    "longitude": "155.51\u00b0W",
-    "timestamp": "2026-05-06T08:05:50+00:00",
+    "latitude": "32.91\u00b0S",
+    "longitude": "69.42\u00b0W",
+    "timestamp": "2026-05-06T13:27:43+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Show HN: Red Squares \u2013 GitHub outages as contributions",
+      "score": 385,
+      "url": "https://red-squares.cian.lol/",
+      "time": "2026-05-06T10:28:40"
+    },
+    {
+      "title": "The bottleneck was never the code",
+      "score": 113,
+      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+      "time": "2026-05-04T10:46:15"
+    },
+    {
+      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+      "score": 49,
+      "url": "https://catstret.ch/202605/srss-hipster202510/",
+      "time": "2026-05-06T10:53:52"
+    },
+    {
       "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "score": 252,
+      "score": 439,
       "url": "https://blog.cloudflare.com/agents-stripe-projects/",
       "time": "2026-05-06T03:10:33"
     },
     {
-      "title": "CARA 2.0 \u2013 \u201cI Built a Better Robot Dog\u201d",
-      "score": 99,
-      "url": "https://www.aaedmusa.com/projects/cara2",
-      "time": "2026-05-04T06:46:10"
-    },
-    {
       "title": "StarFighter 16-Inch",
-      "score": 252,
+      "score": 460,
       "url": "https://us.starlabs.systems/pages/starfighter",
       "time": "2026-05-06T02:03:44"
-    },
-    {
-      "title": ".de TLD offline due to DNSSEC?",
-      "score": 644,
-      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "time": "2026-05-05T20:16:35"
-    },
-    {
-      "title": ".de domains were 'down' for 2 hours",
-      "score": 9,
-      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-      "time": "2026-05-06T06:53:30"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244824,
+      "stars": 244833,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195931,
+      "stars": 195933,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 174228,
+      "stars": 174411,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148111,
+      "stars": 148112,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139288,
+      "stars": 139293,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-06T08:05:42.455729+00:00"
+  "last_updated": "2026-05-06T13:27:41.948532+00:00"
 }
