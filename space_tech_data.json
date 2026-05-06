@@ -8,81 +8,87 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Orion over Mount Teide",
-    "date": "2026-05-05",
-    "explanation": "Orion is rarely seen like this.  To achieve this majestic vista, you need a camera capable of taking such long duration exposures that faint features in the night sky become revealed.  Iconic nebulas that appear include the Orion Nebula, the Flame Nebula, and Barnard's Loop. For contrast, it also he...",
-    "url": "https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg",
+    "title": "The Retrograde Dance of Saturn and Neptune",
+    "date": "2026-05-06",
+    "explanation": "What does it mean for Saturn and Neptune to be in retrograde? Featured is a composite of images taken over 34 nights from May 2025 to February 2026 tracing Saturn (brighter, foreground) and Neptune (dimmer, background). Over that time, the two planets exhibited retrograde motion, meaning they appear...",
+    "url": "https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "40.70\u00b0N",
+    "longitude": "155.51\u00b0W",
+    "timestamp": "2026-05-06T08:05:50+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "score": 252,
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "time": "2026-05-06T03:10:33"
+    },
+    {
+      "title": "CARA 2.0 \u2013 \u201cI Built a Better Robot Dog\u201d",
+      "score": 99,
+      "url": "https://www.aaedmusa.com/projects/cara2",
+      "time": "2026-05-04T06:46:10"
+    },
+    {
+      "title": "StarFighter 16-Inch",
+      "score": 252,
+      "url": "https://us.starlabs.systems/pages/starfighter",
+      "time": "2026-05-06T02:03:44"
+    },
+    {
       "title": ".de TLD offline due to DNSSEC?",
-      "score": 530,
+      "score": 644,
       "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
       "time": "2026-05-05T20:16:35"
     },
     {
-      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "score": 451,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-      "time": "2026-05-05T16:14:17"
-    },
-    {
-      "title": "Computer Use is 45x more expensive than structured APIs",
-      "score": 313,
-      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-      "time": "2026-05-05T16:34:48"
-    },
-    {
-      "title": "Three Inverse Laws of AI",
-      "score": 361,
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "time": "2026-05-05T15:27:18"
-    },
-    {
-      "title": "Write some software, give it away for free",
-      "score": 133,
-      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-      "time": "2026-05-05T21:26:50"
+      "title": ".de domains were 'down' for 2 hours",
+      "score": 9,
+      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
+      "time": "2026-05-06T06:53:30"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244819,
+      "stars": 244824,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195930,
+      "stars": 195931,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 173956,
+      "stars": 174228,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148113,
+      "stars": 148111,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139284,
+      "stars": 139288,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-06T01:49:42.927215+00:00"
+  "last_updated": "2026-05-06T08:05:42.455729+00:00"
 }
