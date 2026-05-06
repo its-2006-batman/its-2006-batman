@@ -14,81 +14,75 @@
     "url": "https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "51.39\u00b0S",
-    "longitude": "96.92\u00b0W",
-    "timestamp": "2026-05-05T19:03:48+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": ".de TLD offline due to DNSSEC?",
+      "score": 530,
+      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+      "time": "2026-05-05T20:16:35"
+    },
+    {
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "score": 187,
+      "score": 451,
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
       "time": "2026-05-05T16:14:17"
     },
     {
-      "title": "Three Inverse Laws of AI",
-      "score": 239,
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
-      "time": "2026-05-05T15:27:18"
-    },
-    {
       "title": "Computer Use is 45x more expensive than structured APIs",
-      "score": 112,
+      "score": 313,
       "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
       "time": "2026-05-05T16:34:48"
     },
     {
-      "title": "EEVblog: The 555 Timer is 55 years old",
-      "score": 121,
-      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-      "time": "2026-05-05T15:47:18"
+      "title": "Three Inverse Laws of AI",
+      "score": 361,
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "time": "2026-05-05T15:27:18"
     },
     {
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "score": 39,
-      "url": "https://arxiv.org/abs/2604.26752",
-      "time": "2026-05-05T17:52:31"
+      "title": "Write some software, give it away for free",
+      "score": 133,
+      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "time": "2026-05-05T21:26:50"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244818,
+      "stars": 244819,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195926,
+      "stars": 195930,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 173816,
+      "stars": 173956,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148112,
+      "stars": 148113,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139282,
+      "stars": 139284,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-05T19:03:47.892301+00:00"
+  "last_updated": "2026-05-06T01:49:42.927215+00:00"
 }
