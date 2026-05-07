@@ -14,43 +14,37 @@
     "url": "https://apod.nasa.gov/apod/image/2605/supernova.mp4",
     "media_type": "video"
   },
-  "iss_position": {
-    "latitude": "51.39\u00b0S",
-    "longitude": "56.46\u00b0E",
-    "timestamp": "2026-05-07T08:13:10+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "score": 1360,
+      "score": 1551,
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
       "time": "2026-05-06T15:44:13"
     },
     {
-      "title": "Appearing productive in the workplace",
-      "score": 1068,
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-      "time": "2026-05-06T16:18:29"
+      "title": "Indian matchbox labels as a visual archive",
+      "score": 43,
+      "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
+      "time": "2026-05-04T14:08:27"
     },
     {
-      "title": "Permacomputing Principles",
-      "score": 121,
-      "url": "https://permacomputing.net/principles/",
-      "time": "2026-05-07T02:18:23"
+      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+      "score": 79,
+      "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
+      "time": "2026-05-04T20:28:24"
     },
     {
-      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-      "score": 74,
-      "url": "https://aniket.foo/posts/20260505-netboot/",
-      "time": "2026-05-07T03:13:24"
+      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+      "score": 35,
+      "url": "https://ahk.cardor.dev",
+      "time": "2026-05-07T10:45:59"
     },
     {
-      "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "score": 202,
-      "url": "https://sqlite.org/locrsf.html",
-      "time": "2026-05-06T21:58:43"
+      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+      "score": 20,
+      "url": "https://ratex.lites.dev/",
+      "time": "2026-05-04T16:19:31"
     }
   ],
   "github_trending": [
@@ -64,14 +58,14 @@
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195932,
+      "stars": 195935,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 174941,
+      "stars": 175130,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +79,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139309,
+      "stars": 139310,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-07T08:13:09.164134+00:00"
+  "last_updated": "2026-05-07T13:26:24.125994+00:00"
 }
