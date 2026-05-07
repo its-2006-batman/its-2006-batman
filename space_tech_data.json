@@ -14,64 +14,58 @@
     "url": "https://apod.nasa.gov/apod/image/2605/saturn_neptune_retrograde_1024.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "24.50\u00b0N",
-    "longitude": "149.12\u00b0E",
-    "timestamp": "2026-05-06T19:19:42+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "score": 547,
+      "score": 1059,
       "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
       "time": "2026-05-06T15:44:13"
     },
     {
-      "title": "Appearing Productive in the Workplace",
-      "score": 225,
+      "title": "The Vatican's Website in Latin",
+      "score": 17,
+      "url": "https://www.vatican.va/latin/latin_index.html",
+      "time": "2026-05-07T01:26:03"
+    },
+    {
+      "title": "Appearing productive in the workplace",
+      "score": 717,
       "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
       "time": "2026-05-06T16:18:29"
     },
     {
-      "title": "From Supabase to Clerk to Better Auth",
-      "score": 78,
-      "url": "https://blog.val.town/better-auth",
-      "time": "2026-05-06T17:19:34"
+      "title": "The Old Guard: Confronting America's Gerontocratic Crisis",
+      "score": 21,
+      "url": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
+      "time": "2026-05-07T00:12:23"
     },
     {
-      "title": "BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets",
-      "score": 80,
-      "url": "https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/",
-      "time": "2026-05-06T18:25:06"
-    },
-    {
-      "title": "A Theory of Deep Learning",
-      "score": 22,
-      "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
-      "time": "2026-05-05T19:38:48"
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "score": 395,
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "time": "2026-05-06T15:06:37"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244834,
+      "stars": 244840,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195932,
+      "stars": 195931,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 174577,
+      "stars": 174698,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +79,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139300,
+      "stars": 139303,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-06T19:19:41.762387+00:00"
+  "last_updated": "2026-05-07T01:53:20.765405+00:00"
 }
