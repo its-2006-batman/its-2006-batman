@@ -14,58 +14,64 @@
     "url": "https://apod.nasa.gov/apod/image/2605/supernova.mp4",
     "media_type": "video"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "10.06\u00b0S",
+    "longitude": "24.95\u00b0W",
+    "timestamp": "2026-05-07T19:24:30+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "score": 1551,
-      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-      "time": "2026-05-06T15:44:13"
+      "title": "The map that keeps Burning Man honest",
+      "score": 408,
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "time": "2026-05-07T14:06:10"
     },
     {
-      "title": "Indian matchbox labels as a visual archive",
-      "score": 43,
-      "url": "https://www.itsnicethat.com/features/the-view-from-mumbai-matchbook-graphic-design-130426",
-      "time": "2026-05-04T14:08:27"
+      "title": "Agents need control flow, not more prompts",
+      "score": 119,
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "time": "2026-05-07T16:43:35"
     },
     {
-      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
-      "score": 79,
-      "url": "https://www.ticalc.org/programming/columns/83plus-bas/cherny/",
-      "time": "2026-05-04T20:28:24"
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "score": 186,
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "time": "2026-05-07T15:02:20"
     },
     {
-      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-      "score": 35,
-      "url": "https://ahk.cardor.dev",
-      "time": "2026-05-07T10:45:59"
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "score": 46,
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "time": "2026-05-07T17:54:02"
     },
     {
-      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-      "score": 20,
-      "url": "https://ratex.lites.dev/",
-      "time": "2026-05-04T16:19:31"
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "score": 142,
+      "url": "https://github.com/antirez/ds4",
+      "time": "2026-05-07T15:40:24"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244855,
+      "stars": 244872,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195935,
+      "stars": 195938,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 175130,
+      "stars": 175263,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -79,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139310,
+      "stars": 139313,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-07T13:26:24.125994+00:00"
+  "last_updated": "2026-05-07T19:24:29.532338+00:00"
 }
