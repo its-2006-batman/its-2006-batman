@@ -15,40 +15,40 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "28.57\u00b0N",
-    "longitude": "132.25\u00b0W",
-    "timestamp": "2026-05-08T13:06:16+00:00",
+    "latitude": "51.10\u00b0N",
+    "longitude": "61.81\u00b0E",
+    "timestamp": "2026-05-08T19:02:34+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Poland is now among the 20 largest economies. How it happened",
-      "score": 90,
-      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "time": "2026-05-08T12:30:05"
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "score": 428,
+      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+      "time": "2026-05-08T13:56:10"
     },
     {
-      "title": "Canvas is down as ShinyHunters threatens to leak schools\u2019 data",
-      "score": 764,
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "time": "2026-05-07T22:22:21"
+      "title": "Cartoon Network Flash Games",
+      "score": 139,
+      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+      "time": "2026-05-08T16:29:52"
     },
     {
-      "title": "Cloudflare to cut about 20% workforce",
-      "score": 921,
-      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-      "time": "2026-05-07T20:23:37"
+      "title": "AI Is Breaking Two Vulnerability Cultures",
+      "score": 30,
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "time": "2026-05-08T17:55:08"
     },
     {
-      "title": "Nintendo announces price increases for Nintendo Switch 2",
-      "score": 118,
-      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
-      "time": "2026-05-08T06:56:13"
+      "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+      "score": 128,
+      "url": "https://btxx.org/posts/memory/",
+      "time": "2026-05-08T15:10:35"
     },
     {
       "title": "An Introduction to Meshtastic",
-      "score": 20,
+      "score": 283,
       "url": "https://meshtastic.org/docs/introduction/",
       "time": "2026-05-08T11:22:11"
     }
@@ -64,14 +64,14 @@
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195937,
+      "stars": 195934,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 175681,
+      "stars": 175831,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139333,
+      "stars": 139336,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-08T13:06:14.513216+00:00"
+  "last_updated": "2026-05-08T19:02:34.264551+00:00"
 }
