@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "29.43\u00b0S",
-    "longitude": "9.26\u00b0E",
-    "timestamp": "2026-05-08T07:14:27+00:00",
+    "latitude": "28.57\u00b0N",
+    "longitude": "132.25\u00b0W",
+    "timestamp": "2026-05-08T13:06:16+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Poland is now among the 20 largest economies. How it happened",
+      "score": 90,
+      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+      "time": "2026-05-08T12:30:05"
+    },
+    {
       "title": "Canvas is down as ShinyHunters threatens to leak schools\u2019 data",
-      "score": 548,
+      "score": 764,
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
       "time": "2026-05-07T22:22:21"
     },
     {
-      "title": "Maybe you shouldn't install new software for a bit",
-      "score": 415,
-      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-      "time": "2026-05-07T23:02:11"
-    },
-    {
       "title": "Cloudflare to cut about 20% workforce",
-      "score": 598,
+      "score": 921,
       "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
       "time": "2026-05-07T20:23:37"
     },
     {
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "score": 580,
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "time": "2026-05-07T19:21:32"
+      "title": "Nintendo announces price increases for Nintendo Switch 2",
+      "score": 118,
+      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
+      "time": "2026-05-08T06:56:13"
     },
     {
-      "title": "Pinocchio is weirder than you remembered",
-      "score": 114,
-      "url": "https://storica.club/blog/pinocchio-in-italian/",
-      "time": "2026-05-06T12:27:07"
+      "title": "An Introduction to Meshtastic",
+      "score": 20,
+      "url": "https://meshtastic.org/docs/introduction/",
+      "time": "2026-05-08T11:22:11"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244873,
+      "stars": 244876,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195938,
+      "stars": 195937,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 175500,
+      "stars": 175681,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148114,
+      "stars": 148116,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139321,
+      "stars": 139333,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-08T07:14:26.957942+00:00"
+  "last_updated": "2026-05-08T13:06:14.513216+00:00"
 }
