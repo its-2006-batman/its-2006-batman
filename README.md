@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  49.94°N                                       ║
-║  📍 LONGITUDE: 46.77°W                                       ║
+║  📍 LATITUDE:  29.43°S                                       ║
+║  📍 LONGITUDE: 9.26°E                                        ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-05-08 01:59 UTC                   ║
+║  ⏰ UPDATE: 2026-05-08 07:14 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Supernova in a Sideways Spiral                           ║
-║  DATE:  2026-05-07                                                ║
-║  TYPE:  video                                                     ║
+║  TITLE: Comet R3 PanSTARRS Before Rigel                          ║
+║  DATE:  2026-05-08                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Canvas (Instructure) LMS Down in Ongoing Ransomware Attack** (222 ⭐)
-2. **Dirtyfrag: Universal Linux LPE** (412 ⭐)
-3. **Maybe you shouldn't install new software for a bit** (120 ⭐)
+1. **Canvas is down as ShinyHunters threatens to leak schools’ da...** (548 ⭐)
+2. **Maybe you shouldn't install new software for a bit** (415 ⭐)
+3. **Cloudflare to cut about 20% workforce** (598 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (244874★)
-2. **trekhleb/javascript-algorithms** (195940★)
-3. **affaan-m/everything-claude-code** (175351★)
+1. **facebook/react** (244873★)
+2. **trekhleb/javascript-algorithms** (195938★)
+3. **affaan-m/everything-claude-code** (175500★)
 <!-- LIVE_DATA_END -->

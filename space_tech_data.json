@@ -8,87 +8,87 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Supernova in a Sideways Spiral",
-    "date": "2026-05-07",
-    "explanation": "A long time ago, in a distant galaxy, a massive star was destroyed in a supernova explosion. The light of this event travelled for tens of millions of years and reached Earth last week as Supernova 2026kid. The featured video shows a time-lapse over three nights of the host galaxy NGC 5907, an edge-...",
-    "url": "https://apod.nasa.gov/apod/image/2605/sn_2025kid_low.mp4",
-    "media_type": "video"
+    "title": "Comet R3 PanSTARRS Before Rigel",
+    "date": "2026-05-08",
+    "explanation": "Which way is Comet R3 PanSTARRS going? Not towards the star at the top of the image, because that is Rigel, which, being far in the background, is unrelated to the comet. Not through the nebula in the image middle, because that is the Witch Head Nebula and it, too, is far in the distance -- but not ...",
+    "url": "https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg",
+    "media_type": "image"
   },
   "iss_position": {
-    "latitude": "49.94\u00b0N",
-    "longitude": "46.77\u00b0W",
-    "timestamp": "2026-05-08T01:59:21+00:00",
+    "latitude": "29.43\u00b0S",
+    "longitude": "9.26\u00b0E",
+    "timestamp": "2026-05-08T07:14:27+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
-      "score": 222,
+      "title": "Canvas is down as ShinyHunters threatens to leak schools\u2019 data",
+      "score": 548,
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
       "time": "2026-05-07T22:22:21"
     },
     {
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "score": 412,
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "time": "2026-05-07T19:21:32"
-    },
-    {
       "title": "Maybe you shouldn't install new software for a bit",
-      "score": 120,
+      "score": 415,
       "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
       "time": "2026-05-07T23:02:11"
     },
     {
-      "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-      "score": 57,
-      "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
-      "time": "2026-05-07T22:54:34"
+      "title": "Cloudflare to cut about 20% workforce",
+      "score": 598,
+      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "time": "2026-05-07T20:23:37"
     },
     {
-      "title": "The Burning Man MOOP Map",
-      "score": 537,
-      "url": "https://www.not-ship.com/burning-man-moop/",
-      "time": "2026-05-07T14:06:10"
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "score": 580,
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "time": "2026-05-07T19:21:32"
+    },
+    {
+      "title": "Pinocchio is weirder than you remembered",
+      "score": 114,
+      "url": "https://storica.club/blog/pinocchio-in-italian/",
+      "time": "2026-05-06T12:27:07"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244874,
+      "stars": 244873,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195940,
+      "stars": 195938,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 175351,
+      "stars": 175500,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148113,
+      "stars": 148114,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139318,
+      "stars": 139321,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-08T01:59:19.521844+00:00"
+  "last_updated": "2026-05-08T07:14:26.957942+00:00"
 }
