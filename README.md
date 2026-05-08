@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  10.06°S                                       ║
-║  📍 LONGITUDE: 24.95°W                                       ║
+║  📍 LATITUDE:  49.94°N                                       ║
+║  📍 LONGITUDE: 46.77°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-05-07 19:24 UTC                   ║
+║  ⏰ UPDATE: 2026-05-08 01:59 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **The map that keeps Burning Man honest** (408 ⭐)
-2. **Agents need control flow, not more prompts** (119 ⭐)
-3. **AlphaEvolve: Gemini-powered coding agent scaling impact acro...** (186 ⭐)
+1. **Canvas (Instructure) LMS Down in Ongoing Ransomware Attack** (222 ⭐)
+2. **Dirtyfrag: Universal Linux LPE** (412 ⭐)
+3. **Maybe you shouldn't install new software for a bit** (120 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (244872★)
-2. **trekhleb/javascript-algorithms** (195938★)
-3. **affaan-m/everything-claude-code** (175263★)
+1. **facebook/react** (244874★)
+2. **trekhleb/javascript-algorithms** (195940★)
+3. **affaan-m/everything-claude-code** (175351★)
 <!-- LIVE_DATA_END -->
