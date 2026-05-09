@@ -14,58 +14,64 @@
     "url": "https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "5.88\u00b0S",
+    "longitude": "166.53\u00b0E",
+    "timestamp": "2026-05-09T18:42:48+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
       "title": "Internet Archive Switzerland",
-      "score": 46,
+      "score": 367,
       "url": "https://internetarchive.ch/",
       "time": "2026-05-09T12:00:30"
     },
     {
-      "title": "Forking the Web",
-      "score": 19,
-      "url": "https://dillo-browser.org/lab/web-fork/",
-      "time": "2026-05-09T11:33:07"
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "score": 31,
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "time": "2026-05-09T17:06:46"
     },
     {
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "score": 404,
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "time": "2026-05-09T02:41:42"
+      "title": "Show HN: I wrote a flight simulator in my own programming language",
+      "score": 33,
+      "url": "https://github.com/navid-m/flightsim",
+      "time": "2026-05-06T21:58:05"
     },
     {
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "score": 1154,
-      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "time": "2026-05-08T18:45:58"
+      "title": "I Will Not Add Query Strings to Your URLs",
+      "score": 32,
+      "url": "https://susam.net/no-query-strings.html",
+      "time": "2026-05-09T16:28:36"
     },
     {
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "score": 210,
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "time": "2026-05-09T04:53:52"
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "score": 242,
+      "url": "https://arxiv.org/abs/2604.15597",
+      "time": "2026-05-09T08:44:34"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244892,
+      "stars": 244899,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195936,
+      "stars": 195933,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 176325,
+      "stars": 176568,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -79,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139338,
+      "stars": 139343,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-09T12:52:07.394611+00:00"
+  "last_updated": "2026-05-09T18:42:48.570279+00:00"
 }
