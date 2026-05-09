@@ -8,70 +8,70 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Comet R3 PanSTARRS Before Rigel",
-    "date": "2026-05-08",
-    "explanation": "Which way is Comet R3 PanSTARRS going? Not towards the star at the top of the image, because that is Rigel, which, being far in the background, is unrelated to the comet. Not through the nebula in the image middle, because that is the Witch Head Nebula and it, too, is far in the distance -- but not ...",
-    "url": "https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg",
+    "title": "Messier Craters in Stereo",
+    "date": "2026-05-09",
+    "explanation": "Many bright nebulae and star clusters in planet Earth's sky are associated with the name of astronomer Charles Messier from his famous 18th century catalog. His name is also given to these two large and remarkable craters on the Moon. Standouts in the dark, smooth lunar Sea of Fertility or Mare Fecu...",
+    "url": "https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "38.53\u00b0S",
-    "longitude": "97.65\u00b0E",
-    "timestamp": "2026-05-09T01:52:42+00:00",
+    "latitude": "26.73\u00b0N",
+    "longitude": "53.64\u00b0W",
+    "timestamp": "2026-05-09T07:41:37+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "score": 200,
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "time": "2026-05-09T02:41:42"
+    },
+    {
       "title": "Google broke reCAPTCHA for de-googled Android users",
-      "score": 627,
+      "score": 914,
       "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
       "time": "2026-05-08T18:45:58"
     },
     {
-      "title": "OpenAI's WebRTC problem",
-      "score": 97,
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "score": 87,
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "time": "2026-05-09T04:53:52"
+    },
+    {
+      "title": "Mythical Man Month",
+      "score": 123,
+      "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+      "time": "2026-05-07T07:20:55"
+    },
+    {
+      "title": "OpenAI\u2019s WebRTC problem",
+      "score": 261,
       "url": "https://moq.dev/blog/webrtc-is-the-problem/",
       "time": "2026-05-07T17:11:59"
-    },
-    {
-      "title": "The React2Shell Story",
-      "score": 35,
-      "url": "https://lachlan.nz/blog/the-react2shell-story/",
-      "time": "2026-05-08T16:39:48"
-    },
-    {
-      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "score": 83,
-      "url": "https://www.wiisfi.com/",
-      "time": "2026-05-06T16:01:50"
-    },
-    {
-      "title": "AI is breaking two vulnerability cultures",
-      "score": 241,
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "time": "2026-05-08T17:55:08"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244880,
+      "stars": 244885,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195933,
+      "stars": 195934,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 175933,
+      "stars": 176153,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139333,
+      "stars": 139335,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-09T01:52:41.193941+00:00"
+  "last_updated": "2026-05-09T07:41:33.189026+00:00"
 }
