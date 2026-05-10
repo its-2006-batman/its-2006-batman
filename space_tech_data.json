@@ -8,87 +8,87 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Messier Craters in Stereo",
-    "date": "2026-05-09",
-    "explanation": "Many bright nebulae and star clusters in planet Earth's sky are associated with the name of astronomer Charles Messier from his famous 18th century catalog. His name is also given to these two large and remarkable craters on the Moon. Standouts in the dark, smooth lunar Sea of Fertility or Mare Fecu...",
-    "url": "https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg",
+    "title": "Comet R3 PanSTARRS and Orion",
+    "date": "2026-05-10",
+    "explanation": "Orion never had a sword like this. As Comet C/2025 R3 (PanSTARRS) heads out of the inner Solar System, it is putting on quite a show for long exposure cameras.  Currently seen toward the constellation of Orion the Hunter, the distant Orion Nebula is visible on the upper right. Comet R3 PanSTARRS is ...",
+    "url": "https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960_annotated.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "38.61\u00b0N",
-    "longitude": "88.11\u00b0W",
-    "timestamp": "2026-05-10T01:52:32+00:00",
+    "latitude": "12.93\u00b0N",
+    "longitude": "151.07\u00b0E",
+    "timestamp": "2026-05-10T07:54:46+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "score": 216,
+      "url": "https://github.com/imtomt/ymawky",
+      "time": "2026-05-10T03:01:44"
+    },
+    {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "score": 418,
+      "score": 528,
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
       "time": "2026-05-09T10:12:55"
     },
     {
-      "title": "Internet Archive Switzerland",
-      "score": 537,
-      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "time": "2026-05-09T12:00:30"
+      "title": "The One Dollar Counterfeiter",
+      "score": 86,
+      "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
+      "time": "2026-05-07T12:40:35"
     },
     {
-      "title": "The Serial TTL connector we deserve",
-      "score": 45,
-      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
-      "time": "2026-05-07T14:19:55"
+      "title": "We see something that works, and then we understand it",
+      "score": 65,
+      "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
+      "time": "2026-05-06T15:15:23"
     },
     {
-      "title": "Rust but Lisp",
-      "score": 72,
-      "url": "https://github.com/ThatXliner/rust-but-lisp",
-      "time": "2026-05-09T21:46:27"
-    },
-    {
-      "title": "I\u2019ve banned query strings",
-      "score": 265,
-      "url": "https://chrismorgan.info/no-query-strings",
-      "time": "2026-05-09T16:28:36"
+      "title": "Gemini API File Search is now multimodal",
+      "score": 68,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "time": "2026-05-10T03:22:02"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244901,
+      "stars": 244911,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195930,
+      "stars": 195934,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 176820,
+      "stars": 177061,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148115,
+      "stars": 148118,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139344,
+      "stars": 139347,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-10T01:52:27.569131+00:00"
+  "last_updated": "2026-05-10T07:54:38.823990+00:00"
 }
