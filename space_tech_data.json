@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "5.88\u00b0S",
-    "longitude": "166.53\u00b0E",
-    "timestamp": "2026-05-09T18:42:48+00:00",
+    "latitude": "38.61\u00b0N",
+    "longitude": "88.11\u00b0W",
+    "timestamp": "2026-05-10T01:52:32+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "score": 418,
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "time": "2026-05-09T10:12:55"
+    },
+    {
       "title": "Internet Archive Switzerland",
-      "score": 367,
-      "url": "https://internetarchive.ch/",
+      "score": 537,
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
       "time": "2026-05-09T12:00:30"
     },
     {
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "score": 31,
-      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "time": "2026-05-09T17:06:46"
+      "title": "The Serial TTL connector we deserve",
+      "score": 45,
+      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+      "time": "2026-05-07T14:19:55"
     },
     {
-      "title": "Show HN: I wrote a flight simulator in my own programming language",
-      "score": 33,
-      "url": "https://github.com/navid-m/flightsim",
-      "time": "2026-05-06T21:58:05"
+      "title": "Rust but Lisp",
+      "score": 72,
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "time": "2026-05-09T21:46:27"
     },
     {
-      "title": "I Will Not Add Query Strings to Your URLs",
-      "score": 32,
-      "url": "https://susam.net/no-query-strings.html",
+      "title": "I\u2019ve banned query strings",
+      "score": 265,
+      "url": "https://chrismorgan.info/no-query-strings",
       "time": "2026-05-09T16:28:36"
-    },
-    {
-      "title": "LLMs Corrupt Your Documents When You Delegate",
-      "score": 242,
-      "url": "https://arxiv.org/abs/2604.15597",
-      "time": "2026-05-09T08:44:34"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244899,
+      "stars": 244901,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195933,
+      "stars": 195930,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 176568,
+      "stars": 176820,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148116,
+      "stars": 148115,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139343,
+      "stars": 139344,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-09T18:42:48.570279+00:00"
+  "last_updated": "2026-05-10T01:52:27.569131+00:00"
 }
