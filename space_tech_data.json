@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.53\u00b0N",
-    "longitude": "159.17\u00b0E",
-    "timestamp": "2026-05-10T12:53:02+00:00",
+    "latitude": "10.02\u00b0N",
+    "longitude": "16.35\u00b0W",
+    "timestamp": "2026-05-10T18:44:01+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Space Cadet Pinball on Linux",
-      "score": 67,
-      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-      "time": "2026-05-10T11:22:02"
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "score": 151,
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "time": "2026-05-10T17:54:02"
     },
     {
-      "title": "I returned to AWS, and was reminded why I left",
-      "score": 60,
+      "title": "Incident Report: CVE-2024-YIKES",
+      "score": 58,
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "time": "2026-05-10T17:43:10"
+    },
+    {
+      "title": "Tracesofhumanity.org by Joanna Rutkowska",
+      "score": 44,
+      "url": "https://tracesofhumanity.org/hello-world/",
+      "time": "2026-05-10T17:15:10"
+    },
+    {
+      "title": "Walking slower? Your ears, not your knees, might be the problem",
+      "score": 41,
+      "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
+      "time": "2026-05-09T14:49:48"
+    },
+    {
+      "title": "I returned to AWS and was reminded why I left",
+      "score": 470,
       "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
       "time": "2026-05-09T08:37:41"
-    },
-    {
-      "title": "Idempotency Is Easy Until the Second Request Is Different",
-      "score": 130,
-      "url": "https://blog.dochia.dev/blog/idempotency/",
-      "time": "2026-05-07T11:02:28"
-    },
-    {
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "score": 610,
-      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "time": "2026-05-09T10:12:55"
-    },
-    {
-      "title": "The One Dollar Counterfeiter",
-      "score": 190,
-      "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-      "time": "2026-05-07T12:40:35"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244920,
+      "stars": 244928,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195935,
+      "stars": 195938,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 177370,
+      "stars": 177845,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148117,
+      "stars": 148118,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139352,
+      "stars": 139359,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-10T12:52:57.873933+00:00"
+  "last_updated": "2026-05-10T18:44:01.152165+00:00"
 }
