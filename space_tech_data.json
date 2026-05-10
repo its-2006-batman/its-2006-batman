@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "12.93\u00b0N",
-    "longitude": "151.07\u00b0E",
-    "timestamp": "2026-05-10T07:54:46+00:00",
+    "latitude": "51.53\u00b0N",
+    "longitude": "159.17\u00b0E",
+    "timestamp": "2026-05-10T12:53:02+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "score": 216,
-      "url": "https://github.com/imtomt/ymawky",
-      "time": "2026-05-10T03:01:44"
+      "title": "Space Cadet Pinball on Linux",
+      "score": 67,
+      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+      "time": "2026-05-10T11:22:02"
+    },
+    {
+      "title": "I returned to AWS, and was reminded why I left",
+      "score": 60,
+      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+      "time": "2026-05-09T08:37:41"
+    },
+    {
+      "title": "Idempotency Is Easy Until the Second Request Is Different",
+      "score": 130,
+      "url": "https://blog.dochia.dev/blog/idempotency/",
+      "time": "2026-05-07T11:02:28"
     },
     {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "score": 528,
+      "score": 610,
       "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
       "time": "2026-05-09T10:12:55"
     },
     {
       "title": "The One Dollar Counterfeiter",
-      "score": 86,
+      "score": 190,
       "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
       "time": "2026-05-07T12:40:35"
-    },
-    {
-      "title": "We see something that works, and then we understand it",
-      "score": 65,
-      "url": "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/",
-      "time": "2026-05-06T15:15:23"
-    },
-    {
-      "title": "Gemini API File Search is now multimodal",
-      "score": 68,
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-      "time": "2026-05-10T03:22:02"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244911,
+      "stars": 244920,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195934,
+      "stars": 195935,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 177061,
+      "stars": 177370,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148118,
+      "stars": 148117,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139347,
+      "stars": 139352,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-10T07:54:38.823990+00:00"
+  "last_updated": "2026-05-10T12:52:57.873933+00:00"
 }
