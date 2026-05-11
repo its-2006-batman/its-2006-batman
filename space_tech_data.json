@@ -15,80 +15,80 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "51.55\u00b0S",
-    "longitude": "58.20\u00b0W",
-    "timestamp": "2026-05-11T14:24:23+00:00",
+    "latitude": "1.33\u00b0S",
+    "longitude": "42.17\u00b0W",
+    "timestamp": "2026-05-11T19:26:29+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+      "score": 256,
+      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+      "time": "2026-05-11T15:55:07"
+    },
+    {
+      "title": "Nullsoft, 1997-2004 (2004)",
+      "score": 129,
+      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+      "time": "2026-05-08T08:00:44"
+    },
+    {
       "title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
-      "score": 276,
+      "score": 510,
       "url": "https://ratty-term.org/",
       "time": "2026-05-11T10:13:04"
     },
     {
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "score": 1836,
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "time": "2026-05-10T17:54:02"
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "score": 171,
+      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+      "time": "2026-05-10T17:05:05"
     },
     {
-      "title": "Driver accused of DUI tracks missing laptop to Illinois State trooper's house",
-      "score": 139,
-      "url": "https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/",
-      "time": "2026-05-08T18:51:35"
-    },
-    {
-      "title": "Local AI needs to be the norm",
-      "score": 1459,
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "time": "2026-05-10T17:19:28"
-    },
-    {
-      "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
-      "score": 62,
-      "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
-      "time": "2026-05-09T00:42:22"
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "score": 406,
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "time": "2026-05-11T07:26:54"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244947,
+      "stars": 244954,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195940,
+      "stars": 195943,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 179205,
+      "stars": 179416,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148117,
+      "stars": 148116,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139387,
+      "stars": 139391,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-11T14:24:21.172993+00:00"
+  "last_updated": "2026-05-11T19:26:27.284020+00:00"
 }
