@@ -15,80 +15,80 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "50.01\u00b0N",
-    "longitude": "170.25\u00b0W",
-    "timestamp": "2026-05-11T08:56:44+00:00",
+    "latitude": "51.55\u00b0S",
+    "longitude": "58.20\u00b0W",
+    "timestamp": "2026-05-11T14:24:23+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
+      "score": 276,
+      "url": "https://ratty-term.org/",
+      "time": "2026-05-11T10:13:04"
+    },
+    {
       "title": "Hardware Attestation as Monopoly Enabler",
-      "score": 1466,
+      "score": 1836,
       "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
       "time": "2026-05-10T17:54:02"
     },
     {
+      "title": "Driver accused of DUI tracks missing laptop to Illinois State trooper's house",
+      "score": 139,
+      "url": "https://abc7chicago.com/post/top-cop-driver-accused-dui-tracks-missing-laptop-illinois-state-police-trooper-kevin-bradleys-house/19060850/",
+      "time": "2026-05-08T18:51:35"
+    },
+    {
       "title": "Local AI needs to be the norm",
-      "score": 1086,
+      "score": 1459,
       "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
       "time": "2026-05-10T17:19:28"
     },
     {
-      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
-      "score": 149,
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "time": "2026-05-11T02:43:34"
-    },
-    {
-      "title": "I'm going back to writing code by hand",
-      "score": 329,
-      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "time": "2026-05-11T01:23:51"
-    },
-    {
-      "title": "Running local models on an M4 with 24GB memory",
-      "score": 290,
-      "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "time": "2026-05-10T23:09:10"
+      "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
+      "score": 62,
+      "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
+      "time": "2026-05-09T00:42:22"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244938,
+      "stars": 244947,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195941,
+      "stars": 195940,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 178841,
+      "stars": 179205,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148120,
+      "stars": 148117,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139379,
+      "stars": 139387,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-11T08:56:41.273310+00:00"
+  "last_updated": "2026-05-11T14:24:21.172993+00:00"
 }
