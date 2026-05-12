@@ -15,49 +15,49 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "35.63\u00b0N",
-    "longitude": "93.30\u00b0W",
-    "timestamp": "2026-05-12T08:24:00+00:00",
+    "latitude": "29.05\u00b0S",
+    "longitude": "11.91\u00b0E",
+    "timestamp": "2026-05-12T13:51:41+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "score": 798,
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "time": "2026-05-11T21:08:25"
+      "title": "Learning Software Architecture",
+      "score": 245,
+      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+      "time": "2026-05-12T09:30:21"
     },
     {
       "title": "Screenshots of Old Desktop OSes",
-      "score": 103,
+      "score": 387,
       "url": "http://www.typewritten.org/Media/",
       "time": "2026-05-12T05:11:24"
     },
     {
-      "title": "They Live (1988) inspired Adblocker",
-      "score": 189,
-      "url": "https://github.com/davmlaw/they_live_adblocker",
-      "time": "2026-05-12T00:37:54"
+      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+      "score": 197,
+      "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
+      "time": "2026-05-12T11:00:07"
     },
     {
-      "title": "If AI writes your code, why use Python?",
-      "score": 443,
-      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "time": "2026-05-11T20:45:55"
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "score": 925,
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "time": "2026-05-11T21:08:25"
     },
     {
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "score": 319,
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-      "time": "2026-05-11T17:53:08"
+      "title": "A HN post with negative points \u2013 how?",
+      "score": 51,
+      "url": "https://news.ycombinator.com/item?id=48104663",
+      "time": "2026-05-12T10:29:24"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244965,
+      "stars": 244974,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,7 +71,7 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 179932,
+      "stars": 180162,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139403,
+      "stars": 139406,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-12T08:23:59.857755+00:00"
+  "last_updated": "2026-05-12T13:51:39.897589+00:00"
 }
