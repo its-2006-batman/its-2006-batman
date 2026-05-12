@@ -15,80 +15,80 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "1.33\u00b0S",
-    "longitude": "42.17\u00b0W",
-    "timestamp": "2026-05-11T19:26:29+00:00",
+    "latitude": "49.85\u00b0N",
+    "longitude": "70.80\u00b0W",
+    "timestamp": "2026-05-12T01:58:20+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
-      "score": 256,
-      "url": "https://nvlabs.github.io/cuda-oxide/index.html",
-      "time": "2026-05-11T15:55:07"
+      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "score": 533,
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "time": "2026-05-11T21:08:25"
     },
     {
-      "title": "Nullsoft, 1997-2004 (2004)",
-      "score": 129,
-      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-      "time": "2026-05-08T08:00:44"
+      "title": "If AI writes your code, why use Python?",
+      "score": 154,
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "time": "2026-05-11T20:45:55"
     },
     {
-      "title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
-      "score": 510,
-      "url": "https://ratty-term.org/",
-      "time": "2026-05-11T10:13:04"
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "score": 236,
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "time": "2026-05-11T17:53:08"
     },
     {
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "score": 171,
-      "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-      "time": "2026-05-10T17:05:05"
+      "title": "Library for fast mapping of Java records to native memory",
+      "score": 108,
+      "url": "https://github.com/mamba-studio/TypedMemory",
+      "time": "2026-05-11T19:33:31"
     },
     {
-      "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "score": 406,
-      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-      "time": "2026-05-11T07:26:54"
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "score": 72,
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "time": "2026-05-11T21:04:10"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244954,
+      "stars": 244959,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195943,
+      "stars": 195947,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 179416,
+      "stars": 179604,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148116,
+      "stars": 148117,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139391,
+      "stars": 139395,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-11T19:26:27.284020+00:00"
+  "last_updated": "2026-05-12T01:58:20.217887+00:00"
 }
