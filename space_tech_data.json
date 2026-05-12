@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "29.05\u00b0S",
-    "longitude": "11.91\u00b0E",
-    "timestamp": "2026-05-12T13:51:41+00:00",
+    "latitude": "2.10\u00b0S",
+    "longitude": "134.41\u00b0E",
+    "timestamp": "2026-05-12T19:27:16+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Learning Software Architecture",
-      "score": 245,
-      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-      "time": "2026-05-12T09:30:21"
+      "title": "Googlebook",
+      "score": 230,
+      "url": "https://googlebook.google/",
+      "time": "2026-05-12T17:37:36"
     },
     {
-      "title": "Screenshots of Old Desktop OSes",
-      "score": 387,
-      "url": "http://www.typewritten.org/Media/",
-      "time": "2026-05-12T05:11:24"
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "score": 70,
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "time": "2026-05-12T18:12:28"
     },
     {
-      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-      "score": 197,
-      "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
-      "time": "2026-05-12T11:00:07"
+      "title": "Why senior developers fail to communicate their expertise",
+      "score": 147,
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "time": "2026-05-12T15:08:40"
     },
     {
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "score": 925,
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "time": "2026-05-11T21:08:25"
+      "title": "The Future of Obsidian Plugins",
+      "score": 157,
+      "url": "https://obsidian.md/blog/future-of-plugins/",
+      "time": "2026-05-12T15:45:54"
     },
     {
-      "title": "A HN post with negative points \u2013 how?",
-      "score": 51,
-      "url": "https://news.ycombinator.com/item?id=48104663",
-      "time": "2026-05-12T10:29:24"
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "score": 319,
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "time": "2026-05-12T13:26:46"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244974,
+      "stars": 244982,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195951,
+      "stars": 195953,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 180162,
+      "stars": 180372,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148117,
+      "stars": 148114,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139406,
+      "stars": 139411,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-12T13:51:39.897589+00:00"
+  "last_updated": "2026-05-12T19:27:16.002388+00:00"
 }
