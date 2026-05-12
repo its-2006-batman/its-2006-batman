@@ -8,70 +8,70 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Moon Setting Behind Teide Volcano",
-    "date": "2026-05-11",
-    "explanation": "These people are not in danger. What is coming down from the left is just the Moon, far in the distance. Luna appears so large here because she is being photographed through a telescopic lens.  What is moving is mostly the Earth, whose spin causes the Moon to slowly disappear behind Mount Teide, a v...",
-    "url": "https://www.youtube.com/embed/afHfMMC-MJE?rel=0",
-    "media_type": "video"
+    "title": "The Conjunction of Comet R3 PanSTARRS and the Orion Nebula",
+    "date": "2026-05-12",
+    "explanation": "Today\u2019s composite image features something old, something new, something borrowed, and something blue! Comet R3 PanSTARRS, streaking across the right of the image, likely originated from the Oort Cloud, meaning it is an old Solar System relic from billions of years ago. It\u2019s bright extended ion tail...",
+    "url": "https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg",
+    "media_type": "image"
   },
   "iss_position": {
-    "latitude": "49.85\u00b0N",
-    "longitude": "70.80\u00b0W",
-    "timestamp": "2026-05-12T01:58:20+00:00",
+    "latitude": "35.63\u00b0N",
+    "longitude": "93.30\u00b0W",
+    "timestamp": "2026-05-12T08:24:00+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Postmortem: TanStack npm supply-chain compromise",
-      "score": 533,
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "score": 798,
       "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
       "time": "2026-05-11T21:08:25"
     },
     {
+      "title": "Screenshots of Old Desktop OSes",
+      "score": 103,
+      "url": "http://www.typewritten.org/Media/",
+      "time": "2026-05-12T05:11:24"
+    },
+    {
+      "title": "They Live (1988) inspired Adblocker",
+      "score": 189,
+      "url": "https://github.com/davmlaw/they_live_adblocker",
+      "time": "2026-05-12T00:37:54"
+    },
+    {
       "title": "If AI writes your code, why use Python?",
-      "score": 154,
+      "score": 443,
       "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
       "time": "2026-05-11T20:45:55"
     },
     {
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "score": 236,
+      "score": 319,
       "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
       "time": "2026-05-11T17:53:08"
-    },
-    {
-      "title": "Library for fast mapping of Java records to native memory",
-      "score": 108,
-      "url": "https://github.com/mamba-studio/TypedMemory",
-      "time": "2026-05-11T19:33:31"
-    },
-    {
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "score": 72,
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "time": "2026-05-11T21:04:10"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244959,
+      "stars": 244965,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195947,
+      "stars": 195951,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 179604,
+      "stars": 179932,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139395,
+      "stars": 139403,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-12T01:58:20.217887+00:00"
+  "last_updated": "2026-05-12T08:23:59.857755+00:00"
 }
