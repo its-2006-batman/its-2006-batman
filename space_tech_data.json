@@ -15,49 +15,49 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "2.10\u00b0S",
-    "longitude": "134.41\u00b0E",
-    "timestamp": "2026-05-12T19:27:16+00:00",
+    "latitude": "51.22\u00b0S",
+    "longitude": "131.77\u00b0E",
+    "timestamp": "2026-05-13T02:02:57+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "score": 155,
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "time": "2026-05-12T21:55:21"
+    },
+    {
       "title": "Googlebook",
-      "score": 230,
+      "score": 615,
       "url": "https://googlebook.google/",
       "time": "2026-05-12T17:37:36"
     },
     {
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "score": 70,
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "time": "2026-05-12T18:12:28"
+      "title": "My graduation cap runs Rust",
+      "score": 52,
+      "url": "https://ericswpark.com/blog/2026/2026-05-12-my-graduation-cap-runs-rust/",
+      "time": "2026-05-13T00:04:21"
     },
     {
-      "title": "Why senior developers fail to communicate their expertise",
-      "score": 147,
-      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-      "time": "2026-05-12T15:08:40"
+      "title": "Kraftwerk's radical 1976 track",
+      "score": 62,
+      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+      "time": "2026-05-12T23:13:01"
     },
     {
-      "title": "The Future of Obsidian Plugins",
-      "score": 157,
-      "url": "https://obsidian.md/blog/future-of-plugins/",
-      "time": "2026-05-12T15:45:54"
-    },
-    {
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "score": 319,
-      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-      "time": "2026-05-12T13:26:46"
+      "title": "How to make your text look futuristic (2016)",
+      "score": 216,
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "time": "2026-05-12T20:16:26"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244982,
+      "stars": 244985,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,24 +71,24 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 180372,
+      "stars": 180562,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148114,
+      "stars": 148115,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139411,
+      "stars": 139417,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-12T19:27:16.002388+00:00"
+  "last_updated": "2026-05-13T02:02:55.569965+00:00"
 }
