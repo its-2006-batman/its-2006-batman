@@ -15,49 +15,49 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "47.96\u00b0N",
-    "longitude": "35.96\u00b0W",
-    "timestamp": "2026-05-14T02:05:55+00:00",
+    "latitude": "28.15\u00b0N",
+    "longitude": "96.25\u00b0W",
+    "timestamp": "2026-05-14T08:26:18+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Scorched Earth 2000 is back",
-      "score": 40,
+      "title": "Claude for Small Business",
+      "score": 201,
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "time": "2026-05-14T03:59:35"
+    },
+    {
+      "title": "Scorched Earth 2000 \u2013 Web",
+      "score": 230,
       "url": "http://www.scorch2000.com/web/",
       "time": "2026-05-14T00:41:29"
     },
     {
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "score": 532,
+      "score": 693,
       "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
       "time": "2026-05-10T20:54:06"
     },
     {
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "score": 495,
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "time": "2026-05-13T14:45:18"
+      "title": "Arena AI Model ELO History",
+      "score": 54,
+      "url": "https://mayerwin.github.io/AI-Arena-History/",
+      "time": "2026-05-14T03:19:05"
     },
     {
-      "title": "A History of IDEs at Google",
-      "score": 276,
-      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
-      "time": "2026-05-09T11:14:18"
-    },
-    {
-      "title": "Chess puzzle I found in my dad's old book",
-      "score": 87,
-      "url": "https://ardoedo.it/kempelen/",
-      "time": "2026-05-11T16:00:19"
+      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+      "score": 9,
+      "url": "https://classic7.lol/",
+      "time": "2026-05-14T07:03:18"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244994,
+      "stars": 245006,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,7 +71,7 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 181416,
+      "stars": 181734,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139439,
+      "stars": 139451,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-14T02:05:54.169173+00:00"
+  "last_updated": "2026-05-14T08:26:17.508695+00:00"
 }
