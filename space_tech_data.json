@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "9.31\u00b0N",
-    "longitude": "46.30\u00b0W",
-    "timestamp": "2026-05-13T19:29:28+00:00",
+    "latitude": "47.96\u00b0N",
+    "longitude": "35.96\u00b0W",
+    "timestamp": "2026-05-14T02:05:55+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "score": 355,
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "time": "2026-05-13T14:45:18"
+      "title": "Scorched Earth 2000 is back",
+      "score": 40,
+      "url": "http://www.scorch2000.com/web/",
+      "time": "2026-05-14T00:41:29"
     },
     {
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "score": 125,
+      "score": 532,
       "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
       "time": "2026-05-10T20:54:06"
     },
     {
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "score": 495,
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "time": "2026-05-13T14:45:18"
+    },
+    {
       "title": "A History of IDEs at Google",
-      "score": 105,
+      "score": 276,
       "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
       "time": "2026-05-09T11:14:18"
     },
     {
-      "title": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
-      "score": 95,
-      "url": "https://github.com/nooga/xsofy",
-      "time": "2026-05-10T03:32:59"
-    },
-    {
-      "title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
-      "score": 37,
-      "url": "https://www.tryardent.com/",
-      "time": "2026-05-13T16:54:03"
+      "title": "Chess puzzle I found in my dad's old book",
+      "score": 87,
+      "url": "https://ardoedo.it/kempelen/",
+      "time": "2026-05-11T16:00:19"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 244991,
+      "stars": 244994,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195956,
+      "stars": 195955,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 181263,
+      "stars": 181416,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148125,
+      "stars": 148124,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139431,
+      "stars": 139439,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-13T19:29:27.308753+00:00"
+  "last_updated": "2026-05-14T02:05:54.169173+00:00"
 }
