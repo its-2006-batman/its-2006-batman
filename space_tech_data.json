@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "37.78\u00b0S",
-    "longitude": "109.90\u00b0W",
-    "timestamp": "2026-05-14T13:27:47+00:00",
+    "latitude": "2.00\u00b0S",
+    "longitude": "122.60\u00b0E",
+    "timestamp": "2026-05-14T19:26:42+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Show HN: Running the second public ODoH relay",
-      "score": 57,
-      "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
-      "time": "2026-05-14T10:44:50"
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "score": 225,
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "time": "2026-05-14T17:08:00"
     },
     {
-      "title": "Claude for Small Business",
-      "score": 361,
-      "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "time": "2026-05-14T03:59:35"
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "score": 310,
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "time": "2026-05-14T15:47:31"
     },
     {
-      "title": "Myths about /dev/urandom (2014)",
-      "score": 22,
-      "url": "https://www.2uo.de/myths-about-urandom/",
-      "time": "2026-05-14T11:26:22"
+      "title": "New Nginx Exploit",
+      "score": 135,
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "time": "2026-05-14T17:17:48"
     },
     {
-      "title": "The Tree House: A voyage to the source of a backyard dream",
-      "score": 19,
-      "url": "https://www.laphamsquarterly.org/roundtable/tree-house",
-      "time": "2026-05-11T19:41:02"
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "score": 23,
+      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "time": "2026-05-14T18:25:09"
     },
     {
-      "title": "Scorched Earth 2000 \u2013 Web",
-      "score": 307,
-      "url": "http://www.scorch2000.com/web/",
-      "time": "2026-05-14T00:41:29"
+      "title": "A message from President Kornbluth about funding and the talent pipeline",
+      "score": 494,
+      "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+      "time": "2026-05-14T14:51:14"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245015,
+      "stars": 245020,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195957,
+      "stars": 195960,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 181926,
+      "stars": 182132,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148127,
+      "stars": 148125,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139459,
+      "stars": 139463,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-14T13:27:46.290878+00:00"
+  "last_updated": "2026-05-14T19:26:40.566669+00:00"
 }
