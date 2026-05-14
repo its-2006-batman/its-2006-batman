@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  28.15°N                                       ║
-║  📍 LONGITUDE: 96.25°W                                       ║
+║  📍 LATITUDE:  37.78°S                                       ║
+║  📍 LONGITUDE: 109.90°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-05-14 08:26 UTC                   ║
+║  ⏰ UPDATE: 2026-05-14 13:27 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: NGC 188: Old Cluster in the New General Catalog          ║
-║  DATE:  2026-05-13                                                ║
+║  TITLE: Messier Catalog at Uniform Scale                         ║
+║  DATE:  2026-05-14                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Claude for Small Business** (201 ⭐)
-2. **Scorched Earth 2000 – Web** (230 ⭐)
-3. **Linux gaming is faster because Windows APIs are becoming Lin...** (693 ⭐)
+1. **Show HN: Running the second public ODoH relay** (57 ⭐)
+2. **Claude for Small Business** (361 ⭐)
+3. **Myths about /dev/urandom (2014)** (22 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (245006★)
-2. **trekhleb/javascript-algorithms** (195955★)
-3. **affaan-m/everything-claude-code** (181734★)
+1. **facebook/react** (245015★)
+2. **trekhleb/javascript-algorithms** (195957★)
+3. **affaan-m/everything-claude-code** (181926★)
 <!-- LIVE_DATA_END -->

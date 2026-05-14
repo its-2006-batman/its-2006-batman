@@ -8,87 +8,87 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "NGC 188: Old Cluster in the New General Catalog",
-    "date": "2026-05-13",
-    "explanation": "The New General Catalog of star clusters and nebulae really isn't so new. In fact, it was published in 1888 - an effort by J. L. E. Dreyer to consolidate the work of astronomers William, Caroline, and John Herschel along with others into a useful single, complete catalog of astronomical discoveries ...",
-    "url": "https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg",
+    "title": "Messier Catalog at Uniform Scale",
+    "date": "2026-05-14",
+    "explanation": "What are some of the most interesting astronomical objects you can see in the night sky?   Armed with a good pair of binoculars or a small telescope, if you live in the Northern Hemisphere, you can look for the very popular objects in the Messier Catalog.   Most of them, but not all, are also visibl...",
+    "url": "https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "28.15\u00b0N",
-    "longitude": "96.25\u00b0W",
-    "timestamp": "2026-05-14T08:26:18+00:00",
+    "latitude": "37.78\u00b0S",
+    "longitude": "109.90\u00b0W",
+    "timestamp": "2026-05-14T13:27:47+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Show HN: Running the second public ODoH relay",
+      "score": 57,
+      "url": "https://numa.rs/blog/posts/odoh-anonymous-dns-without-an-account.html",
+      "time": "2026-05-14T10:44:50"
+    },
+    {
       "title": "Claude for Small Business",
-      "score": 201,
+      "score": 361,
       "url": "https://www.anthropic.com/news/claude-for-small-business",
       "time": "2026-05-14T03:59:35"
     },
     {
+      "title": "Myths about /dev/urandom (2014)",
+      "score": 22,
+      "url": "https://www.2uo.de/myths-about-urandom/",
+      "time": "2026-05-14T11:26:22"
+    },
+    {
+      "title": "The Tree House: A voyage to the source of a backyard dream",
+      "score": 19,
+      "url": "https://www.laphamsquarterly.org/roundtable/tree-house",
+      "time": "2026-05-11T19:41:02"
+    },
+    {
       "title": "Scorched Earth 2000 \u2013 Web",
-      "score": 230,
+      "score": 307,
       "url": "http://www.scorch2000.com/web/",
       "time": "2026-05-14T00:41:29"
-    },
-    {
-      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "score": 693,
-      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "time": "2026-05-10T20:54:06"
-    },
-    {
-      "title": "Arena AI Model ELO History",
-      "score": 54,
-      "url": "https://mayerwin.github.io/AI-Arena-History/",
-      "time": "2026-05-14T03:19:05"
-    },
-    {
-      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
-      "score": 9,
-      "url": "https://classic7.lol/",
-      "time": "2026-05-14T07:03:18"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245006,
+      "stars": 245015,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195955,
+      "stars": 195957,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 181734,
+      "stars": 181926,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148124,
+      "stars": 148127,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139451,
+      "stars": 139459,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-14T08:26:17.508695+00:00"
+  "last_updated": "2026-05-14T13:27:46.290878+00:00"
 }
