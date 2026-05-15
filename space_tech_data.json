@@ -15,49 +15,49 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "2.00\u00b0S",
-    "longitude": "122.60\u00b0E",
-    "timestamp": "2026-05-14T19:26:42+00:00",
+    "latitude": "49.92\u00b0S",
+    "longitude": "129.72\u00b0E",
+    "timestamp": "2026-05-15T02:04:05+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "score": 225,
+      "score": 625,
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
       "time": "2026-05-14T17:08:00"
     },
     {
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "score": 310,
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "time": "2026-05-14T15:47:31"
+      "title": "A few words on DS4",
+      "score": 155,
+      "url": "https://antirez.com/news/165",
+      "time": "2026-05-14T22:29:12"
     },
     {
-      "title": "New Nginx Exploit",
-      "score": 135,
-      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "time": "2026-05-14T17:17:48"
+      "title": "Elevated error rates on Opus 4.7",
+      "score": 48,
+      "url": "https://status.claude.com/incidents/8z7l5zcy0v3b",
+      "time": "2026-05-15T00:22:53"
     },
     {
       "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "score": 23,
+      "score": 261,
       "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
       "time": "2026-05-14T18:25:09"
     },
     {
-      "title": "A message from President Kornbluth about funding and the talent pipeline",
-      "score": 494,
-      "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-      "time": "2026-05-14T14:51:14"
+      "title": "Have a Coherent AI Policy",
+      "score": 42,
+      "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
+      "time": "2026-05-14T23:24:45"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245020,
+      "stars": 245023,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,24 +71,24 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 182132,
+      "stars": 182291,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148125,
+      "stars": 148127,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     },
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139463,
+      "stars": 139469,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-14T19:26:40.566669+00:00"
+  "last_updated": "2026-05-15T02:04:05.331623+00:00"
 }
