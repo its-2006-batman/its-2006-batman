@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "5.47\u00b0N",
-    "longitude": "104.42\u00b0E",
-    "timestamp": "2026-05-15T08:37:26+00:00",
+    "latitude": "37.33\u00b0N",
+    "longitude": "63.56\u00b0E",
+    "timestamp": "2026-05-15T13:27:21+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "score": 821,
-      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "time": "2026-05-14T17:08:00"
+      "title": "O(x)Caml in Space",
+      "score": 110,
+      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+      "time": "2026-05-15T10:55:51"
     },
     {
-      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "score": 100,
-      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-      "time": "2026-05-15T03:56:14"
+      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "score": 203,
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "time": "2026-05-15T09:19:24"
     },
     {
-      "title": "Solar-based sleep patterns compared to modern norms",
-      "score": 43,
-      "url": "https://dylan.gr/1775146616",
-      "time": "2026-05-15T04:15:24"
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "score": 241,
+      "url": "https://explorer.samismith.com/",
+      "time": "2026-05-15T08:45:36"
     },
     {
-      "title": "A few words on DS4",
-      "score": 290,
-      "url": "https://antirez.com/news/165",
-      "time": "2026-05-14T22:29:12"
+      "title": "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos",
+      "score": 47,
+      "url": "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/",
+      "time": "2026-05-15T12:49:27"
     },
     {
-      "title": "Access to frontier AI will soon be limited by economic and security constraints",
-      "score": 138,
-      "url": "https://writing.antonleicht.me/p/cut-off",
-      "time": "2026-05-15T01:08:04"
+      "title": "Welcome to the Strip Mining Era of OSS Security",
+      "score": 40,
+      "url": "https://www.metabase.com/blog/strip-mining-era-of-open-source-security",
+      "time": "2026-05-15T11:37:17"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245034,
+      "stars": 245037,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195966,
+      "stars": 195965,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 182578,
+      "stars": 182755,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
-      "name": "airbnb/javascript",
-      "description": "JavaScript Style Guide",
-      "stars": 148127,
+      "name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 155706,
       "language": "JavaScript",
-      "url": "https://github.com/airbnb/javascript"
+      "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
-      "name": "vercel/next.js",
-      "description": "The React Framework",
-      "stars": 139479,
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148129,
       "language": "JavaScript",
-      "url": "https://github.com/vercel/next.js"
+      "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-15T08:37:25.480458+00:00"
+  "last_updated": "2026-05-15T13:27:20.929922+00:00"
 }
