@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "37.33\u00b0N",
-    "longitude": "63.56\u00b0E",
-    "timestamp": "2026-05-15T13:27:21+00:00",
+    "latitude": "31.89\u00b0S",
+    "longitude": "91.45\u00b0W",
+    "timestamp": "2026-05-15T19:14:54+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "O(x)Caml in Space",
-      "score": 110,
-      "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
-      "time": "2026-05-15T10:55:51"
+      "title": "Project Gutenberg \u2013 keeps getting better",
+      "score": 370,
+      "url": "https://www.gutenberg.org/",
+      "time": "2026-05-15T16:15:36"
     },
     {
-      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "score": 203,
-      "url": "https://github.com/Andyyyy64/whichllm",
-      "time": "2026-05-15T09:19:24"
+      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+      "score": 171,
+      "url": "https://github.com/oven-sh/bun/issues/30719",
+      "time": "2026-05-15T16:51:25"
     },
     {
-      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "title": "A 0-click exploit chain for the Pixel 10",
       "score": 241,
-      "url": "https://explorer.samismith.com/",
-      "time": "2026-05-15T08:45:36"
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "time": "2026-05-15T13:39:54"
     },
     {
-      "title": "Too dangerous or just too expensive? The real reason Anthropic is hiding Mythos",
-      "score": 47,
-      "url": "https://kingy.ai/ai/too-dangerous-to-release-or-just-too-expensive-the-real-reason-anthropic-is-hiding-its-most-powerful-ai/",
-      "time": "2026-05-15T12:49:27"
+      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+      "score": 39,
+      "url": "https://github.com/gdevic/FPGA-Calculator",
+      "time": "2026-05-15T17:15:58"
     },
     {
-      "title": "Welcome to the Strip Mining Era of OSS Security",
-      "score": 40,
-      "url": "https://www.metabase.com/blog/strip-mining-era-of-open-source-security",
-      "time": "2026-05-15T11:37:17"
+      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+      "score": 55,
+      "url": "https://github.com/neilsonnn/image-blaster",
+      "time": "2026-05-15T15:42:37"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245037,
+      "stars": 245043,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195965,
+      "stars": 195963,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 182755,
+      "stars": 183084,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155706,
+      "stars": 155708,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148129,
+      "stars": 148125,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-15T13:27:20.929922+00:00"
+  "last_updated": "2026-05-15T19:14:49.600304+00:00"
 }
