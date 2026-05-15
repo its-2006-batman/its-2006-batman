@@ -8,70 +8,70 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Messier Catalog at Uniform Scale",
-    "date": "2026-05-14",
-    "explanation": "What are some of the most interesting astronomical objects you can see in the night sky?   Armed with a good pair of binoculars or a small telescope, if you live in the Northern Hemisphere, you can look for the very popular objects in the Messier Catalog.   Most of them, but not all, are also visibl...",
-    "url": "https://apod.nasa.gov/apod/image/2605/messier_portrait_100px_160h.jpg",
+    "title": "R3 PanSTARRS: An Orion Comet",
+    "date": "2026-05-15",
+    "explanation": "Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is because Comet C/2025 R3 (PanSTARRS) was near its most spectacular -- in terms of tail visibility -- when passing in front of the iconic constellation.  Although rare, other bright comets, too, have ventured across Orion,...",
+    "url": "https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "49.92\u00b0S",
-    "longitude": "129.72\u00b0E",
-    "timestamp": "2026-05-15T02:04:05+00:00",
+    "latitude": "5.47\u00b0N",
+    "longitude": "104.42\u00b0E",
+    "timestamp": "2026-05-15T08:37:26+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "score": 625,
+      "score": 821,
       "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
       "time": "2026-05-14T17:08:00"
     },
     {
+      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
+      "score": 100,
+      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "time": "2026-05-15T03:56:14"
+    },
+    {
+      "title": "Solar-based sleep patterns compared to modern norms",
+      "score": 43,
+      "url": "https://dylan.gr/1775146616",
+      "time": "2026-05-15T04:15:24"
+    },
+    {
       "title": "A few words on DS4",
-      "score": 155,
+      "score": 290,
       "url": "https://antirez.com/news/165",
       "time": "2026-05-14T22:29:12"
     },
     {
-      "title": "Elevated error rates on Opus 4.7",
-      "score": 48,
-      "url": "https://status.claude.com/incidents/8z7l5zcy0v3b",
-      "time": "2026-05-15T00:22:53"
-    },
-    {
-      "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "score": 261,
-      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "time": "2026-05-14T18:25:09"
-    },
-    {
-      "title": "Have a Coherent AI Policy",
-      "score": 42,
-      "url": "https://brianmeeker.me/2026/05/14/have-a-coherent-ai-policy/",
-      "time": "2026-05-14T23:24:45"
+      "title": "Access to frontier AI will soon be limited by economic and security constraints",
+      "score": 138,
+      "url": "https://writing.antonleicht.me/p/cut-off",
+      "time": "2026-05-15T01:08:04"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245023,
+      "stars": 245034,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195960,
+      "stars": 195966,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 182291,
+      "stars": 182578,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -85,10 +85,10 @@
     {
       "name": "vercel/next.js",
       "description": "The React Framework",
-      "stars": 139469,
+      "stars": 139479,
       "language": "JavaScript",
       "url": "https://github.com/vercel/next.js"
     }
   ],
-  "last_updated": "2026-05-15T02:04:05.331623+00:00"
+  "last_updated": "2026-05-15T08:37:25.480458+00:00"
 }
