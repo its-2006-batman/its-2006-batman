@@ -14,71 +14,65 @@
     "url": "https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "31.89\u00b0S",
-    "longitude": "91.45\u00b0W",
-    "timestamp": "2026-05-15T19:14:54+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Erlang/OTP 29.0",
+      "score": 99,
+      "url": "https://www.erlang.org/news/188",
+      "time": "2026-05-15T23:33:32"
+    },
+    {
       "title": "Project Gutenberg \u2013 keeps getting better",
-      "score": 370,
+      "score": 720,
       "url": "https://www.gutenberg.org/",
       "time": "2026-05-15T16:15:36"
     },
     {
-      "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-      "score": 171,
-      "url": "https://github.com/oven-sh/bun/issues/30719",
-      "time": "2026-05-15T16:51:25"
+      "title": "'No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens",
+      "score": 64,
+      "url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+      "time": "2026-05-16T00:36:02"
     },
     {
-      "title": "A 0-click exploit chain for the Pixel 10",
-      "score": 241,
-      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-      "time": "2026-05-15T13:39:54"
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "score": 812,
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "time": "2026-05-15T20:26:47"
     },
     {
-      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-      "score": 39,
-      "url": "https://github.com/gdevic/FPGA-Calculator",
-      "time": "2026-05-15T17:15:58"
-    },
-    {
-      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
-      "score": 55,
-      "url": "https://github.com/neilsonnn/image-blaster",
-      "time": "2026-05-15T15:42:37"
+      "title": "The main thing about P2P meth is that there's so much of it (2022)",
+      "score": 45,
+      "url": "https://dynomight.net/p2p-meth/",
+      "time": "2026-05-15T23:37:32"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245043,
+      "stars": 245045,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195963,
+      "stars": 195961,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 183084,
+      "stars": 183351,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155708,
+      "stars": 155709,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -90,5 +84,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-15T19:14:49.600304+00:00"
+  "last_updated": "2026-05-16T01:56:11.648787+00:00"
 }
