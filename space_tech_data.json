@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "46.29\u00b0N",
-    "longitude": "152.29\u00b0E",
-    "timestamp": "2026-05-16T12:56:35+00:00",
+    "latitude": "25.99\u00b0N",
+    "longitude": "38.27\u00b0W",
+    "timestamp": "2026-05-16T18:47:51+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "\u0394-Mem: Efficient Online Memory for Large Language Models",
-      "score": 87,
-      "url": "https://arxiv.org/abs/2605.12357",
-      "time": "2026-05-16T09:30:06"
+      "title": "You don't know HTML Lists",
+      "score": 166,
+      "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
+      "time": "2026-05-16T16:58:26"
     },
     {
-      "title": "Accelerando (2005)",
-      "score": 41,
-      "url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-      "time": "2026-05-16T11:36:32"
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "score": 224,
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "time": "2026-05-16T12:06:21"
     },
     {
-      "title": "Fecal transplants for autism deliver success in clinical trials",
-      "score": 62,
-      "url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
-      "time": "2026-05-16T09:27:59"
+      "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
+      "score": 77,
+      "url": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
+      "time": "2026-05-16T15:12:17"
     },
     {
-      "title": "Futhark by Example",
-      "score": 49,
-      "url": "https://futhark-lang.org/examples.html",
-      "time": "2026-05-16T09:50:10"
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "score": 17,
+      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "time": "2026-05-16T17:12:58"
     },
     {
-      "title": "Europe built sovereign clouds to escape US control. Forgot about the processors",
-      "score": 53,
-      "url": "https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735",
-      "time": "2026-05-16T11:43:45"
+      "title": "Windows 9x Subsystem for Linux",
+      "score": 61,
+      "url": "https://codeberg.org/hails/wsl9x",
+      "time": "2026-05-13T10:37:39"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245051,
+      "stars": 245058,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195962,
+      "stars": 195965,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 184103,
+      "stars": 184430,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155719,
+      "stars": 155726,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148123,
+      "stars": 148125,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-16T12:56:27.208112+00:00"
+  "last_updated": "2026-05-16T18:47:49.622731+00:00"
 }
