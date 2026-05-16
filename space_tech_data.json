@@ -8,81 +8,87 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "R3 PanSTARRS: An Orion Comet",
-    "date": "2026-05-15",
-    "explanation": "Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is because Comet C/2025 R3 (PanSTARRS) was near its most spectacular -- in terms of tail visibility -- when passing in front of the iconic constellation.  Although rare, other bright comets, too, have ventured across Orion,...",
-    "url": "https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg",
+    "title": "Aurora Slathers Up the Sky",
+    "date": "2026-05-16",
+    "explanation": "Like salsa verde on your favorite burrito, a green aurora slathers up the sky in this 2017 June 25 snapshot from the International Space Station. About 400 kilometers (250 miles) above Earth, the orbiting station is itself within the upper realm of the auroral displays. Aurorae have the signature co...",
+    "url": "https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "1.93\u00b0S",
+    "longitude": "105.10\u00b0E",
+    "timestamp": "2026-05-16T07:48:16+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Erlang/OTP 29.0",
-      "score": 99,
-      "url": "https://www.erlang.org/news/188",
-      "time": "2026-05-15T23:33:32"
+      "title": "The CTF scene is dead",
+      "score": 34,
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "time": "2026-05-16T07:01:55"
     },
     {
       "title": "Project Gutenberg \u2013 keeps getting better",
-      "score": 720,
+      "score": 894,
       "url": "https://www.gutenberg.org/",
       "time": "2026-05-15T16:15:36"
     },
     {
-      "title": "'No Way to Prevent This,' Says Only Package Manager Where This Regularly Happens",
-      "score": 64,
-      "url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
-      "time": "2026-05-16T00:36:02"
+      "title": "SQL patterns I use to catch transaction fraud",
+      "score": 149,
+      "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+      "time": "2026-05-15T23:22:30"
+    },
+    {
+      "title": "Ploopy Bean: a trackpoint for every computer",
+      "score": 81,
+      "url": "https://ploopy.co/shop/bean-pointing-stick/",
+      "time": "2026-05-12T20:39:04"
     },
     {
       "title": "I believe there are entire companies right now under AI psychosis",
-      "score": 812,
+      "score": 1239,
       "url": "https://twitter.com/mitchellh/status/2055380239711457578",
       "time": "2026-05-15T20:26:47"
-    },
-    {
-      "title": "The main thing about P2P meth is that there's so much of it (2022)",
-      "score": 45,
-      "url": "https://dynomight.net/p2p-meth/",
-      "time": "2026-05-15T23:37:32"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245045,
+      "stars": 245048,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195961,
+      "stars": 195959,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 183351,
+      "stars": 183820,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155709,
+      "stars": 155710,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148125,
+      "stars": 148123,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-16T01:56:11.648787+00:00"
+  "last_updated": "2026-05-16T07:48:15.049586+00:00"
 }
