@@ -7,88 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "Aurora Slathers Up the Sky",
-    "date": "2026-05-16",
-    "explanation": "Like salsa verde on your favorite burrito, a green aurora slathers up the sky in this 2017 June 25 snapshot from the International Space Station. About 400 kilometers (250 miles) above Earth, the orbiting station is itself within the upper realm of the auroral displays. Aurorae have the signature co...",
-    "url": "https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "25.99\u00b0N",
-    "longitude": "38.27\u00b0W",
-    "timestamp": "2026-05-16T18:47:51+00:00",
+    "latitude": "51.22\u00b0S",
+    "longitude": "89.88\u00b0E",
+    "timestamp": "2026-05-17T01:58:41+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "You don't know HTML Lists",
-      "score": 166,
-      "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
-      "time": "2026-05-16T16:58:26"
+      "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
+      "score": 161,
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "time": "2026-05-16T22:23:50"
+    },
+    {
+      "title": "A nicer voltmeter clock",
+      "score": 61,
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "time": "2026-05-16T22:45:16"
+    },
+    {
+      "title": "MCP Hello Page",
+      "score": 48,
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "time": "2026-05-16T22:25:33"
+    },
+    {
+      "title": "A molecule with half-M\u00f6bius topology",
+      "score": 65,
+      "url": "https://www.science.org/doi/10.1126/science.aea3321",
+      "time": "2026-05-12T15:28:31"
     },
     {
       "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "score": 224,
+      "score": 299,
       "url": "https://nvlabs.github.io/Sana/WM/",
       "time": "2026-05-16T12:06:21"
-    },
-    {
-      "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
-      "score": 77,
-      "url": "https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2",
-      "time": "2026-05-16T15:12:17"
-    },
-    {
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "score": 17,
-      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-      "time": "2026-05-16T17:12:58"
-    },
-    {
-      "title": "Windows 9x Subsystem for Linux",
-      "score": 61,
-      "url": "https://codeberg.org/hails/wsl9x",
-      "time": "2026-05-13T10:37:39"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245058,
+      "stars": 245066,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195965,
+      "stars": 195967,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 184430,
+      "stars": 184649,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155726,
+      "stars": 155724,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148125,
+      "stars": 148127,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-16T18:47:49.622731+00:00"
+  "last_updated": "2026-05-17T01:58:30.537180+00:00"
 }
