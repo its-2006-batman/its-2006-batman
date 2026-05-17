@@ -7,65 +7,71 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "NGC 1300: Barred Spiral Galaxy",
+    "date": "2026-05-17",
+    "explanation": "Across the center of this spiral galaxy is a bar.  And at the center of this bar is smaller spiral.  And at the center of that spiral is a supermassive black hole.  This all happens in the big, beautiful, barred spiral galaxy cataloged as NGC 1300, a galaxy that lies some 70 million light-years away...",
+    "url": "https://apod.nasa.gov/apod/image/2605/NGC1300_HST_1080.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "51.22\u00b0S",
-    "longitude": "89.88\u00b0E",
-    "timestamp": "2026-05-17T01:58:41+00:00",
+    "latitude": "50.11\u00b0S",
+    "longitude": "13.12\u00b0W",
+    "timestamp": "2026-05-17T08:08:43+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
-      "score": 161,
+      "score": 349,
       "url": "https://crates.io/crates/zerostack/1.0.0",
       "time": "2026-05-16T22:23:50"
     },
     {
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "score": 87,
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "time": "2026-05-17T06:17:26"
+    },
+    {
+      "title": "Colossus: The Forbin Project",
+      "score": 88,
+      "url": "https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project",
+      "time": "2026-05-14T22:30:16"
+    },
+    {
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "score": 111,
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "time": "2026-05-17T01:25:26"
+    },
+    {
       "title": "A nicer voltmeter clock",
-      "score": 61,
+      "score": 155,
       "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
       "time": "2026-05-16T22:45:16"
-    },
-    {
-      "title": "MCP Hello Page",
-      "score": 48,
-      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-      "time": "2026-05-16T22:25:33"
-    },
-    {
-      "title": "A molecule with half-M\u00f6bius topology",
-      "score": 65,
-      "url": "https://www.science.org/doi/10.1126/science.aea3321",
-      "time": "2026-05-12T15:28:31"
-    },
-    {
-      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "score": 299,
-      "url": "https://nvlabs.github.io/Sana/WM/",
-      "time": "2026-05-16T12:06:21"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245066,
+      "stars": 245076,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195967,
+      "stars": 195970,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 184649,
+      "stars": 185043,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
@@ -84,5 +90,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-17T01:58:30.537180+00:00"
+  "last_updated": "2026-05-17T08:08:42.351724+00:00"
 }

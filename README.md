@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  51.22°S                                       ║
-║  📍 LONGITUDE: 89.88°E                                       ║
+║  📍 LATITUDE:  50.11°S                                       ║
+║  📍 LONGITUDE: 13.12°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-05-17 01:58 UTC                   ║
+║  ⏰ UPDATE: 2026-05-17 08:08 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: NGC 1300: Barred Spiral Galaxy                           ║
+║  DATE:  2026-05-17                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Zerostack – A Unix-inspired coding agent written in pure Rus...** (161 ⭐)
-2. **A nicer voltmeter clock** (61 ⭐)
-3. **MCP Hello Page** (48 ⭐)
+1. **Zerostack – A Unix-inspired coding agent written in pure Rus...** (349 ⭐)
+2. **Mozilla to UK regulators: VPNs are essential privacy and sec...** (87 ⭐)
+3. **Colossus: The Forbin Project** (88 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (245066★)
-2. **trekhleb/javascript-algorithms** (195967★)
-3. **affaan-m/everything-claude-code** (184649★)
+1. **facebook/react** (245076★)
+2. **trekhleb/javascript-algorithms** (195970★)
+3. **affaan-m/everything-claude-code** (185043★)
 <!-- LIVE_DATA_END -->
