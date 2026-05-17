@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "49.06\u00b0S",
-    "longitude": "43.09\u00b0W",
-    "timestamp": "2026-05-17T12:54:26+00:00",
+    "latitude": "38.19\u00b0S",
+    "longitude": "150.53\u00b0E",
+    "timestamp": "2026-05-17T18:52:09+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Native all the way, until you need text",
-      "score": 55,
-      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-      "time": "2026-05-17T11:49:46"
+      "title": "Americans Are Smashing Flock Cameras",
+      "score": 297,
+      "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+      "time": "2026-05-17T17:09:15"
     },
     {
-      "title": "I don't think AI will make your processes go faster",
-      "score": 27,
-      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-      "time": "2026-05-17T12:13:45"
+      "title": "The occasional ECONNRESET",
+      "score": 38,
+      "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
+      "time": "2026-05-17T17:09:36"
     },
     {
-      "title": "Apple Silicon costs more than OpenRouter",
-      "score": 34,
-      "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
-      "time": "2026-05-17T12:09:23"
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "score": 135,
+      "url": "https://github.com/tech4bot/rk3562deb",
+      "time": "2026-05-17T13:16:27"
     },
     {
-      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-      "score": 12,
-      "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-      "time": "2026-05-17T11:49:31"
+      "title": "How a New Israeli Policy Cuts Off Humanitarian Aid in Gaza",
+      "score": 7,
+      "url": "https://www.newyorker.com/science/medical-dispatch/how-a-new-israeli-policy-cuts-off-humanitarian-aid-in-gaza",
+      "time": "2026-05-17T18:45:37"
     },
     {
-      "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
-      "score": 452,
-      "url": "https://crates.io/crates/zerostack/1.0.0",
-      "time": "2026-05-16T22:23:50"
+      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+      "score": 29,
+      "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+      "time": "2026-05-15T11:39:13"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245080,
+      "stars": 245085,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195974,
+      "stars": 195970,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 185241,
+      "stars": 185503,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155726,
+      "stars": 155730,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148130,
+      "stars": 148127,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-17T12:54:22.656754+00:00"
+  "last_updated": "2026-05-17T18:52:06.216630+00:00"
 }
