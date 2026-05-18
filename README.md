@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  18.66°S                                       ║
-║  📍 LONGITUDE: 177.51°W                                      ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-05-18 14:52 UTC                   ║
+║  📍 LATITUDE:  N/A                                           ║
+║  📍 LONGITUDE: N/A                                           ║
+║  ⚡ VELOCITY:  N/A                                           ║
+║  🌍 ALTITUDE:  N/A                                           ║
+║  ⏰ UPDATE: 2026-05-18 19:23 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Show HN: Files.md – Open-source alternative to Obsidian** (99 ⭐)
-2. **The Aperiodic Table** (28 ⭐)
-3. **'We mould trees to grow into the shape of chairs'** (62 ⭐)
+1. **Anthropic acquires Stainless** (178 ⭐)
+2. **Haiku OS runs on M1 Macs now** (61 ⭐)
+3. **We stopped AI bot spam in our GitHub repo using Git's –autho...** (286 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (245100★)
-2. **trekhleb/javascript-algorithms** (195969★)
-3. **affaan-m/everything-claude-code** (186327★)
+1. **facebook/react** (245109★)
+2. **trekhleb/javascript-algorithms** (195971★)
+3. **affaan-m/everything-claude-code** (186462★)
 <!-- LIVE_DATA_END -->

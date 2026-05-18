@@ -14,71 +14,65 @@
     "url": "https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "18.66\u00b0S",
-    "longitude": "177.51\u00b0W",
-    "timestamp": "2026-05-18T14:52:23+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Anthropic acquires Stainless",
+      "score": 178,
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "time": "2026-05-18T17:01:21"
+    },
+    {
+      "title": "Haiku OS runs on M1 Macs now",
+      "score": 61,
+      "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+      "time": "2026-05-18T18:30:55"
+    },
+    {
+      "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
+      "score": 286,
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "time": "2026-05-18T15:24:19"
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "score": 350,
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "time": "2026-05-18T17:38:22"
+    },
+    {
       "title": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
-      "score": 99,
+      "score": 382,
       "url": "https://github.com/zakirullin/files.md",
       "time": "2026-05-18T13:33:33"
-    },
-    {
-      "title": "The Aperiodic Table",
-      "score": 28,
-      "url": "https://blog.jgc.org/2026/05/the-aperiodic-table.html",
-      "time": "2026-05-15T18:23:19"
-    },
-    {
-      "title": "'We mould trees to grow into the shape of chairs'",
-      "score": 62,
-      "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
-      "time": "2026-05-18T13:01:18"
-    },
-    {
-      "title": "Math Jokes in Alice in Wonderland",
-      "score": 65,
-      "url": "https://storica.club/blog/alice-is-math-jokes/",
-      "time": "2026-05-14T13:28:16"
-    },
-    {
-      "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-      "score": 77,
-      "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
-      "time": "2026-05-18T09:40:51"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245100,
+      "stars": 245109,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195969,
+      "stars": 195971,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 186327,
+      "stars": 186462,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155749,
+      "stars": 155750,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -90,5 +84,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-18T14:52:23.068705+00:00"
+  "last_updated": "2026-05-18T19:23:11.594941+00:00"
 }
