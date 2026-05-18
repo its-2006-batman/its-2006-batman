@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "44.71\u00b0N",
-    "longitude": "118.62\u00b0E",
-    "timestamp": "2026-05-18T09:37:36+00:00",
+    "latitude": "18.66\u00b0S",
+    "longitude": "177.51\u00b0W",
+    "timestamp": "2026-05-18T14:52:23+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Nobody Pushed Back: Why Engineers Stay Silent Until It's Too Late",
-      "score": 13,
-      "url": "https://howtocenterdiv.com/beyond-the-div/nobody-pushed-back",
-      "time": "2026-05-18T08:41:16"
+      "title": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
+      "score": 99,
+      "url": "https://github.com/zakirullin/files.md",
+      "time": "2026-05-18T13:33:33"
     },
     {
-      "title": "GenCAD",
-      "score": 305,
-      "url": "https://gencad.github.io/",
-      "time": "2026-05-17T21:40:35"
+      "title": "The Aperiodic Table",
+      "score": 28,
+      "url": "https://blog.jgc.org/2026/05/the-aperiodic-table.html",
+      "time": "2026-05-15T18:23:19"
     },
     {
-      "title": "Crystals found inside wreckage from the first nuclear bomb test",
-      "score": 69,
-      "url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
-      "time": "2026-05-15T23:54:33"
+      "title": "'We mould trees to grow into the shape of chairs'",
+      "score": 62,
+      "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
+      "time": "2026-05-18T13:01:18"
     },
     {
-      "title": "It is time to give up the dualism introduced by the debate on consciousness",
-      "score": 75,
-      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-      "time": "2026-05-18T02:59:34"
+      "title": "Math Jokes in Alice in Wonderland",
+      "score": 65,
+      "url": "https://storica.club/blog/alice-is-math-jokes/",
+      "time": "2026-05-14T13:28:16"
     },
     {
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "score": 363,
-      "url": "https://github.com/tech4bot/rk3562deb",
-      "time": "2026-05-17T13:16:27"
+      "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+      "score": 77,
+      "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
+      "time": "2026-05-18T09:40:51"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245091,
+      "stars": 245100,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195968,
+      "stars": 195969,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 186093,
+      "stars": 186327,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155745,
+      "stars": 155749,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148126,
+      "stars": 148123,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-18T09:37:36.495778+00:00"
+  "last_updated": "2026-05-18T14:52:23.068705+00:00"
 }
