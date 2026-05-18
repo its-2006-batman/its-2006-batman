@@ -8,56 +8,56 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "NGC 1300: Barred Spiral Galaxy",
-    "date": "2026-05-17",
-    "explanation": "Across the center of this spiral galaxy is a bar.  And at the center of this bar is smaller spiral.  And at the center of that spiral is a supermassive black hole.  This all happens in the big, beautiful, barred spiral galaxy cataloged as NGC 1300, a galaxy that lies some 70 million light-years away...",
-    "url": "https://apod.nasa.gov/apod/image/2605/NGC1300_HST_1080.jpg",
+    "title": "Unraveling NGC 3169",
+    "date": "2026-05-18",
+    "explanation": "Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact ...",
+    "url": "https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "36.74\u00b0N",
-    "longitude": "35.62\u00b0W",
-    "timestamp": "2026-05-18T02:10:17+00:00",
+    "latitude": "44.71\u00b0N",
+    "longitude": "118.62\u00b0E",
+    "timestamp": "2026-05-18T09:37:36+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Nobody Pushed Back: Why Engineers Stay Silent Until It's Too Late",
+      "score": 13,
+      "url": "https://howtocenterdiv.com/beyond-the-div/nobody-pushed-back",
+      "time": "2026-05-18T08:41:16"
+    },
+    {
       "title": "GenCAD",
-      "score": 112,
+      "score": 305,
       "url": "https://gencad.github.io/",
       "time": "2026-05-17T21:40:35"
     },
     {
+      "title": "Crystals found inside wreckage from the first nuclear bomb test",
+      "score": 69,
+      "url": "https://www.scientificamerican.com/article/strange-crystals-found-inside-wreckage-from-the-first-nuclear-bomb-test/",
+      "time": "2026-05-15T23:54:33"
+    },
+    {
+      "title": "It is time to give up the dualism introduced by the debate on consciousness",
+      "score": 75,
+      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+      "time": "2026-05-18T02:59:34"
+    },
+    {
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "score": 257,
+      "score": 363,
       "url": "https://github.com/tech4bot/rk3562deb",
       "time": "2026-05-17T13:16:27"
-    },
-    {
-      "title": "Prolog Coding Horror",
-      "score": 58,
-      "url": "https://www.metalevel.at/prolog/horror",
-      "time": "2026-05-17T21:15:51"
-    },
-    {
-      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
-      "score": 38,
-      "url": "https://askanastronaut.issinrealtime.org/",
-      "time": "2026-05-15T19:25:43"
-    },
-    {
-      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "score": 97,
-      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-      "time": "2026-05-17T21:45:30"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245088,
+      "stars": 245091,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,24 +71,24 @@
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 185679,
+      "stars": 186093,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155731,
+      "stars": 155745,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148127,
+      "stars": 148126,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-18T02:10:16.819305+00:00"
+  "last_updated": "2026-05-18T09:37:36.495778+00:00"
 }
