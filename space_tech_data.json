@@ -15,70 +15,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "38.19\u00b0S",
-    "longitude": "150.53\u00b0E",
-    "timestamp": "2026-05-17T18:52:09+00:00",
+    "latitude": "36.74\u00b0N",
+    "longitude": "35.62\u00b0W",
+    "timestamp": "2026-05-18T02:10:17+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Americans Are Smashing Flock Cameras",
-      "score": 297,
-      "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
-      "time": "2026-05-17T17:09:15"
-    },
-    {
-      "title": "The occasional ECONNRESET",
-      "score": 38,
-      "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
-      "time": "2026-05-17T17:09:36"
+      "title": "GenCAD",
+      "score": 112,
+      "url": "https://gencad.github.io/",
+      "time": "2026-05-17T21:40:35"
     },
     {
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "score": 135,
+      "score": 257,
       "url": "https://github.com/tech4bot/rk3562deb",
       "time": "2026-05-17T13:16:27"
     },
     {
-      "title": "How a New Israeli Policy Cuts Off Humanitarian Aid in Gaza",
-      "score": 7,
-      "url": "https://www.newyorker.com/science/medical-dispatch/how-a-new-israeli-policy-cuts-off-humanitarian-aid-in-gaza",
-      "time": "2026-05-17T18:45:37"
+      "title": "Prolog Coding Horror",
+      "score": 58,
+      "url": "https://www.metalevel.at/prolog/horror",
+      "time": "2026-05-17T21:15:51"
     },
     {
-      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
-      "score": 29,
-      "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
-      "time": "2026-05-15T11:39:13"
+      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
+      "score": 38,
+      "url": "https://askanastronaut.issinrealtime.org/",
+      "time": "2026-05-15T19:25:43"
+    },
+    {
+      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "score": 97,
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "time": "2026-05-17T21:45:30"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245085,
+      "stars": 245088,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195970,
+      "stars": 195968,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/everything-claude-code",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 185503,
+      "stars": 185679,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/everything-claude-code"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155730,
+      "stars": 155731,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -90,5 +90,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-17T18:52:06.216630+00:00"
+  "last_updated": "2026-05-18T02:10:16.819305+00:00"
 }
