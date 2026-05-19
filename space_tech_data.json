@@ -14,81 +14,75 @@
     "url": "https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "51.58\u00b0N",
-    "longitude": "158.52\u00b0E",
-    "timestamp": "2026-05-19T08:57:07+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "The last six months in LLMs in five minutes",
-      "score": 389,
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "time": "2026-05-19T01:30:42"
+      "title": "OpenBSD 7.9 Released",
+      "score": 113,
+      "url": "https://www.openbsd.org/79.html",
+      "time": "2026-05-19T13:11:51"
     },
     {
-      "title": "My domain got abused on GitHub Pages",
-      "score": 29,
-      "url": "https://meertens.dev/blog/github-enables-domain-abuse/",
-      "time": "2026-05-19T07:28:59"
+      "title": "New accessibility features powered by Apple Intelligence",
+      "score": 204,
+      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "time": "2026-05-19T12:04:18"
     },
     {
-      "title": "Turn your Android phone into a ham radio transceiver",
-      "score": 85,
-      "url": "https://www.kv4p.com/",
-      "time": "2026-05-16T16:49:15"
+      "title": "Gaussian Splat of a Strawberry",
+      "score": 246,
+      "url": "https://superspl.at/scene/84df8849",
+      "time": "2026-05-19T10:38:47"
     },
     {
-      "title": "Click (2016)",
-      "score": 293,
-      "url": "https://clickclickclick.click/",
-      "time": "2026-05-18T23:03:02"
+      "title": "Show HN: I made a 3D pose maker for artists",
+      "score": 15,
+      "url": "https://setpose.com/",
+      "time": "2026-05-19T14:04:19"
     },
     {
-      "title": "Peter Neumann has died",
-      "score": 84,
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
-      "time": "2026-05-19T03:17:45"
+      "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
+      "score": 161,
+      "url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
+      "time": "2026-05-17T03:25:23"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245125,
+      "stars": 245138,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195974,
+      "stars": 195975,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 186846,
+      "stars": 187011,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155761,
+      "stars": 155768,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148124,
+      "stars": 148126,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-19T08:57:05.355663+00:00"
+  "last_updated": "2026-05-19T14:33:40.613457+00:00"
 }
