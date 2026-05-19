@@ -14,44 +14,50 @@
     "url": "https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "45.19\u00b0N",
+    "longitude": "39.49\u00b0W",
+    "timestamp": "2026-05-19T19:41:16+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "OpenBSD 7.9 Released",
-      "score": 113,
-      "url": "https://www.openbsd.org/79.html",
-      "time": "2026-05-19T13:11:51"
+      "title": "Gemini 3.5 Flash",
+      "score": 137,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "time": "2026-05-19T17:43:45"
     },
     {
-      "title": "New accessibility features powered by Apple Intelligence",
-      "score": 204,
+      "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
+      "score": 368,
+      "url": "https://virtualosmuseum.org/",
+      "time": "2026-05-19T15:53:38"
+    },
+    {
+      "title": "Google changes its search box",
+      "score": 49,
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+      "time": "2026-05-19T18:34:27"
+    },
+    {
+      "title": "Apple unveils new accessibility features",
+      "score": 494,
       "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
       "time": "2026-05-19T12:04:18"
     },
     {
-      "title": "Gaussian Splat of a Strawberry",
-      "score": 246,
-      "url": "https://superspl.at/scene/84df8849",
-      "time": "2026-05-19T10:38:47"
-    },
-    {
-      "title": "Show HN: I made a 3D pose maker for artists",
-      "score": 15,
-      "url": "https://setpose.com/",
-      "time": "2026-05-19T14:04:19"
-    },
-    {
-      "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
-      "score": 161,
-      "url": "https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314",
-      "time": "2026-05-17T03:25:23"
+      "title": "I\u2019ve joined Anthropic",
+      "score": 878,
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "time": "2026-05-19T15:07:45"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245138,
+      "stars": 245139,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -65,24 +71,24 @@
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 187011,
+      "stars": 187117,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155768,
+      "stars": 155771,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148126,
+      "stars": 148128,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-19T14:33:40.613457+00:00"
+  "last_updated": "2026-05-19T19:41:15.131989+00:00"
 }
