@@ -8,56 +8,56 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Unraveling NGC 3169",
-    "date": "2026-05-18",
-    "explanation": "Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact ...",
-    "url": "https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg",
+    "title": "NGC 2170: The Angel Nebula",
+    "date": "2026-05-19",
+    "explanation": "Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission ...",
+    "url": "https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "37.84\u00b0S",
-    "longitude": "136.90\u00b0E",
-    "timestamp": "2026-05-19T02:09:34+00:00",
+    "latitude": "51.58\u00b0N",
+    "longitude": "158.52\u00b0E",
+    "timestamp": "2026-05-19T08:57:07+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "The last six months in LLMs in five minutes",
+      "score": 389,
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "time": "2026-05-19T01:30:42"
+    },
+    {
+      "title": "My domain got abused on GitHub Pages",
+      "score": 29,
+      "url": "https://meertens.dev/blog/github-enables-domain-abuse/",
+      "time": "2026-05-19T07:28:59"
+    },
+    {
+      "title": "Turn your Android phone into a ham radio transceiver",
+      "score": 85,
+      "url": "https://www.kv4p.com/",
+      "time": "2026-05-16T16:49:15"
+    },
+    {
       "title": "Click (2016)",
-      "score": 200,
+      "score": 293,
       "url": "https://clickclickclick.click/",
       "time": "2026-05-18T23:03:02"
     },
     {
-      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-      "score": 102,
-      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-      "time": "2026-05-18T23:18:10"
-    },
-    {
-      "title": "Anthropic acquires Stainless",
-      "score": 363,
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "time": "2026-05-18T17:01:21"
-    },
-    {
-      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "score": 133,
-      "url": "https://hyperpolyglot.org/lisp",
-      "time": "2026-05-18T19:27:25"
-    },
-    {
-      "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
-      "score": 415,
-      "url": "https://archestra.ai/blog/only-responsible-ai",
-      "time": "2026-05-18T15:24:19"
+      "title": "Peter Neumann has died",
+      "score": 84,
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+      "time": "2026-05-19T03:17:45"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245114,
+      "stars": 245125,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -69,26 +69,26 @@
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
-      "name": "affaan-m/everything-claude-code",
+      "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 186612,
+      "stars": 186846,
       "language": "JavaScript",
-      "url": "https://github.com/affaan-m/everything-claude-code"
+      "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155754,
+      "stars": 155761,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148123,
+      "stars": 148124,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-19T02:09:32.874263+00:00"
+  "last_updated": "2026-05-19T08:57:05.355663+00:00"
 }
