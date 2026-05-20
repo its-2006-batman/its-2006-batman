@@ -14,64 +14,58 @@
     "url": "https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "45.19\u00b0N",
-    "longitude": "39.49\u00b0W",
-    "timestamp": "2026-05-19T19:41:16+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Railway Blocked by Google Cloud",
+      "score": 136,
+      "url": "https://status.railway.com/?date=20260519",
+      "time": "2026-05-20T00:23:54"
+    },
+    {
       "title": "Gemini 3.5 Flash",
-      "score": 137,
+      "score": 590,
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
       "time": "2026-05-19T17:43:45"
     },
     {
       "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
-      "score": 368,
+      "score": 602,
       "url": "https://virtualosmuseum.org/",
       "time": "2026-05-19T15:53:38"
     },
     {
       "title": "Google changes its search box",
-      "score": 49,
+      "score": 380,
       "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
       "time": "2026-05-19T18:34:27"
     },
     {
-      "title": "Apple unveils new accessibility features",
-      "score": 494,
-      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "time": "2026-05-19T12:04:18"
-    },
-    {
-      "title": "I\u2019ve joined Anthropic",
-      "score": 878,
-      "url": "https://twitter.com/karpathy/status/2056753169888334312",
-      "time": "2026-05-19T15:07:45"
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "score": 200,
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "time": "2026-05-19T19:34:30"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245139,
+      "stars": 245141,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195975,
+      "stars": 195976,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 187117,
+      "stars": 187224,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -85,10 +79,10 @@
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148128,
+      "stars": 148126,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-19T19:41:15.131989+00:00"
+  "last_updated": "2026-05-20T02:08:55.971702+00:00"
 }
