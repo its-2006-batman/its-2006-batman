@@ -8,81 +8,87 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "NGC 2170: The Angel Nebula",
-    "date": "2026-05-19",
-    "explanation": "Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission ...",
-    "url": "https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg",
+    "title": "The Dark Wolf Nebula",
+    "date": "2026-05-20",
+    "explanation": "A dark wolf lies in gum. No, this isn\u2019t a riddle! Today's image features the Dark Wolf Nebula (Sandqvist\u2013Lindroos 17), a spooky dust cloud embedded within the Gum 55 (RCW 113) Nebula in the Scorpius constellation. While dust is a pest to us, it serves a vital role in creating the necessary condition...",
+    "url": "https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "46.70\u00b0S",
+    "longitude": "56.02\u00b0W",
+    "timestamp": "2026-05-20T08:51:35+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "There's no earthly way of knowing which direction we are going",
+      "score": 45,
+      "url": "https://kottke.org/26/05/theres-no-earthly-way-of-knowing-which-direction-we-are-going",
+      "time": "2026-05-20T05:33:06"
+    },
+    {
       "title": "Railway Blocked by Google Cloud",
-      "score": 136,
-      "url": "https://status.railway.com/?date=20260519",
+      "score": 472,
+      "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
       "time": "2026-05-20T00:23:54"
     },
     {
+      "title": "FiveThirtyEight articles on the Internet Archive",
+      "score": 178,
+      "url": "https://fivethirtyeightindex.com/",
+      "time": "2026-05-20T01:34:19"
+    },
+    {
       "title": "Gemini 3.5 Flash",
-      "score": 590,
+      "score": 760,
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
       "time": "2026-05-19T17:43:45"
     },
     {
-      "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
-      "score": 602,
-      "url": "https://virtualosmuseum.org/",
-      "time": "2026-05-19T15:53:38"
-    },
-    {
-      "title": "Google changes its search box",
-      "score": 380,
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "time": "2026-05-19T18:34:27"
-    },
-    {
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "score": 200,
-      "url": "https://openai.com/index/advancing-content-provenance/",
-      "time": "2026-05-19T19:34:30"
+      "title": "Everything in C is undefined behavior",
+      "score": 147,
+      "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+      "time": "2026-05-20T06:07:22"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245141,
+      "stars": 245146,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195976,
+      "stars": 195974,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 187224,
+      "stars": 187413,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155771,
+      "stars": 155782,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148126,
+      "stars": 148128,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-20T02:08:55.971702+00:00"
+  "last_updated": "2026-05-20T08:51:35.235068+00:00"
 }
