@@ -15,70 +15,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "50.32\u00b0N",
-    "longitude": "132.96\u00b0E",
-    "timestamp": "2026-05-21T08:54:04+00:00",
+    "latitude": "19.75\u00b0S",
+    "longitude": "43.87\u00b0W",
+    "timestamp": "2026-05-21T14:38:38+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "score": 1116,
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "time": "2026-05-20T19:05:30"
+      "title": "AI is just unauthorised plagiarism at a bigger scale",
+      "score": 238,
+      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+      "time": "2026-05-21T13:38:12"
     },
     {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "score": 807,
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "time": "2026-05-20T13:43:37"
+      "title": "Flipper One \u2013 we need your help",
+      "score": 444,
+      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+      "time": "2026-05-21T11:03:38"
     },
     {
-      "title": "Haskell Foundation 2026 Update",
-      "score": 106,
-      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
-      "time": "2026-05-21T02:13:23"
+      "title": "Google's Antigravity Bait and Switch",
+      "score": 57,
+      "url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+      "time": "2026-05-21T13:50:59"
     },
     {
-      "title": "Vivaldi 8.0",
-      "score": 79,
-      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-      "time": "2026-05-21T07:21:55"
+      "title": "Google officially announces that ads will be included in AI Mode search results",
+      "score": 349,
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "time": "2026-05-21T09:49:46"
     },
     {
-      "title": "Show HN: I reverse engineered Apple's video wallpapers",
-      "score": 261,
-      "url": "https://github.com/kageroumado/phosphene",
-      "time": "2026-05-20T23:54:06"
+      "title": "Python 3.15: features that didn't make the headlines",
+      "score": 138,
+      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+      "time": "2026-05-21T11:10:11"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245155,
+      "stars": 245160,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195981,
+      "stars": 195982,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 187911,
+      "stars": 188048,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155797,
+      "stars": 155809,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -90,5 +90,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-21T08:54:03.840242+00:00"
+  "last_updated": "2026-05-21T14:38:34.634493+00:00"
 }
