@@ -14,50 +14,44 @@
     "url": "https://apod.nasa.gov/apod/image/2605/a2029.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "47.55\u00b0N",
-    "longitude": "44.42\u00b0W",
-    "timestamp": "2026-05-21T19:41:58+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
-      "score": 272,
-      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-      "time": "2026-05-21T17:55:58"
-    },
-    {
-      "title": "BBEdit 16",
-      "score": 104,
-      "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
-      "time": "2026-05-21T18:21:37"
-    },
-    {
       "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
-      "score": 218,
+      "score": 583,
       "url": "https://valhovey.github.io/gaia-mary/",
       "time": "2026-05-21T16:23:11"
     },
     {
-      "title": "More than 340 local news outlets are limiting the Internet Archive's access",
-      "score": 102,
-      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-      "time": "2026-05-21T16:59:27"
+      "title": "Using Kagi Search with Low Vision",
+      "score": 134,
+      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "time": "2026-05-21T19:32:16"
     },
     {
-      "title": "Flipper One \u2013 we need your help",
-      "score": 870,
-      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "time": "2026-05-21T11:03:38"
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "score": 167,
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "time": "2026-05-21T18:54:55"
+    },
+    {
+      "title": "The Death of the Brick and Mortar Toy Store",
+      "score": 17,
+      "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
+      "time": "2026-05-19T12:48:20"
+    },
+    {
+      "title": "Was my $48K GPU server worth it?",
+      "score": 291,
+      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "time": "2026-05-18T19:33:03"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245166,
+      "stars": 245170,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,7 +65,7 @@
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 188115,
+      "stars": 188188,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -90,5 +84,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-21T19:41:57.479028+00:00"
+  "last_updated": "2026-05-22T02:10:41.565193+00:00"
 }
