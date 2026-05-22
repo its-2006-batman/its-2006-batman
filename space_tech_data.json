@@ -8,81 +8,87 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "A Collision of Galaxy Clusters",
-    "date": "2026-05-21",
-    "explanation": "This big beautiful spiral shines in X-ray light. It is about 20 times larger than our Galaxy.   It belongs to Abell 2029, a galaxy cluster one billion light-years away.   (To see only the galaxies, hover your cursor over the image, or follow this link.)      Galaxy clusters are the largest structure...",
-    "url": "https://apod.nasa.gov/apod/image/2605/a2029.jpg",
+    "title": "The Nebulous Realm of WR 134",
+    "date": "2026-05-22",
+    "explanation": "This cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the high-flying constellation Cygnus. Made using astronomical narrowband filters, the image highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas....",
+    "url": "https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "39.88\u00b0S",
+    "longitude": "82.59\u00b0W",
+    "timestamp": "2026-05-22T08:47:25+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "score": 54,
+      "url": "https://arxiv.org/abs/2605.19269",
+      "time": "2026-05-22T04:54:33"
+    },
+    {
       "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
-      "score": 583,
+      "score": 866,
       "url": "https://valhovey.github.io/gaia-mary/",
       "time": "2026-05-21T16:23:11"
     },
     {
-      "title": "Using Kagi Search with Low Vision",
-      "score": 134,
-      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "time": "2026-05-21T19:32:16"
+      "title": "Slumber a TUI HTTP Client",
+      "score": 56,
+      "url": "https://slumber.lucaspickering.me",
+      "time": "2026-05-22T04:29:23"
     },
     {
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "score": 167,
-      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "time": "2026-05-21T18:54:55"
+      "title": "The surprising story behind the first British person in space",
+      "score": 47,
+      "url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
+      "time": "2026-05-20T15:47:26"
     },
     {
-      "title": "The Death of the Brick and Mortar Toy Store",
-      "score": 17,
-      "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
-      "time": "2026-05-19T12:48:20"
-    },
-    {
-      "title": "Was my $48K GPU server worth it?",
-      "score": 291,
-      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-      "time": "2026-05-18T19:33:03"
+      "title": "We should get rid of average CPU utilization",
+      "score": 4,
+      "url": "https://www.theocharis.dev/blog/why-we-should-get-rid-of-average-cpu-utilization/",
+      "time": "2026-05-22T08:15:42"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245170,
+      "stars": 245179,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195981,
+      "stars": 195985,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 188188,
+      "stars": 188325,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155810,
+      "stars": 155821,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148126,
+      "stars": 148127,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-22T02:10:41.565193+00:00"
+  "last_updated": "2026-05-22T08:47:19.061624+00:00"
 }
