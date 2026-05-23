@@ -15,63 +15,63 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "6.02\u00b0N",
-    "longitude": "70.06\u00b0E",
-    "timestamp": "2026-05-22T19:21:25+00:00",
+    "latitude": "51.61\u00b0S",
+    "longitude": "64.23\u00b0E",
+    "timestamp": "2026-05-23T01:58:13+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "score": 189,
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "time": "2026-05-22T21:36:55"
+    },
+    {
+      "title": "Project Glasswing: An Initial Update",
+      "score": 310,
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "time": "2026-05-22T19:31:45"
+    },
+    {
       "title": "Why Japanese companies do so many different things",
-      "score": 300,
+      "score": 484,
       "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
       "time": "2026-05-22T15:22:04"
     },
     {
-      "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
-      "score": 165,
-      "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
-      "time": "2026-05-22T16:23:08"
+      "title": "Sleep research led to a new sleep apnea drug",
+      "score": 61,
+      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+      "time": "2026-05-22T22:05:39"
     },
     {
-      "title": "1940 Air Terminal Museum Begins Liquidation",
-      "score": 31,
-      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-      "time": "2026-05-22T17:05:32"
-    },
-    {
-      "title": "Deno 2.8",
-      "score": 203,
-      "url": "https://deno.com/blog/v2.8",
-      "time": "2026-05-22T11:23:30"
-    },
-    {
-      "title": "Open source Kanban desktop app that runs parallel agents on every card",
-      "score": 37,
-      "url": "https://www.kanbots.dev/",
-      "time": "2026-05-22T18:17:57"
+      "title": "Blood Pumping Mechanism of the Hoof",
+      "score": 17,
+      "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
+      "time": "2026-05-20T09:03:44"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245187,
+      "stars": 245188,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195986,
+      "stars": 195988,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 188497,
+      "stars": 188548,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -85,10 +85,10 @@
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148124,
+      "stars": 148125,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-22T19:21:24.215795+00:00"
+  "last_updated": "2026-05-23T01:58:07.538602+00:00"
 }
