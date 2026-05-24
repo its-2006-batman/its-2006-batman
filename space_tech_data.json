@@ -8,56 +8,56 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Messier 2",
-    "date": "2026-05-23",
-    "explanation": "After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier's famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally described it as a n...",
-    "url": "https://apod.nasa.gov/apod/image/2605/potw1913aM2_1024.jpg",
-    "media_type": "image"
+    "title": "A Martian Eclipse: Phobos Crosses the Sun",
+    "date": "2026-05-24",
+    "explanation": "What's that passing in front of the Sun? It looks like a moon, but it can't be Earth's Moon, because it isn't round. It's the Martian moon Phobos.  The featured video was taken from the surface of Mars in 2022 by the Perseverance rover. Phobos, at 11.5 kilometers across, is 150 times smaller than Lu...",
+    "url": "https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4",
+    "media_type": "video"
   },
   "iss_position": {
-    "latitude": "39.92\u00b0N",
-    "longitude": "75.63\u00b0W",
-    "timestamp": "2026-05-24T02:06:49+00:00",
+    "latitude": "46.64\u00b0N",
+    "longitude": "175.32\u00b0E",
+    "timestamp": "2026-05-24T08:14:57+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "score": 25,
+      "score": 211,
       "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
       "time": "2026-05-24T01:21:13"
     },
     {
-      "title": "Wake up! 16b",
-      "score": 41,
-      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "time": "2026-05-24T00:30:50"
-    },
-    {
-      "title": "Time to talk about my writerdeck",
-      "score": 294,
-      "url": "https://veronicaexplains.net/my-first-writerdeck/",
-      "time": "2026-05-23T18:45:37"
+      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+      "score": 108,
+      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+      "time": "2026-05-24T04:14:52"
     },
     {
       "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "score": 14,
+      "score": 127,
       "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
       "time": "2026-05-24T00:51:32"
     },
     {
-      "title": "My I3-Emacs Integration",
-      "score": 30,
-      "url": "https://khz.ac/software/i3-integration.html",
-      "time": "2026-05-23T23:13:42"
+      "title": "Wake up! 16b",
+      "score": 192,
+      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "time": "2026-05-24T00:30:50"
+    },
+    {
+      "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
+      "score": 48,
+      "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
+      "time": "2026-05-24T03:19:02"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245226,
+      "stars": 245229,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,24 +71,24 @@
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 189234,
+      "stars": 189469,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155835,
+      "stars": 155838,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148125,
+      "stars": 148126,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-24T02:06:48.122281+00:00"
+  "last_updated": "2026-05-24T08:14:53.427971+00:00"
 }
