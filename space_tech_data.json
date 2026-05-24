@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "46.68\u00b0S",
-    "longitude": "132.99\u00b0E",
-    "timestamp": "2026-05-23T18:54:11+00:00",
+    "latitude": "39.92\u00b0N",
+    "longitude": "75.63\u00b0W",
+    "timestamp": "2026-05-24T02:06:49+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "On The <dl> (2021)",
-      "score": 267,
-      "url": "https://benmyers.dev/blog/on-the-dl/",
-      "time": "2026-05-23T13:03:43"
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "score": 25,
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+      "time": "2026-05-24T01:21:13"
     },
     {
-      "title": "My two-part desk setup",
-      "score": 70,
-      "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
-      "time": "2026-05-20T21:21:14"
+      "title": "Wake up! 16b",
+      "score": 41,
+      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+      "time": "2026-05-24T00:30:50"
     },
     {
-      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
-      "score": 44,
-      "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-      "time": "2026-05-23T16:24:50"
+      "title": "Time to talk about my writerdeck",
+      "score": 294,
+      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "time": "2026-05-23T18:45:37"
     },
     {
-      "title": "Texas woman arrested for Facebook post about town water quality",
-      "score": 98,
-      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-      "time": "2026-05-23T18:02:42"
+      "title": "Scammers are abusing an internal Microsoft account to send spam links",
+      "score": 14,
+      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+      "time": "2026-05-24T00:51:32"
     },
     {
-      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
-      "score": 76,
-      "url": "https://nand2mario.github.io/posts/2026/z386/",
-      "time": "2026-05-23T14:25:30"
+      "title": "My I3-Emacs Integration",
+      "score": 30,
+      "url": "https://khz.ac/software/i3-integration.html",
+      "time": "2026-05-23T23:13:42"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245217,
+      "stars": 245226,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195995,
+      "stars": 195998,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 188879,
+      "stars": 189234,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155834,
+      "stars": 155835,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148126,
+      "stars": 148125,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-23T18:54:09.638579+00:00"
+  "last_updated": "2026-05-24T02:06:48.122281+00:00"
 }
