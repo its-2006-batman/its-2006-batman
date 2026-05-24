@@ -14,81 +14,75 @@
     "url": "https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4",
     "media_type": "video"
   },
-  "iss_position": {
-    "latitude": "46.64\u00b0N",
-    "longitude": "175.32\u00b0E",
-    "timestamp": "2026-05-24T08:14:57+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Mastering Dyalog APL",
+      "score": 23,
+      "url": "https://mastering.dyalog.com/README.html",
+      "time": "2026-05-24T11:42:15"
+    },
+    {
+      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "score": 72,
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "time": "2026-05-24T08:29:38"
+    },
+    {
+      "title": "I spent 50 hours drawing a line graph",
+      "score": 119,
+      "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+      "time": "2026-05-21T15:05:28"
+    },
+    {
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "score": 211,
+      "score": 315,
       "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
       "time": "2026-05-24T01:21:13"
     },
     {
       "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "score": 108,
+      "score": 216,
       "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
       "time": "2026-05-24T04:14:52"
-    },
-    {
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "score": 127,
-      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "time": "2026-05-24T00:51:32"
-    },
-    {
-      "title": "Wake up! 16b",
-      "score": 192,
-      "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
-      "time": "2026-05-24T00:30:50"
-    },
-    {
-      "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
-      "score": 48,
-      "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
-      "time": "2026-05-24T03:19:02"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245229,
+      "stars": 245234,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195998,
+      "stars": 196000,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 189469,
+      "stars": 189831,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155838,
+      "stars": 155847,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148126,
+      "stars": 148125,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-24T08:14:53.427971+00:00"
+  "last_updated": "2026-05-24T12:57:48.832938+00:00"
 }
