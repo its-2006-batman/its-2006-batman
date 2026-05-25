@@ -15,49 +15,49 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "48.78\u00b0S",
-    "longitude": "41.48\u00b0W",
-    "timestamp": "2026-05-25T09:46:01+00:00",
+    "latitude": "35.29\u00b0S",
+    "longitude": "83.37\u00b0W",
+    "timestamp": "2026-05-25T14:31:25+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
-      "score": 116,
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
-      "time": "2026-05-23T01:37:02"
+      "title": "Search engines alternatives now that Google isn't Google anymore",
+      "score": 269,
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "time": "2026-05-25T12:27:11"
     },
     {
-      "title": "Show HN: Geomatic \u2013 a command-driven geometry studio enabled with autodiff",
-      "score": 8,
-      "url": "https://www.tinyvolt.com/geomatic",
-      "time": "2026-05-25T08:25:00"
+      "title": "Magnifica Humanitas (Encyclical Letter)",
+      "score": 372,
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "time": "2026-05-25T10:11:29"
     },
     {
-      "title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
-      "score": 360,
-      "url": "https://audiomass.co/?multitrack=1",
-      "time": "2026-05-24T15:25:43"
+      "title": "2026 HIPAA Security Rule Update",
+      "score": 18,
+      "url": "https://medcurity.com/hipaa-security-rule-2026-update/",
+      "time": "2026-05-25T13:55:28"
     },
     {
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "score": 561,
-      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-      "time": "2026-05-24T13:02:06"
+      "title": "Leave Me Behind",
+      "score": 136,
+      "url": "http://androidessence.com/leave-me-behind/",
+      "time": "2026-05-25T12:03:54"
     },
     {
-      "title": "Bytecode VMs in surprising places (2024)",
-      "score": 14,
-      "url": "https://dubroy.com/blog/bytecode-vms-in-surprising-places/",
-      "time": "2026-05-22T14:12:08"
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "score": 13,
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "time": "2026-05-25T13:56:39"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245259,
+      "stars": 245266,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,14 +71,14 @@
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 191483,
+      "stars": 191873,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155863,
+      "stars": 155867,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -90,5 +90,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-25T09:46:00.236586+00:00"
+  "last_updated": "2026-05-25T14:31:24.511343+00:00"
 }
