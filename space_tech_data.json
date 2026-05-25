@@ -15,40 +15,40 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "51.60\u00b0N",
-    "longitude": "19.56\u00b0W",
-    "timestamp": "2026-05-24T18:59:46+00:00",
+    "latitude": "17.11\u00b0S",
+    "longitude": "123.77\u00b0E",
+    "timestamp": "2026-05-25T02:14:58+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "score": 126,
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "time": "2026-05-24T16:31:29"
+      "title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
+      "score": 161,
+      "url": "https://audiomass.co/?multitrack=1",
+      "time": "2026-05-24T15:25:43"
     },
     {
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "score": 225,
+      "score": 444,
       "url": "https://esengine.github.io/DeepSeek-Reasonix/",
       "time": "2026-05-24T13:02:06"
     },
     {
-      "title": "Ruby for Good",
-      "score": 62,
-      "url": "https://ti.to/codeforgood/rubyforgood",
-      "time": "2026-05-24T15:49:19"
+      "title": "A fundamental principle of aeronautical engineering has been overturned",
+      "score": 63,
+      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "time": "2026-05-24T19:10:26"
     },
     {
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "score": 95,
-      "url": "https://arxiv.org/abs/2605.06445",
-      "time": "2026-05-24T12:55:53"
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "score": 297,
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "time": "2026-05-24T16:31:29"
     },
     {
       "title": "I spent 50 hours drawing a line graph",
-      "score": 323,
+      "score": 445,
       "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
       "time": "2026-05-21T15:05:28"
     }
@@ -57,38 +57,38 @@
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245248,
+      "stars": 245251,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196002,
+      "stars": 196005,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 190360,
+      "stars": 190780,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155852,
+      "stars": 155855,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148122,
+      "stars": 148118,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-24T18:59:40.635948+00:00"
+  "last_updated": "2026-05-25T02:14:56.363113+00:00"
 }
