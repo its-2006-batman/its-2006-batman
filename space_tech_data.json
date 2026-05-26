@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "42.87\u00b0N",
-    "longitude": "67.79\u00b0E",
-    "timestamp": "2026-05-26T09:33:43+00:00",
+    "latitude": "12.71\u00b0N",
+    "longitude": "112.58\u00b0E",
+    "timestamp": "2026-05-26T14:38:59+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "DynIP \u2013 Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-      "score": 81,
-      "url": "https://dynip.dev/",
-      "time": "2026-05-26T07:35:20"
+      "title": "GitHub Actions down again today",
+      "score": 410,
+      "url": "https://www.githubstatus.com/?today",
+      "time": "2026-05-26T11:42:58"
+    },
+    {
+      "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
+      "score": 41,
+      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+      "time": "2026-05-26T12:08:33"
     },
     {
       "title": "Using AI to write better code more slowly",
-      "score": 629,
+      "score": 871,
       "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
       "time": "2026-05-25T23:16:59"
     },
     {
-      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "score": 287,
-      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "time": "2026-05-25T22:30:27"
+      "title": "DynIP \u2013 Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "score": 211,
+      "url": "https://dynip.dev/",
+      "time": "2026-05-26T07:35:20"
     },
     {
-      "title": "Use Boring Languages with LLMs",
-      "score": 37,
-      "url": "https://jry.io/writing/use-boring-languages-with-llms/",
-      "time": "2026-05-22T15:10:22"
-    },
-    {
-      "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
-      "score": 64,
-      "url": "https://earthiongame.com/",
-      "time": "2026-05-26T03:42:23"
+      "title": "Netherlands blocks US takeover of vital digital supplier",
+      "score": 204,
+      "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
+      "time": "2026-05-26T11:46:08"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245286,
+      "stars": 245273,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196008,
+      "stars": 195991,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 193229,
+      "stars": 193685,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155888,
+      "stars": 155893,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148115,
+      "stars": 148111,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-26T09:33:40.741646+00:00"
+  "last_updated": "2026-05-26T14:38:56.622507+00:00"
 }
