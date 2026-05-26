@@ -8,56 +8,56 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Thackeray's Globules",
-    "date": "2026-05-25",
-    "explanation": "What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years away toward the constel...",
-    "url": "https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg",
+    "title": "NGC 3660 and Bur\u00e7in's Galaxy",
+    "date": "2026-05-26",
+    "explanation": "The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and c...",
+    "url": "https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "40.31\u00b0N",
-    "longitude": "87.98\u00b0W",
-    "timestamp": "2026-05-26T02:05:50+00:00",
+    "latitude": "42.87\u00b0N",
+    "longitude": "67.79\u00b0E",
+    "timestamp": "2026-05-26T09:33:43+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "DynIP \u2013 Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+      "score": 81,
+      "url": "https://dynip.dev/",
+      "time": "2026-05-26T07:35:20"
+    },
+    {
       "title": "Using AI to write better code more slowly",
-      "score": 149,
+      "score": 629,
       "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
       "time": "2026-05-25T23:16:59"
     },
     {
-      "title": "Does Anybody Actually Like React?",
-      "score": 11,
-      "url": "https://jsx.lol",
-      "time": "2026-05-26T01:55:15"
-    },
-    {
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "score": 164,
-      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "time": "2026-05-25T19:37:57"
-    },
-    {
       "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "score": 57,
+      "score": 287,
       "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
       "time": "2026-05-25T22:30:27"
     },
     {
-      "title": "Exit IP VPN servers mitigation rollout",
-      "score": 268,
-      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-      "time": "2026-05-25T17:45:11"
+      "title": "Use Boring Languages with LLMs",
+      "score": 37,
+      "url": "https://jry.io/writing/use-boring-languages-with-llms/",
+      "time": "2026-05-22T15:10:22"
+    },
+    {
+      "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
+      "score": 64,
+      "url": "https://earthiongame.com/",
+      "time": "2026-05-26T03:42:23"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245279,
+      "stars": 245286,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -71,24 +71,24 @@
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 192464,
+      "stars": 193229,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155874,
+      "stars": 155888,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148116,
+      "stars": 148115,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-26T02:05:50.032552+00:00"
+  "last_updated": "2026-05-26T09:33:40.741646+00:00"
 }
