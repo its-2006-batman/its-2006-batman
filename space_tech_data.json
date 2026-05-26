@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "12.71\u00b0N",
-    "longitude": "112.58\u00b0E",
-    "timestamp": "2026-05-26T14:38:59+00:00",
+    "latitude": "41.28\u00b0S",
+    "longitude": "178.87\u00b0E",
+    "timestamp": "2026-05-26T19:53:31+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "GitHub Actions down again today",
-      "score": 410,
-      "url": "https://www.githubstatus.com/?today",
-      "time": "2026-05-26T11:42:58"
+      "title": "Stop Advertising in Your Commits",
+      "score": 84,
+      "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
+      "time": "2026-05-26T18:37:07"
     },
     {
-      "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
-      "score": 41,
-      "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-      "time": "2026-05-26T12:08:33"
+      "title": "A few interesting modern pixel fonts",
+      "score": 70,
+      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+      "time": "2026-05-25T20:41:49"
     },
     {
-      "title": "Using AI to write better code more slowly",
-      "score": 871,
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "time": "2026-05-25T23:16:59"
+      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "score": 33,
+      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
+      "time": "2026-05-22T17:17:43"
     },
     {
-      "title": "DynIP \u2013 Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-      "score": 211,
-      "url": "https://dynip.dev/",
-      "time": "2026-05-26T07:35:20"
+      "title": "The Ballad of TIGIT",
+      "score": 71,
+      "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
+      "time": "2026-05-26T15:47:32"
     },
     {
-      "title": "Netherlands blocks US takeover of vital digital supplier",
-      "score": 204,
-      "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
-      "time": "2026-05-26T11:46:08"
+      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+      "score": 54,
+      "url": "https://github.com/logannye/rosalind",
+      "time": "2026-05-21T13:55:13"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245273,
+      "stars": 245280,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195991,
+      "stars": 195993,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 193685,
+      "stars": 194095,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155893,
+      "stars": 155894,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148111,
+      "stars": 148112,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-26T14:38:56.622507+00:00"
+  "last_updated": "2026-05-26T19:53:29.924411+00:00"
 }
