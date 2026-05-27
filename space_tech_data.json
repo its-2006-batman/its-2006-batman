@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "29.20\u00b0N",
-    "longitude": "40.29\u00b0W",
-    "timestamp": "2026-05-27T14:52:46+00:00",
+    "latitude": "29.91\u00b0N",
+    "longitude": "8.84\u00b0E",
+    "timestamp": "2026-05-27T19:57:38+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "I'm Tired of Talking to AI",
-      "score": 956,
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "time": "2026-05-27T10:43:25"
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "score": 315,
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "time": "2026-05-27T16:39:13"
     },
     {
-      "title": "Mini Micro Fantasy Computer",
-      "score": 134,
-      "url": "https://miniscript.org/MiniMicro/index.html#about",
-      "time": "2026-05-27T09:56:02"
+      "title": "SimCity 3k in 4k (2025)",
+      "score": 145,
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "time": "2026-05-27T17:36:29"
     },
     {
-      "title": "XLIDE: VBA without excel",
-      "score": 31,
-      "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
-      "time": "2026-05-27T12:08:18"
+      "title": "What Apple and Google are doing to your push notifications",
+      "score": 26,
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "time": "2026-05-27T19:24:10"
     },
     {
-      "title": "Matrix Multiplications on GPUs Run Faster When Given \"Predictable\" Data",
-      "score": 48,
-      "url": "https://www.thonking.ai/p/strangely-matrix-multiplications",
-      "time": "2026-05-23T12:11:47"
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "score": 392,
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "time": "2026-05-27T16:28:41"
     },
     {
-      "title": "All of human cooking compressed into 2 megabytes",
-      "score": 159,
-      "url": "https://arxiv.org/abs/2605.22391",
-      "time": "2026-05-27T08:14:40"
+      "title": "Last.fm is now independent",
+      "score": 419,
+      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+      "time": "2026-05-27T15:36:09"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245294,
+      "stars": 245295,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195996,
+      "stars": 195997,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 195611,
+      "stars": 195869,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155914,
+      "stars": 155918,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148117,
+      "stars": 148116,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-27T14:52:42.822832+00:00"
+  "last_updated": "2026-05-27T19:57:38.168173+00:00"
 }
