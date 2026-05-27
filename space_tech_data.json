@@ -14,81 +14,75 @@
     "url": "https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "41.28\u00b0S",
-    "longitude": "178.87\u00b0E",
-    "timestamp": "2026-05-26T19:53:31+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Stop Advertising in Your Commits",
-      "score": 84,
-      "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
-      "time": "2026-05-26T18:37:07"
+      "title": "Erin Brockovich made a map to track data centers around the country",
+      "score": 75,
+      "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+      "time": "2026-05-27T00:36:03"
     },
     {
-      "title": "A few interesting modern pixel fonts",
-      "score": 70,
-      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "time": "2026-05-25T20:41:49"
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "score": 228,
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
+      "time": "2026-05-26T19:25:16"
     },
     {
-      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
-      "score": 33,
-      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-      "time": "2026-05-22T17:17:43"
+      "title": "AI Tools Are Only as Good as Your Judgment \u2013 and That's the Point",
+      "score": 27,
+      "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+      "time": "2026-05-27T00:00:35"
     },
     {
-      "title": "The Ballad of TIGIT",
-      "score": 71,
-      "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
-      "time": "2026-05-26T15:47:32"
+      "title": "Cloudflare Flagship",
+      "score": 67,
+      "url": "https://developers.cloudflare.com/flagship/",
+      "time": "2026-05-26T23:36:06"
     },
     {
-      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
-      "score": 54,
-      "url": "https://github.com/logannye/rosalind",
-      "time": "2026-05-21T13:55:13"
+      "title": "Stripe is friendly to \"friendly fraud\"",
+      "score": 77,
+      "url": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
+      "time": "2026-05-27T00:40:05"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245280,
+      "stars": 245283,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195993,
+      "stars": 195995,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 194095,
+      "stars": 194502,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155894,
+      "stars": 155893,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148112,
+      "stars": 148115,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-26T19:53:29.924411+00:00"
+  "last_updated": "2026-05-27T02:13:22.948638+00:00"
 }
