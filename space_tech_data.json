@@ -7,51 +7,51 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "NGC 3660 and Bur\u00e7in's Galaxy",
-    "date": "2026-05-26",
-    "explanation": "The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and c...",
-    "url": "https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg",
-    "media_type": "image"
+  "nasa_apod": null,
+  "iss_position": {
+    "latitude": "47.73\u00b0N",
+    "longitude": "142.55\u00b0E",
+    "timestamp": "2026-05-27T08:59:28+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
   },
-  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Erin Brockovich made a map to track data centers around the country",
-      "score": 75,
-      "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
-      "time": "2026-05-27T00:36:03"
-    },
-    {
-      "title": "Chemistry behind the Garden Grove chemical tank",
-      "score": 228,
-      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-      "time": "2026-05-26T19:25:16"
-    },
-    {
-      "title": "AI Tools Are Only as Good as Your Judgment \u2013 and That's the Point",
-      "score": 27,
-      "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
-      "time": "2026-05-27T00:00:35"
+      "title": "The Melancholy of Slaying Monsters",
+      "score": 53,
+      "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+      "time": "2026-05-26T19:25:13"
     },
     {
       "title": "Cloudflare Flagship",
-      "score": 67,
+      "score": 209,
       "url": "https://developers.cloudflare.com/flagship/",
       "time": "2026-05-26T23:36:06"
     },
     {
-      "title": "Stripe is friendly to \"friendly fraud\"",
-      "score": 77,
-      "url": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
-      "time": "2026-05-27T00:40:05"
+      "title": "What Gets Kept",
+      "score": 23,
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/what-jack-kerouac-left-behind",
+      "time": "2026-05-24T16:46:25"
+    },
+    {
+      "title": "BadHost \u2013 CVE-2026-48710: Starlette Host-Header Auth Bypass",
+      "score": 41,
+      "url": "https://badhost.org/",
+      "time": "2026-05-26T09:07:18"
+    },
+    {
+      "title": "Prompt Politeness Affects LLM Accuracy (2025)",
+      "score": 35,
+      "url": "https://arxiv.org/abs/2510.04950",
+      "time": "2026-05-26T07:43:22"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245283,
+      "stars": 245288,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
@@ -65,24 +65,24 @@
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 194502,
+      "stars": 195193,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155893,
+      "stars": 155906,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148115,
+      "stars": 148117,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-27T02:13:22.948638+00:00"
+  "last_updated": "2026-05-27T08:59:18.947738+00:00"
 }
