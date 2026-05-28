@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "12.28\u00b0S",
-    "longitude": "90.58\u00b0W",
-    "timestamp": "2026-05-28T15:24:47+00:00",
+    "latitude": "10.20\u00b0S",
+    "longitude": "159.82\u00b0W",
+    "timestamp": "2026-05-28T20:04:06+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
-      "score": 355,
-      "url": "https://lenz.io/research/llm-disagreement",
-      "time": "2026-05-28T12:20:19"
+      "title": "Claude Opus 4.8",
+      "score": 835,
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "time": "2026-05-28T16:49:14"
     },
     {
-      "title": "YouTube to automatically label AI-generated videos",
-      "score": 1115,
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "time": "2026-05-27T20:00:51"
+      "title": "Just Use Postgres for Durable Workflows",
+      "score": 108,
+      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+      "time": "2026-05-28T18:41:46"
     },
     {
-      "title": "Indoor Wi-Fi Roaming with OpenWRT",
-      "score": 28,
-      "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
-      "time": "2026-05-26T16:41:58"
+      "title": "About LLMs at Zig Days",
+      "score": 57,
+      "url": "https://kristoff.it/blog/llms-at-zig-days/",
+      "time": "2026-05-28T18:20:34"
     },
     {
-      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-      "score": 165,
-      "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-      "time": "2026-05-28T14:13:00"
+      "title": "Bitburner, programming-based incremental game",
+      "score": 24,
+      "url": "https://bitburner-official.github.io/",
+      "time": "2026-05-28T17:43:36"
     },
     {
-      "title": "EU fines Temu \u20ac200M for allowing sale of illegal products",
-      "score": 53,
-      "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
-      "time": "2026-05-28T14:18:18"
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "score": 159,
+      "url": "https://llmgame.scalex.dev",
+      "time": "2026-05-28T13:02:00"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245306,
+      "stars": 245309,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 196918,
+      "stars": 197087,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196005,
+      "stars": 196006,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155935,
+      "stars": 155937,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148117,
+      "stars": 148118,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-28T15:24:45.412874+00:00"
+  "last_updated": "2026-05-28T20:04:01.695764+00:00"
 }
