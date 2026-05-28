@@ -8,81 +8,81 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "PK 164 +31.1: The Headphone Nebula",
-    "date": "2026-05-27",
-    "explanation": "What is a pair of headphones doing in the sky? Today\u2019s image features the Headphone Nebula, also known as PK 164 +31.1 or Jones-Emberson 1. This planetary nebula, the remnant of a dying Sun-like star, faintly occupies an angular region of the Lynx constellation about 1/5th the diameter of the full m...",
-    "url": "https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg",
+    "title": "NGC 1514: The Crystal Ball Nebula",
+    "date": "2026-05-28",
+    "explanation": "What do you see in this crystal ball?   The featured image shows NGC 1514, known as the Crystal Ball Nebula, observed by the Gemini North telescope on Maunakea, in Hawai'i.   NGC 1514 is 1,500 light-years away and was discovered by William Herschel in 1790.   This planetary nebula is formed when a s...",
+    "url": "https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg",
     "media_type": "image"
   },
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Can we have the day off?",
-      "score": 284,
-      "url": "https://mlsu.io/posts/day-off/",
-      "time": "2026-05-28T00:40:26"
-    },
-    {
       "title": "YouTube to automatically label AI-generated videos",
-      "score": 544,
+      "score": 864,
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
       "time": "2026-05-27T20:00:51"
     },
     {
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "score": 67,
+      "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+      "time": "2026-05-28T06:40:31"
+    },
+    {
+      "title": "I analysed 20 years of my chats",
+      "score": 120,
+      "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+      "time": "2026-05-27T23:31:13"
+    },
+    {
+      "title": "Hallucinate \u2013 Massively Multiplayer Online Rave",
+      "score": 194,
+      "url": "https://hallucinate.site",
+      "time": "2026-05-28T03:50:01"
+    },
+    {
       "title": "I think Anthropic and OpenAI have found product-market fit",
-      "score": 656,
+      "score": 862,
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
       "time": "2026-05-27T16:39:13"
-    },
-    {
-      "title": "What Apple and Google are doing to push notifications",
-      "score": 179,
-      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "time": "2026-05-27T19:24:10"
-    },
-    {
-      "title": "SimCity 3k in 4k (2025)",
-      "score": 286,
-      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "time": "2026-05-27T17:36:29"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245294,
+      "stars": 245302,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 196101,
+      "stars": 196565,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196000,
+      "stars": 196003,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155918,
+      "stars": 155928,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148116,
+      "stars": 148117,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-28T01:57:26.639457+00:00"
+  "last_updated": "2026-05-28T09:43:15.757396+00:00"
 }
