@@ -14,66 +14,60 @@
     "url": "https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "29.91\u00b0N",
-    "longitude": "8.84\u00b0E",
-    "timestamp": "2026-05-27T19:57:38+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Can we have the day off?",
+      "score": 284,
+      "url": "https://mlsu.io/posts/day-off/",
+      "time": "2026-05-28T00:40:26"
+    },
+    {
+      "title": "YouTube to automatically label AI-generated videos",
+      "score": 544,
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "time": "2026-05-27T20:00:51"
+    },
+    {
       "title": "I think Anthropic and OpenAI have found product-market fit",
-      "score": 315,
+      "score": 656,
       "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
       "time": "2026-05-27T16:39:13"
     },
     {
-      "title": "SimCity 3k in 4k (2025)",
-      "score": 145,
-      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "time": "2026-05-27T17:36:29"
-    },
-    {
-      "title": "What Apple and Google are doing to your push notifications",
-      "score": 26,
+      "title": "What Apple and Google are doing to push notifications",
+      "score": 179,
       "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
       "time": "2026-05-27T19:24:10"
     },
     {
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "score": 392,
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "time": "2026-05-27T16:28:41"
-    },
-    {
-      "title": "Last.fm is now independent",
-      "score": 419,
-      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-      "time": "2026-05-27T15:36:09"
+      "title": "SimCity 3k in 4k (2025)",
+      "score": 286,
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "time": "2026-05-27T17:36:29"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245295,
+      "stars": 245294,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
-      "name": "trekhleb/javascript-algorithms",
-      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 195997,
-      "language": "JavaScript",
-      "url": "https://github.com/trekhleb/javascript-algorithms"
-    },
-    {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 195869,
+      "stars": 196101,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196000,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
@@ -90,5 +84,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-27T19:57:38.168173+00:00"
+  "last_updated": "2026-05-28T01:57:26.639457+00:00"
 }
