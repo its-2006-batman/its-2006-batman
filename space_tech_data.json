@@ -8,87 +8,87 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "NGC 1514: The Crystal Ball Nebula",
-    "date": "2026-05-28",
-    "explanation": "What do you see in this crystal ball?   The featured image shows NGC 1514, known as the Crystal Ball Nebula, observed by the Gemini North telescope on Maunakea, in Hawai'i.   NGC 1514 is 1,500 light-years away and was discovered by William Herschel in 1790.   This planetary nebula is formed when a s...",
-    "url": "https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg",
+    "title": "Messier 104",
+    "date": "2026-05-29",
+    "explanation": "A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular mo...",
+    "url": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "40.74\u00b0S",
-    "longitude": "73.77\u00b0E",
-    "timestamp": "2026-05-29T02:04:24+00:00",
+    "latitude": "44.46\u00b0S",
+    "longitude": "126.21\u00b0W",
+    "timestamp": "2026-05-29T09:33:10+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Claude Opus 4.8",
-      "score": 1240,
+      "score": 1519,
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
       "time": "2026-05-28T16:49:14"
     },
     {
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "score": 612,
+      "score": 939,
       "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
       "time": "2026-05-28T19:24:09"
     },
     {
+      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
+      "score": 146,
+      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+      "time": "2026-05-29T05:45:36"
+    },
+    {
       "title": "I made a million dollar product from my dorm room (2025)",
-      "score": 189,
+      "score": 391,
       "url": "https://nick.winans.io/blog/nice-nano/",
       "time": "2026-05-28T20:25:21"
     },
     {
-      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "score": 156,
-      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "time": "2026-05-28T19:15:54"
-    },
-    {
-      "title": "Garnix (A Nix CI) is shutting down",
-      "score": 33,
-      "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
-      "time": "2026-05-28T23:36:41"
+      "title": "Claude Code \u2013 Everything You Can Configure That the Docs Don't Tell You",
+      "score": 79,
+      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+      "time": "2026-05-29T02:13:20"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245312,
+      "stars": 245309,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 197350,
+      "stars": 197915,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196007,
+      "stars": 196008,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155941,
+      "stars": 155954,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148116,
+      "stars": 148113,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-29T02:04:23.478418+00:00"
+  "last_updated": "2026-05-29T09:33:09.519753+00:00"
 }
