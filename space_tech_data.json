@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "44.46\u00b0S",
-    "longitude": "126.21\u00b0W",
-    "timestamp": "2026-05-29T09:33:10+00:00",
+    "latitude": "15.34\u00b0S",
+    "longitude": "86.96\u00b0W",
+    "timestamp": "2026-05-29T14:36:52+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Tulip mania: when a single flower was worth more than a house (2025)",
+      "score": 71,
+      "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
+      "time": "2026-05-29T11:51:34"
+    },
+    {
+      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
+      "score": 48,
+      "url": "https://github.com/scanaislop/aislop",
+      "time": "2026-05-29T13:37:38"
+    },
+    {
+      "title": "Please Use AI",
+      "score": 104,
+      "url": "https://shawnsmucker.substack.com/p/please-use-ai",
+      "time": "2026-05-29T13:50:25"
+    },
+    {
+      "title": "The UK Government's Low Value Purchase System Is a Waste of Time",
+      "score": 78,
+      "url": "https://shkspr.mobi/blog/2026/05/the-uk-governments-low-value-purchase-system-is-a-waste-of-time/",
+      "time": "2026-05-29T12:17:55"
+    },
+    {
       "title": "Claude Opus 4.8",
-      "score": 1519,
+      "score": 1652,
       "url": "https://www.anthropic.com/news/claude-opus-4-8",
       "time": "2026-05-28T16:49:14"
-    },
-    {
-      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "score": 939,
-      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "time": "2026-05-28T19:24:09"
-    },
-    {
-      "title": "Volkswagen blocks Home Assistant by requiring client assertion",
-      "score": 146,
-      "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
-      "time": "2026-05-29T05:45:36"
-    },
-    {
-      "title": "I made a million dollar product from my dorm room (2025)",
-      "score": 391,
-      "url": "https://nick.winans.io/blog/nice-nano/",
-      "time": "2026-05-28T20:25:21"
-    },
-    {
-      "title": "Claude Code \u2013 Everything You Can Configure That the Docs Don't Tell You",
-      "score": 79,
-      "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
-      "time": "2026-05-29T02:13:20"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245309,
+      "stars": 245311,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 197915,
+      "stars": 198198,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196008,
+      "stars": 196009,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155954,
+      "stars": 155958,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148113,
+      "stars": 148112,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-29T09:33:09.519753+00:00"
+  "last_updated": "2026-05-29T14:36:50.421506+00:00"
 }
