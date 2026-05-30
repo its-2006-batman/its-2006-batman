@@ -8,47 +8,47 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "Messier 104",
-    "date": "2026-05-29",
-    "explanation": "A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular mo...",
-    "url": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg",
+    "title": "Supermoon Versus Micromoon",
+    "date": "2026-05-30",
+    "explanation": "What is so micro about tonight's blue micromoon?  Just after sunset, a full moon will appear slightly smaller and dimmer than usual.  The reason is that the Moon's fully illuminated phase occurs within a short time of apogee - when the Moon is farthest from the Earth in its elliptical orbit.  In fac...",
+    "url": "https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "48.93\u00b0N",
-    "longitude": "133.23\u00b0W",
-    "timestamp": "2026-05-30T01:59:21+00:00",
+    "latitude": "41.63\u00b0N",
+    "longitude": "151.93\u00b0E",
+    "timestamp": "2026-05-30T08:15:00+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "SQLite is all you need for durable workflows",
-      "score": 358,
+      "score": 501,
       "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
       "time": "2026-05-29T17:54:50"
     },
     {
-      "title": "The dead economy theory",
-      "score": 703,
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "time": "2026-05-29T15:46:24"
+      "title": "Algebraic Effects for the Rest of Us",
+      "score": 25,
+      "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+      "time": "2026-05-26T17:38:51"
     },
     {
       "title": "Snowboard Kids 2 is 100% Decompiled",
-      "score": 54,
+      "score": 175,
       "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
       "time": "2026-05-26T19:12:59"
     },
     {
-      "title": "MCP is dead?",
-      "score": 84,
-      "url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-      "time": "2026-05-29T22:56:49"
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "score": 79,
+      "url": "https://www.perryts.com/",
+      "time": "2026-05-30T03:14:25"
     },
     {
       "title": "Notes from the Mistral AI Now Summit",
-      "score": 311,
+      "score": 358,
       "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
       "time": "2026-05-29T16:22:01"
     }
@@ -57,14 +57,14 @@
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245314,
+      "stars": 245322,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 198599,
+      "stars": 198787,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -78,7 +78,7 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155960,
+      "stars": 155966,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -90,5 +90,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-30T01:59:20.393067+00:00"
+  "last_updated": "2026-05-30T08:14:59.721897+00:00"
 }
