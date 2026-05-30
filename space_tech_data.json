@@ -7,50 +7,44 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "Supermoon Versus Micromoon",
-    "date": "2026-05-30",
-    "explanation": "What is so micro about tonight's blue micromoon?  Just after sunset, a full moon will appear slightly smaller and dimmer than usual.  The reason is that the Moon's fully illuminated phase occurs within a short time of apogee - when the Moon is farthest from the Earth in its elliptical orbit.  In fac...",
-    "url": "https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "23.44\u00b0N",
-    "longitude": "104.00\u00b0E",
-    "timestamp": "2026-05-30T13:00:41+00:00",
+    "latitude": "51.45\u00b0N",
+    "longitude": "50.54\u00b0W",
+    "timestamp": "2026-05-30T18:57:51+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Pandoc Templates",
-      "score": 130,
-      "url": "https://pandoc-templates.org/",
-      "time": "2026-05-30T09:56:42"
+      "title": "OpenRouter raises $113M Series B",
+      "score": 134,
+      "url": "https://openrouter.ai/announcements/series-b",
+      "time": "2026-05-30T17:27:28"
     },
     {
-      "title": "Zig: Build System Reworked",
-      "score": 156,
-      "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-      "time": "2026-05-30T08:38:28"
+      "title": "Zig ELF Linker Improvements Devlog",
+      "score": 63,
+      "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+      "time": "2026-05-30T17:29:22"
     },
     {
-      "title": "Proposed new US funding rules: We can cancel any grant at any time",
-      "score": 87,
-      "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-      "time": "2026-05-30T11:41:29"
+      "title": "Voxel Space",
+      "score": 174,
+      "url": "https://s-macke.github.io/VoxelSpace/",
+      "time": "2026-05-30T14:25:50"
     },
     {
-      "title": "Show HN: Helios \u2013 what plug-in solar could generate for any address in Britain",
-      "score": 20,
-      "url": "https://helios.southlondonscientific.com/",
-      "time": "2026-05-30T11:08:37"
+      "title": "Microcode inside the Intel 8087 floating-point chip: register exchange",
+      "score": 32,
+      "url": "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html",
+      "time": "2026-05-30T17:27:13"
     },
     {
-      "title": "Leo's first encyclical attacks technological messianism",
-      "score": 22,
-      "url": "https://www.economist.com/europe/2026/05/28/leos-first-encyclical-attacks-technological-messianism",
-      "time": "2026-05-30T10:30:50"
+      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+      "score": 11,
+      "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
+      "time": "2026-05-30T18:19:23"
     }
   ],
   "github_trending": [
@@ -64,31 +58,31 @@
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 198933,
+      "stars": 199156,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196006,
+      "stars": 196005,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155970,
+      "stars": 155978,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148114,
+      "stars": 148112,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-30T13:00:36.790718+00:00"
+  "last_updated": "2026-05-30T18:57:41.157660+00:00"
 }
