@@ -7,76 +7,88 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
-  "iss_position": null,
+  "nasa_apod": {
+    "title": "Eagle Nebula Pillars in Infrared from Hubble",
+    "date": "2026-05-31",
+    "explanation": "Newborn stars are forming in the Eagle Nebula.  They are gravitationally contracting in pillars of dense gas and dust.  The intense radiation of these newly-formed bright stars is causing surrounding material to boil away. This image, taken with the Hubble Space Telescope in near infrared light, all...",
+    "url": "https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg",
+    "media_type": "image"
+  },
+  "iss_position": {
+    "latitude": "10.49\u00b0N",
+    "longitude": "14.62\u00b0E",
+    "timestamp": "2026-05-31T08:33:00+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
-      "score": 360,
-      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-      "time": "2026-05-30T23:26:13"
+      "title": "The Website Specification",
+      "score": 79,
+      "url": "https://specification.website/",
+      "time": "2026-05-31T07:09:50"
     },
     {
       "title": "Domain expertise has always been the real moat",
-      "score": 298,
+      "score": 549,
       "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
       "time": "2026-05-30T20:40:57"
     },
     {
-      "title": "Anyone can build a platform now. Almost nobody can get people to find it",
-      "score": 34,
-      "url": "https://claudefolio.com/blog/anyone-can-build-a-platform-now-almost-nobody-can-get-people-to-find-it",
-      "time": "2026-05-31T00:55:17"
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "score": 74,
+      "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+      "time": "2026-05-29T03:22:19"
     },
     {
-      "title": "I found a seashell in the middle of the desert",
+      "title": "Shantell Sans (2023)",
       "score": 220,
-      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
-      "time": "2026-05-29T02:49:43"
-    },
-    {
-      "title": "Shantell Sans",
-      "score": 76,
       "url": "https://shantellsans.com/process",
       "time": "2026-05-30T22:06:38"
+    },
+    {
+      "title": "Show HN: Breathe CLI \u2013 Paced resonance breathing in the macOS terminal",
+      "score": 12,
+      "url": "https://github.com/marekkowalczyk/breathe-cli",
+      "time": "2026-05-30T20:30:53"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245336,
+      "stars": 245339,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 199352,
+      "stars": 199612,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196009,
+      "stars": 196008,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 155981,
+      "stars": 155986,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148114,
+      "stars": 148111,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-31T02:15:03.653079+00:00"
+  "last_updated": "2026-05-31T08:32:57.171703+00:00"
 }
