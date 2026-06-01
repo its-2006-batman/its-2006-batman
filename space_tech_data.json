@@ -7,52 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "Saturn at Night",
-    "date": "2026-06-01",
-    "explanation": "Telescopic views of Saturn and its beautiful rings often make it the star of star parties. But this stunning view of the outer gas gaint planet's rings and night side just isn't possible from telescopes in the vicinity of planet Earth. Peering out from the inner Solar System they can only bring Satu...",
-    "url": "https://apod.nasa.gov/apod/image/2605/LastRingPortrait_Cassini_1080.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "48.61\u00b0N",
-    "longitude": "25.08\u00b0E",
-    "timestamp": "2026-06-01T11:07:13+00:00",
+    "latitude": "42.47\u00b0N",
+    "longitude": "85.97\u00b0W",
+    "timestamp": "2026-06-01T17:15:11+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "A 10 year old Xeon is all you need",
-      "score": 163,
-      "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-      "time": "2026-06-01T06:38:42"
+      "title": "The newest Instagram \"exploit\" is the goofiest I've seen",
+      "score": 158,
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "time": "2026-06-01T16:31:42"
     },
     {
-      "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
-      "score": 32,
-      "url": "https://blainsmith.com/articles/httptrace-with-go/",
-      "time": "2026-05-28T16:46:10"
+      "title": "Lifelike biochemistry continued to unfold in sterilized soil",
+      "score": 79,
+      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+      "time": "2026-06-01T15:11:35"
     },
     {
-      "title": "Chuwi Minibook X",
-      "score": 296,
-      "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-      "time": "2026-05-31T22:59:50"
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "score": 26,
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "time": "2026-06-01T16:41:49"
     },
     {
-      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "score": 687,
-      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "time": "2026-05-31T14:13:20"
+      "title": "CS336: Language Modeling from Scratch",
+      "score": 143,
+      "url": "https://cs336.stanford.edu/",
+      "time": "2026-06-01T14:10:32"
     },
     {
-      "title": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
-      "score": 12,
-      "url": "https://surrealdb.com/blog/surrealdb-3-x-by-the-numbers",
-      "time": "2026-05-29T14:53:27"
+      "title": "Malicious npm packages detected across Red Hat Cloud Services",
+      "score": 613,
+      "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+      "time": "2026-06-01T13:30:21"
     }
   ],
-  "github_trending": [],
-  "last_updated": "2026-06-01T11:07:11.176126+00:00"
+  "github_trending": [
+    {
+      "name": "facebook/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 245357,
+      "language": "JavaScript",
+      "url": "https://github.com/facebook/react"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 201851,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196023,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 156031,
+      "language": "JavaScript",
+      "url": "https://github.com/Snailclimb/JavaGuide"
+    },
+    {
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148107,
+      "language": "JavaScript",
+      "url": "https://github.com/airbnb/javascript"
+    }
+  ],
+  "last_updated": "2026-06-01T17:14:59.893643+00:00"
 }
