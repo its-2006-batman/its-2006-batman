@@ -7,72 +7,78 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "Eagle Nebula Pillars in Infrared from Hubble",
+    "date": "2026-05-31",
+    "explanation": "Newborn stars are forming in the Eagle Nebula.  They are gravitationally contracting in pillars of dense gas and dust.  The intense radiation of these newly-formed bright stars is causing surrounding material to boil away. This image, taken with the Hubble Space Telescope in near infrared light, all...",
+    "url": "https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "47.67\u00b0S",
-    "longitude": "146.06\u00b0E",
-    "timestamp": "2026-05-31T19:01:24+00:00",
+    "latitude": "49.15\u00b0S",
+    "longitude": "22.88\u00b0W",
+    "timestamp": "2026-06-01T02:36:48+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
-      "score": 233,
-      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-      "time": "2026-05-31T16:19:34"
-    },
-    {
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "score": 279,
+      "score": 530,
       "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
       "time": "2026-05-31T14:13:20"
     },
     {
+      "title": "Shift from a Leader-Follower to a Leader-Leader Approach",
+      "score": 7,
+      "url": "https://www.practicalengineering.management/p/shift-from-a-leader-follower-to-a",
+      "time": "2026-06-01T02:03:03"
+    },
+    {
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "score": 137,
+      "score": 297,
       "url": "https://prismml.com/news/bonsai-image-4b",
       "time": "2026-05-31T15:04:52"
     },
     {
-      "title": "Dav2d",
-      "score": 325,
-      "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "time": "2026-05-31T11:44:45"
+      "title": "New Beam Spring Keyboards",
+      "score": 65,
+      "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
+      "time": "2026-05-29T13:39:41"
     },
     {
-      "title": "The Speed of Prototyping in the Age of AI",
-      "score": 37,
-      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-      "time": "2026-05-31T16:37:34"
+      "title": "Chuwi Minibook X: the netbook we deserve",
+      "score": 100,
+      "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+      "time": "2026-05-31T22:59:50"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245353,
+      "stars": 245362,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 200206,
+      "stars": 200729,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196013,
+      "stars": 196022,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156000,
+      "stars": 156003,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -84,5 +90,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-05-31T19:01:09.175879+00:00"
+  "last_updated": "2026-06-01T02:36:36.391740+00:00"
 }
