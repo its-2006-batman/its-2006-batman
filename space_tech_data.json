@@ -7,72 +7,78 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "Saturn at Night",
+    "date": "2026-06-01",
+    "explanation": "Telescopic views of Saturn and its beautiful rings often make it the star of star parties. But this stunning view of the outer gas gaint planet's rings and night side just isn't possible from telescopes in the vicinity of planet Earth. Peering out from the inner Solar System they can only bring Satu...",
+    "url": "https://apod.nasa.gov/apod/image/2605/LastRingPortrait_Cassini_1080.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "47.63\u00b0S",
-    "longitude": "104.98\u00b0E",
-    "timestamp": "2026-06-01T21:20:15+00:00",
+    "latitude": "47.13\u00b0N",
+    "longitude": "143.88\u00b0E",
+    "timestamp": "2026-06-02T02:34:55+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
-      "score": 931,
+      "score": 1378,
       "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
       "time": "2026-06-01T16:31:42"
     },
     {
-      "title": "Florida sues OpenAI and Sam Altman over AI risks",
-      "score": 112,
-      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-      "time": "2026-06-01T16:02:04"
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "score": 98,
+      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+      "time": "2026-06-01T23:45:46"
     },
     {
-      "title": "Alphabet Announces $80B Equity Capital Raise to Expand AI Infra and Compute",
-      "score": 29,
-      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
-      "time": "2026-06-01T20:55:15"
+      "title": "macOS needs its grid back",
+      "score": 37,
+      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+      "time": "2026-06-02T01:28:34"
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "score": 149,
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+      "time": "2026-06-01T21:50:02"
     },
     {
       "title": "Debug Project",
-      "score": 21,
+      "score": 156,
       "url": "https://debug.com/",
       "time": "2026-06-01T20:40:13"
-    },
-    {
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "score": 219,
-      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-      "time": "2026-06-01T16:41:49"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245367,
+      "stars": 245371,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 202070,
+      "stars": 202313,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196027,
+      "stars": 196030,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156032,
+      "stars": 156035,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -84,5 +90,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-01T21:20:00.910867+00:00"
+  "last_updated": "2026-06-02T02:34:53.024722+00:00"
 }
