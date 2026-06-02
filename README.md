@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  47.13°N                                       ║
-║  📍 LONGITUDE: 143.88°E                                      ║
+║  📍 LATITUDE:  0.37°N                                        ║
+║  📍 LONGITUDE: 27.91°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-02 02:34 UTC                   ║
+║  ⏰ UPDATE: 2026-06-02 10:01 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Saturn at Night                                          ║
-║  DATE:  2026-06-01                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **The newest Instagram “exploit” is the goofiest I've seen** (1378 ⭐)
-2. **Can the stockmarket swallow Anthropic, SpaceX and OpenAI?** (98 ⭐)
-3. **macOS needs its grid back** (37 ⭐)
+1. **Why Janet?** (36 ⭐)
+2. **The newest Instagram “exploit” is the goofiest I've seen** (1810 ⭐)
+3. **Can the stockmarket swallow Anthropic, SpaceX and OpenAI?** (369 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (245371★)
-2. **affaan-m/ECC** (202313★)
-3. **trekhleb/javascript-algorithms** (196030★)
+1. **facebook/react** (245378★)
+2. **affaan-m/ECC** (202747★)
+3. **trekhleb/javascript-algorithms** (196031★)
 <!-- LIVE_DATA_END -->
