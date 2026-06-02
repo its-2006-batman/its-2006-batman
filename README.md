@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  0.37°N                                        ║
-║  📍 LONGITUDE: 27.91°W                                       ║
+║  📍 LATITUDE:  43.51°S                                       ║
+║  📍 LONGITUDE: 167.31°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-02 10:01 UTC                   ║
+║  ⏰ UPDATE: 2026-06-02 15:57 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: The Vela Supernova Remnant                               ║
+║  DATE:  2026-06-02                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Why Janet?** (36 ⭐)
-2. **The newest Instagram “exploit” is the goofiest I've seen** (1810 ⭐)
-3. **Can the stockmarket swallow Anthropic, SpaceX and OpenAI?** (369 ⭐)
+1. **Meta repeatedly snubs EU body over Facebook and Instagram us...** (45 ⭐)
+2. **A walking tour of surveillance infrastructure in Seattle** (83 ⭐)
+3. **Fidonet: Technology, Use, Tools, and History (1993)** (59 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (245378★)
-2. **affaan-m/ECC** (202747★)
-3. **trekhleb/javascript-algorithms** (196031★)
+1. **facebook/react** (245386★)
+2. **affaan-m/ECC** (203236★)
+3. **trekhleb/javascript-algorithms** (196029★)
 <!-- LIVE_DATA_END -->

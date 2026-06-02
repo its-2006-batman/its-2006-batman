@@ -7,82 +7,88 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "The Vela Supernova Remnant",
+    "date": "2026-06-02",
+    "explanation": "The explosion is over, but the consequences continue.  About twelve thousand years ago, a relatively normal star in the constellation Vela suddenly exploded, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crash...",
+    "url": "https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_960.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "0.37\u00b0N",
-    "longitude": "27.91\u00b0W",
-    "timestamp": "2026-06-02T10:01:33+00:00",
+    "latitude": "43.51\u00b0S",
+    "longitude": "167.31\u00b0W",
+    "timestamp": "2026-06-02T15:57:02+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Why Janet?",
-      "score": 36,
+      "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
+      "score": 45,
+      "url": "https://www.bbc.com/news/articles/c152yvwjwkko",
+      "time": "2026-06-02T15:03:43"
+    },
+    {
+      "title": "A walking tour of surveillance infrastructure in Seattle",
+      "score": 83,
+      "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+      "time": "2026-06-02T13:24:32"
+    },
+    {
+      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
+      "score": 59,
+      "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+      "time": "2026-06-02T13:53:52"
+    },
+    {
+      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "score": 383,
+      "url": "https://blog.adafruit.com/",
+      "time": "2026-06-02T10:00:56"
+    },
+    {
+      "title": "Why Janet? (2023)",
+      "score": 315,
       "url": "https://ianthehenry.com/posts/why-janet/",
       "time": "2026-06-02T09:34:31"
-    },
-    {
-      "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
-      "score": 1810,
-      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-      "time": "2026-06-01T16:31:42"
-    },
-    {
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "score": 369,
-      "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-      "time": "2026-06-01T23:45:46"
-    },
-    {
-      "title": "macOS needs its grid back",
-      "score": 258,
-      "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-      "time": "2026-06-02T01:28:34"
-    },
-    {
-      "title": "Muxcard, a dyi credit card size computer",
-      "score": 37,
-      "url": "https://github.com/krauseler/muxcard",
-      "time": "2026-05-31T01:59:06"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245378,
+      "stars": 245386,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 202747,
+      "stars": 203236,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196031,
+      "stars": 196029,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156048,
+      "stars": 156061,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148108,
+      "stars": 148105,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-02T10:01:23.730386+00:00"
+  "last_updated": "2026-06-02T15:57:00.013549+00:00"
 }
