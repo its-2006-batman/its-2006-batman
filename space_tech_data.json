@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "47.28\u00b0S",
-    "longitude": "112.11\u00b0E",
-    "timestamp": "2026-06-02T20:33:32+00:00",
+    "latitude": "50.46\u00b0S",
+    "longitude": "3.76\u00b0E",
+    "timestamp": "2026-06-03T02:42:24+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
+      "score": 144,
+      "url": "https://github.com/c0dejedi/nbd-vram",
+      "time": "2026-06-02T22:55:33"
+    },
+    {
       "title": "MAI-Code-1-Flash",
-      "score": 193,
+      "score": 396,
       "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
       "time": "2026-06-02T18:47:07"
     },
     {
-      "title": "Gmail thinks I'm stupid, so I left",
-      "score": 200,
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "time": "2026-06-02T19:27:40"
+      "title": "CT scans of BYD car parts",
+      "score": 244,
+      "url": "https://www.lumafield.com/scan-of-the-month/byd",
+      "time": "2026-06-02T20:30:08"
     },
     {
-      "title": "Microsoft announces Scout, an autonomous AI agent built on OpenClaw",
-      "score": 36,
-      "url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html",
-      "time": "2026-06-02T18:19:27"
+      "title": "Are blue zones real? Answering that question is harder then ever",
+      "score": 28,
+      "url": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/",
+      "time": "2026-06-01T13:40:35"
     },
     {
-      "title": "MAI-Thinking-1",
-      "score": 62,
-      "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
-      "time": "2026-06-02T18:39:34"
-    },
-    {
-      "title": "Open Repair Data Standard \u2013 Open Repair Alliance",
-      "score": 20,
-      "url": "https://openrepair.org/open-data/open-standard/",
-      "time": "2026-06-02T19:37:10"
+      "title": "My thoughts after using Clojure for about a month",
+      "score": 116,
+      "url": "https://www.acdw.net/clojure/",
+      "time": "2026-06-02T19:56:46"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245394,
+      "stars": 245423,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 203642,
+      "stars": 204125,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196030,
+      "stars": 196031,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156061,
+      "stars": 156069,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148102,
+      "stars": 148105,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-02T20:33:30.353158+00:00"
+  "last_updated": "2026-06-03T02:42:23.574232+00:00"
 }
