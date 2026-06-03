@@ -7,64 +7,58 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "Andromeda Through Gas and Dust",
-    "date": "2026-06-03",
-    "explanation": "Over 1000 years ago, Persian astronomer Abd al-Rahman al-Sufi published humanity\u2019s oldest known record of the Andromeda Galaxy in \"The Book of Fixed Stars\" (Bodleian Library MS. Marsh 144 p. 167). 800 years later, Andromeda became the 31st entry in Charles Messier\u2019s \"Catalogue of Nebulae and Star Cl...",
-    "url": "https://apod.nasa.gov/apod/image/2606/andromeda_1024.png",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "18.39\u00b0S",
-    "longitude": "59.49\u00b0W",
-    "timestamp": "2026-06-03T10:41:14+00:00",
+    "latitude": "8.45\u00b0S",
+    "longitude": "57.69\u00b0E",
+    "timestamp": "2026-06-03T16:15:07+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Show HN: Edsger \u2013 A handwritten Clojure REPL for the reMarkable 2",
-      "score": 50,
-      "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
-      "time": "2026-06-02T18:52:52"
+      "title": "DaVinci Resolve 21",
+      "score": 123,
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+      "time": "2026-06-03T14:18:39"
     },
     {
-      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "score": 428,
-      "url": "https://blog.ammaraskar.com/github-token-stealing/",
-      "time": "2026-06-02T15:29:05"
+      "title": "Hacking your PC using your speaker without ever touching it",
+      "score": 431,
+      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+      "time": "2026-06-03T10:53:00"
     },
     {
-      "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
-      "score": 107,
-      "url": "https://github.com/s-macke/Test-Drive-3-Maps",
-      "time": "2026-05-31T09:45:45"
+      "title": "A Post-Quantum Future for Let's Encrypt",
+      "score": 43,
+      "url": "https://letsencrypt.org/2026/06/03/pq-certs",
+      "time": "2026-06-03T15:06:09"
     },
     {
-      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "score": 323,
-      "url": "https://github.com/c0dejedi/nbd-vram",
-      "time": "2026-06-02T22:55:33"
+      "title": "Meta workers can opt out of being tracked at work up to 30 min",
+      "score": 364,
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno",
+      "time": "2026-06-03T12:42:07"
     },
     {
-      "title": "AI outperforms law professors in Stanford Law study",
-      "score": 261,
-      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "time": "2026-06-02T23:43:12"
+      "title": "Every Byte Matters",
+      "score": 165,
+      "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+      "time": "2026-06-03T11:04:04"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245464,
+      "stars": 245430,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 204816,
+      "stars": 205246,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -78,17 +72,17 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156083,
+      "stars": 156091,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148104,
+      "stars": 148105,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-03T10:41:12.605058+00:00"
+  "last_updated": "2026-06-03T16:14:57.212067+00:00"
 }

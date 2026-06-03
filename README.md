@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  18.39°S                                       ║
-║  📍 LONGITUDE: 59.49°W                                       ║
+║  📍 LATITUDE:  8.45°S                                        ║
+║  📍 LONGITUDE: 57.69°E                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-03 10:41 UTC                   ║
+║  ⏰ UPDATE: 2026-06-03 16:15 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Andromeda Through Gas and Dust                           ║
-║  DATE:  2026-06-03                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Show HN: Edsger – A handwritten Clojure REPL for the reMarka...** (50 ⭐)
-2. **1-Click GitHub Token Stealing via a VSCode Bug** (428 ⭐)
-3. **Show HN: I reverse-engineered the world maps of Test Drive I...** (107 ⭐)
+1. **DaVinci Resolve 21** (123 ⭐)
+2. **Hacking your PC using your speaker without ever touching it** (431 ⭐)
+3. **A Post-Quantum Future for Let's Encrypt** (43 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (245464★)
-2. **affaan-m/ECC** (204816★)
+1. **facebook/react** (245430★)
+2. **affaan-m/ECC** (205246★)
 3. **trekhleb/javascript-algorithms** (196032★)
 <!-- LIVE_DATA_END -->
