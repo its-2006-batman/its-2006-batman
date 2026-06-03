@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  50.46°S                                       ║
-║  📍 LONGITUDE: 3.76°E                                        ║
+║  📍 LATITUDE:  18.39°S                                       ║
+║  📍 LONGITUDE: 59.49°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-03 02:42 UTC                   ║
+║  ⏰ UPDATE: 2026-06-03 10:41 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: The Vela Supernova Remnant                               ║
-║  DATE:  2026-06-02                                                ║
+║  TITLE: Andromeda Through Gas and Dust                           ║
+║  DATE:  2026-06-03                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Use your Nvidia GPU's VRAM as swap space on Linux** (144 ⭐)
-2. **MAI-Code-1-Flash** (396 ⭐)
-3. **CT scans of BYD car parts** (244 ⭐)
+1. **Show HN: Edsger – A handwritten Clojure REPL for the reMarka...** (50 ⭐)
+2. **1-Click GitHub Token Stealing via a VSCode Bug** (428 ⭐)
+3. **Show HN: I reverse-engineered the world maps of Test Drive I...** (107 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (245423★)
-2. **affaan-m/ECC** (204125★)
-3. **trekhleb/javascript-algorithms** (196031★)
+1. **facebook/react** (245464★)
+2. **affaan-m/ECC** (204816★)
+3. **trekhleb/javascript-algorithms** (196032★)
 <!-- LIVE_DATA_END -->

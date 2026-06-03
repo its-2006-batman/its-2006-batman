@@ -8,87 +8,87 @@
     "flight_number": 187
   },
   "nasa_apod": {
-    "title": "The Vela Supernova Remnant",
-    "date": "2026-06-02",
-    "explanation": "The explosion is over, but the consequences continue.  About twelve thousand years ago, a relatively normal star in the constellation Vela suddenly exploded, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crash...",
-    "url": "https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_960.jpg",
+    "title": "Andromeda Through Gas and Dust",
+    "date": "2026-06-03",
+    "explanation": "Over 1000 years ago, Persian astronomer Abd al-Rahman al-Sufi published humanity\u2019s oldest known record of the Andromeda Galaxy in \"The Book of Fixed Stars\" (Bodleian Library MS. Marsh 144 p. 167). 800 years later, Andromeda became the 31st entry in Charles Messier\u2019s \"Catalogue of Nebulae and Star Cl...",
+    "url": "https://apod.nasa.gov/apod/image/2606/andromeda_1024.png",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "50.46\u00b0S",
-    "longitude": "3.76\u00b0E",
-    "timestamp": "2026-06-03T02:42:24+00:00",
+    "latitude": "18.39\u00b0S",
+    "longitude": "59.49\u00b0W",
+    "timestamp": "2026-06-03T10:41:14+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Show HN: Edsger \u2013 A handwritten Clojure REPL for the reMarkable 2",
+      "score": 50,
+      "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+      "time": "2026-06-02T18:52:52"
+    },
+    {
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "score": 428,
+      "url": "https://blog.ammaraskar.com/github-token-stealing/",
+      "time": "2026-06-02T15:29:05"
+    },
+    {
+      "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
+      "score": 107,
+      "url": "https://github.com/s-macke/Test-Drive-3-Maps",
+      "time": "2026-05-31T09:45:45"
+    },
+    {
       "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "score": 144,
+      "score": 323,
       "url": "https://github.com/c0dejedi/nbd-vram",
       "time": "2026-06-02T22:55:33"
     },
     {
-      "title": "MAI-Code-1-Flash",
-      "score": 396,
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "time": "2026-06-02T18:47:07"
-    },
-    {
-      "title": "CT scans of BYD car parts",
-      "score": 244,
-      "url": "https://www.lumafield.com/scan-of-the-month/byd",
-      "time": "2026-06-02T20:30:08"
-    },
-    {
-      "title": "Are blue zones real? Answering that question is harder then ever",
-      "score": 28,
-      "url": "https://www.statnews.com/2026/05/04/are-blue-zones-real-new-scrutiny-longevity-hot-spots/",
-      "time": "2026-06-01T13:40:35"
-    },
-    {
-      "title": "My thoughts after using Clojure for about a month",
-      "score": 116,
-      "url": "https://www.acdw.net/clojure/",
-      "time": "2026-06-02T19:56:46"
+      "title": "AI outperforms law professors in Stanford Law study",
+      "score": 261,
+      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+      "time": "2026-06-02T23:43:12"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245423,
+      "stars": 245464,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 204125,
+      "stars": 204816,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196031,
+      "stars": 196032,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156069,
+      "stars": 156083,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148105,
+      "stars": 148104,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-03T02:42:23.574232+00:00"
+  "last_updated": "2026-06-03T10:41:12.605058+00:00"
 }
