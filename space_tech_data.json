@@ -15,80 +15,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "21.32\u00b0S",
-    "longitude": "126.79\u00b0W",
-    "timestamp": "2026-06-04T14:31:53+00:00",
+    "latitude": "32.14\u00b0N",
+    "longitude": "40.22\u00b0W",
+    "timestamp": "2026-06-04T19:52:59+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "VoidZero Is Joining Cloudflare",
-      "score": 155,
+      "score": 463,
       "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
       "time": "2026-06-04T13:00:51"
     },
     {
-      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "score": 281,
-      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-      "time": "2026-06-04T08:45:36"
+      "title": "Retro-Tech Parenting",
+      "score": 145,
+      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+      "time": "2026-06-04T16:02:35"
     },
     {
       "title": "Ian's Secure Shoelace Knot",
-      "score": 84,
+      "score": 377,
       "url": "https://www.fieggen.com/shoelace/secureknot.htm",
       "time": "2026-06-04T11:17:34"
     },
     {
-      "title": "Gaussian Point Splatting",
-      "score": 100,
-      "url": "https://momentsingraphics.de/Siggraph2026.html",
-      "time": "2026-06-04T10:48:13"
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "score": 86,
+      "url": "https://github.com/huawei-csl/KVarN",
+      "time": "2026-06-04T15:18:00"
     },
     {
-      "title": "They\u2019re made out of weights",
-      "score": 996,
-      "url": "https://maxleiter.com/blog/weights",
-      "time": "2026-06-03T23:37:18"
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "score": 85,
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "time": "2026-06-04T16:20:17"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245447,
+      "stars": 245456,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 206724,
+      "stars": 207032,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196040,
+      "stars": 196044,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156123,
+      "stars": 156128,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148109,
+      "stars": 148108,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-04T14:31:49.719462+00:00"
+  "last_updated": "2026-06-04T19:52:55.813211+00:00"
 }
