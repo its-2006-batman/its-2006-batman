@@ -7,72 +7,72 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "Andromeda Through Gas and Dust",
-    "date": "2026-06-03",
-    "explanation": "Over 1000 years ago, Persian astronomer Abd al-Rahman al-Sufi published humanity\u2019s oldest known record of the Andromeda Galaxy in \"The Book of Fixed Stars\" (Bodleian Library MS. Marsh 144 p. 167). 800 years later, Andromeda became the 31st entry in Charles Messier\u2019s \"Catalogue of Nebulae and Star Cl...",
-    "url": "https://apod.nasa.gov/apod/image/2606/andromeda_1024.png",
-    "media_type": "image"
+  "nasa_apod": null,
+  "iss_position": {
+    "latitude": "48.26\u00b0S",
+    "longitude": "97.65\u00b0W",
+    "timestamp": "2026-06-04T09:41:46+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
   },
-  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+      "score": 44,
+      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+      "time": "2026-06-04T08:45:36"
+    },
+    {
+      "title": "They\u2019re made out of weights",
+      "score": 676,
+      "url": "https://maxleiter.com/blog/weights",
+      "time": "2026-06-03T23:37:18"
+    },
+    {
       "title": "Elixir v1.20: Now a gradually typed language",
-      "score": 571,
+      "score": 765,
       "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
       "time": "2026-06-03T19:02:26"
     },
     {
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "score": 56,
-      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
-      "time": "2026-06-04T00:56:32"
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "score": 285,
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "time": "2026-06-04T00:18:02"
     },
     {
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "score": 708,
+      "score": 832,
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
       "time": "2026-06-03T16:04:42"
-    },
-    {
-      "title": "The ways we contain Claude across products",
-      "score": 47,
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "time": "2026-06-04T00:27:52"
-    },
-    {
-      "title": "U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse",
-      "score": 37,
-      "url": "https://e360.yale.edu/digest/trump-ooi-amoc",
-      "time": "2026-06-04T00:44:13"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245429,
+      "stars": 245448,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 205865,
+      "stars": 206397,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196030,
+      "stars": 196033,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156095,
+      "stars": 156114,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -84,5 +84,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-04T02:36:56.544716+00:00"
+  "last_updated": "2026-06-04T09:41:34.659970+00:00"
 }

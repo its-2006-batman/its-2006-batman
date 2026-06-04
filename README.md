@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  N/A                                           ║
-║  📍 LONGITUDE: N/A                                           ║
-║  ⚡ VELOCITY:  N/A                                           ║
-║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-06-04 02:37 UTC                   ║
+║  📍 LATITUDE:  48.26°S                                       ║
+║  📍 LONGITUDE: 97.65°W                                       ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ UPDATE: 2026-06-04 09:41 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Andromeda Through Gas and Dust                           ║
-║  DATE:  2026-06-03                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Elixir v1.20: Now a gradually typed language** (571 ⭐)
-2. **I built a vulnerable app and spent $1,500 seeing if LLMs cou...** (56 ⭐)
-3. **Gemma 4 12B: A unified, encoder-free multimodal model** (708 ⭐)
+1. **UK media fails to disclose defence sector links in nearly 60...** (44 ⭐)
+2. **They’re made out of weights** (676 ⭐)
+3. **Elixir v1.20: Now a gradually typed language** (765 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (245429★)
-2. **affaan-m/ECC** (205865★)
-3. **trekhleb/javascript-algorithms** (196030★)
+1. **facebook/react** (245448★)
+2. **affaan-m/ECC** (206397★)
+3. **trekhleb/javascript-algorithms** (196033★)
 <!-- LIVE_DATA_END -->
