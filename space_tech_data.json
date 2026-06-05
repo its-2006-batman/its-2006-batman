@@ -9,80 +9,80 @@
   },
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "42.35\u00b0N",
-    "longitude": "21.27\u00b0E",
-    "timestamp": "2026-06-05T14:23:10+00:00",
+    "latitude": "36.99\u00b0S",
+    "longitude": "26.18\u00b0E",
+    "timestamp": "2026-06-05T19:29:58+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
-      "score": 102,
-      "url": "https://mouseless.click",
-      "time": "2026-06-03T13:22:06"
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "score": 273,
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "time": "2026-06-05T15:00:31"
     },
     {
-      "title": "Tracing a powerful GNSS interference source over Europe",
-      "score": 217,
-      "url": "https://arxiv.org/abs/2606.03673",
-      "time": "2026-06-05T08:32:16"
+      "title": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump",
+      "score": 108,
+      "url": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
+      "time": "2026-06-05T17:56:19"
     },
     {
-      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-      "score": 92,
-      "url": "https://redis.io/blog/announcing-redis-8-8/",
-      "time": "2026-06-03T10:05:11"
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "score": 182,
+      "url": "https://github.com/microsoft/pg_durable",
+      "time": "2026-06-05T15:59:57"
     },
     {
-      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-      "score": 89,
-      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-      "time": "2026-06-05T08:33:37"
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "score": 135,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "time": "2026-06-05T16:18:48"
     },
     {
-      "title": "Changing how we develop Ladybird",
-      "score": 548,
-      "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-      "time": "2026-06-05T07:26:33"
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "score": 178,
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+      "time": "2026-06-05T15:39:38"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245607,
+      "stars": 245621,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 207990,
+      "stars": 208205,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196049,
+      "stars": 196053,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156158,
+      "stars": 156164,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148108,
+      "stars": 148107,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-05T14:22:58.750638+00:00"
+  "last_updated": "2026-06-05T19:29:50.416521+00:00"
 }
