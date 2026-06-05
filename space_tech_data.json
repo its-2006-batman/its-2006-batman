@@ -7,88 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "The Hydra Cluster of Galaxies",
-    "date": "2026-06-05",
-    "explanation": "Within our own Milky Way galaxy, two bright, spiky stars stand like sentinels in the foreground of this cosmic snapshot. Far beyond them are the galaxies of the Hydra Cluster. In fact, while the spiky foreground stars are hundreds of light-years distant, the Hydra Cluster galaxies are well over 100 ...",
-    "url": "https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio1024.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "41.18\u00b0N",
-    "longitude": "6.33\u00b0E",
-    "timestamp": "2026-06-05T09:28:11+00:00",
+    "latitude": "42.35\u00b0N",
+    "longitude": "21.27\u00b0E",
+    "timestamp": "2026-06-05T14:23:10+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Changing How We Develop Ladybird",
-      "score": 140,
+      "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
+      "score": 102,
+      "url": "https://mouseless.click",
+      "time": "2026-06-03T13:22:06"
+    },
+    {
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "score": 217,
+      "url": "https://arxiv.org/abs/2606.03673",
+      "time": "2026-06-05T08:32:16"
+    },
+    {
+      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+      "score": 92,
+      "url": "https://redis.io/blog/announcing-redis-8-8/",
+      "time": "2026-06-03T10:05:11"
+    },
+    {
+      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+      "score": 89,
+      "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+      "time": "2026-06-05T08:33:37"
+    },
+    {
+      "title": "Changing how we develop Ladybird",
+      "score": 548,
       "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
       "time": "2026-06-05T07:26:33"
-    },
-    {
-      "title": "C++: The Documentary",
-      "score": 142,
-      "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-      "time": "2026-06-05T04:37:01"
-    },
-    {
-      "title": "Meta enables ADB on deprecated Portal devices [video]",
-      "score": 221,
-      "url": "https://fb.watch/HxPu0fSyeH/",
-      "time": "2026-06-05T00:44:38"
-    },
-    {
-      "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "score": 55,
-      "url": "https://passo.uno/fine-tuning-docs-llm/",
-      "time": "2026-06-05T05:46:06"
-    },
-    {
-      "title": "Leap in DNA synthesis slashes time to build new genetic sequences",
-      "score": 24,
-      "url": "https://spectrum.ieee.org/faster-dna-synthesis-sidewinder",
-      "time": "2026-06-04T17:51:10"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245597,
+      "stars": 245607,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 207746,
+      "stars": 207990,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196047,
+      "stars": 196049,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156151,
+      "stars": 156158,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148109,
+      "stars": 148108,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-05T09:28:01.666109+00:00"
+  "last_updated": "2026-06-05T14:22:58.750638+00:00"
 }
