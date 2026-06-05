@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  N/A                                           ║
-║  📍 LONGITUDE: N/A                                           ║
-║  ⚡ VELOCITY:  N/A                                           ║
-║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-06-05 02:12 UTC                   ║
+║  📍 LATITUDE:  41.18°N                                       ║
+║  📍 LONGITUDE: 6.33°E                                        ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ UPDATE: 2026-06-05 09:28 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: A Planetary Nebula with Cosmic Buckyballs                ║
-║  DATE:  2026-06-04                                                ║
+║  TITLE: The Hydra Cluster of Galaxies                            ║
+║  DATE:  2026-06-05                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Meta enables adb on deprecated Portal devices** (57 ⭐)
-2. **Do transformers need three projections? Systematic study of ...** (97 ⭐)
-3. **Anthropic's open-source framework for AI-powered vulnerabili...** (273 ⭐)
+1. **Changing How We Develop Ladybird** (140 ⭐)
+2. **C++: The Documentary** (142 ⭐)
+3. **Meta enables ADB on deprecated Portal devices [video]** (221 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (245467★)
-2. **affaan-m/ECC** (207315★)
-3. **trekhleb/javascript-algorithms** (196046★)
+1. **facebook/react** (245597★)
+2. **affaan-m/ECC** (207746★)
+3. **trekhleb/javascript-algorithms** (196047★)
 <!-- LIVE_DATA_END -->
