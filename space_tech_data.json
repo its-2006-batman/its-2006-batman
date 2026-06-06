@@ -8,57 +8,51 @@
     "flight_number": 187
   },
   "nasa_apod": null,
-  "iss_position": {
-    "latitude": "3.23\u00b0N",
-    "longitude": "96.31\u00b0W",
-    "timestamp": "2026-06-06T13:06:09+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "How LLMs work",
-      "score": 460,
-      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
-      "time": "2026-06-03T20:15:13"
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "score": 84,
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "time": "2026-06-06T14:59:43"
     },
     {
-      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "score": 703,
-      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-      "time": "2026-06-06T04:38:36"
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "score": 121,
+      "url": "https://twitter.com/lemire/status/2062880075117113739",
+      "time": "2026-06-06T12:52:18"
     },
     {
-      "title": "The intracies of modern camera lens repair (2024)",
-      "score": 192,
-      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "time": "2026-06-06T00:33:26"
+      "title": "Benchmarks in Leipzig",
+      "score": 89,
+      "url": "https://arxiv.org/abs/2606.05818",
+      "time": "2026-06-06T14:00:52"
     },
     {
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "score": 69,
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "time": "2026-06-06T11:46:15"
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "score": 48,
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "time": "2026-06-06T18:21:06"
     },
     {
-      "title": "The new bibliomaniacs",
-      "score": 3,
-      "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
-      "time": "2026-06-06T12:03:21"
+      "title": "You Can Run",
+      "score": 30,
+      "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+      "time": "2026-06-06T15:55:46"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245638,
+      "stars": 245646,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 208771,
+      "stars": 209016,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -72,17 +66,17 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156173,
+      "stars": 156178,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148104,
+      "stars": 148101,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-06T13:06:02.884298+00:00"
+  "last_updated": "2026-06-06T19:03:23.311124+00:00"
 }
