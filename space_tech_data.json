@@ -7,88 +7,82 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": {
-    "title": "Charon: Moon of Pluto",
-    "date": "2026-06-06",
-    "explanation": "A darkened and mysterious north polar region known to some as Mordor Macula caps this premier view of Charon, Pluto's largest moon. The high-resolution image was captured by the interplanetary space probe New Horizons near its closest approach to distant Pluto on July 14, 2015. The combined blue, re...",
-    "url": "https://apod.nasa.gov/apod/image/2606/charon_then_now_1024.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "11.72\u00b0S",
-    "longitude": "36.27\u00b0W",
-    "timestamp": "2026-06-06T08:22:36+00:00",
+    "latitude": "3.23\u00b0N",
+    "longitude": "96.31\u00b0W",
+    "timestamp": "2026-06-06T13:06:09+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "How LLMs work",
-      "score": 265,
+      "score": 460,
       "url": "https://www.0xkato.xyz/how-llms-actually-work/",
       "time": "2026-06-03T20:15:13"
     },
     {
-      "title": "The intracies of modern camera lens repair (2024)",
-      "score": 155,
-      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-      "time": "2026-06-06T00:33:26"
-    },
-    {
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "score": 320,
+      "score": 703,
       "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
       "time": "2026-06-06T04:38:36"
     },
     {
-      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
-      "score": 59,
-      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
-      "time": "2026-06-06T03:41:32"
+      "title": "The intracies of modern camera lens repair (2024)",
+      "score": 192,
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "time": "2026-06-06T00:33:26"
     },
     {
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "score": 387,
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-      "time": "2026-06-05T15:00:31"
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "score": 69,
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "time": "2026-06-06T11:46:15"
+    },
+    {
+      "title": "The new bibliomaniacs",
+      "score": 3,
+      "url": "https://engelsbergideas.com/notebook/the-new-bibliomaniacs/",
+      "time": "2026-06-06T12:03:21"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245634,
+      "stars": 245638,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 208623,
+      "stars": 208771,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196060,
+      "stars": 196062,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156170,
+      "stars": 156173,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148105,
+      "stars": 148104,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-06T08:22:26.106444+00:00"
+  "last_updated": "2026-06-06T13:06:02.884298+00:00"
 }
