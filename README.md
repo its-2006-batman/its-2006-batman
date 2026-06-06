@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  33.18°S                                       ║
-║  📍 LONGITUDE: 38.31°E                                       ║
+║  📍 LATITUDE:  11.72°S                                       ║
+║  📍 LONGITUDE: 36.27°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-06 02:03 UTC                   ║
+║  ⏰ UPDATE: 2026-06-06 08:22 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: The Hydra Cluster of Galaxies                            ║
-║  DATE:  2026-06-05                                                ║
+║  TITLE: Charon: Moon of Pluto                                    ║
+║  DATE:  2026-06-06                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **The intracies of modern camera lens repair (2024)** (42 ⭐)
-2. **Astronauts told to return to ISS after sheltering over air l...** (360 ⭐)
-3. **pg_durable: Microsoft open sources in-database durable execu...** (328 ⭐)
+1. **How LLMs work** (265 ⭐)
+2. **The intracies of modern camera lens repair (2024)** (155 ⭐)
+3. **S&P 500 rejects SpaceX, also blocking entry for OpenAI and A...** (320 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (245625★)
-2. **affaan-m/ECC** (208388★)
-3. **trekhleb/javascript-algorithms** (196055★)
+1. **facebook/react** (245634★)
+2. **affaan-m/ECC** (208623★)
+3. **trekhleb/javascript-algorithms** (196060★)
 <!-- LIVE_DATA_END -->
