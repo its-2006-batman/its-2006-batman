@@ -7,65 +7,71 @@
     "details": "No details available",
     "flight_number": 187
   },
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "The Hydra Cluster of Galaxies",
+    "date": "2026-06-05",
+    "explanation": "Within our own Milky Way galaxy, two bright, spiky stars stand like sentinels in the foreground of this cosmic snapshot. Far beyond them are the galaxies of the Hydra Cluster. In fact, while the spiky foreground stars are hundreds of light-years distant, the Hydra Cluster galaxies are well over 100 ...",
+    "url": "https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio1024.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "36.99\u00b0S",
-    "longitude": "26.18\u00b0E",
-    "timestamp": "2026-06-05T19:29:58+00:00",
+    "latitude": "33.18\u00b0S",
+    "longitude": "38.31\u00b0E",
+    "timestamp": "2026-06-06T02:03:34+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "The intracies of modern camera lens repair (2024)",
+      "score": 42,
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "time": "2026-06-06T00:33:26"
+    },
+    {
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "score": 273,
+      "score": 360,
       "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
       "time": "2026-06-05T15:00:31"
     },
     {
-      "title": "Cloudflare CEO Is Lying to You About the Bot Traffic Jump",
-      "score": 108,
-      "url": "https://www.flyingpenguin.com/cloudflare-ceo-is-lying-to-you-about-the-bot-traffic-jump/",
-      "time": "2026-06-05T17:56:19"
-    },
-    {
       "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "score": 182,
+      "score": 328,
       "url": "https://github.com/microsoft/pg_durable",
       "time": "2026-06-05T15:59:57"
     },
     {
       "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "score": 135,
+      "score": 271,
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
       "time": "2026-06-05T16:18:48"
     },
     {
-      "title": "Conventional Commits encourages focus on the wrong things",
-      "score": 178,
-      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-      "time": "2026-06-05T15:39:38"
+      "title": "New method turns ocean water into drinking water, without waste",
+      "score": 257,
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "time": "2026-06-05T15:04:03"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245621,
+      "stars": 245625,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 208205,
+      "stars": 208388,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196053,
+      "stars": 196055,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
@@ -79,10 +85,10 @@
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148107,
+      "stars": 148106,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-05T19:29:50.416521+00:00"
+  "last_updated": "2026-06-06T02:03:28.508028+00:00"
 }
