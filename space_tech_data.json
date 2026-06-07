@@ -10,62 +10,62 @@
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "score": 85,
-      "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-      "time": "2026-06-07T12:49:29"
+      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
+      "score": 34,
+      "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
+      "time": "2026-06-07T17:18:12"
     },
     {
-      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "score": 244,
-      "url": "https://www.ioccc.org/2025/",
-      "time": "2026-06-07T05:47:54"
+      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+      "score": 10,
+      "url": "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics",
+      "time": "2026-06-07T18:36:36"
     },
     {
-      "title": "Win16 Memory Management",
-      "score": 67,
-      "url": "http://www.os2museum.com/wp/win16-memory-management/",
-      "time": "2026-06-05T11:16:47"
+      "title": "Cloning a Sennheiser BA2015 battery pack",
+      "score": 66,
+      "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
+      "time": "2026-06-06T18:16:40"
     },
     {
-      "title": "Yon \u2013 a topos-oriented language with a content-addressed lattice heap",
-      "score": 11,
-      "url": "https://yon-lang.org/",
-      "time": "2026-06-05T00:28:17"
+      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
+      "score": 16,
+      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
+      "time": "2026-06-07T17:22:28"
     },
     {
-      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4\u00d7",
-      "score": 81,
-      "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
-      "time": "2026-06-04T15:29:53"
+      "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
+      "score": 32,
+      "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
+      "time": "2026-06-05T08:08:33"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245664,
+      "stars": 245671,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 209525,
+      "stars": 209709,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196070,
+      "stars": 196066,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156188,
+      "stars": 156189,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-07T13:18:33.193422+00:00"
+  "last_updated": "2026-06-07T19:04:39.931382+00:00"
 }
