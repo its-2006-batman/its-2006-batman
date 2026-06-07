@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  46.84°S                                       ║
-║  📍 LONGITUDE: 160.43°W                                      ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-07 08:43 UTC                   ║
+║  📍 LATITUDE:  N/A                                           ║
+║  📍 LONGITUDE: N/A                                           ║
+║  ⚡ VELOCITY:  N/A                                           ║
+║  🌍 ALTITUDE:  N/A                                           ║
+║  ⏰ UPDATE: 2026-06-07 13:18 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: Jupiter and Venus from Earth                             ║
+║  DATE:  2026-06-07                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **The 29th International Obfuscated C Code Contest (IOCCC) 202...** (115 ⭐)
-2. **I design with Claude more than Figma now** (121 ⭐)
-3. **Valve P2P networking broken for more than 2 months** (139 ⭐)
+1. **LLMs are eroding my software engineering career and I don't ...** (85 ⭐)
+2. **The 29th International Obfuscated C Code Contest (IOCCC) 202...** (244 ⭐)
+3. **Win16 Memory Management** (67 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (245655★)
-2. **affaan-m/ECC** (209379★)
-3. **trekhleb/javascript-algorithms** (196067★)
+1. **facebook/react** (245664★)
+2. **affaan-m/ECC** (209525★)
+3. **trekhleb/javascript-algorithms** (196070★)
 <!-- LIVE_DATA_END -->
