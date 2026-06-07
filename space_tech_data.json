@@ -2,44 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "45.51\u00b0S",
-    "longitude": "69.72\u00b0W",
-    "timestamp": "2026-06-07T02:31:18+00:00",
+    "latitude": "46.84\u00b0S",
+    "longitude": "160.43\u00b0W",
+    "timestamp": "2026-06-07T08:43:33+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight \u2013 Radio World",
-      "score": 35,
-      "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
-      "time": "2026-06-07T01:24:15"
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "score": 115,
+      "url": "https://www.ioccc.org/2025/",
+      "time": "2026-06-07T05:47:54"
     },
     {
-      "title": "Ntsc-rs \u2013 open-source video emulation of analog TV and VHS artifacts",
-      "score": 279,
-      "url": "https://ntsc.rs/",
-      "time": "2026-06-06T19:17:46"
+      "title": "I design with Claude more than Figma now",
+      "score": 121,
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "time": "2026-06-07T05:04:24"
     },
     {
-      "title": "Harness engineering: Leveraging Codex in an agent-first world",
-      "score": 78,
-      "url": "https://openai.com/index/harness-engineering/",
-      "time": "2026-06-05T18:20:06"
+      "title": "Valve P2P networking broken for more than 2 months",
+      "score": 139,
+      "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+      "time": "2026-06-07T03:21:52"
     },
     {
-      "title": "Public Domain Image Archive",
-      "score": 26,
-      "url": "https://pdimagearchive.org/",
-      "time": "2026-06-07T00:22:51"
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "score": 75,
+      "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+      "time": "2026-06-07T02:46:37"
     },
     {
-      "title": "Introducing Boron Buckyballs: Theory that B80 cages can\u2019t be made is disproved",
-      "score": 38,
-      "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
-      "time": "2026-06-04T22:58:48"
+      "title": "My Software North Star",
+      "score": 51,
+      "url": "https://kristoff.it/blog/north-star/",
+      "time": "2026-06-03T20:16:07"
     }
   ],
-  "github_trending": [],
-  "last_updated": "2026-06-07T02:30:57.892566+00:00"
+  "github_trending": [
+    {
+      "name": "facebook/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 245655,
+      "language": "JavaScript",
+      "url": "https://github.com/facebook/react"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 209379,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196067,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 156186,
+      "language": "JavaScript",
+      "url": "https://github.com/Snailclimb/JavaGuide"
+    },
+    {
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148100,
+      "language": "JavaScript",
+      "url": "https://github.com/airbnb/javascript"
+    }
+  ],
+  "last_updated": "2026-06-07T08:43:12.923772+00:00"
 }
