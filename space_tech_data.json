@@ -7,75 +7,81 @@
     "url": "https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "51.20\u00b0N",
+    "longitude": "129.69\u00b0E",
+    "timestamp": "2026-06-08T02:35:31+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
-      "score": 34,
-      "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
-      "time": "2026-06-07T17:18:12"
+      "title": "Teenage Engineering: Introducing APC-2",
+      "score": 78,
+      "url": "https://teenage.engineering/products/apc-2",
+      "time": "2026-06-08T01:27:22"
     },
     {
-      "title": "Leiden Declaration on Artificial Intelligence and Mathematics",
+      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
+      "score": 43,
+      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
+      "time": "2026-06-08T01:39:30"
+    },
+    {
+      "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+      "score": 59,
+      "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+      "time": "2026-06-08T00:28:37"
+    },
+    {
+      "title": "Building from zero after addiction, prison, and a felony",
+      "score": 431,
+      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "time": "2026-06-07T18:33:07"
+    },
+    {
+      "title": "New drug 'functionally cures' many hepatitis B virus infections",
       "score": 10,
-      "url": "https://www.lms.ac.uk/news/leiden-declaration-on-ai-and-mathematics",
-      "time": "2026-06-07T18:36:36"
-    },
-    {
-      "title": "Cloning a Sennheiser BA2015 battery pack",
-      "score": 66,
-      "url": "https://blog.brixit.nl/cloning-a-sennheiser-ba2015-accu-pack/",
-      "time": "2026-06-06T18:16:40"
-    },
-    {
-      "title": "Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser",
-      "score": 16,
-      "url": "https://github.com/yukiyokotani/office-open-xml-viewer",
-      "time": "2026-06-07T17:22:28"
-    },
-    {
-      "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
-      "score": 32,
-      "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
-      "time": "2026-06-05T08:08:33"
+      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
+      "time": "2026-06-08T01:41:42"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245671,
+      "stars": 245672,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 209709,
+      "stars": 209910,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196066,
+      "stars": 196069,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156189,
+      "stars": 156194,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148100,
+      "stars": 148101,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-07T19:04:39.931382+00:00"
+  "last_updated": "2026-06-08T02:35:18.203410+00:00"
 }
