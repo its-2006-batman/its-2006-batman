@@ -1,87 +1,75 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Comet R3 PanSTARRS Through Time",
-    "date": "2026-06-08",
-    "explanation": "What happens to a comet as it leaves our inner Solar System?  Now, the arrival of a comet into the inner Solar System is typically heralded with great fanfare and high hopes that the comet will become bright and photogenic. But on the way out, the comet's nucleus is less warmed by the Sun, less gas ...",
-    "url": "https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_960.jpg",
-    "media_type": "image"
-  },
-  "iss_position": {
-    "latitude": "9.09\u00b0S",
-    "longitude": "40.95\u00b0E",
-    "timestamp": "2026-06-08T15:26:12+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "nasa_apod": null,
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Stop the Apple Music app from launching",
+      "score": 403,
+      "url": "https://lowtechguys.com/musicdecoy/",
+      "time": "2026-06-08T17:01:43"
+    },
+    {
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "score": 32,
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "time": "2026-06-08T19:14:47"
+    },
+    {
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "score": 385,
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "time": "2026-06-08T15:27:33"
+    },
+    {
       "title": "Show HN: Performative-UI \u2013 a react component library of design tropes",
-      "score": 115,
+      "score": 579,
       "url": "https://vorpus.github.io/performativeUI/",
       "time": "2026-06-08T14:05:16"
     },
     {
-      "title": "Zig by Example",
-      "score": 129,
-      "url": "https://github.com/boringcollege/zig-by-example",
-      "time": "2026-06-08T13:06:19"
-    },
-    {
-      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "score": 211,
-      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-      "time": "2026-06-08T11:58:02"
-    },
-    {
-      "title": "Launch HN: Intuned (YC S22) \u2013 Build and run reliable browser automations as code",
-      "score": 53,
-      "url": "https://intunedhq.com",
-      "time": "2026-06-08T13:35:27"
-    },
-    {
-      "title": "The Cypherpunk Library",
-      "score": 211,
-      "url": "https://www.cypherpunkbooks.com",
-      "time": "2026-06-08T08:32:52"
+      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
+      "score": 83,
+      "url": "https://siraben.github.io/ti84p-re/",
+      "time": "2026-06-08T17:41:33"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245676,
+      "stars": 245666,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 210507,
+      "stars": 210665,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196072,
+      "stars": 196065,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156220,
+      "stars": 156223,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148101,
+      "stars": 148090,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-08T15:26:00.974253+00:00"
+  "last_updated": "2026-06-08T19:59:30.077800+00:00"
 }

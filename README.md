@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  9.09°S                                        ║
-║  📍 LONGITUDE: 40.95°E                                       ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-08 15:26 UTC                   ║
+║  📍 LATITUDE:  N/A                                           ║
+║  📍 LONGITUDE: N/A                                           ║
+║  ⚡ VELOCITY:  N/A                                           ║
+║  🌍 ALTITUDE:  N/A                                           ║
+║  ⏰ UPDATE: 2026-06-08 20:00 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Comet R3 PanSTARRS Through Time                          ║
-║  DATE:  2026-06-08                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Show HN: Performative-UI – a react component library of desi...** (115 ⭐)
-2. **Zig by Example** (129 ⭐)
-3. **Anti-social: It's fads, not friends, which now dominate soci...** (211 ⭐)
+1. **Stop the Apple Music app from launching** (403 ⭐)
+2. **Apple reveals new AI architecture built around Google Gemini...** (32 ⭐)
+3. **MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per seco...** (385 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (245676★)
-2. **affaan-m/ECC** (210507★)
-3. **trekhleb/javascript-algorithms** (196072★)
+1. **facebook/react** (245666★)
+2. **affaan-m/ECC** (210665★)
+3. **trekhleb/javascript-algorithms** (196065★)
 <!-- LIVE_DATA_END -->
