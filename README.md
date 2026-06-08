@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  45.71°N                                       ║
-║  📍 LONGITUDE: 13.02°W                                       ║
+║  📍 LATITUDE:  9.09°S                                        ║
+║  📍 LONGITUDE: 40.95°E                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-08 10:15 UTC                   ║
+║  ⏰ UPDATE: 2026-06-08 15:26 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: Comet R3 PanSTARRS Through Time                          ║
+║  DATE:  2026-06-08                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **The Cypherpunk Library** (62 ⭐)
-2. **OneDrive data now has an expiry date** (42 ⭐)
-3. **Dopamine Fracking** (318 ⭐)
+1. **Show HN: Performative-UI – a react component library of desi...** (115 ⭐)
+2. **Zig by Example** (129 ⭐)
+3. **Anti-social: It's fads, not friends, which now dominate soci...** (211 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (245674★)
-2. **affaan-m/ECC** (210305★)
-3. **trekhleb/javascript-algorithms** (196070★)
+1. **facebook/react** (245676★)
+2. **affaan-m/ECC** (210507★)
+3. **trekhleb/javascript-algorithms** (196072★)
 <!-- LIVE_DATA_END -->
