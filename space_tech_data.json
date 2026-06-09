@@ -7,57 +7,51 @@
     "url": "https://apod.nasa.gov/apod/image/2606/Thor_Drudis_960.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "43.80\u00b0N",
-    "longitude": "4.94\u00b0W",
-    "timestamp": "2026-06-09T14:20:14+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Claude Fable 5",
+      "score": 1071,
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "time": "2026-06-09T16:58:01"
+    },
+    {
       "title": "Making Graphics Like it's 1993",
-      "score": 255,
+      "score": 609,
       "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
       "time": "2026-06-09T10:46:14"
     },
     {
-      "title": "Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'",
-      "score": 49,
-      "url": "https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/",
-      "time": "2026-06-09T13:39:31"
-    },
-    {
-      "title": "GentleOS \u2013 Classic operating system with a lovely retro GUI",
-      "score": 244,
-      "url": "https://github.com/luke8086/gentleos32",
-      "time": "2026-06-09T09:50:30"
+      "title": "A giant star may have destroyed itself in one of the rarest explosions",
+      "score": 96,
+      "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
+      "time": "2026-06-08T21:00:13"
     },
     {
       "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "score": 333,
+      "score": 486,
       "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
       "time": "2026-06-09T07:33:16"
     },
     {
-      "title": "The better the autopilot the worse the pilot",
-      "score": 35,
-      "url": "https://julienreszka.com/blog/the-better-the-autopilot-the-worse-the-pilot/",
-      "time": "2026-06-09T13:17:34"
+      "title": "GPT-2: Too Dangerous To Release (2019)",
+      "score": 12,
+      "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
+      "time": "2026-06-09T18:21:43"
     }
   ],
   "github_trending": [
     {
-      "name": "facebook/react",
+      "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245672,
+      "stars": 245698,
       "language": "JavaScript",
-      "url": "https://github.com/facebook/react"
+      "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 211555,
+      "stars": 211765,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -71,17 +65,17 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156253,
+      "stars": 156254,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148090,
+      "stars": 148087,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-09T14:20:11.774814+00:00"
+  "last_updated": "2026-06-09T19:54:40.679792+00:00"
 }
