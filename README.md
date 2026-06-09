@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  38.19°N                                       ║
-║  📍 LONGITUDE: 165.92°W                                      ║
+║  📍 LATITUDE:  37.71°S                                       ║
+║  📍 LONGITUDE: 91.39°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-09 01:59 UTC                   ║
+║  ⏰ UPDATE: 2026-06-09 08:58 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: Thor's Helmet                                            ║
+║  DATE:  2026-06-09                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Apple reveals new AI architecture built around Google Gemini...** (334 ⭐)
-2. **Siri AI** (414 ⭐)
-3. **Show HN: Performative-UI – A react component library of desi...** (791 ⭐)
+1. **Microsoft's open source tools were hacked to steal passwords...** (78 ⭐)
+2. **Apple reveals new AI architecture built around Google Gemini...** (576 ⭐)
+3. **OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vis...** (105 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **facebook/react** (245669★)
-2. **affaan-m/ECC** (210913★)
-3. **trekhleb/javascript-algorithms** (196065★)
+1. **facebook/react** (245674★)
+2. **affaan-m/ECC** (211274★)
+3. **trekhleb/javascript-algorithms** (196064★)
 <!-- LIVE_DATA_END -->
