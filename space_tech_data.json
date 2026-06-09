@@ -1,51 +1,57 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "38.19\u00b0N",
+    "longitude": "165.92\u00b0W",
+    "timestamp": "2026-06-09T01:59:52+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Stop the Apple Music app from launching",
-      "score": 403,
-      "url": "https://lowtechguys.com/musicdecoy/",
-      "time": "2026-06-08T17:01:43"
-    },
-    {
       "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "score": 32,
+      "score": 334,
       "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
       "time": "2026-06-08T19:14:47"
     },
     {
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "score": 385,
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "time": "2026-06-08T15:27:33"
+      "title": "Siri AI",
+      "score": 414,
+      "url": "https://www.apple.com/apple-intelligence/",
+      "time": "2026-06-08T18:17:53"
     },
     {
-      "title": "Show HN: Performative-UI \u2013 a react component library of design tropes",
-      "score": 579,
+      "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
+      "score": 791,
       "url": "https://vorpus.github.io/performativeUI/",
       "time": "2026-06-08T14:05:16"
     },
     {
-      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
-      "score": 83,
-      "url": "https://siraben.github.io/ti84p-re/",
-      "time": "2026-06-08T17:41:33"
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "score": 498,
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "time": "2026-06-08T15:27:33"
+    },
+    {
+      "title": "Looking Forward to Postgres 19: Query Hints",
+      "score": 61,
+      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+      "time": "2026-06-05T15:15:35"
     }
   ],
   "github_trending": [
     {
       "name": "facebook/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245666,
+      "stars": 245669,
       "language": "JavaScript",
       "url": "https://github.com/facebook/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 210665,
+      "stars": 210913,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -59,17 +65,17 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156223,
+      "stars": 156225,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148090,
+      "stars": 148091,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-08T19:59:30.077800+00:00"
+  "last_updated": "2026-06-09T01:59:31.635702+00:00"
 }
