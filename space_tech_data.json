@@ -10,72 +10,72 @@
   "iss_position": null,
   "tech_headlines": [
     {
+      "title": "macOS Container Machines",
+      "score": 159,
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "time": "2026-06-10T00:29:01"
+    },
+    {
       "title": "Claude Fable 5",
-      "score": 1071,
+      "score": 1809,
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
       "time": "2026-06-09T16:58:01"
     },
     {
-      "title": "Making Graphics Like it's 1993",
-      "score": 609,
-      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "time": "2026-06-09T10:46:14"
+      "title": "Upcoming breaking changes for npm v12",
+      "score": 201,
+      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+      "time": "2026-06-09T21:01:00"
     },
     {
-      "title": "A giant star may have destroyed itself in one of the rarest explosions",
-      "score": 96,
-      "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
-      "time": "2026-06-08T21:00:13"
+      "title": "RIP software hackathons. Long live the hardware hackathon",
+      "score": 61,
+      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
+      "time": "2026-06-09T22:35:57"
     },
     {
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "score": 486,
-      "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-      "time": "2026-06-09T07:33:16"
-    },
-    {
-      "title": "GPT-2: Too Dangerous To Release (2019)",
-      "score": 12,
-      "url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
-      "time": "2026-06-09T18:21:43"
+      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "score": 160,
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "time": "2026-06-09T19:21:45"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245698,
+      "stars": 245708,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 211765,
+      "stars": 211946,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196067,
+      "stars": 196065,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156254,
+      "stars": 156255,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148087,
+      "stars": 148086,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-09T19:54:40.679792+00:00"
+  "last_updated": "2026-06-10T02:12:31.506515+00:00"
 }
