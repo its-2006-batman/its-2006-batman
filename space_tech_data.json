@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Thor's Helmet",
-    "date": "2026-06-09",
-    "explanation": "Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like...",
-    "url": "https://apod.nasa.gov/apod/image/2606/Thor_Drudis_960.jpg",
+    "title": "The Eagle Nebula and Friends",
+    "date": "2026-06-10",
+    "explanation": "What looks as if it is going to swallow the great Pillars of Creation? The Eagle Nebula (M16) is not a bird, a plane, or Superman. M16 is actually a combination of several celestial objects. NGC 6611 is the young star cluster that appears to peak out beneath the Eagle\u2019s \u201cwings\u201d. The ultraviolet ligh...",
+    "url": "https://apod.nasa.gov/apod/image/2606/eagle_1024.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "48.03\u00b0S",
+    "longitude": "131.60\u00b0W",
+    "timestamp": "2026-06-10T09:38:35+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
       "title": "macOS Container Machines",
-      "score": 159,
+      "score": 740,
       "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
       "time": "2026-06-10T00:29:01"
     },
     {
+      "title": "Mercedes\u2011Benz starts large\u2011scale production of electric axial flux motor",
+      "score": 51,
+      "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+      "time": "2026-06-10T07:44:49"
+    },
+    {
       "title": "Claude Fable 5",
-      "score": 1809,
+      "score": 2228,
       "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
       "time": "2026-06-09T16:58:01"
     },
     {
+      "title": "How do you design a $30k electric pickup? Inside Ford's skunkworks",
+      "score": 44,
+      "url": "https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/",
+      "time": "2026-06-07T18:56:46"
+    },
+    {
       "title": "Upcoming breaking changes for npm v12",
-      "score": 201,
+      "score": 362,
       "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
       "time": "2026-06-09T21:01:00"
-    },
-    {
-      "title": "RIP software hackathons. Long live the hardware hackathon",
-      "score": 61,
-      "url": "https://blog.oscars.dev/posts/rip-software-hackathons-long-live-the-hardware-hackathon/",
-      "time": "2026-06-09T22:35:57"
-    },
-    {
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "score": 160,
-      "url": "https://aarushgupta.io/posts/kan-fpga/",
-      "time": "2026-06-09T19:21:45"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245708,
+      "stars": 245717,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 211946,
+      "stars": 212233,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196065,
+      "stars": 196067,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156255,
+      "stars": 156272,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148086,
+      "stars": 148089,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-10T02:12:31.506515+00:00"
+  "last_updated": "2026-06-10T09:38:25.189759+00:00"
 }

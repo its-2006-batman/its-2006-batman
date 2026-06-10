@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  N/A                                           ║
-║  📍 LONGITUDE: N/A                                           ║
-║  ⚡ VELOCITY:  N/A                                           ║
-║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-06-10 02:12 UTC                   ║
+║  📍 LATITUDE:  48.03°S                                       ║
+║  📍 LONGITUDE: 131.60°W                                      ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ UPDATE: 2026-06-10 09:38 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Thor's Helmet                                            ║
-║  DATE:  2026-06-09                                                ║
+║  TITLE: The Eagle Nebula and Friends                             ║
+║  DATE:  2026-06-10                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **macOS Container Machines** (159 ⭐)
-2. **Claude Fable 5** (1809 ⭐)
-3. **Upcoming breaking changes for npm v12** (201 ⭐)
+1. **macOS Container Machines** (740 ⭐)
+2. **Mercedes‑Benz starts large‑scale production of electric axia...** (51 ⭐)
+3. **Claude Fable 5** (2228 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245708★)
-2. **affaan-m/ECC** (211946★)
-3. **trekhleb/javascript-algorithms** (196065★)
+1. **react/react** (245717★)
+2. **affaan-m/ECC** (212233★)
+3. **trekhleb/javascript-algorithms** (196067★)
 <!-- LIVE_DATA_END -->
