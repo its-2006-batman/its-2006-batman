@@ -418,7 +418,7 @@ END TRANSMISSION
 ║  📍 LONGITUDE: N/A                                           ║
 ║  ⚡ VELOCITY:  N/A                                           ║
 ║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-06-10 14:50 UTC                   ║
+║  ⏰ UPDATE: 2026-06-10 20:09 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: The Eagle Nebula and Friends                             ║
+║  DATE:  2026-06-10                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Building an HTML-first site doubled our users overnight** (237 ⭐)
-2. **PgDog is funded and coming to a database near you** (47 ⭐)
-3. **Mercedes‑Benz starts large‑scale production of electric axia...** (313 ⭐)
+1. **Claude Desktop spins up a VM without no way of stopping it** (198 ⭐)
+2. **Anthropic's Model Naming, Extrapolated** (70 ⭐)
+3. **How JPL keeps the 13-year-old Curiosity rover doing science** (86 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245721★)
-2. **affaan-m/ECC** (212434★)
-3. **trekhleb/javascript-algorithms** (196069★)
+1. **react/react** (245733★)
+2. **affaan-m/ECC** (212619★)
+3. **trekhleb/javascript-algorithms** (196072★)
 <!-- LIVE_DATA_END -->

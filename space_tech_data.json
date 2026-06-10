@@ -1,75 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "The Eagle Nebula and Friends",
+    "date": "2026-06-10",
+    "explanation": "What looks as if it is going to swallow the great Pillars of Creation? The Eagle Nebula (M16) is not a bird, a plane, or Superman. M16 is actually a combination of several celestial objects. NGC 6611 is the young star cluster that appears to peak out beneath the Eagle\u2019s \u201cwings\u201d. The ultraviolet ligh...",
+    "url": "https://apod.nasa.gov/apod/image/2606/eagle_1024.jpg",
+    "media_type": "image"
+  },
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Building an HTML-first site doubled our users overnight",
-      "score": 237,
-      "url": "https://mohkohn.co.uk/writing/html-first/",
-      "time": "2026-06-10T12:45:47"
+      "title": "Claude Desktop spins up a VM without no way of stopping it",
+      "score": 198,
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "time": "2026-06-10T17:11:56"
+    },
+    {
+      "title": "Anthropic's Model Naming, Extrapolated",
+      "score": 70,
+      "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+      "time": "2026-06-10T18:45:20"
+    },
+    {
+      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+      "score": 86,
+      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+      "time": "2026-06-10T17:30:48"
+    },
+    {
+      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" \u2013 AMA",
+      "score": 365,
+      "url": "https://news.ycombinator.com/item?id=48477135",
+      "time": "2026-06-10T14:47:52"
     },
     {
       "title": "PgDog is funded and coming to a database near you",
-      "score": 47,
+      "score": 291,
       "url": "https://pgdog.dev/blog/our-funding-announcement",
       "time": "2026-06-10T14:02:59"
-    },
-    {
-      "title": "Mercedes\u2011Benz starts large\u2011scale production of electric axial flux motor",
-      "score": 313,
-      "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
-      "time": "2026-06-10T07:44:49"
-    },
-    {
-      "title": "I Hate (Most) Keyboard 'Fn' Keys",
-      "score": 114,
-      "url": "https://danq.me/2026/06/09/fn-keys/",
-      "time": "2026-06-10T13:22:52"
-    },
-    {
-      "title": "All 9,300 Japanese train station, animated by the year it opened (1872\u20132026)",
-      "score": 70,
-      "url": "https://jivx.com/eki",
-      "time": "2026-06-10T12:11:28"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245721,
+      "stars": 245733,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 212434,
+      "stars": 212619,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196069,
+      "stars": 196072,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156282,
+      "stars": 156283,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148088,
+      "stars": 148087,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-10T14:50:20.353126+00:00"
+  "last_updated": "2026-06-10T20:09:17.399433+00:00"
 }
