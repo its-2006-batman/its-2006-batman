@@ -7,81 +7,75 @@
     "url": "https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "20.73\u00b0S",
-    "longitude": "115.34\u00b0E",
-    "timestamp": "2026-06-11T10:03:20+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "MiMo Code Is Now Released and Open-Source",
+      "score": 73,
+      "url": "https://mimo.xiaomi.com/mimocode",
+      "time": "2026-06-11T14:27:19"
+    },
+    {
+      "title": "Lines of Code Got a Better Publicist",
+      "score": 197,
+      "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+      "time": "2026-06-11T12:26:42"
+    },
+    {
+      "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
+      "score": 51,
+      "url": "https://nextcloud.com/blog/nextcloud-hub26-spring/",
+      "time": "2026-06-11T14:17:47"
+    },
+    {
+      "title": "MapComplete \u2013 Contibute to OpenStreetMaps",
+      "score": 59,
+      "url": "https://mapcomplete.org/",
+      "time": "2026-06-11T14:04:05"
+    },
+    {
       "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
-      "score": 246,
+      "score": 547,
       "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
       "time": "2026-06-11T06:42:06"
-    },
-    {
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "score": 405,
-      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-      "time": "2026-06-11T00:10:08"
-    },
-    {
-      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "score": 436,
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "time": "2026-06-10T16:42:00"
-    },
-    {
-      "title": "\u03c0FS",
-      "score": 751,
-      "url": "https://github.com/philipl/pifs",
-      "time": "2026-06-10T18:54:54"
-    },
-    {
-      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "score": 428,
-      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-      "time": "2026-06-09T17:23:40"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245757,
+      "stars": 245754,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 213072,
+      "stars": 213260,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196071,
+      "stars": 196070,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156308,
+      "stars": 156316,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148085,
+      "stars": 148084,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-11T10:03:08.214256+00:00"
+  "last_updated": "2026-06-11T15:32:27.207048+00:00"
 }
