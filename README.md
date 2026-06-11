@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  N/A                                           ║
-║  📍 LONGITUDE: N/A                                           ║
-║  ⚡ VELOCITY:  N/A                                           ║
-║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-06-11 15:32 UTC                   ║
+║  📍 LATITUDE:  25.03°N                                       ║
+║  📍 LONGITUDE: 145.81°E                                      ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ UPDATE: 2026-06-11 20:08 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **MiMo Code Is Now Released and Open-Source** (73 ⭐)
-2. **Lines of Code Got a Better Publicist** (197 ⭐)
-3. **Nextcloud Hub 26 Spring: Built together, designed for the fu...** (51 ⭐)
+1. **Show HN: Homebrew 6.0.0** (561 ⭐)
+2. **MiMo Code is now released and open-source** (331 ⭐)
+3. **Petition to Withdraw Canada's Bill C-22** (213 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245754★)
-2. **affaan-m/ECC** (213260★)
-3. **trekhleb/javascript-algorithms** (196070★)
+1. **react/react** (245763★)
+2. **affaan-m/ECC** (213383★)
+3. **trekhleb/javascript-algorithms** (196071★)
 <!-- LIVE_DATA_END -->
