@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  51.60°S                                       ║
-║  📍 LONGITUDE: 56.92°W                                       ║
+║  📍 LATITUDE:  20.73°S                                       ║
+║  📍 LONGITUDE: 115.34°E                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-11 02:35 UTC                   ║
+║  ⏰ UPDATE: 2026-06-11 10:03 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: The Eagle Nebula and Friends                             ║
-║  DATE:  2026-06-10                                                ║
+║  TITLE: The Mermaid Nebula Supernova Remnant                     ║
+║  DATE:  2026-06-11                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **AI agent runs amok in Fedora and elsewhere** (118 ⭐)
-2. **Cybersecurity researchers aren't happy about the guardrails ...** (241 ⭐)
-3. **πFS** (537 ⭐)
+1. **Pokémon Go Scans Trained the Navigation Tech for Military Dr...** (246 ⭐)
+2. **AI agent runs amok in Fedora and elsewhere** (405 ⭐)
+3. **Cybersecurity researchers aren't happy about the guardrails ...** (436 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245746★)
-2. **affaan-m/ECC** (212788★)
-3. **trekhleb/javascript-algorithms** (196070★)
+1. **react/react** (245757★)
+2. **affaan-m/ECC** (213072★)
+3. **trekhleb/javascript-algorithms** (196071★)
 <!-- LIVE_DATA_END -->
