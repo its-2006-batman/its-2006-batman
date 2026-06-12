@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "7.49\u00b0S",
-    "longitude": "162.30\u00b0W",
-    "timestamp": "2026-06-12T14:32:00+00:00",
+    "latitude": "25.03\u00b0N",
+    "longitude": "79.11\u00b0W",
+    "timestamp": "2026-06-12T19:51:01+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "score": 1036,
-      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-      "time": "2026-06-12T04:42:53"
+      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
+      "score": 416,
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "time": "2026-06-12T15:15:24"
     },
     {
-      "title": "WASI 0.3.0 Released",
-      "score": 26,
-      "url": "https://github.com/WebAssembly/WASI/releases/tag/v0.3.0",
-      "time": "2026-06-12T13:51:15"
+      "title": "I Am Not a Reverse Centaur",
+      "score": 121,
+      "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+      "time": "2026-06-12T17:53:20"
     },
     {
-      "title": "Maxproof",
-      "score": 64,
-      "url": "https://arxiv.org/abs/2606.13473",
-      "time": "2026-06-12T12:00:02"
+      "title": "How to setup a local coding agent on macOS",
+      "score": 88,
+      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "time": "2026-06-12T17:34:55"
     },
     {
-      "title": "The Future of Email",
-      "score": 115,
-      "url": "https://www.fastmail.com/blog/the-future-of-email/",
-      "time": "2026-06-12T10:38:31"
+      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+      "score": 143,
+      "url": "https://twitter.com/jsrailton/status/2064661778978533571",
+      "time": "2026-06-11T20:24:18"
     },
     {
-      "title": "If you are asking for human attention, demonstrate human effort",
-      "score": 1102,
-      "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "time": "2026-06-11T23:01:55"
+      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
+      "score": 74,
+      "url": "https://piwodlaiwo.github.io/pirates/",
+      "time": "2026-06-12T17:07:46"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245785,
+      "stars": 245802,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 214032,
+      "stars": 214210,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196070,
+      "stars": 196073,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156337,
+      "stars": 156339,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148082,
+      "stars": 148085,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-12T14:31:47.471266+00:00"
+  "last_updated": "2026-06-12T19:50:45.859681+00:00"
 }
