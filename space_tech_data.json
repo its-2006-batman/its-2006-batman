@@ -1,81 +1,81 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "The Mermaid Nebula Supernova Remnant",
-    "date": "2026-06-11",
-    "explanation": "Could the Little Mermaid turn into stardust instead of seafoam?   It would seem so in this beautiful nebula.   The featured image shows the Mermaid Nebula, also known as the Betta Fish Nebula, which is part of the G296.5+10.0 Supernova Remnant.   The blue color visible here originates from doubly io...",
-    "url": "https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg",
+    "title": "Venus and Jupiter: Conjunction from Avebury",
+    "date": "2026-06-12",
+    "explanation": "To see Venus and Jupiter together this month, you won't need binoculars or even a telescope. Just look up after sunset and you'll find them emerging as the sky grows dark near the western horizon. In fact, on June 9 the two brightest planets were in close conjunction, separated on the sky by less th...",
+    "url": "https://apod.nasa.gov/apod/image/2606/CosmicKissTheCoveAveburyDury1024.jpg",
     "media_type": "image"
   },
   "iss_position": null,
   "tech_headlines": [
     {
+      "title": "AI agent bankrupted their operator while trying to scan DN42",
+      "score": 551,
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "time": "2026-06-12T04:42:53"
+    },
+    {
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "score": 732,
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "time": "2026-06-11T23:01:55"
+    },
+    {
       "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "score": 104,
+      "score": 460,
       "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
       "time": "2026-06-12T00:38:11"
     },
     {
-      "title": "Claude Fable is relentlessly proactive",
-      "score": 62,
-      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-      "time": "2026-06-12T01:06:51"
-    },
-    {
       "title": "Show HN: Homebrew 6.0.0",
-      "score": 1006,
+      "score": 1229,
       "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
       "time": "2026-06-11T13:24:29"
     },
     {
-      "title": "Show HN: FablePool \u2013 pool money behind a prompt, and Fable builds it in public",
-      "score": 260,
-      "url": "https://fablepool.com",
-      "time": "2026-06-11T21:17:30"
-    },
-    {
-      "title": "If you are asking for human attention, demonstrate human effort",
-      "score": 293,
-      "url": "https://tombedor.dev/human-attention-and-human-effort/",
-      "time": "2026-06-11T23:01:55"
+      "title": "How we made hit video game Prince of Persia",
+      "score": 122,
+      "url": "https://www.theguardian.com/culture/2026/jan/05/raiders-of-the-lost-ark-hit-video-game-prince-of-persia",
+      "time": "2026-06-09T22:44:28"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245766,
+      "stars": 245783,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 213584,
+      "stars": 213879,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196070,
+      "stars": 196069,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156322,
+      "stars": 156334,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148084,
+      "stars": 148083,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-12T02:30:12.010135+00:00"
+  "last_updated": "2026-06-12T09:54:53.109499+00:00"
 }

@@ -418,7 +418,7 @@ END TRANSMISSION
 ║  📍 LONGITUDE: N/A                                           ║
 ║  ⚡ VELOCITY:  N/A                                           ║
 ║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-06-12 02:30 UTC                   ║
+║  ⏰ UPDATE: 2026-06-12 09:55 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: The Mermaid Nebula Supernova Remnant                     ║
-║  DATE:  2026-06-11                                                ║
+║  TITLE: Venus and Jupiter: Conjunction from Avebury              ║
+║  DATE:  2026-06-12                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Nobody ever gets credit for fixing problems that never happe...** (104 ⭐)
-2. **Claude Fable is relentlessly proactive** (62 ⭐)
-3. **Show HN: Homebrew 6.0.0** (1006 ⭐)
+1. **AI agent bankrupted their operator while trying to scan DN42** (551 ⭐)
+2. **If you are asking for human attention, demonstrate human eff...** (732 ⭐)
+3. **Nobody ever gets credit for fixing problems that never happe...** (460 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245766★)
-2. **affaan-m/ECC** (213584★)
-3. **trekhleb/javascript-algorithms** (196070★)
+1. **react/react** (245783★)
+2. **affaan-m/ECC** (213879★)
+3. **trekhleb/javascript-algorithms** (196069★)
 <!-- LIVE_DATA_END -->
