@@ -7,81 +7,75 @@
     "url": "https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "25.03\u00b0N",
-    "longitude": "145.81\u00b0E",
-    "timestamp": "2026-06-11T20:08:32+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "score": 104,
+      "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+      "time": "2026-06-12T00:38:11"
+    },
+    {
+      "title": "Claude Fable is relentlessly proactive",
+      "score": 62,
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+      "time": "2026-06-12T01:06:51"
+    },
+    {
       "title": "Show HN: Homebrew 6.0.0",
-      "score": 561,
+      "score": 1006,
       "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
       "time": "2026-06-11T13:24:29"
     },
     {
-      "title": "MiMo Code is now released and open-source",
-      "score": 331,
-      "url": "https://mimo.xiaomi.com/mimocode",
-      "time": "2026-06-11T14:27:19"
+      "title": "Show HN: FablePool \u2013 pool money behind a prompt, and Fable builds it in public",
+      "score": 260,
+      "url": "https://fablepool.com",
+      "time": "2026-06-11T21:17:30"
     },
     {
-      "title": "Petition to Withdraw Canada's Bill C-22",
-      "score": 213,
-      "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-      "time": "2026-06-11T15:37:23"
-    },
-    {
-      "title": "The RCE that AMD wouldn't fix",
-      "score": 147,
-      "url": "https://mrbruh.com/amd2/",
-      "time": "2026-06-11T16:03:40"
-    },
-    {
-      "title": "Software Is Made Between Commits",
-      "score": 132,
-      "url": "https://zed.dev/blog/introducing-deltadb",
-      "time": "2026-06-11T16:28:24"
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "score": 293,
+      "url": "https://tombedor.dev/human-attention-and-human-effort/",
+      "time": "2026-06-11T23:01:55"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245763,
+      "stars": 245766,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 213383,
+      "stars": 213584,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196071,
+      "stars": 196070,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156319,
+      "stars": 156322,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148085,
+      "stars": 148084,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-11T20:08:17.565703+00:00"
+  "last_updated": "2026-06-12T02:30:12.010135+00:00"
 }
