@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  25.03°N                                       ║
-║  📍 LONGITUDE: 79.11°W                                       ║
+║  📍 LATITUDE:  2.65°S                                        ║
+║  📍 LONGITUDE: 152.05°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-12 19:51 UTC                   ║
+║  ⏰ UPDATE: 2026-06-13 02:11 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Venus and Jupiter: Conjunction from Avebury              ║
-║  DATE:  2026-06-12                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **CRISPR tech selectively shreds cancer cells, including "undr...** (416 ⭐)
-2. **I Am Not a Reverse Centaur** (121 ⭐)
-3. **How to setup a local coding agent on macOS** (88 ⭐)
+1. **US Government directive to suspend access to Fable 5 and Myt...** (710 ⭐)
+2. **Renault: Electric motors with no rare earths** (212 ⭐)
+3. **CRISPR tech selectively shreds cancer cells, including "undr...** (707 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245802★)
-2. **affaan-m/ECC** (214210★)
+1. **react/react** (245809★)
+2. **affaan-m/ECC** (214346★)
 3. **trekhleb/javascript-algorithms** (196073★)
 <!-- LIVE_DATA_END -->
