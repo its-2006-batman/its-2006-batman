@@ -8,70 +8,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.61\u00b0S",
-    "longitude": "164.73\u00b0W",
-    "timestamp": "2026-06-13T08:45:28+00:00",
+    "latitude": "51.39\u00b0S",
+    "longitude": "118.07\u00b0E",
+    "timestamp": "2026-06-13T13:22:59+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "A low-carbon computing platform from your retired phones",
+      "score": 89,
+      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+      "time": "2026-06-13T09:38:32"
+    },
+    {
+      "title": "Show HN: 2 Weeks of Hallucinate \u2013 The Photo Gallery",
+      "score": 34,
+      "url": "https://hallucinate.site/gallery",
+      "time": "2026-06-13T12:11:35"
+    },
+    {
+      "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
+      "score": 10,
+      "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
+      "time": "2026-06-13T12:20:05"
+    },
+    {
       "title": "Leaving Mozilla",
-      "score": 95,
+      "score": 321,
       "url": "https://blog.unitedheroes.net/5751",
       "time": "2026-06-13T05:57:14"
     },
     {
-      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
-      "score": 66,
-      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-      "time": "2026-06-13T05:44:46"
-    },
-    {
-      "title": "Electric motors with no rare earths",
-      "score": 419,
-      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "time": "2026-06-12T22:08:03"
-    },
-    {
-      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-      "score": 2141,
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "time": "2026-06-13T00:51:30"
-    },
-    {
-      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "score": 806,
-      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "time": "2026-06-12T15:15:24"
+      "title": "The state of building user interfaces in Rust",
+      "score": 45,
+      "url": "https://areweguiyet.com/#ecosystem",
+      "time": "2026-06-10T16:44:23"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245808,
+      "stars": 245812,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 214478,
+      "stars": 214603,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196076,
+      "stars": 196079,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156348,
+      "stars": 156353,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-13T08:45:24.983801+00:00"
+  "last_updated": "2026-06-13T13:22:47.271826+00:00"
 }
