@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  2.65°S                                        ║
-║  📍 LONGITUDE: 152.05°W                                      ║
+║  📍 LATITUDE:  51.61°S                                       ║
+║  📍 LONGITUDE: 164.73°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-13 02:11 UTC                   ║
+║  ⏰ UPDATE: 2026-06-13 08:45 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: Interplanetary Earth                                     ║
+║  DATE:  2026-06-13                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **US Government directive to suspend access to Fable 5 and Myt...** (710 ⭐)
-2. **Renault: Electric motors with no rare earths** (212 ⭐)
-3. **CRISPR tech selectively shreds cancer cells, including "undr...** (707 ⭐)
+1. **Leaving Mozilla** (95 ⭐)
+2. **Shepherd's Dog: A Game by the Most Dangerous AI Model** (66 ⭐)
+3. **Electric motors with no rare earths** (419 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245809★)
-2. **affaan-m/ECC** (214346★)
-3. **trekhleb/javascript-algorithms** (196073★)
+1. **react/react** (245808★)
+2. **affaan-m/ECC** (214478★)
+3. **trekhleb/javascript-algorithms** (196076★)
 <!-- LIVE_DATA_END -->

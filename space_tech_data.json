@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "Interplanetary Earth",
+    "date": "2026-06-13",
+    "explanation": "In an interplanetary first, on July 19, 2013 Earth was photographed on the same day from two other worlds of the Solar System, innermost planet Mercury and ringed gas giant Saturn. Pictured on the left, Earth is the pale blue dot just below the rings of Saturn, as captured by the robotic Cassini spa...",
+    "url": "https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1024c.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "2.65\u00b0S",
-    "longitude": "152.05\u00b0W",
-    "timestamp": "2026-06-13T02:11:45+00:00",
+    "latitude": "51.61\u00b0S",
+    "longitude": "164.73\u00b0W",
+    "timestamp": "2026-06-13T08:45:28+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "US Government directive to suspend access to Fable 5 and Mythos 5",
-      "score": 710,
-      "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "time": "2026-06-13T00:51:30"
+      "title": "Leaving Mozilla",
+      "score": 95,
+      "url": "https://blog.unitedheroes.net/5751",
+      "time": "2026-06-13T05:57:14"
     },
     {
-      "title": "Renault: Electric motors with no rare earths",
-      "score": 212,
+      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "score": 66,
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "time": "2026-06-13T05:44:46"
+    },
+    {
+      "title": "Electric motors with no rare earths",
+      "score": 419,
       "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
       "time": "2026-06-12T22:08:03"
     },
     {
+      "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+      "score": 2141,
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
+      "time": "2026-06-13T00:51:30"
+    },
+    {
       "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "score": 707,
+      "score": 806,
       "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
       "time": "2026-06-12T15:15:24"
-    },
-    {
-      "title": "Twenty One Zero-Days in FFmpeg",
-      "score": 103,
-      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-      "time": "2026-06-12T22:13:29"
-    },
-    {
-      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-      "score": 139,
-      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-      "time": "2026-06-12T19:54:27"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245809,
+      "stars": 245808,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 214346,
+      "stars": 214478,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196073,
+      "stars": 196076,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156341,
+      "stars": 156348,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148085,
+      "stars": 148083,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-13T02:11:24.196185+00:00"
+  "last_updated": "2026-06-13T08:45:24.983801+00:00"
 }
