@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.39\u00b0S",
-    "longitude": "118.07\u00b0E",
-    "timestamp": "2026-06-13T13:22:59+00:00",
+    "latitude": "18.89\u00b0N",
+    "longitude": "67.65\u00b0W",
+    "timestamp": "2026-06-13T19:06:05+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "A low-carbon computing platform from your retired phones",
-      "score": 89,
-      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-      "time": "2026-06-13T09:38:32"
+      "title": "US bans differential privacy in Census data",
+      "score": 441,
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "time": "2026-06-13T13:54:56"
     },
     {
-      "title": "Show HN: 2 Weeks of Hallucinate \u2013 The Photo Gallery",
-      "score": 34,
-      "url": "https://hallucinate.site/gallery",
-      "time": "2026-06-13T12:11:35"
+      "title": "GameBoy Workboy",
+      "score": 29,
+      "url": "https://tcrf.net/Workboy",
+      "time": "2026-06-13T17:43:02"
     },
     {
-      "title": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
-      "score": 10,
-      "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
-      "time": "2026-06-13T12:20:05"
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "score": 167,
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "time": "2026-06-13T13:34:00"
     },
     {
-      "title": "Leaving Mozilla",
-      "score": 321,
-      "url": "https://blog.unitedheroes.net/5751",
-      "time": "2026-06-13T05:57:14"
+      "title": "Every Frame Perfect",
+      "score": 294,
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "time": "2026-06-13T11:40:20"
     },
     {
-      "title": "The state of building user interfaces in Rust",
-      "score": 45,
-      "url": "https://areweguiyet.com/#ecosystem",
-      "time": "2026-06-10T16:44:23"
+      "title": "Appreciating Exif",
+      "score": 77,
+      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+      "time": "2026-06-09T20:41:44"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245812,
+      "stars": 245814,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 214603,
+      "stars": 214810,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196079,
+      "stars": 196082,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156353,
+      "stars": 156354,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148083,
+      "stars": 148085,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-13T13:22:47.271826+00:00"
+  "last_updated": "2026-06-13T19:05:52.997867+00:00"
 }
