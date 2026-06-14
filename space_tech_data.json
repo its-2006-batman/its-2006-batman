@@ -1,81 +1,75 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "10 Days of Venus and Jupiter",
-    "date": "2026-06-14",
-    "explanation": "Venus and Jupiter may have caught your attention lately.  The  recent close conjunction of the two brightest planets in recent evening skies has been hard to miss. With Jupiter at the top, starting on May 30 and ending on June 8, their close approach was chronicled daily, left to right, in the featu...",
-    "url": "https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": "The Birth and Death of JavaScript (2014)",
-      "score": 37,
-      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-      "time": "2026-06-14T12:38:31"
+      "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
+      "score": 84,
+      "url": "https://github.com/tamnd/kage",
+      "time": "2026-06-14T17:25:38"
+    },
+    {
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "score": 157,
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "time": "2026-06-14T15:37:31"
     },
     {
       "title": "Firewood Splitting Simulator",
-      "score": 45,
+      "score": 408,
       "url": "https://screen.toys/firewood/",
       "time": "2026-06-10T05:01:31"
     },
     {
-      "title": "Free SQL\u2192ER diagram tool, runs in the browser, nothing uploaded",
-      "score": 251,
-      "url": "https://sqltoerdiagram.com/",
-      "time": "2026-06-14T03:43:30"
+      "title": "The Birth and Death of JavaScript (2014)",
+      "score": 175,
+      "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+      "time": "2026-06-14T12:38:31"
     },
     {
-      "title": "Honda Civics and the Evil Valet",
-      "score": 322,
-      "url": "https://juniperspring.org/posts/honda-evil-valet/",
-      "time": "2026-06-14T00:49:46"
-    },
-    {
-      "title": "How did Atari apply side art to Arcade Cabinets?",
-      "score": 5,
-      "url": "https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/",
-      "time": "2026-06-14T12:57:33"
+      "title": "Ask HN: What are you working on? (June 2026)",
+      "score": 59,
+      "url": "https://news.ycombinator.com/item?id=48528779",
+      "time": "2026-06-14T16:05:28"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245836,
+      "stars": 245846,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 215227,
+      "stars": 215378,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196086,
+      "stars": 196089,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156363,
+      "stars": 156365,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148084,
+      "stars": 148083,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-14T13:25:52.975599+00:00"
+  "last_updated": "2026-06-14T19:07:01.805122+00:00"
 }

@@ -418,7 +418,7 @@ END TRANSMISSION
 ║  📍 LONGITUDE: N/A                                           ║
 ║  ⚡ VELOCITY:  N/A                                           ║
 ║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-06-14 13:26 UTC                   ║
+║  ⏰ UPDATE: 2026-06-14 19:07 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: 10 Days of Venus and Jupiter                             ║
-║  DATE:  2026-06-14                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **The Birth and Death of JavaScript (2014)** (37 ⭐)
-2. **Firewood Splitting Simulator** (45 ⭐)
-3. **Free SQL→ER diagram tool, runs in the browser, nothing uploa...** (251 ⭐)
+1. **Show HN: Kage – Shadow any website to a single binary for of...** (84 ⭐)
+2. **Rio de Janeiro's "homegrown" LLM appears to be a merge of an...** (157 ⭐)
+3. **Firewood Splitting Simulator** (408 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245836★)
-2. **affaan-m/ECC** (215227★)
-3. **trekhleb/javascript-algorithms** (196086★)
+1. **react/react** (245846★)
+2. **affaan-m/ECC** (215378★)
+3. **trekhleb/javascript-algorithms** (196089★)
 <!-- LIVE_DATA_END -->
