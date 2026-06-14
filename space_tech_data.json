@@ -7,81 +7,75 @@
     "url": "https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1024c.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "18.89\u00b0N",
-    "longitude": "67.65\u00b0W",
-    "timestamp": "2026-06-13T19:06:05+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "US bans differential privacy in Census data",
-      "score": 441,
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "score": 748,
       "url": "https://desfontain.es/blog/banning-noise.html",
       "time": "2026-06-13T13:54:56"
     },
     {
-      "title": "GameBoy Workboy",
-      "score": 29,
-      "url": "https://tcrf.net/Workboy",
-      "time": "2026-06-13T17:43:02"
-    },
-    {
-      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-      "score": 167,
-      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-      "time": "2026-06-13T13:34:00"
+      "title": "GLM 5.2 Is Out",
+      "score": 377,
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "time": "2026-06-13T16:18:31"
     },
     {
       "title": "Every Frame Perfect",
-      "score": 294,
+      "score": 581,
       "url": "https://tonsky.me/blog/every-frame-perfect/",
       "time": "2026-06-13T11:40:20"
     },
     {
-      "title": "Appreciating Exif",
-      "score": 77,
-      "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
-      "time": "2026-06-09T20:41:44"
+      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+      "score": 89,
+      "url": "https://blog.pyodide.org/posts/314-release/",
+      "time": "2026-06-09T15:54:31"
+    },
+    {
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "score": 308,
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+      "time": "2026-06-13T13:34:00"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245814,
+      "stars": 245819,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 214810,
+      "stars": 214945,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196082,
+      "stars": 196083,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156354,
+      "stars": 156358,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148085,
+      "stars": 148086,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-13T19:05:52.997867+00:00"
+  "last_updated": "2026-06-14T02:34:55.612526+00:00"
 }
