@@ -418,7 +418,7 @@ END TRANSMISSION
 ║  📍 LONGITUDE: N/A                                           ║
 ║  ⚡ VELOCITY:  N/A                                           ║
 ║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-06-14 02:35 UTC                   ║
+║  ⏰ UPDATE: 2026-06-14 09:00 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Interplanetary Earth                                     ║
-║  DATE:  2026-06-13                                                ║
+║  TITLE: 10 Days of Venus and Jupiter                             ║
+║  DATE:  2026-06-14                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Noise infusion banned from statistical products published by...** (748 ⭐)
-2. **GLM 5.2 Is Out** (377 ⭐)
-3. **Every Frame Perfect** (581 ⭐)
+1. **Phoenix LiveView 1.2 Released** (89 ⭐)
+2. **Honda Civics and the Evil Valet** (261 ⭐)
+3. **Free SQL→ER diagram tool, runs in the browser, nothing uploa...** (90 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245819★)
-2. **affaan-m/ECC** (214945★)
-3. **trekhleb/javascript-algorithms** (196083★)
+1. **react/react** (245829★)
+2. **affaan-m/ECC** (215114★)
+3. **trekhleb/javascript-algorithms** (196085★)
 <!-- LIVE_DATA_END -->

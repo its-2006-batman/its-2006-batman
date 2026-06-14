@@ -1,81 +1,81 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Interplanetary Earth",
-    "date": "2026-06-13",
-    "explanation": "In an interplanetary first, on July 19, 2013 Earth was photographed on the same day from two other worlds of the Solar System, innermost planet Mercury and ringed gas giant Saturn. Pictured on the left, Earth is the pale blue dot just below the rings of Saturn, as captured by the robotic Cassini spa...",
-    "url": "https://apod.nasa.gov/apod/image/2606/earth_cassinimessenger_1024c.jpg",
+    "title": "10 Days of Venus and Jupiter",
+    "date": "2026-06-14",
+    "explanation": "Venus and Jupiter may have caught your attention lately.  The  recent close conjunction of the two brightest planets in recent evening skies has been hard to miss. With Jupiter at the top, starting on May 30 and ending on June 8, their close approach was chronicled daily, left to right, in the featu...",
+    "url": "https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg",
     "media_type": "image"
   },
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Noise infusion banned from statistical products published by Census Bureau",
-      "score": 748,
-      "url": "https://desfontain.es/blog/banning-noise.html",
-      "time": "2026-06-13T13:54:56"
+      "title": "Phoenix LiveView 1.2 Released",
+      "score": 89,
+      "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+      "time": "2026-06-14T04:53:51"
+    },
+    {
+      "title": "Honda Civics and the Evil Valet",
+      "score": 261,
+      "url": "https://juniperspring.org/posts/honda-evil-valet/",
+      "time": "2026-06-14T00:49:46"
+    },
+    {
+      "title": "Free SQL\u2192ER diagram tool, runs in the browser, nothing uploaded",
+      "score": 90,
+      "url": "https://sqltoerdiagram.com/",
+      "time": "2026-06-14T03:43:30"
     },
     {
       "title": "GLM 5.2 Is Out",
-      "score": 377,
+      "score": 560,
       "url": "https://twitter.com/jietang/status/2065784751345287314",
       "time": "2026-06-13T16:18:31"
     },
     {
-      "title": "Every Frame Perfect",
-      "score": 581,
-      "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "time": "2026-06-13T11:40:20"
-    },
-    {
-      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
-      "score": 89,
-      "url": "https://blog.pyodide.org/posts/314-release/",
-      "time": "2026-06-09T15:54:31"
-    },
-    {
-      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-      "score": 308,
-      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-      "time": "2026-06-13T13:34:00"
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "score": 816,
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "time": "2026-06-13T13:54:56"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245819,
+      "stars": 245829,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 214945,
+      "stars": 215114,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196083,
+      "stars": 196085,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156358,
+      "stars": 156361,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148086,
+      "stars": 148085,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-14T02:34:55.612526+00:00"
+  "last_updated": "2026-06-14T09:00:08.160081+00:00"
 }
