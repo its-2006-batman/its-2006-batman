@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  N/A                                           ║
-║  📍 LONGITUDE: N/A                                           ║
-║  ⚡ VELOCITY:  N/A                                           ║
-║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-06-14 19:07 UTC                   ║
+║  📍 LATITUDE:  45.05°S                                       ║
+║  📍 LONGITUDE: 45.59°W                                       ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ UPDATE: 2026-06-15 02:39 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: 10 Days of Venus and Jupiter                             ║
+║  DATE:  2026-06-14                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Show HN: Kage – Shadow any website to a single binary for of...** (84 ⭐)
-2. **Rio de Janeiro's "homegrown" LLM appears to be a merge of an...** (157 ⭐)
-3. **Firewood Splitting Simulator** (408 ⭐)
+1. **Your ePub Is Fine. Kobo Disagrees. Blame Adobe** (208 ⭐)
+2. **Write for One Person** (97 ⭐)
+3. **Show HN: Kage – Shadow any website to a single binary for of...** (413 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245846★)
-2. **affaan-m/ECC** (215378★)
-3. **trekhleb/javascript-algorithms** (196089★)
+1. **react/react** (245852★)
+2. **affaan-m/ECC** (215557★)
+3. **trekhleb/javascript-algorithms** (196086★)
 <!-- LIVE_DATA_END -->
