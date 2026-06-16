@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Moons, Rings, Shadows, Clouds: Saturn (Cassini)",
-    "date": "2026-06-16",
-    "explanation": "While cruising around Saturn, be on the lookout for picturesque arrangements of moons, rings, and shadows. One such striking sight occurred in 2005 and was captured by the then Saturn-orbiting Cassini spacecraft. In the featured image, moons Mimas (left) and Tethys (right) are visible on either side...",
-    "url": "https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "34.79\u00b0S",
-    "longitude": "89.28\u00b0E",
-    "timestamp": "2026-06-16T10:51:45+00:00",
+    "latitude": "44.99\u00b0N",
+    "longitude": "155.50\u00b0W",
+    "timestamp": "2026-06-16T16:21:23+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-      "score": 280,
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
-      "time": "2026-06-16T04:46:36"
+      "title": "Running local models is good now",
+      "score": 242,
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "time": "2026-06-16T14:36:57"
     },
     {
-      "title": "John Carmack on Fabrice Bellard",
-      "score": 310,
-      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-      "time": "2026-06-16T04:58:15"
+      "title": "Fable ban was never about a jailbreak",
+      "score": 70,
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "time": "2026-06-16T15:27:56"
     },
     {
-      "title": "A backdoor in a LinkedIn job offer",
-      "score": 1217,
-      "url": "https://roman.pt/posts/linkedin-backdoor/",
-      "time": "2026-06-15T20:00:57"
+      "title": "Mechanical Watch (2022)",
+      "score": 444,
+      "url": "https://ciechanow.ski/mechanical-watch/",
+      "time": "2026-06-16T11:26:27"
     },
     {
-      "title": "Getting Creative with Perlin Noise Fields",
-      "score": 26,
-      "url": "https://sighack.com/post/getting-creative-with-perlin-noise-fields",
-      "time": "2026-06-13T22:55:39"
+      "title": "Subquadratic \u2013 Introducing SubQ 1.1 Small",
+      "score": 42,
+      "url": "https://subq.ai/subq-1-1-small-technical-report",
+      "time": "2026-06-16T14:50:10"
     },
     {
-      "title": "Iroh 1.0",
-      "score": 1207,
-      "url": "https://www.iroh.computer/blog/v1",
-      "time": "2026-06-15T15:13:06"
+      "title": "Correlated randomness in Slay the Spire 2",
+      "score": 180,
+      "url": "https://tck.mn/blog/correlated-randomness-sts2/",
+      "time": "2026-06-16T09:46:49"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245895,
+      "stars": 245924,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 216429,
+      "stars": 216562,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196092,
+      "stars": 196089,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156404,
+      "stars": 156406,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148081,
+      "stars": 148082,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-16T10:51:37.440672+00:00"
+  "last_updated": "2026-06-16T16:21:08.916141+00:00"
 }
