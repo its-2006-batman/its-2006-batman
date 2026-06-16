@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  N/A                                           ║
-║  📍 LONGITUDE: N/A                                           ║
-║  ⚡ VELOCITY:  N/A                                           ║
-║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-06-15 20:43 UTC                   ║
+║  📍 LATITUDE:  40.41°N                                       ║
+║  📍 LONGITUDE: 138.18°E                                      ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ UPDATE: 2026-06-16 02:41 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Triple Shockwave from Sun Crossing Rocket                ║
-║  DATE:  2026-06-15                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Iroh 1.0** (750 ⭐)
-2. **A backdoor in a LinkedIn job offer** (67 ⭐)
-3. **TinyWind: A pixel pirate sailing game with real wind physics...** (412 ⭐)
+1. **A backdoor in a LinkedIn job offer** (764 ⭐)
+2. **Banned Book Library in a Wi-Fi Smart Light Bulb** (179 ⭐)
+3. **Iroh 1.0** (974 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245877★)
-2. **affaan-m/ECC** (216084★)
+1. **react/react** (245886★)
+2. **affaan-m/ECC** (216219★)
 3. **trekhleb/javascript-algorithms** (196094★)
 <!-- LIVE_DATA_END -->
