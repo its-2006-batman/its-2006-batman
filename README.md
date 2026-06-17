@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  31.96°N                                       ║
-║  📍 LONGITUDE: 65.19°E                                       ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-17 02:38 UTC                   ║
+║  📍 LATITUDE:  N/A                                           ║
+║  📍 LONGITUDE: N/A                                           ║
+║  ⚡ VELOCITY:  N/A                                           ║
+║  🌍 ALTITUDE:  N/A                                           ║
+║  ⏰ UPDATE: 2026-06-17 10:24 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Moons, Rings, Shadows, Clouds: Saturn (Cassini)          ║
-║  DATE:  2026-06-16                                                ║
+║  TITLE: Longmore 8: The Hamster Wheel Nebula                     ║
+║  DATE:  2026-06-17                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **GrapheneOS has been ported to Android 17** (432 ⭐)
-2. **Running local models is good now** (1048 ⭐)
-3. **Humiliating IIS servers for fun and jail time** (111 ⭐)
+1. **GrapheneOS has been ported to Android 17** (786 ⭐)
+2. **Running local models is good now** (1347 ⭐)
+3. **Show HN: High-Res Neural Cellular Automata** (12 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245936★)
-2. **affaan-m/ECC** (216776★)
+1. **react/react** (245950★)
+2. **affaan-m/ECC** (216988★)
 3. **trekhleb/javascript-algorithms** (196090★)
 <!-- LIVE_DATA_END -->
