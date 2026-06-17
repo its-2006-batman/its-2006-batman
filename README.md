@@ -418,7 +418,7 @@ END TRANSMISSION
 ║  📍 LONGITUDE: N/A                                           ║
 ║  ⚡ VELOCITY:  N/A                                           ║
 ║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-06-17 14:48 UTC                   ║
+║  ⏰ UPDATE: 2026-06-17 19:57 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Longmore 8: The Hamster Wheel Nebula                     ║
-║  DATE:  2026-06-17                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Want your images back? Sure... That'll be $5!** (249 ⭐)
-2. **Epic Games announces Lore version control system** (38 ⭐)
-3. **GLM-5.2 is the new leading open weights model on Artificial ...** (434 ⭐)
+1. **Epic Games announces Lore version control system** (702 ⭐)
+2. **The hacker sent by Anthropic to calm the government's nerves...** (28 ⭐)
+3. **Launch HN: Adam (YC W25) – Open-Source AI CAD** (91 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245934★)
-2. **affaan-m/ECC** (217104★)
-3. **trekhleb/javascript-algorithms** (196092★)
+1. **react/react** (245933★)
+2. **affaan-m/ECC** (217220★)
+3. **trekhleb/javascript-algorithms** (196094★)
 <!-- LIVE_DATA_END -->

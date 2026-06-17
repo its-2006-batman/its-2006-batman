@@ -1,81 +1,75 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Longmore 8: The Hamster Wheel Nebula",
-    "date": "2026-06-17",
-    "explanation": "How did a hamster wheel get into space? The Hamster Wheel Nebula (Longmore 8) was discovered by Andrew Longmore in 1976 as a part of a larger survey of the southern sky. This survey employed several improvements in photographic technology, including the use of highly sensitive film, to capture deepe...",
-    "url": "https://apod.nasa.gov/apod/image/2606/hamster_1024.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Want your images back? Sure... That'll be $5!",
-      "score": 249,
-      "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-      "time": "2026-06-17T13:05:03"
-    },
-    {
       "title": "Epic Games announces Lore version control system",
-      "score": 38,
+      "score": 702,
       "url": "https://lore.org/",
       "time": "2026-06-17T14:30:27"
     },
     {
+      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+      "score": 28,
+      "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+      "time": "2026-06-17T19:22:02"
+    },
+    {
+      "title": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
+      "score": 91,
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "time": "2026-06-17T16:14:04"
+    },
+    {
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "score": 434,
+      "score": 662,
       "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
       "time": "2026-06-17T09:12:00"
     },
     {
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "score": 440,
-      "url": "https://wpvip.com/future-of-the-web-2026/",
-      "time": "2026-06-17T12:11:27"
-    },
-    {
-      "title": "RFC 10008: The new HTTP Query Method",
-      "score": 141,
-      "url": "https://www.rfc-editor.org/info/rfc10008/",
-      "time": "2026-06-17T10:51:17"
+      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
+      "score": 98,
+      "url": "https://browser-use.com/posts/firecracker-browser-infra",
+      "time": "2026-06-16T15:15:01"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245934,
+      "stars": 245933,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 217104,
+      "stars": 217220,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196092,
+      "stars": 196094,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156439,
+      "stars": 156444,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148081,
+      "stars": 148084,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-17T14:48:03.578456+00:00"
+  "last_updated": "2026-06-17T19:57:04.313095+00:00"
 }
