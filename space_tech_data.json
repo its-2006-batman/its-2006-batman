@@ -1,71 +1,77 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "Possible Supernova Remnant in Galactic Center",
+    "date": "2026-06-18",
+    "explanation": "Do you see that blue blob to the lower right of the image center?   Astronomers think that it shows where a massive star exploded as a supernova whose light reached Earth 1,700 years ago.   The image combines optical data from the PanSTARRS telescopes in Hawaii (background stars in red, green, and b...",
+    "url": "https://apod.nasa.gov/apod/image/2606/sgrc.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "47.22\u00b0N",
-    "longitude": "111.06\u00b0E",
-    "timestamp": "2026-06-18T02:36:11+00:00",
+    "latitude": "32.45\u00b0N",
+    "longitude": "93.39\u00b0W",
+    "timestamp": "2026-06-18T10:03:08+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Midjourney Full Body Ultrasonic CT Scanner",
-      "score": 41,
-      "url": "https://www.midjourney.com/medical/blogpost",
-      "time": "2026-06-18T02:08:59"
-    },
-    {
-      "title": "Lore \u2013 Open source version control system designed for scalability",
-      "score": 997,
-      "url": "https://lore.org/",
-      "time": "2026-06-17T14:30:27"
-    },
-    {
-      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
-      "score": 67,
-      "url": "https://www.horg.com/horg/?page_id=921",
-      "time": "2026-06-17T23:20:38"
-    },
-    {
       "title": "Midjourney Medical",
-      "score": 62,
-      "url": "https://www.midjourney.com/medical",
+      "score": 751,
+      "url": "https://www.midjourney.com/medical/blogpost",
       "time": "2026-06-18T01:59:51"
     },
     {
-      "title": "US holds off\u00a0blacklisting DeepSeek, more than 100 firms deemed security risks",
-      "score": 370,
-      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-      "time": "2026-06-17T03:55:16"
+      "title": "DeepSeek Introduces Vision",
+      "score": 144,
+      "url": "https://chat.deepseek.com/",
+      "time": "2026-06-18T06:17:40"
+    },
+    {
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "score": 215,
+      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "time": "2026-06-18T03:04:20"
+    },
+    {
+      "title": "I need your clothes, your boots, and your motorcycle",
+      "score": 19,
+      "url": "https://rbelmont.mameworld.info/?p=1725",
+      "time": "2026-06-18T08:28:04"
+    },
+    {
+      "title": "Lore \u2013 Open source version control system designed for scalability",
+      "score": 1141,
+      "url": "https://lore.org/",
+      "time": "2026-06-17T14:30:27"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245937,
+      "stars": 245941,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 217339,
+      "stars": 217512,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196099,
+      "stars": 196100,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156446,
+      "stars": 156455,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -77,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-18T02:36:01.374879+00:00"
+  "last_updated": "2026-06-18T10:03:01.614636+00:00"
 }
