@@ -1,75 +1,81 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "47.22\u00b0N",
+    "longitude": "111.06\u00b0E",
+    "timestamp": "2026-06-18T02:36:11+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Epic Games announces Lore version control system",
-      "score": 702,
+      "title": "Midjourney Full Body Ultrasonic CT Scanner",
+      "score": 41,
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "time": "2026-06-18T02:08:59"
+    },
+    {
+      "title": "Lore \u2013 Open source version control system designed for scalability",
+      "score": 997,
       "url": "https://lore.org/",
       "time": "2026-06-17T14:30:27"
     },
     {
-      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-      "score": 28,
-      "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
-      "time": "2026-06-17T19:22:02"
+      "title": "Taxonomy of the Occlupanida (parasitoids on bread bag tags)",
+      "score": 67,
+      "url": "https://www.horg.com/horg/?page_id=921",
+      "time": "2026-06-17T23:20:38"
     },
     {
-      "title": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
-      "score": 91,
-      "url": "https://github.com/Adam-CAD/CADAM",
-      "time": "2026-06-17T16:14:04"
+      "title": "Midjourney Medical",
+      "score": 62,
+      "url": "https://www.midjourney.com/medical",
+      "time": "2026-06-18T01:59:51"
     },
     {
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "score": 662,
-      "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-      "time": "2026-06-17T09:12:00"
-    },
-    {
-      "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
-      "score": 98,
-      "url": "https://browser-use.com/posts/firecracker-browser-infra",
-      "time": "2026-06-16T15:15:01"
+      "title": "US holds off\u00a0blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "score": 370,
+      "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+      "time": "2026-06-17T03:55:16"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245933,
+      "stars": 245937,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 217220,
+      "stars": 217339,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196094,
+      "stars": 196099,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156444,
+      "stars": 156446,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148084,
+      "stars": 148085,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-17T19:57:04.313095+00:00"
+  "last_updated": "2026-06-18T02:36:01.374879+00:00"
 }
