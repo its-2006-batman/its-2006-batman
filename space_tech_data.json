@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Starry Night II",
-    "date": "2026-06-19",
-    "explanation": "Does this scene look familiar? It is a modern recreation of the famous painting Starry Night by Vincent van Gogh.  Both the image and the painting depict a tall tree on the left, a crescent moon on the upper right, the planet Venus just to the right of the tree, a foreground horizon rising from left...",
-    "url": "https://apod.nasa.gov/apod/image/2606/StarryNight2_Guerra_960.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "31.63\u00b0S",
-    "longitude": "9.11\u00b0E",
-    "timestamp": "2026-06-19T14:40:39+00:00",
+    "latitude": "43.13\u00b0S",
+    "longitude": "44.21\u00b0W",
+    "timestamp": "2026-06-19T19:24:03+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "There Are No Instances in ATProto",
+      "score": 172,
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "time": "2026-06-19T15:10:02"
+    },
+    {
+      "title": "Hyundai buys Boston Dynamics",
+      "score": 273,
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "time": "2026-06-19T16:28:20"
+    },
+    {
+      "title": "Amateur may have cracked Linear A, a 120-year-old puzzle",
+      "score": 215,
+      "url": "https://aiclambake.com/clamtakes/linear-a/",
+      "time": "2026-06-19T16:04:42"
+    },
+    {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "score": 331,
+      "score": 478,
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
       "time": "2026-06-19T06:35:57"
     },
     {
-      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "score": 290,
-      "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-      "time": "2026-06-16T11:07:08"
-    },
-    {
-      "title": "Zen and the Art of Machine Learning Research",
-      "score": 137,
-      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "time": "2026-06-16T00:45:50"
-    },
-    {
-      "title": "To study how chips work, MIT researchers built their own operating system",
-      "score": 263,
-      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-      "time": "2026-06-15T16:06:22"
-    },
-    {
-      "title": "The Productivity J-Curve [pdf] (2018)",
-      "score": 5,
-      "url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
-      "time": "2026-06-15T23:47:55"
+      "title": "A new bill takes aim at government pressure to silence lawful online speech",
+      "score": 96,
+      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "time": "2026-06-19T17:34:28"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245994,
+      "stars": 245962,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 218047,
+      "stars": 218168,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196100,
+      "stars": 196103,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156477,
+      "stars": 156480,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148086,
+      "stars": 148087,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-19T14:40:34.712286+00:00"
+  "last_updated": "2026-06-19T19:23:53.192456+00:00"
 }
