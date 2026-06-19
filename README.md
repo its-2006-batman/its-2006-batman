@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  37.09°S                                       ║
-║  📍 LONGITUDE: 60.68°W                                       ║
+║  📍 LATITUDE:  4.03°S                                        ║
+║  📍 LONGITUDE: 23.24°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-18 20:08 UTC                   ║
+║  ⏰ UPDATE: 2026-06-19 02:52 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Possible Supernova Remnant in Galactic Center            ║
-║  DATE:  2026-06-18                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Noam Shazeer Joins OpenAI** (85 ⭐)
-2. **I found 10k GitHub repositories distributing Trojan malware** (469 ⭐)
-3. **Swiss parliament lifts ban on new nuclear power plants** (508 ⭐)
+1. **How Japan's railways stayed one while splitting apart** (43 ⭐)
+2. **Zero-Touch OAuth for MCP** (110 ⭐)
+3. **Datasette Apps: Host custom HTML applications inside Dataset...** (30 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245968★)
-2. **affaan-m/ECC** (217731★)
-3. **trekhleb/javascript-algorithms** (196099★)
+1. **react/react** (245986★)
+2. **affaan-m/ECC** (217821★)
+3. **trekhleb/javascript-algorithms** (196100★)
 <!-- LIVE_DATA_END -->

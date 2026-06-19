@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Possible Supernova Remnant in Galactic Center",
-    "date": "2026-06-18",
-    "explanation": "Do you see that blue blob to the lower right of the image center?   Astronomers think that it shows where a massive star exploded as a supernova whose light reached Earth 1,700 years ago.   The image combines optical data from the PanSTARRS telescopes in Hawaii (background stars in red, green, and b...",
-    "url": "https://apod.nasa.gov/apod/image/2606/sgrc.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "37.09\u00b0S",
-    "longitude": "60.68\u00b0W",
-    "timestamp": "2026-06-18T20:08:29+00:00",
+    "latitude": "4.03\u00b0S",
+    "longitude": "23.24\u00b0W",
+    "timestamp": "2026-06-19T02:52:06+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Noam Shazeer Joins OpenAI",
-      "score": 85,
-      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-      "time": "2026-06-18T00:26:06"
+      "title": "How Japan's railways stayed one while splitting apart",
+      "score": 43,
+      "url": "https://arun.is/blog/jr-logo/",
+      "time": "2026-06-17T14:03:58"
+    },
+    {
+      "title": "Zero-Touch OAuth for MCP",
+      "score": 110,
+      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
+      "time": "2026-06-18T21:54:10"
+    },
+    {
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "score": 30,
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "time": "2026-06-19T01:06:27"
     },
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "score": 469,
+      "score": 677,
       "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
       "time": "2026-06-18T11:45:43"
     },
     {
-      "title": "Swiss parliament lifts ban on new nuclear power plants",
-      "score": 508,
-      "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
-      "time": "2026-06-18T14:17:07"
-    },
-    {
-      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-      "score": 162,
-      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-      "time": "2026-06-18T14:24:30"
-    },
-    {
-      "title": "Migrating from GNU Stow to Chezmoi",
-      "score": 51,
-      "url": "https://rednafi.com/misc/chezmoi/",
-      "time": "2026-06-18T17:09:53"
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "score": 13,
+      "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+      "time": "2026-06-15T16:06:22"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245968,
+      "stars": 245986,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 217731,
+      "stars": 217821,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196099,
+      "stars": 196100,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156465,
+      "stars": 156466,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148084,
+      "stars": 148085,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-18T20:08:26.726944+00:00"
+  "last_updated": "2026-06-19T02:51:55.473113+00:00"
 }
