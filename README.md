@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  20.08°N                                       ║
-║  📍 LONGITUDE: 0.78°E                                        ║
+║  📍 LATITUDE:  50.81°N                                       ║
+║  📍 LONGITUDE: 37.73°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-20 02:13 UTC                   ║
+║  ⏰ UPDATE: 2026-06-20 08:38 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: Daytime Moon Meets Evening Star                          ║
+║  DATE:  2026-06-20                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **How to feed a dictator** (46 ⭐)
-2. **Think of the children: How to force real ID for all internet...** (116 ⭐)
-3. **There are no instances in ATProto** (349 ⭐)
+1. **I Stored a Website in a Favicon** (97 ⭐)
+2. **Data Compression Explained (2012)** (106 ⭐)
+3. **Where to Find the Colors Your Screen Can't Show You** (79 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245956★)
-2. **affaan-m/ECC** (218307★)
-3. **trekhleb/javascript-algorithms** (196104★)
+1. **react/react** (245958★)
+2. **affaan-m/ECC** (218427★)
+3. **trekhleb/javascript-algorithms** (196103★)
 <!-- LIVE_DATA_END -->
