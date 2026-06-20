@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Daytime Moon Meets Evening Star",
-    "date": "2026-06-20",
-    "explanation": "Venus is now appearing on the celestial stage as Earth's brilliant evening star, performing with the Moon, other wandering planets, and bright stars in western skies. For evening sky gazers on June 17, the celestial beacon rose after sunset close by a young, slender, crescent Moon. But from some loc...",
-    "url": "https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "50.81\u00b0N",
-    "longitude": "37.73\u00b0W",
-    "timestamp": "2026-06-20T08:38:44+00:00",
+    "latitude": "46.79\u00b0N",
+    "longitude": "64.34\u00b0W",
+    "timestamp": "2026-06-20T13:25:04+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "CSSQuake",
+      "score": 112,
+      "url": "https://cssquake.com/",
+      "time": "2026-06-20T10:49:53"
+    },
+    {
       "title": "I Stored a Website in a Favicon",
-      "score": 97,
+      "score": 194,
       "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
       "time": "2026-06-20T05:33:59"
     },
     {
-      "title": "Data Compression Explained (2012)",
-      "score": 106,
-      "url": "https://mattmahoney.net/dc/dce.html",
-      "time": "2026-06-16T21:51:57"
-    },
-    {
       "title": "Where to Find the Colors Your Screen Can't Show You",
-      "score": 79,
+      "score": 226,
       "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
       "time": "2026-06-20T03:36:49"
     },
     {
-      "title": "There are no instances in ATProto",
-      "score": 429,
-      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-      "time": "2026-06-19T15:10:02"
+      "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
+      "score": 40,
+      "url": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
+      "time": "2026-06-20T11:43:29"
     },
     {
-      "title": "The discovery that changed how scientists think about memory",
-      "score": 45,
-      "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
-      "time": "2026-06-17T11:09:29"
+      "title": "The Cold War's Accidental Whale Observatory",
+      "score": 22,
+      "url": "https://thereader.mitpress.mit.edu/the-cold-wars-accidental-whale-observatory/",
+      "time": "2026-06-17T01:06:12"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245958,
+      "stars": 245959,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 218427,
+      "stars": 218588,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196103,
+      "stars": 196104,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156488,
+      "stars": 156492,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148089,
+      "stars": 148088,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-20T08:38:40.561784+00:00"
+  "last_updated": "2026-06-20T13:24:54.572550+00:00"
 }
