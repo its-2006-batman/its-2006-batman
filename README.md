@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  43.13°S                                       ║
-║  📍 LONGITUDE: 44.21°W                                       ║
+║  📍 LATITUDE:  20.08°N                                       ║
+║  📍 LONGITUDE: 0.78°E                                        ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-19 19:24 UTC                   ║
+║  ⏰ UPDATE: 2026-06-20 02:13 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **There Are No Instances in ATProto** (172 ⭐)
-2. **Hyundai buys Boston Dynamics** (273 ⭐)
-3. **Amateur may have cracked Linear A, a 120-year-old puzzle** (215 ⭐)
+1. **How to feed a dictator** (46 ⭐)
+2. **Think of the children: How to force real ID for all internet...** (116 ⭐)
+3. **There are no instances in ATProto** (349 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245962★)
-2. **affaan-m/ECC** (218168★)
-3. **trekhleb/javascript-algorithms** (196103★)
+1. **react/react** (245956★)
+2. **affaan-m/ECC** (218307★)
+3. **trekhleb/javascript-algorithms** (196104★)
 <!-- LIVE_DATA_END -->
