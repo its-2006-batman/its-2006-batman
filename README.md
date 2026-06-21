@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  39.49°S                                       ║
-║  📍 LONGITUDE: 69.11°W                                       ║
+║  📍 LATITUDE:  43.59°N                                       ║
+║  📍 LONGITUDE: 3.01°W                                        ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-21 02:38 UTC                   ║
+║  ⏰ UPDATE: 2026-06-21 09:33 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Renting a sewing machine from the library** (111 ⭐)
-2. **Epoll vs. io_uring in Linux** (61 ⭐)
-3. **Show HN: TownSquare, a tiny presence layer for websites** (78 ⭐)
+1. **Google Hits 50% IPv6** (56 ⭐)
+2. **A 3D voxel game engine written in APL** (28 ⭐)
+3. **Developers don't understand CORS (2019)** (191 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245965★)
-2. **affaan-m/ECC** (218897★)
-3. **trekhleb/javascript-algorithms** (196103★)
+1. **react/react** (245967★)
+2. **affaan-m/ECC** (219000★)
+3. **trekhleb/javascript-algorithms** (196104★)
 <!-- LIVE_DATA_END -->

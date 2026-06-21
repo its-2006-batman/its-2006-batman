@@ -2,63 +2,63 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "39.49\u00b0S",
-    "longitude": "69.11\u00b0W",
-    "timestamp": "2026-06-21T02:38:00+00:00",
+    "latitude": "43.59\u00b0N",
+    "longitude": "3.01\u00b0W",
+    "timestamp": "2026-06-21T09:33:58+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Renting a sewing machine from the library",
-      "score": 111,
-      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "time": "2026-06-20T22:54:11"
+      "title": "Google Hits 50% IPv6",
+      "score": 56,
+      "url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+      "time": "2026-06-21T08:21:22"
     },
     {
-      "title": "Epoll vs. io_uring in Linux",
-      "score": 61,
-      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-      "time": "2026-06-20T23:07:09"
+      "title": "A 3D voxel game engine written in APL",
+      "score": 28,
+      "url": "https://github.com/namgyaaal/avoxelgame",
+      "time": "2026-06-21T08:04:54"
     },
     {
-      "title": "Show HN: TownSquare, a tiny presence layer for websites",
-      "score": 78,
-      "url": "https://townsquare.cauenapier.com/",
-      "time": "2026-06-20T11:55:03"
+      "title": "Developers don't understand CORS (2019)",
+      "score": 191,
+      "url": "https://fosterelli.co/developers-dont-understand-cors",
+      "time": "2026-06-21T01:35:40"
     },
     {
-      "title": "15-minute at-home Lyme disease tick test",
-      "score": 44,
-      "url": "https://www.bostonglobe.com/2026/06/17/business/lyme-disease-tick-test/",
-      "time": "2026-06-18T12:22:36"
+      "title": "Zigzag Decoding with AVX-512",
+      "score": 73,
+      "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+      "time": "2026-06-17T17:43:22"
     },
     {
-      "title": "'We had to get out of the way': The backlash over delivery robots",
-      "score": 32,
-      "url": "https://www.bbc.com/news/articles/c0rygp005wjo",
-      "time": "2026-06-21T00:12:49"
+      "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
+      "score": 278,
+      "url": "https://github.com/mysk-research/loupe",
+      "time": "2026-06-20T12:08:23"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245965,
+      "stars": 245967,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 218897,
+      "stars": 219000,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196103,
+      "stars": 196104,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-21T02:37:50.604884+00:00"
+  "last_updated": "2026-06-21T09:33:41.687902+00:00"
 }
