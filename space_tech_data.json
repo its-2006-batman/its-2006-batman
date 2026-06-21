@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "13.15\u00b0N",
-    "longitude": "172.48\u00b0E",
-    "timestamp": "2026-06-21T13:46:22+00:00",
+    "latitude": "18.27\u00b0S",
+    "longitude": "86.05\u00b0W",
+    "timestamp": "2026-06-21T19:13:03+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
+      "score": 69,
+      "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
+      "time": "2026-06-21T16:56:18"
+    },
+    {
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "score": 260,
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "time": "2026-06-21T16:08:23"
+    },
+    {
       "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "score": 83,
+      "score": 329,
       "url": "https://www.beyondallreason.info",
       "time": "2026-06-21T11:38:01"
     },
     {
-      "title": "The case against geometric algebra (2024)",
-      "score": 58,
-      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-      "time": "2026-06-21T11:06:55"
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "score": 92,
+      "url": "https://norvig.com/lispy.html",
+      "time": "2026-06-21T15:36:33"
     },
     {
-      "title": "David Ahl's Basic Computer Games Ported to C",
-      "score": 14,
-      "url": "https://github.com/proteanthread/bcg",
-      "time": "2026-06-21T12:11:29"
-    },
-    {
-      "title": "Artificial",
-      "score": 5,
-      "url": "https://www.inkandswitch.com/tangents/artificial/",
-      "time": "2026-06-21T13:22:47"
-    },
-    {
-      "title": "A 3D voxel game engine written in APL",
-      "score": 86,
-      "url": "https://github.com/namgyaaal/avoxelgame",
-      "time": "2026-06-21T08:04:54"
+      "title": "The Minimum Viable Unit of Saleable Software",
+      "score": 48,
+      "url": "https://brandur.org/minimum-viable-unit",
+      "time": "2026-06-21T16:41:21"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245971,
+      "stars": 245973,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 219097,
+      "stars": 219221,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196106,
+      "stars": 196108,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156504,
+      "stars": 156508,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148089,
+      "stars": 148090,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-21T13:46:12.104964+00:00"
+  "last_updated": "2026-06-21T19:12:48.985409+00:00"
 }
