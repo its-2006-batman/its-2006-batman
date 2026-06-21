@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  0.49°S                                        ║
-║  📍 LONGITUDE: 85.74°E                                       ║
+║  📍 LATITUDE:  39.49°S                                       ║
+║  📍 LONGITUDE: 69.11°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-20 19:07 UTC                   ║
+║  ⏰ UPDATE: 2026-06-21 02:38 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Agency stole bestselling author's book, used AI to relaunch ...** (150 ⭐)
-2. **SMPTE Makes Its Standards Freely Accessible** (83 ⭐)
-3. **UHF X11: X11 Built for VisionOS and Apple Vision Pro** (52 ⭐)
+1. **Renting a sewing machine from the library** (111 ⭐)
+2. **Epoll vs. io_uring in Linux** (61 ⭐)
+3. **Show HN: TownSquare, a tiny presence layer for websites** (78 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (245963★)
-2. **affaan-m/ECC** (218754★)
-3. **trekhleb/javascript-algorithms** (196105★)
+1. **react/react** (245965★)
+2. **affaan-m/ECC** (218897★)
+3. **trekhleb/javascript-algorithms** (196103★)
 <!-- LIVE_DATA_END -->
