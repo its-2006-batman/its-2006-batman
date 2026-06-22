@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  29.68°N                                       ║
-║  📍 LONGITUDE: 143.17°W                                      ║
+║  📍 LATITUDE:  50.95°N                                       ║
+║  📍 LONGITUDE: 142.25°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-22 11:32 UTC                   ║
+║  ⏰ UPDATE: 2026-06-22 16:25 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,14 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: M27: The Dumbbell Nebula                                 ║
+║  DATE:  2026-06-22                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Deno Desktop** (477 ⭐)
-2. **Help I accidentally a wigglegram** (289 ⭐)
-3. **Did my old job only exist because of fraud?** (601 ⭐)
-
-### ⭐ TRENDING REPOS
-1. **react/react** (245998★)
-2. **affaan-m/ECC** (219619★)
-3. **trekhleb/javascript-algorithms** (196121★)
+1. **Pledging Another $400k to the Zig Software Foundation** (427 ⭐)
+2. **Never Give Them Your Face** (397 ⭐)
+3. **Claude Code's "extended thinking" is a summary- not authenti...** (109 ⭐)
 <!-- LIVE_DATA_END -->
