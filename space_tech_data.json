@@ -1,51 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "M27: The Dumbbell Nebula",
-    "date": "2026-06-22",
-    "explanation": "Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Neb...",
-    "url": "https://apod.nasa.gov/apod/image/2606/M27_antonucci_960.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "50.95\u00b0N",
-    "longitude": "142.25\u00b0W",
-    "timestamp": "2026-06-22T16:25:47+00:00",
+    "latitude": "21.48\u00b0S",
+    "longitude": "34.63\u00b0E",
+    "timestamp": "2026-06-22T20:31:57+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Pledging Another $400k to the Zig Software Foundation",
-      "score": 427,
-      "url": "https://mitchellh.com/writing/zig-donation-2026",
-      "time": "2026-06-22T13:43:01"
+      "title": "Steam Machine",
+      "score": 689,
+      "url": "https://store.steampowered.com/hardware/steammachine",
+      "time": "2026-06-22T17:09:51"
     },
     {
-      "title": "Never Give Them Your Face",
-      "score": 397,
-      "url": "https://nevergivethemyourface.com/",
-      "time": "2026-06-22T13:45:48"
+      "title": "Linux and Secure Boot certificate expiration (2025)",
+      "score": 45,
+      "url": "https://lwn.net/Articles/1029767/",
+      "time": "2026-06-22T18:24:29"
     },
     {
-      "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-      "score": 109,
-      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-      "time": "2026-06-22T14:22:46"
+      "title": "British Columbia, Time Zones, and Postgres",
+      "score": 27,
+      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+      "time": "2026-06-22T19:21:00"
     },
     {
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "score": 64,
-      "url": "https://hustvl.github.io/Moebius/",
-      "time": "2026-06-22T13:53:02"
+      "title": "Walt Disney Company is the most successful at monetizing human nostalgia",
+      "score": 10,
+      "url": "https://www.acquired.fm/episodes/the-walt-disney-company",
+      "time": "2026-06-22T20:09:40"
     },
     {
-      "title": "Deno Desktop",
-      "score": 807,
-      "url": "https://docs.deno.com/runtime/desktop/",
-      "time": "2026-06-22T05:38:40"
+      "title": "My Mathematical Regression",
+      "score": 104,
+      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+      "time": "2026-06-19T11:06:04"
     }
   ],
-  "github_trending": [],
-  "last_updated": "2026-06-22T16:25:41.850836+00:00"
+  "github_trending": [
+    {
+      "name": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 245994,
+      "language": "JavaScript",
+      "url": "https://github.com/react/react"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 219858,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196121,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 156534,
+      "language": "JavaScript",
+      "url": "https://github.com/Snailclimb/JavaGuide"
+    },
+    {
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148094,
+      "language": "JavaScript",
+      "url": "https://github.com/airbnb/javascript"
+    }
+  ],
+  "last_updated": "2026-06-22T20:31:46.656711+00:00"
 }

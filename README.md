@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  50.95°N                                       ║
-║  📍 LONGITUDE: 142.25°W                                      ║
+║  📍 LATITUDE:  21.48°S                                       ║
+║  📍 LONGITUDE: 34.63°E                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-22 16:25 UTC                   ║
+║  ⏰ UPDATE: 2026-06-22 20:31 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,14 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: M27: The Dumbbell Nebula                                 ║
-║  DATE:  2026-06-22                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Pledging Another $400k to the Zig Software Foundation** (427 ⭐)
-2. **Never Give Them Your Face** (397 ⭐)
-3. **Claude Code's "extended thinking" is a summary- not authenti...** (109 ⭐)
+1. **Steam Machine** (689 ⭐)
+2. **Linux and Secure Boot certificate expiration (2025)** (45 ⭐)
+3. **British Columbia, Time Zones, and Postgres** (27 ⭐)
+
+### ⭐ TRENDING REPOS
+1. **react/react** (245994★)
+2. **affaan-m/ECC** (219858★)
+3. **trekhleb/javascript-algorithms** (196121★)
 <!-- LIVE_DATA_END -->
