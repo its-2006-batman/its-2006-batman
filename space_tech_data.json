@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "Flying Past Neptune's Moon Triton",
+    "date": "2026-06-23",
+    "explanation": "What would it look like to fly past Triton, the largest moon of planet Neptune?  Only one spacecraft has ever done this -- and the images of this dramatic encounter have been gathered into a video.  In 1989, the Voyager 2 robotic spacecraft shot through the Neptune system with cameras blazing.  Trit...",
+    "url": "https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4",
+    "media_type": "video"
+  },
   "iss_position": {
-    "latitude": "10.17\u00b0S",
-    "longitude": "155.71\u00b0E",
-    "timestamp": "2026-06-23T02:07:27+00:00",
+    "latitude": "16.62\u00b0S",
+    "longitude": "150.08\u00b0W",
+    "timestamp": "2026-06-23T08:56:27+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Steam Machine launches today",
-      "score": 1228,
+      "score": 1555,
       "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
       "time": "2026-06-22T17:09:51"
     },
     {
-      "title": "Runing GLM-5.2 on local hardware",
-      "score": 181,
+      "title": "The new HTTP QUERY method explained",
+      "score": 64,
+      "url": "https://kreya.app/blog/new-http-query-method-explained/",
+      "time": "2026-06-23T06:05:37"
+    },
+    {
+      "title": "Will It Mythos?",
+      "score": 147,
+      "url": "https://swelljoe.com/post/will-it-mythos/",
+      "time": "2026-06-23T04:15:04"
+    },
+    {
+      "title": "AI Built a Nuke and Still Lost",
+      "score": 9,
+      "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+      "time": "2026-06-23T08:16:45"
+    },
+    {
+      "title": "GLM-5.2 \u2013 How to Run Locally",
+      "score": 373,
       "url": "https://unsloth.ai/docs/models/glm-5.2",
       "time": "2026-06-22T21:21:01"
-    },
-    {
-      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
-      "score": 86,
-      "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
-      "time": "2026-06-23T00:47:32"
-    },
-    {
-      "title": "Cyberdecks, going analog, and convivial technology",
-      "score": 40,
-      "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
-      "time": "2026-06-20T02:29:21"
-    },
-    {
-      "title": "In Praise of Memcached",
-      "score": 10,
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
-      "time": "2026-06-23T01:15:05"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245998,
+      "stars": 246015,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 219950,
+      "stars": 220110,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196120,
+      "stars": 196119,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156534,
+      "stars": 156540,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148095,
+      "stars": 148094,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-23T02:07:17.179275+00:00"
+  "last_updated": "2026-06-23T08:56:23.119139+00:00"
 }
