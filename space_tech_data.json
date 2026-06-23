@@ -2,63 +2,63 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "21.48\u00b0S",
-    "longitude": "34.63\u00b0E",
-    "timestamp": "2026-06-22T20:31:57+00:00",
+    "latitude": "10.17\u00b0S",
+    "longitude": "155.71\u00b0E",
+    "timestamp": "2026-06-23T02:07:27+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Steam Machine",
-      "score": 689,
-      "url": "https://store.steampowered.com/hardware/steammachine",
+      "title": "Steam Machine launches today",
+      "score": 1228,
+      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
       "time": "2026-06-22T17:09:51"
     },
     {
-      "title": "Linux and Secure Boot certificate expiration (2025)",
-      "score": 45,
-      "url": "https://lwn.net/Articles/1029767/",
-      "time": "2026-06-22T18:24:29"
+      "title": "Runing GLM-5.2 on local hardware",
+      "score": 181,
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "time": "2026-06-22T21:21:01"
     },
     {
-      "title": "British Columbia, Time Zones, and Postgres",
-      "score": 27,
-      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-      "time": "2026-06-22T19:21:00"
+      "title": "Polymarket's viral videos showed people winning big, but the bets were fake",
+      "score": 86,
+      "url": "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+      "time": "2026-06-23T00:47:32"
     },
     {
-      "title": "Walt Disney Company is the most successful at monetizing human nostalgia",
+      "title": "Cyberdecks, going analog, and convivial technology",
+      "score": 40,
+      "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+      "time": "2026-06-20T02:29:21"
+    },
+    {
+      "title": "In Praise of Memcached",
       "score": 10,
-      "url": "https://www.acquired.fm/episodes/the-walt-disney-company",
-      "time": "2026-06-22T20:09:40"
-    },
-    {
-      "title": "My Mathematical Regression",
-      "score": 104,
-      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
-      "time": "2026-06-19T11:06:04"
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "time": "2026-06-23T01:15:05"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 245994,
+      "stars": 245998,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 219858,
+      "stars": 219950,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196121,
+      "stars": 196120,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
@@ -72,10 +72,10 @@
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148094,
+      "stars": 148095,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-22T20:31:46.656711+00:00"
+  "last_updated": "2026-06-23T02:07:17.179275+00:00"
 }
