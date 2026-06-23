@@ -8,80 +8,80 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "16.62\u00b0S",
-    "longitude": "150.08\u00b0W",
-    "timestamp": "2026-06-23T08:56:27+00:00",
+    "latitude": "7.73\u00b0N",
+    "longitude": "45.91\u00b0W",
+    "timestamp": "2026-06-23T14:24:24+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "score": 170,
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "time": "2026-06-23T11:35:05"
+    },
+    {
       "title": "Steam Machine launches today",
-      "score": 1555,
+      "score": 1759,
       "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
       "time": "2026-06-22T17:09:51"
     },
     {
-      "title": "The new HTTP QUERY method explained",
-      "score": 64,
-      "url": "https://kreya.app/blog/new-http-query-method-explained/",
-      "time": "2026-06-23T06:05:37"
+      "title": "Elevated error rate across multiple models",
+      "score": 9,
+      "url": "https://status.claude.com/incidents/jbhf20wjmzrf",
+      "time": "2026-06-23T14:19:47"
+    },
+    {
+      "title": "Plotnine",
+      "score": 136,
+      "url": "https://plotnine.org/",
+      "time": "2026-06-19T09:08:00"
     },
     {
       "title": "Will It Mythos?",
-      "score": 147,
+      "score": 223,
       "url": "https://swelljoe.com/post/will-it-mythos/",
       "time": "2026-06-23T04:15:04"
-    },
-    {
-      "title": "AI Built a Nuke and Still Lost",
-      "score": 9,
-      "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
-      "time": "2026-06-23T08:16:45"
-    },
-    {
-      "title": "GLM-5.2 \u2013 How to Run Locally",
-      "score": 373,
-      "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "time": "2026-06-22T21:21:01"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246015,
+      "stars": 246029,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 220110,
+      "stars": 220250,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196119,
+      "stars": 196123,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156540,
+      "stars": 156550,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148094,
+      "stars": 148092,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-23T08:56:23.119139+00:00"
+  "last_updated": "2026-06-23T14:24:22.027166+00:00"
 }
