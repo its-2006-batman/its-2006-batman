@@ -1,43 +1,49 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "SDO Observes a Coronal Mass Ejection",
+    "date": "2026-06-24",
+    "explanation": "Why does the Sun throw stuff at us? The Sun\u2019s surface is a churning soup of energetic electrons and ions called plasma. The motion of those charged particles creates magnetic field loops that are larger than the Earth. These loops twist, turn, and trap plasma. The featured time-lapse, taken over 2 h...",
+    "url": "https://apod.nasa.gov/apod/image/2606/sdo_cme.mp4",
+    "media_type": "video"
+  },
   "iss_position": {
-    "latitude": "29.09\u00b0N",
-    "longitude": "12.81\u00b0E",
-    "timestamp": "2026-06-24T08:51:20+00:00",
+    "latitude": "51.36\u00b0S",
+    "longitude": "57.09\u00b0E",
+    "timestamp": "2026-06-24T14:04:13+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Vulnerability reports are not special anymore",
-      "score": 249,
-      "url": "https://words.filippo.io/vuln-reports/",
-      "time": "2026-06-23T23:42:46"
+      "title": "We're making Bunny DNS free: because a faster internet won't build itself",
+      "score": 438,
+      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+      "time": "2026-06-24T08:50:41"
     },
     {
-      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
-      "score": 115,
-      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
-      "time": "2026-06-24T03:17:47"
+      "title": "Krea 2 Technical Report",
+      "score": 71,
+      "url": "https://www.krea.ai/blog/krea-2-technical-report",
+      "time": "2026-06-23T15:31:21"
     },
     {
-      "title": "Show HN: An ASCII 3D Rendering Engine",
-      "score": 111,
-      "url": "https://glyphcss.com",
-      "time": "2026-06-20T19:10:41"
+      "title": "Minimus container images are now free",
+      "score": 51,
+      "url": "https://images.minimus.io/",
+      "time": "2026-06-24T11:52:12"
     },
     {
-      "title": "Jerry's Map",
-      "score": 459,
-      "url": "http://www.jerrysmap.com/the-map",
-      "time": "2026-06-23T18:40:22"
+      "title": "Founding a company in Germany: \u20ac9600, 152 days and I still can't send an invoice",
+      "score": 189,
+      "url": "https://paolino.me/founding-a-company-in-germany/",
+      "time": "2026-06-24T12:31:43"
     },
     {
-      "title": "Why eval startups fail (2025)",
-      "score": 9,
-      "url": "https://thomasliao.com/eval-startups",
-      "time": "2026-06-22T23:20:53"
+      "title": "Too many R packages: CRAN is inundated with submissions",
+      "score": 48,
+      "url": "https://rworks.dev/posts/too-many-R-packages/",
+      "time": "2026-06-24T10:59:59"
     }
   ],
   "github_trending": [
@@ -51,31 +57,31 @@
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 220818,
+      "stars": 220966,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196127,
+      "stars": 196129,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156568,
+      "stars": 156585,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148095,
+      "stars": 148097,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-24T08:51:13.990490+00:00"
+  "last_updated": "2026-06-24T14:04:06.147951+00:00"
 }
