@@ -2,70 +2,70 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "19.22\u00b0N",
-    "longitude": "22.96\u00b0W",
-    "timestamp": "2026-06-24T02:09:48+00:00",
+    "latitude": "29.09\u00b0N",
+    "longitude": "12.81\u00b0E",
+    "timestamp": "2026-06-24T08:51:20+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Vulnerability reports are not special anymore",
-      "score": 72,
+      "score": 249,
       "url": "https://words.filippo.io/vuln-reports/",
       "time": "2026-06-23T23:42:46"
     },
     {
+      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "score": 115,
+      "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
+      "time": "2026-06-24T03:17:47"
+    },
+    {
+      "title": "Show HN: An ASCII 3D Rendering Engine",
+      "score": 111,
+      "url": "https://glyphcss.com",
+      "time": "2026-06-20T19:10:41"
+    },
+    {
       "title": "Jerry's Map",
-      "score": 334,
+      "score": 459,
       "url": "http://www.jerrysmap.com/the-map",
       "time": "2026-06-23T18:40:22"
     },
     {
-      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
-      "score": 72,
-      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
-      "time": "2026-06-22T18:03:03"
-    },
-    {
-      "title": "FUTO Swipe \u2013 A new swipe typing model",
-      "score": 286,
-      "url": "https://swipe.futo.tech/",
-      "time": "2026-06-23T17:50:22"
-    },
-    {
-      "title": "In memory of the man who put red and green squiggles under words",
-      "score": 158,
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-      "time": "2026-06-23T18:10:47"
+      "title": "Why eval startups fail (2025)",
+      "score": 9,
+      "url": "https://thomasliao.com/eval-startups",
+      "time": "2026-06-22T23:20:53"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246094,
+      "stars": 246089,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 220571,
+      "stars": 220818,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196122,
+      "stars": 196127,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156555,
+      "stars": 156568,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-24T02:09:34.622281+00:00"
+  "last_updated": "2026-06-24T08:51:13.990490+00:00"
 }
