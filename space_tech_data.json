@@ -7,81 +7,75 @@
     "url": "https://apod.nasa.gov/apod/image/2606/sdo_cme.mp4",
     "media_type": "video"
   },
-  "iss_position": {
-    "latitude": "51.36\u00b0S",
-    "longitude": "57.09\u00b0E",
-    "timestamp": "2026-06-24T14:04:13+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "We're making Bunny DNS free: because a faster internet won't build itself",
-      "score": 438,
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "score": 182,
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "time": "2026-06-24T17:47:00"
+    },
+    {
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "score": 258,
+      "url": "https://rubyllm.com/",
+      "time": "2026-06-24T14:41:41"
+    },
+    {
+      "title": "We\u2019re making Bunny DNS free",
+      "score": 715,
       "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
       "time": "2026-06-24T08:50:41"
     },
     {
-      "title": "Krea 2 Technical Report",
-      "score": 71,
-      "url": "https://www.krea.ai/blog/krea-2-technical-report",
-      "time": "2026-06-23T15:31:21"
+      "title": "There are a few things that I look back on as my mistakes in the early days",
+      "score": 377,
+      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "time": "2026-06-24T15:56:19"
     },
     {
-      "title": "Minimus container images are now free",
-      "score": 51,
-      "url": "https://images.minimus.io/",
-      "time": "2026-06-24T11:52:12"
-    },
-    {
-      "title": "Founding a company in Germany: \u20ac9600, 152 days and I still can't send an invoice",
-      "score": 189,
-      "url": "https://paolino.me/founding-a-company-in-germany/",
-      "time": "2026-06-24T12:31:43"
-    },
-    {
-      "title": "Too many R packages: CRAN is inundated with submissions",
-      "score": 48,
-      "url": "https://rworks.dev/posts/too-many-R-packages/",
-      "time": "2026-06-24T10:59:59"
+      "title": "PR spam today looks like email spam in the early 2000s",
+      "score": 78,
+      "url": "https://www.greptile.com/blog/prs-on-openclaw",
+      "time": "2026-06-24T14:32:12"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246089,
+      "stars": 246191,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 220966,
+      "stars": 221101,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196129,
+      "stars": 196133,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156585,
+      "stars": 156590,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148097,
+      "stars": 148096,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-24T14:04:06.147951+00:00"
+  "last_updated": "2026-06-24T19:24:50.271296+00:00"
 }
