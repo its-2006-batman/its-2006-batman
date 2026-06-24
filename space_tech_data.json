@@ -1,63 +1,57 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Flying Past Neptune's Moon Triton",
-    "date": "2026-06-23",
-    "explanation": "What would it look like to fly past Triton, the largest moon of planet Neptune?  Only one spacecraft has ever done this -- and the images of this dramatic encounter have been gathered into a video.  In 1989, the Voyager 2 robotic spacecraft shot through the Neptune system with cameras blazing.  Trit...",
-    "url": "https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4",
-    "media_type": "video"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "11.53\u00b0S",
-    "longitude": "48.69\u00b0E",
-    "timestamp": "2026-06-23T19:48:09+00:00",
+    "latitude": "19.22\u00b0N",
+    "longitude": "22.96\u00b0W",
+    "timestamp": "2026-06-24T02:09:48+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Vulnerability reports are not special anymore",
+      "score": 72,
+      "url": "https://words.filippo.io/vuln-reports/",
+      "time": "2026-06-23T23:42:46"
+    },
+    {
       "title": "Jerry's Map",
-      "score": 85,
+      "score": 334,
       "url": "http://www.jerrysmap.com/the-map",
       "time": "2026-06-23T18:40:22"
     },
     {
-      "title": "Swift Package Index joins Apple",
-      "score": 75,
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "time": "2026-06-23T18:00:58"
+      "title": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+      "score": 72,
+      "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+      "time": "2026-06-22T18:03:03"
     },
     {
-      "title": "F3",
-      "score": 459,
-      "url": "https://github.com/future-file-format/f3",
-      "time": "2026-06-23T16:53:32"
+      "title": "FUTO Swipe \u2013 A new swipe typing model",
+      "score": 286,
+      "url": "https://swipe.futo.tech/",
+      "time": "2026-06-23T17:50:22"
     },
     {
-      "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
-      "score": 262,
-      "url": "https://tikz.dev/editor/",
-      "time": "2026-06-23T14:24:21"
-    },
-    {
-      "title": "Unlimited OCR: One-shot long-horizon parsing",
-      "score": 375,
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "time": "2026-06-23T11:35:05"
+      "title": "In memory of the man who put red and green squiggles under words",
+      "score": 158,
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
+      "time": "2026-06-23T18:10:47"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246080,
+      "stars": 246094,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 220389,
+      "stars": 220571,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -71,7 +65,7 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156553,
+      "stars": 156555,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-23T19:48:06.890229+00:00"
+  "last_updated": "2026-06-24T02:09:34.622281+00:00"
 }
