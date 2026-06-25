@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  N/A                                           ║
-║  📍 LONGITUDE: N/A                                           ║
-║  ⚡ VELOCITY:  N/A                                           ║
-║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-06-24 19:25 UTC                   ║
+║  📍 LATITUDE:  20.08°S                                       ║
+║  📍 LONGITUDE: 152.02°E                                      ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ UPDATE: 2026-06-25 02:09 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: SDO Observes a Coronal Mass Ejection                     ║
-║  DATE:  2026-06-24                                                ║
-║  TYPE:  video                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **OpenAI unveils its first custom chip, built by Broadcom** (182 ⭐)
-2. **RubyLLM: A Ruby framework for all major AI providers** (258 ⭐)
-3. **We’re making Bunny DNS free** (715 ⭐)
+1. **OpenAI unveils its first custom chip, built by Broadcom** (538 ⭐)
+2. **LuaJIT 3.0 proposed syntax extensions** (49 ⭐)
+3. **Blogging can just be stating the obvious** (70 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246191★)
-2. **affaan-m/ECC** (221101★)
+1. **react/react** (246186★)
+2. **affaan-m/ECC** (221225★)
 3. **trekhleb/javascript-algorithms** (196133★)
 <!-- LIVE_DATA_END -->

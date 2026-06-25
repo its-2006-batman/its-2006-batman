@@ -1,57 +1,57 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "SDO Observes a Coronal Mass Ejection",
-    "date": "2026-06-24",
-    "explanation": "Why does the Sun throw stuff at us? The Sun\u2019s surface is a churning soup of energetic electrons and ions called plasma. The motion of those charged particles creates magnetic field loops that are larger than the Earth. These loops twist, turn, and trap plasma. The featured time-lapse, taken over 2 h...",
-    "url": "https://apod.nasa.gov/apod/image/2606/sdo_cme.mp4",
-    "media_type": "video"
+  "nasa_apod": null,
+  "iss_position": {
+    "latitude": "20.08\u00b0S",
+    "longitude": "152.02\u00b0E",
+    "timestamp": "2026-06-25T02:09:18+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
   },
-  "iss_position": null,
   "tech_headlines": [
     {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "score": 182,
+      "score": 538,
       "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "time": "2026-06-24T17:47:00"
     },
     {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "score": 258,
-      "url": "https://rubyllm.com/",
-      "time": "2026-06-24T14:41:41"
+      "title": "LuaJIT 3.0 proposed syntax extensions",
+      "score": 49,
+      "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+      "time": "2026-06-25T00:41:43"
     },
     {
-      "title": "We\u2019re making Bunny DNS free",
-      "score": 715,
-      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-      "time": "2026-06-24T08:50:41"
+      "title": "Blogging can just be stating the obvious",
+      "score": 70,
+      "url": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+      "time": "2026-06-24T23:46:37"
     },
     {
-      "title": "There are a few things that I look back on as my mistakes in the early days",
-      "score": 377,
-      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-      "time": "2026-06-24T15:56:19"
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "score": 56,
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "time": "2026-06-24T19:48:01"
     },
     {
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "score": 78,
-      "url": "https://www.greptile.com/blog/prs-on-openclaw",
-      "time": "2026-06-24T14:32:12"
+      "title": "Bible as RAG Database",
+      "score": 11,
+      "url": "https://www.crosscanon.com/",
+      "time": "2026-06-25T01:42:55"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246191,
+      "stars": 246186,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 221101,
+      "stars": 221225,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -65,7 +65,7 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156590,
+      "stars": 156593,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-24T19:24:50.271296+00:00"
+  "last_updated": "2026-06-25T02:09:07.598435+00:00"
 }
