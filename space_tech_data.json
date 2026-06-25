@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.36\u00b0N",
-    "longitude": "143.34\u00b0W",
-    "timestamp": "2026-06-25T14:01:01+00:00",
+    "latitude": "19.73\u00b0S",
+    "longitude": "30.69\u00b0E",
+    "timestamp": "2026-06-25T19:43:52+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Countries are competing to see which can carry out mass surveillance the best",
-      "score": 160,
-      "url": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
-      "time": "2026-06-25T13:07:07"
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "score": 440,
+      "url": "https://scrollprize.org/firstscroll",
+      "time": "2026-06-25T15:48:07"
     },
     {
-      "title": "You can't unit test for taste",
-      "score": 58,
-      "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-      "time": "2026-06-24T08:54:12"
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "score": 140,
+      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "time": "2026-06-25T15:33:37"
     },
     {
-      "title": "Half-Life 2 in a Browser",
-      "score": 421,
-      "url": "https://hl2.slqnt.dev/",
-      "time": "2026-06-25T06:00:04"
+      "title": "Oxide computer 3D rack guided tour",
+      "score": 105,
+      "url": "https://explorer.oxide.computer/",
+      "time": "2026-06-22T15:21:04"
     },
     {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "score": 575,
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "time": "2026-06-24T19:48:01"
+      "title": "Zig's new bitCast semantics and LLVM back end improvements",
+      "score": 163,
+      "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+      "time": "2026-06-25T14:19:28"
     },
     {
-      "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
-      "score": 10,
-      "url": "https://lingochunk.com/try",
-      "time": "2026-06-25T11:29:13"
+      "title": "OS9Map",
+      "score": 103,
+      "url": "https://yllan.org/software/OS9Map/",
+      "time": "2026-06-25T15:01:06"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246134,
+      "stars": 246102,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 221518,
+      "stars": 221684,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196139,
+      "stars": 196144,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156614,
+      "stars": 156615,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148095,
+      "stars": 148096,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-25T14:00:59.054609+00:00"
+  "last_updated": "2026-06-25T19:43:51.371254+00:00"
 }
