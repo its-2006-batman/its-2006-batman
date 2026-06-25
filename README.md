@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  20.08°S                                       ║
-║  📍 LONGITUDE: 152.02°E                                      ║
+║  📍 LATITUDE:  40.91°S                                       ║
+║  📍 LONGITUDE: 171.07°E                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-25 02:09 UTC                   ║
+║  ⏰ UPDATE: 2026-06-25 08:45 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: Anticrepuscular Rays over Sicily                         ║
+║  DATE:  2026-06-25                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **OpenAI unveils its first custom chip, built by Broadcom** (538 ⭐)
-2. **LuaJIT 3.0 proposed syntax extensions** (49 ⭐)
-3. **Blogging can just be stating the obvious** (70 ⭐)
+1. **Half-Life 2 in a Browser** (180 ⭐)
+2. **Wikipedia Workers in Britain set global first by seeking uni...** (42 ⭐)
+3. **Anthropic says Alibaba illicitly extracted Claude AI model c...** (388 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246186★)
-2. **affaan-m/ECC** (221225★)
-3. **trekhleb/javascript-algorithms** (196133★)
+1. **react/react** (246214★)
+2. **affaan-m/ECC** (221394★)
+3. **trekhleb/javascript-algorithms** (196134★)
 <!-- LIVE_DATA_END -->
