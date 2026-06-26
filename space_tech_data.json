@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Milky Way Urban Style",
-    "date": "2026-06-26",
-    "explanation": "In a cosmic vista you can never see, the Milky Way arcs through the night above Seoul, South Korea. Remarkably, this urban night skyscape reveals our galaxy's faintly luminous central region and dark obscuring dust clouds in spite of the brilliant city lights. To overcome the extreme light pollution...",
-    "url": "https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "51.42\u00b0S",
-    "longitude": "31.90\u00b0E",
-    "timestamp": "2026-06-26T14:00:23+00:00",
+    "latitude": "51.60\u00b0N",
+    "longitude": "137.55\u00b0E",
+    "timestamp": "2026-06-26T19:26:47+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Om Malik has died",
-      "score": 1055,
-      "url": "https://om.co/2026/06/24/1966-2026/",
-      "time": "2026-06-25T20:33:37"
+      "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
+      "score": 411,
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "time": "2026-06-26T17:06:55"
     },
     {
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "score": 1440,
-      "url": "https://scrollprize.org/firstscroll",
-      "time": "2026-06-25T15:48:07"
+      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "score": 171,
+      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "time": "2026-06-23T09:39:35"
     },
     {
-      "title": "Bipartite Matching Is in NC",
-      "score": 46,
-      "url": "https://scottaaronson.blog/?p=9851",
-      "time": "2026-06-22T22:43:48"
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "score": 77,
+      "url": "https://github.com/workweave/router",
+      "time": "2026-06-26T16:40:11"
     },
     {
-      "title": "Libre Barcode Project",
-      "score": 213,
-      "url": "https://graphicore.github.io/librebarcode/",
-      "time": "2026-06-26T03:12:42"
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "score": 145,
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "time": "2026-06-26T18:23:14"
     },
     {
-      "title": "What happened after 2k people tried to hack my AI assistant",
-      "score": 247,
-      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-      "time": "2026-06-26T02:29:23"
+      "title": "Ultrasound imaging of the brain",
+      "score": 163,
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
+      "time": "2026-06-26T11:51:11"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246117,
+      "stars": 246139,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 222023,
+      "stars": 222102,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196146,
+      "stars": 196137,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156632,
+      "stars": 156634,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148089,
+      "stars": 148090,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-26T14:00:16.516194+00:00"
+  "last_updated": "2026-06-26T19:26:36.634427+00:00"
 }

@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  51.42°S                                       ║
-║  📍 LONGITUDE: 31.90°E                                       ║
+║  📍 LATITUDE:  51.60°N                                       ║
+║  📍 LONGITUDE: 137.55°E                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-26 14:00 UTC                   ║
+║  ⏰ UPDATE: 2026-06-26 19:26 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Milky Way Urban Style                                    ║
-║  DATE:  2026-06-26                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Om Malik has died** (1055 ⭐)
-2. **An entire Herculaneum scroll has been read for the first tim...** (1440 ⭐)
-3. **Bipartite Matching Is in NC** (46 ⭐)
+1. **Previewing GPT‑5.6 Sol: a next-generation model** (411 ⭐)
+2. **MicroVMs: Run isolated sandboxes with full lifecycle control** (171 ⭐)
+3. **Show HN: Smart model routing directly in Claude, Codex and C...** (77 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246117★)
-2. **affaan-m/ECC** (222023★)
-3. **trekhleb/javascript-algorithms** (196146★)
+1. **react/react** (246139★)
+2. **affaan-m/ECC** (222102★)
+3. **trekhleb/javascript-algorithms** (196137★)
 <!-- LIVE_DATA_END -->
