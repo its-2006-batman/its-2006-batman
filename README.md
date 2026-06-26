@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  19.73°S                                       ║
-║  📍 LONGITUDE: 30.69°E                                       ║
+║  📍 LATITUDE:  26.40°N                                       ║
+║  📍 LONGITUDE: 27.97°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-25 19:43 UTC                   ║
+║  ⏰ UPDATE: 2026-06-26 02:10 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **An entire Herculaneum scroll has been read for the first tim...** (440 ⭐)
-2. **IBM debuts sub-1 nanometer chip technology** (140 ⭐)
-3. **Oxide computer 3D rack guided tour** (105 ⭐)
+1. **Om Malik has died** (477 ⭐)
+2. **An entire Herculaneum scroll has been read for the first tim...** (993 ⭐)
+3. **Apple to skip high-end M6 Mac chips in favor of AI-focused M...** (51 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246102★)
-2. **affaan-m/ECC** (221684★)
-3. **trekhleb/javascript-algorithms** (196144★)
+1. **react/react** (246103★)
+2. **affaan-m/ECC** (221770★)
+3. **trekhleb/javascript-algorithms** (196145★)
 <!-- LIVE_DATA_END -->
