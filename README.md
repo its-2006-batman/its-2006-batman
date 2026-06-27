@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  51.60°N                                       ║
-║  📍 LONGITUDE: 137.55°E                                      ║
+║  📍 LATITUDE:  15.66°S                                       ║
+║  📍 LONGITUDE: 136.91°E                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-26 19:26 UTC                   ║
+║  ⏰ UPDATE: 2026-06-27 02:06 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: Milky Way Urban Style                                    ║
+║  DATE:  2026-06-26                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Previewing GPT‑5.6 Sol: a next-generation model** (411 ⭐)
-2. **MicroVMs: Run isolated sandboxes with full lifecycle control** (171 ⭐)
-3. **Show HN: Smart model routing directly in Claude, Codex and C...** (77 ⭐)
+1. **Previewing GPT‑5.6 Sol: a next-generation model** (850 ⭐)
+2. **Why does kinetic energy increase quadratically, not linearly...** (81 ⭐)
+3. **A C++ implementation of a fast hash map and hash set using h...** (63 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246139★)
-2. **affaan-m/ECC** (222102★)
-3. **trekhleb/javascript-algorithms** (196137★)
+1. **react/react** (246128★)
+2. **affaan-m/ECC** (222204★)
+3. **trekhleb/javascript-algorithms** (196138★)
 <!-- LIVE_DATA_END -->
