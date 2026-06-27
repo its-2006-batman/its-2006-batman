@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  15.66°S                                       ║
-║  📍 LONGITUDE: 136.91°E                                      ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-27 02:06 UTC                   ║
+║  📍 LATITUDE:  N/A                                           ║
+║  📍 LONGITUDE: N/A                                           ║
+║  ⚡ VELOCITY:  N/A                                           ║
+║  🌍 ALTITUDE:  N/A                                           ║
+║  ⏰ UPDATE: 2026-06-27 08:25 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Milky Way Urban Style                                    ║
-║  DATE:  2026-06-26                                                ║
+║  TITLE: Mars Marathon by Perseverance                            ║
+║  DATE:  2026-06-27                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Previewing GPT‑5.6 Sol: a next-generation model** (850 ⭐)
-2. **Why does kinetic energy increase quadratically, not linearly...** (81 ⭐)
-3. **A C++ implementation of a fast hash map and hash set using h...** (63 ⭐)
+1. **OpenTTD 16.0-Beta1** (121 ⭐)
+2. **Previewing GPT‑5.6 Sol: a next-generation model** (979 ⭐)
+3. **WordStar: A Writer's Word Processor (1996)** (73 ⭐)
 
 ### ⭐ TRENDING REPOS
 1. **react/react** (246128★)
-2. **affaan-m/ECC** (222204★)
-3. **trekhleb/javascript-algorithms** (196138★)
+2. **affaan-m/ECC** (222291★)
+3. **trekhleb/javascript-algorithms** (196139★)
 <!-- LIVE_DATA_END -->
