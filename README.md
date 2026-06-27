@@ -418,7 +418,7 @@ END TRANSMISSION
 ║  📍 LONGITUDE: N/A                                           ║
 ║  ⚡ VELOCITY:  N/A                                           ║
 ║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-06-27 08:25 UTC                   ║
+║  ⏰ UPDATE: 2026-06-27 13:06 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Mars Marathon by Perseverance                            ║
-║  DATE:  2026-06-27                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **OpenTTD 16.0-Beta1** (121 ⭐)
-2. **Previewing GPT‑5.6 Sol: a next-generation model** (979 ⭐)
-3. **WordStar: A Writer's Word Processor (1996)** (73 ⭐)
+1. **DSpark: Speculative decoding accelerates LLM inference [pdf]** (472 ⭐)
+2. **Fintech Engineering Handbook** (127 ⭐)
+3. **OpenRA** (26 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246128★)
-2. **affaan-m/ECC** (222291★)
-3. **trekhleb/javascript-algorithms** (196139★)
+1. **react/react** (246136★)
+2. **affaan-m/ECC** (222384★)
+3. **trekhleb/javascript-algorithms** (196141★)
 <!-- LIVE_DATA_END -->

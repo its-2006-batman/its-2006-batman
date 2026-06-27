@@ -1,81 +1,75 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Mars Marathon by Perseverance",
-    "date": "2026-06-27",
-    "explanation": "In this recent HiRISE view from the Mars Reconnaissance Orbiter, the little green dot indicated on the surface of the big Red Planet is the Perseverance Mars rover. Recorded on June 13, the car-sized, six-wheeled robot was imaged a day before completing a Martian marathon, traveling a total distance...",
-    "url": "https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": "OpenTTD 16.0-Beta1",
-      "score": 121,
-      "url": "https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1",
-      "time": "2026-06-27T04:31:06"
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "score": 472,
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "time": "2026-06-27T09:18:52"
     },
     {
-      "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
-      "score": 979,
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "time": "2026-06-26T17:06:55"
+      "title": "Fintech Engineering Handbook",
+      "score": 127,
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "time": "2026-06-27T10:28:53"
     },
     {
-      "title": "WordStar: A Writer's Word Processor (1996)",
-      "score": 73,
-      "url": "https://www.sfwriter.com/wordstar.htm",
-      "time": "2026-06-27T03:30:01"
+      "title": "OpenRA",
+      "score": 26,
+      "url": "https://www.openra.net/",
+      "time": "2026-06-27T12:10:27"
     },
     {
-      "title": "Long Wave radio era set to end with switch-off",
-      "score": 8,
-      "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
-      "time": "2026-06-25T18:42:17"
+      "title": "If You Can't Hold It, You Don't Own It",
+      "score": 31,
+      "url": "https://dervis.de/physical/",
+      "time": "2026-06-27T11:32:10"
     },
     {
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "score": 224,
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-      "time": "2026-06-26T22:43:29"
+      "title": "Beer CSS \u2013 Build material design in record time",
+      "score": 61,
+      "url": "https://www.beercss.com",
+      "time": "2026-06-27T09:06:11"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246128,
+      "stars": 246136,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 222291,
+      "stars": 222384,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196139,
+      "stars": 196141,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156642,
+      "stars": 156648,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148089,
+      "stars": 148087,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-27T08:24:46.677484+00:00"
+  "last_updated": "2026-06-27T13:06:28.962779+00:00"
 }
