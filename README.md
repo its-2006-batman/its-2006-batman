@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  0.38°S                                        ║
-║  📍 LONGITUDE: 133.89°W                                      ║
+║  📍 LATITUDE:  49.03°N                                       ║
+║  📍 LONGITUDE: 46.91°E                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-27 19:02 UTC                   ║
+║  ⏰ UPDATE: 2026-06-28 02:27 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,14 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: Mars Marathon by Perseverance                            ║
+║  DATE:  2026-06-27                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Anonymous GitHub account mass-dropping undisclosed 0-days** (366 ⭐)
-2. **OpenRA** (386 ⭐)
-3. **DSpark: Speculative decoding accelerates LLM inference [pdf]** (669 ⭐)
+1. **AMD Strix Halo RDMA Cluster Setup Guide** (34 ⭐)
+2. **Show HN: Decomp Academy – Learn to decompile GameCube games ...** (24 ⭐)
+3. **Anonymous GitHub account mass-dropping undisclosed 0-days** (680 ⭐)
+
+### ⭐ TRENDING REPOS
+1. **react/react** (246160★)
+2. **affaan-m/ECC** (222673★)
+3. **trekhleb/javascript-algorithms** (196148★)
 <!-- LIVE_DATA_END -->
