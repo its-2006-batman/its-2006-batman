@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Mars Marathon by Perseverance",
-    "date": "2026-06-27",
-    "explanation": "In this recent HiRISE view from the Mars Reconnaissance Orbiter, the little green dot indicated on the surface of the big Red Planet is the Perseverance Mars rover. Recorded on June 13, the car-sized, six-wheeled robot was imaged a day before completing a Martian marathon, traveling a total distance...",
-    "url": "https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "49.03\u00b0N",
-    "longitude": "46.91\u00b0E",
-    "timestamp": "2026-06-28T02:27:32+00:00",
+    "latitude": "49.10\u00b0N",
+    "longitude": "47.79\u00b0W",
+    "timestamp": "2026-06-28T08:38:52+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "score": 197,
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "time": "2026-06-28T02:23:08"
+    },
+    {
+      "title": "Bashblog \u2013 a single bash script to create blogs",
+      "score": 32,
+      "url": "https://github.com/cfenollosa/bashblog",
+      "time": "2026-06-28T04:48:32"
+    },
+    {
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "score": 57,
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "time": "2026-06-28T04:31:18"
+    },
+    {
       "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "score": 34,
+      "score": 125,
       "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
       "time": "2026-06-28T00:46:52"
     },
     {
       "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
-      "score": 24,
+      "score": 115,
       "url": "https://decomp-academy.dev",
       "time": "2026-06-28T01:21:20"
-    },
-    {
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "score": 680,
-      "url": "https://github.com/bikini/exploitarium",
-      "time": "2026-06-27T14:31:00"
-    },
-    {
-      "title": "Choosing a Public DNS Resolver",
-      "score": 61,
-      "url": "https://evilbit.de/dns-resolver-guide.html",
-      "time": "2026-06-27T22:11:28"
-    },
-    {
-      "title": "OpenRA",
-      "score": 591,
-      "url": "https://www.openra.net/",
-      "time": "2026-06-27T12:10:27"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246160,
+      "stars": 246230,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 222673,
+      "stars": 222762,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196148,
+      "stars": 196146,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156649,
+      "stars": 156655,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148084,
+      "stars": 148085,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-28T02:27:28.435876+00:00"
+  "last_updated": "2026-06-28T08:38:45.084046+00:00"
 }

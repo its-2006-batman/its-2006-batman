@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  49.03°N                                       ║
-║  📍 LONGITUDE: 46.91°E                                       ║
+║  📍 LATITUDE:  49.10°N                                       ║
+║  📍 LONGITUDE: 47.79°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-28 02:27 UTC                   ║
+║  ⏰ UPDATE: 2026-06-28 08:38 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Mars Marathon by Perseverance                            ║
-║  DATE:  2026-06-27                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **AMD Strix Halo RDMA Cluster Setup Guide** (34 ⭐)
-2. **Show HN: Decomp Academy – Learn to decompile GameCube games ...** (24 ⭐)
-3. **Anonymous GitHub account mass-dropping undisclosed 0-days** (680 ⭐)
+1. **Marfa Public Radio Puts You to Sleep** (197 ⭐)
+2. **Bashblog – a single bash script to create blogs** (32 ⭐)
+3. **Wayfinder Router: deterministic routing of queries between l...** (57 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246160★)
-2. **affaan-m/ECC** (222673★)
-3. **trekhleb/javascript-algorithms** (196148★)
+1. **react/react** (246230★)
+2. **affaan-m/ECC** (222762★)
+3. **trekhleb/javascript-algorithms** (196146★)
 <!-- LIVE_DATA_END -->
