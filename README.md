@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  51.61°N                                       ║
-║  📍 LONGITUDE: 141.98°W                                      ║
+║  📍 LATITUDE:  2.66°S                                        ║
+║  📍 LONGITUDE: 38.21°E                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-28 13:13 UTC                   ║
+║  ⏰ UPDATE: 2026-06-28 19:00 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: AR 4478: Giant Sunspot Group                             ║
-║  DATE:  2026-06-28                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **A way to exclude sensitive files issue still open for OpenAI...** (15 ⭐)
-2. **Marfa Public Radio Puts You to Sleep** (298 ⭐)
-3. **DLL that was not present in memory despite not being formall...** (42 ⭐)
+1. **5k Restaurant Menus, Years 1880-1920** (233 ⭐)
+2. **I used Claude Code to get a second opinion on my MRI** (126 ⭐)
+3. **The Cost Yagni Was Never About – By Kent Beck** (15 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246272★)
-2. **affaan-m/ECC** (222845★)
-3. **trekhleb/javascript-algorithms** (196146★)
+1. **react/react** (246277★)
+2. **affaan-m/ECC** (222963★)
+3. **trekhleb/javascript-algorithms** (196145★)
 <!-- LIVE_DATA_END -->

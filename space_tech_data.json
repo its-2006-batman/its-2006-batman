@@ -1,77 +1,71 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "AR 4478: Giant Sunspot Group",
-    "date": "2026-06-28",
-    "explanation": "Right now, one of the largest sunspot groups in recent history is crossing the Sun.  Active Region 4478 is not only big -- it's violent, showing tangled magnetic fields capable of throwing off huge clouds of particles into the Solar System.  Some of these CMEs might impact the Earth.  At the extreme...",
-    "url": "https://apod.nasa.gov/apod/image/2606/AR4478_vidal_960.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "51.61\u00b0N",
-    "longitude": "141.98\u00b0W",
-    "timestamp": "2026-06-28T13:13:23+00:00",
+    "latitude": "2.66\u00b0S",
+    "longitude": "38.21\u00b0E",
+    "timestamp": "2026-06-28T19:00:47+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+      "title": "5k Restaurant Menus, Years 1880-1920",
+      "score": 233,
+      "url": "https://pudding.cool/2026/06/menu-collection/",
+      "time": "2026-06-28T14:44:56"
+    },
+    {
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "score": 126,
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "time": "2026-06-28T16:35:19"
+    },
+    {
+      "title": "The Cost Yagni Was Never About \u2013 By Kent Beck",
       "score": 15,
-      "url": "https://github.com/openai/codex/issues/2847",
-      "time": "2026-06-28T12:27:33"
+      "url": "https://newsletter.kentbeck.com/p/the-cost-yagni-was-never-about",
+      "time": "2026-06-28T18:31:54"
     },
     {
-      "title": "Marfa Public Radio Puts You to Sleep",
-      "score": 298,
-      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-      "time": "2026-06-28T02:23:08"
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "score": 45,
+      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "time": "2026-06-28T16:58:59"
     },
     {
-      "title": "DLL that was not present in memory despite not being formally unloaded",
-      "score": 42,
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
-      "time": "2026-06-28T09:53:58"
-    },
-    {
-      "title": "Bashblog \u2013 a single bash script to create blogs",
-      "score": 71,
-      "url": "https://github.com/cfenollosa/bashblog",
-      "time": "2026-06-28T04:48:32"
-    },
-    {
-      "title": "Kids act would require age checks to get online",
-      "score": 25,
-      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-      "time": "2026-06-28T11:56:16"
+      "title": "Reflections on Software Engineering in the Age of AI",
+      "score": 61,
+      "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+      "time": "2026-06-28T16:17:38"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246272,
+      "stars": 246277,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 222845,
+      "stars": 222963,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196146,
+      "stars": 196145,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156659,
+      "stars": 156661,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-28T13:13:18.095824+00:00"
+  "last_updated": "2026-06-28T19:00:37.414839+00:00"
 }
