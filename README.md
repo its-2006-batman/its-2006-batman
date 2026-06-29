@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  49.41°N                                       ║
-║  📍 LONGITUDE: 156.03°E                                      ║
+║  📍 LATITUDE:  18.64°S                                       ║
+║  📍 LONGITUDE: 8.64°E                                        ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-06-29 15:28 UTC                   ║
+║  ⏰ UPDATE: 2026-06-29 19:41 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: M82: Galaxy with a Supergalactic Wind                    ║
+║  DATE:  2026-06-29                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Mag 7 starting to underperform [pdf]** (91 ⭐)
-2. **RocketLab Acquires Iridium** (47 ⭐)
-3. **What happens when you run a CUDA kernel?** (55 ⭐)
+1. **Qwen 3.6 27B is the sweet spot for local development** (292 ⭐)
+2. **Rocketlab acquires Iridium** (259 ⭐)
+3. **Ornith-1.0: self-improving open-source models for agentic co...** (49 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246314★)
-2. **affaan-m/ECC** (223360★)
-3. **trekhleb/javascript-algorithms** (196151★)
+1. **react/react** (246310★)
+2. **affaan-m/ECC** (223422★)
+3. **trekhleb/javascript-algorithms** (196154★)
 <!-- LIVE_DATA_END -->

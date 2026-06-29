@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "M82: Galaxy with a Supergalactic Wind",
+    "date": "2026-06-29",
+    "explanation": "Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that this gas and dust is ...",
+    "url": "https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "49.41\u00b0N",
-    "longitude": "156.03\u00b0E",
-    "timestamp": "2026-06-29T15:28:15+00:00",
+    "latitude": "18.64\u00b0S",
+    "longitude": "8.64\u00b0E",
+    "timestamp": "2026-06-29T19:41:04+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Mag 7 starting to underperform [pdf]",
-      "score": 91,
-      "url": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
-      "time": "2026-06-29T14:12:55"
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "score": 292,
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "time": "2026-06-29T17:05:16"
     },
     {
-      "title": "RocketLab Acquires Iridium",
-      "score": 47,
+      "title": "Rocketlab acquires Iridium",
+      "score": 259,
       "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
       "time": "2026-06-29T14:09:24"
     },
     {
-      "title": "What happens when you run a CUDA kernel?",
-      "score": 55,
-      "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-      "time": "2026-06-29T13:11:08"
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "score": 49,
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "time": "2026-06-29T17:16:17"
     },
     {
-      "title": "Building Principia for Windows XP",
-      "score": 55,
-      "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
-      "time": "2026-06-29T13:23:19"
+      "title": "A native graphical shell for SSH",
+      "score": 138,
+      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+      "time": "2026-06-29T15:42:17"
     },
     {
-      "title": "Sandia National Labs SA3000 8085 CPU",
-      "score": 100,
-      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
-      "time": "2026-06-29T10:20:25"
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "score": 130,
+      "url": "https://humphri.es/blog/WATaBoy/",
+      "time": "2026-06-29T15:02:00"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246314,
+      "stars": 246310,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 223360,
+      "stars": 223422,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196151,
+      "stars": 196154,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156689,
+      "stars": 156692,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148086,
+      "stars": 148088,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-29T15:28:04.832001+00:00"
+  "last_updated": "2026-06-29T19:40:59.930296+00:00"
 }
