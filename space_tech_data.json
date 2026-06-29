@@ -1,51 +1,57 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "31.31\u00b0S",
+    "longitude": "138.06\u00b0E",
+    "timestamp": "2026-06-29T10:19:27+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
+      "score": 457,
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "time": "2026-06-29T01:44:40"
+    },
+    {
       "title": "GLM 5.2 beats Claude in our benchmarks",
-      "score": 479,
+      "score": 860,
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
       "time": "2026-06-28T17:50:47"
     },
     {
-      "title": "Historical memory prices 1960-2026",
-      "score": 173,
-      "url": "https://dam.stanford.edu/memory-prices.html",
-      "time": "2026-06-28T18:32:53"
+      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+      "score": 81,
+      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+      "time": "2026-06-28T16:10:50"
     },
     {
-      "title": "5k menus from the New York Public Library\u2019s Buttolph Collection (1880-1920)",
-      "score": 330,
-      "url": "https://pudding.cool/2026/06/menu-story/",
-      "time": "2026-06-28T14:44:56"
+      "title": "NUMA: Cores, memory, and the distance between them",
+      "score": 24,
+      "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
+      "time": "2026-06-24T16:10:08"
     },
     {
-      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
-      "score": 54,
-      "url": "https://arxiv.org/abs/2401.07013",
-      "time": "2026-06-28T22:32:04"
-    },
-    {
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "score": 358,
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "time": "2026-06-28T16:35:19"
+      "title": "Age verification is just a precursor to automated attribution of speech",
+      "score": 495,
+      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+      "time": "2026-06-29T03:42:07"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246283,
+      "stars": 246291,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 223084,
+      "stars": 223252,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -59,17 +65,17 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156661,
+      "stars": 156679,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148089,
+      "stars": 148087,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-29T02:28:06.007155+00:00"
+  "last_updated": "2026-06-29T10:19:17.376804+00:00"
 }
