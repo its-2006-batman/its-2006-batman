@@ -1,71 +1,71 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "M82: Galaxy with a Supergalactic Wind",
-    "date": "2026-06-29",
-    "explanation": "Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that this gas and dust is ...",
-    "url": "https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg",
+    "title": "Unusually Smooth Sections of Asteroid Itokawa",
+    "date": "2026-06-30",
+    "explanation": "Why are parts of this asteroid's surface so smooth?  The answer seems likely to do with the dynamics of an asteroid that is a loose pile of rubble rather than a solid rock.  The unusual asteroid Itokawa was visited by the Japanese spacecraft Hayabusa in 2005 which imaged and documented its unusual s...",
+    "url": "https://apod.nasa.gov/apod/image/2606/itokawa07_hayabusa_1080.jpg",
     "media_type": "image"
   },
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "score": 337,
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "time": "2026-06-29T19:49:28"
+      "title": "Open Source Low Tech",
+      "score": 133,
+      "url": "https://opensourcelowtech.org/",
+      "time": "2026-06-26T06:35:17"
     },
     {
       "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "score": 618,
+      "score": 897,
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
       "time": "2026-06-29T17:05:16"
     },
     {
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "score": 497,
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "time": "2026-06-29T19:49:28"
+    },
+    {
       "title": "Free the Icons",
-      "score": 221,
+      "score": 437,
       "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
       "time": "2026-06-27T15:05:17"
     },
     {
-      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
-      "score": 24,
+      "title": "Memory Safe Context Switching",
+      "score": 121,
       "url": "https://fil-c.org/context_switches",
       "time": "2026-06-30T00:38:19"
-    },
-    {
-      "title": "Exploring PDP-1 Lisp (1960)",
-      "score": 15,
-      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
-      "time": "2026-06-30T00:56:42"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246309,
+      "stars": 246316,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 223523,
+      "stars": 223650,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196154,
+      "stars": 196155,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156692,
+      "stars": 156709,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-30T02:11:25.689852+00:00"
+  "last_updated": "2026-06-30T08:54:21.545952+00:00"
 }
