@@ -7,57 +7,51 @@
     "url": "https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "18.64\u00b0S",
-    "longitude": "8.64\u00b0E",
-    "timestamp": "2026-06-29T19:41:04+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "score": 337,
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "time": "2026-06-29T19:49:28"
+    },
+    {
       "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "score": 292,
+      "score": 618,
       "url": "https://quesma.com/blog/qwen-36-is-awesome/",
       "time": "2026-06-29T17:05:16"
     },
     {
-      "title": "Rocketlab acquires Iridium",
-      "score": 259,
-      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "time": "2026-06-29T14:09:24"
+      "title": "Free the Icons",
+      "score": 221,
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "time": "2026-06-27T15:05:17"
     },
     {
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "score": 49,
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "time": "2026-06-29T17:16:17"
+      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "score": 24,
+      "url": "https://fil-c.org/context_switches",
+      "time": "2026-06-30T00:38:19"
     },
     {
-      "title": "A native graphical shell for SSH",
-      "score": 138,
-      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "time": "2026-06-29T15:42:17"
-    },
-    {
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "score": 130,
-      "url": "https://humphri.es/blog/WATaBoy/",
-      "time": "2026-06-29T15:02:00"
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "score": 15,
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "time": "2026-06-30T00:56:42"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246310,
+      "stars": 246309,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 223422,
+      "stars": 223523,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -78,10 +72,10 @@
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148088,
+      "stars": 148087,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-06-29T19:40:59.930296+00:00"
+  "last_updated": "2026-06-30T02:11:25.689852+00:00"
 }
