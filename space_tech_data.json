@@ -1,81 +1,51 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "The Cotton Candy Clouds of Rho Ophiuchi",
+    "date": "2026-07-01",
+    "explanation": "Although they look like cotton candy, you cannot eat these clouds! Taken in C\u00e1diz, Spain, today's image features the Rho Ophiuchi complex, a rich tapestry of young and old astronomical phenomena. This colorful cloud complex is a nearby star-forming region containing hundreds of young stellar objects...",
+    "url": "https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_800.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "42.26\u00b0N",
-    "longitude": "128.49\u00b0W",
-    "timestamp": "2026-07-01T14:05:24+00:00",
+    "latitude": "21.59\u00b0S",
+    "longitude": "5.34\u00b0W",
+    "timestamp": "2026-07-01T19:38:24+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Why I Stopped Arguing with People",
-      "score": 109,
-      "url": "https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html",
-      "time": "2026-07-01T13:29:29"
+      "title": "For first time, a cell built from scratch grows and divides",
+      "score": 520,
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "time": "2026-07-01T14:20:52"
     },
     {
-      "title": "Asahi Linux 7.1 Progress Report",
-      "score": 325,
-      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
-      "time": "2026-07-01T10:07:04"
+      "title": "What to Learn to Be a Graphics Programmer",
+      "score": 88,
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "time": "2026-07-01T17:53:44"
     },
     {
-      "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
-      "score": 225,
-      "url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
-      "time": "2026-07-01T09:21:44"
+      "title": "ZCode: Claude Code from the Makers of GLM",
+      "score": 25,
+      "url": "https://zcode.z.ai/cn",
+      "time": "2026-07-01T19:11:38"
     },
     {
-      "title": "Launch HN: Parsewise (YC P25) \u2013 Reason Across Documents with an API",
-      "score": 8,
-      "url": "https://news.ycombinator.com/item?id=48746752",
-      "time": "2026-07-01T13:48:44"
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "score": 133,
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "time": "2026-07-01T14:10:28"
     },
     {
-      "title": "Claude Code is steganographically marking requests",
-      "score": 2254,
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "time": "2026-06-30T15:44:24"
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "score": 384,
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "time": "2026-07-01T12:13:34"
     }
   ],
-  "github_trending": [
-    {
-      "name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 246133,
-      "language": "JavaScript",
-      "url": "https://github.com/react/react"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 224471,
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196152,
-      "language": "JavaScript",
-      "url": "https://github.com/trekhleb/javascript-algorithms"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156736,
-      "language": "JavaScript",
-      "url": "https://github.com/Snailclimb/JavaGuide"
-    },
-    {
-      "name": "airbnb/javascript",
-      "description": "JavaScript Style Guide",
-      "stars": 148086,
-      "language": "JavaScript",
-      "url": "https://github.com/airbnb/javascript"
-    }
-  ],
-  "last_updated": "2026-07-01T14:05:14.035054+00:00"
+  "github_trending": [],
+  "last_updated": "2026-07-01T19:38:21.387192+00:00"
 }
