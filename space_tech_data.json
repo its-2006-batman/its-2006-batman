@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "The Cotton Candy Clouds of Rho Ophiuchi",
-    "date": "2026-07-01",
-    "explanation": "Although they look like cotton candy, you cannot eat these clouds! Taken in C\u00e1diz, Spain, today's image features the Rho Ophiuchi complex, a rich tapestry of young and old astronomical phenomena. This colorful cloud complex is a nearby star-forming region containing hundreds of young stellar objects...",
-    "url": "https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_800.jpg",
+    "title": "Sibling Supernova Remnants",
+    "date": "2026-07-02",
+    "explanation": "What happens when one of the stars in a binary goes supernova?   This image combines visible (yellow), ultraviolet (purple) and infrared light (cyan, red and orange) to show two supernova remnants and their surrounding environment, about 6,000 light-years away.   The younger one is the well-known Je...",
+    "url": "https://apod.nasa.gov/apod/image/2607/sibling_supernovae_1024.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "31.99\u00b0N",
-    "longitude": "56.41\u00b0W",
-    "timestamp": "2026-07-02T02:07:59+00:00",
+    "latitude": "41.28\u00b0N",
+    "longitude": "49.77\u00b0W",
+    "timestamp": "2026-07-02T08:40:03+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "score": 116,
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "time": "2026-07-02T04:32:41"
+    },
+    {
+      "title": "A new Android malware from Google",
+      "score": 294,
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "time": "2026-07-02T03:00:15"
+    },
+    {
       "title": "ZCode \u2013 Harness for GLM-5.2",
-      "score": 204,
+      "score": 381,
       "url": "https://zcode.z.ai/en",
       "time": "2026-07-01T22:03:36"
     },
     {
-      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
-      "score": 224,
-      "url": "https://www.workerowned.info/",
-      "time": "2026-07-01T20:47:41"
-    },
-    {
-      "title": "For first time, a cell built from scratch grows and divides",
-      "score": 734,
-      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-      "time": "2026-07-01T14:20:52"
-    },
-    {
-      "title": "Building an Open-Source Robot Vacuum \u2013 Meet Oomwoo",
-      "score": 30,
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "score": 266,
       "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
       "time": "2026-07-02T00:48:01"
     },
     {
-      "title": "What to learn to be a graphics programmer",
-      "score": 247,
-      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-      "time": "2026-07-01T17:53:44"
+      "title": "Bring back crappy forums",
+      "score": 233,
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "time": "2026-07-02T02:30:16"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246152,
+      "stars": 246158,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 224689,
+      "stars": 224813,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196162,
+      "stars": 196167,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156740,
+      "stars": 156745,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148089,
+      "stars": 148087,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-02T02:07:56.649293+00:00"
+  "last_updated": "2026-07-02T08:39:59.934432+00:00"
 }
