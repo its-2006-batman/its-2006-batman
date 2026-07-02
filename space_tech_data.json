@@ -8,44 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "21.59\u00b0S",
-    "longitude": "5.34\u00b0W",
-    "timestamp": "2026-07-01T19:38:24+00:00",
+    "latitude": "31.99\u00b0N",
+    "longitude": "56.41\u00b0W",
+    "timestamp": "2026-07-02T02:07:59+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "ZCode \u2013 Harness for GLM-5.2",
+      "score": 204,
+      "url": "https://zcode.z.ai/en",
+      "time": "2026-07-01T22:03:36"
+    },
+    {
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "score": 224,
+      "url": "https://www.workerowned.info/",
+      "time": "2026-07-01T20:47:41"
+    },
+    {
       "title": "For first time, a cell built from scratch grows and divides",
-      "score": 520,
+      "score": 734,
       "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
       "time": "2026-07-01T14:20:52"
     },
     {
-      "title": "What to Learn to Be a Graphics Programmer",
-      "score": 88,
+      "title": "Building an Open-Source Robot Vacuum \u2013 Meet Oomwoo",
+      "score": 30,
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "time": "2026-07-02T00:48:01"
+    },
+    {
+      "title": "What to learn to be a graphics programmer",
+      "score": 247,
       "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
       "time": "2026-07-01T17:53:44"
-    },
-    {
-      "title": "ZCode: Claude Code from the Makers of GLM",
-      "score": 25,
-      "url": "https://zcode.z.ai/cn",
-      "time": "2026-07-01T19:11:38"
-    },
-    {
-      "title": "FFmpeg 9.1's new AAC encoder",
-      "score": 133,
-      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-      "time": "2026-07-01T14:10:28"
-    },
-    {
-      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "score": 384,
-      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
-      "time": "2026-07-01T12:13:34"
     }
   ],
-  "github_trending": [],
-  "last_updated": "2026-07-01T19:38:21.387192+00:00"
+  "github_trending": [
+    {
+      "name": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 246152,
+      "language": "JavaScript",
+      "url": "https://github.com/react/react"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 224689,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196162,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 156740,
+      "language": "JavaScript",
+      "url": "https://github.com/Snailclimb/JavaGuide"
+    },
+    {
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148089,
+      "language": "JavaScript",
+      "url": "https://github.com/airbnb/javascript"
+    }
+  ],
+  "last_updated": "2026-07-02T02:07:56.649293+00:00"
 }
