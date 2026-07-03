@@ -1,10 +1,10 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Sibling Supernova Remnants",
-    "date": "2026-07-02",
-    "explanation": "What happens when one of the stars in a binary goes supernova?   This image combines visible (yellow), ultraviolet (purple) and infrared light (cyan, red and orange) to show two supernova remnants and their surrounding environment, about 6,000 light-years away.   The younger one is the well-known Je...",
-    "url": "https://apod.nasa.gov/apod/image/2607/sibling_supernovae_1024.jpg",
+    "title": "Three Galaxies in Pavo",
+    "date": "2026-07-03",
+    "explanation": "Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770 are seen face-on, w...",
+    "url": "https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg",
     "media_type": "image"
   },
   "iss_position": {
@@ -17,71 +17,71 @@
   "tech_headlines": [
     {
       "title": "Virginia bans sale of geolocation data",
-      "score": 476,
+      "score": 741,
       "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
       "time": "2026-07-02T21:03:45"
     },
     {
-      "title": "An American Privacy Emergency",
-      "score": 127,
-      "url": "https://scottaaronson.blog/?p=9902",
-      "time": "2026-07-03T00:01:06"
+      "title": "CarPlay Is Additive",
+      "score": 264,
+      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "time": "2026-07-03T01:02:45"
     },
     {
-      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
-      "score": 50,
-      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
-      "time": "2026-07-03T00:01:26"
+      "title": "Right to Local Intelligence",
+      "score": 213,
+      "url": "https://righttointelligence.org/",
+      "time": "2026-07-02T23:54:03"
     },
     {
       "title": "crustc: entirety of `rustc`, translated to C",
-      "score": 126,
+      "score": 262,
       "url": "https://github.com/FractalFir/crustc",
       "time": "2026-07-02T22:57:35"
     },
     {
-      "title": "CarPlay Is Additive",
-      "score": 32,
-      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-      "time": "2026-07-03T01:02:45"
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "score": 459,
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "time": "2026-07-02T15:25:16"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246177,
+      "stars": 246196,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 225217,
+      "stars": 225405,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196175,
+      "stars": 196178,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156762,
+      "stars": 156772,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148087,
+      "stars": 148089,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-03T01:52:05.830484+00:00"
+  "last_updated": "2026-07-03T08:46:29.565137+00:00"
 }
