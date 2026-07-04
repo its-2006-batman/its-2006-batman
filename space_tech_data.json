@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Three Galaxies in Pavo",
-    "date": "2026-07-03",
-    "explanation": "Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC 6769 and NGC 6770 are seen face-on,...",
-    "url": "https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg",
+    "title": "Pathfinder on Mars",
+    "date": "2026-07-04",
+    "explanation": "On July 4th, 1997, using its own array of fireworks, a parachute, and a cocoon of airbags, the Mars Pathfinder spacecraft bounced like a giant beach ball at least 15 times before it came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time. After its then novel airbag-assisted landing se...",
+    "url": "https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "11.81\u00b0S",
-    "longitude": "103.27\u00b0W",
-    "timestamp": "2026-07-04T01:51:24+00:00",
+    "latitude": "42.60\u00b0N",
+    "longitude": "146.26\u00b0W",
+    "timestamp": "2026-07-04T08:22:06+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Giant trees have no trouble pumping water to top branches",
-      "score": 81,
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-      "time": "2026-07-03T22:40:29"
+      "title": "The bottleneck might be the air in the room",
+      "score": 117,
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "time": "2026-07-04T06:32:28"
     },
     {
-      "title": "Leanstral 1.5: Proof Abundance for All",
-      "score": 80,
+      "title": "Agentic coding notes from Galapagos Island",
+      "score": 70,
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+      "time": "2026-07-04T04:37:15"
+    },
+    {
+      "title": "Performance per dollar is getting faster and cheaper",
+      "score": 224,
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "time": "2026-07-03T21:49:06"
+    },
+    {
+      "title": "Leanstral 1.5: Proof abundance for all",
+      "score": 209,
       "url": "https://mistral.ai/news/leanstral-1-5/",
       "time": "2026-07-03T22:33:10"
     },
     {
-      "title": "MSI Center \u2013 How to gain SYSTEM privileges in seconds",
-      "score": 20,
-      "url": "https://mrbruh.com/msicenter/",
-      "time": "2026-07-04T00:57:44"
-    },
-    {
-      "title": "Steam Controller Auto-Charge \u2013 pilot to magnetic charging puck using CV",
-      "score": 64,
-      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-      "time": "2026-07-03T22:39:50"
-    },
-    {
-      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-      "score": 85,
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "time": "2026-07-03T21:49:06"
+      "title": "Giant trees have no trouble pumping water to top branches: new research",
+      "score": 185,
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+      "time": "2026-07-03T22:40:29"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246207,
+      "stars": 246219,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 225704,
+      "stars": 225784,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196185,
+      "stars": 196188,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156778,
+      "stars": 156781,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148084,
+      "stars": 148083,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-04T01:51:24.463229+00:00"
+  "last_updated": "2026-07-04T08:22:03.867204+00:00"
 }
