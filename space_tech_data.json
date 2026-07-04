@@ -1,71 +1,77 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "Pathfinder on Mars",
+    "date": "2026-07-04",
+    "explanation": "On July 4th, 1997, using its own array of fireworks, a parachute, and a cocoon of airbags, the Mars Pathfinder spacecraft bounced like a giant beach ball at least 15 times before it came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time. After its then novel airbag-assisted landing se...",
+    "url": "https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "35.67\u00b0N",
-    "longitude": "131.61\u00b0E",
-    "timestamp": "2026-07-04T12:57:38+00:00",
+    "latitude": "6.66\u00b0S",
+    "longitude": "0.97\u00b0E",
+    "timestamp": "2026-07-04T18:54:26+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "The bottleneck might be the air in the room",
-      "score": 438,
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-      "time": "2026-07-04T06:32:28"
+      "title": "Leaking YouTube creators' private videos",
+      "score": 210,
+      "url": "https://javoriuski.com/post/youtube",
+      "time": "2026-07-04T16:45:10"
     },
     {
-      "title": "Astrophysicists Puzzle over Webb\u2019s New Universe",
-      "score": 58,
-      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-      "time": "2026-07-04T09:08:09"
+      "title": "Google Books (or similar) all book scans \u2013 $200k bounty (2025)",
+      "score": 109,
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "time": "2026-07-04T16:51:26"
     },
     {
-      "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
-      "score": 19,
-      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
-      "time": "2026-07-01T13:22:19"
+      "title": "No more than 100 000 faint satellites should orbit Earth",
+      "score": 56,
+      "url": "https://www.eso.org/public/news/eso2607/",
+      "time": "2026-07-04T17:17:28"
     },
     {
-      "title": "Maybe you should learn something",
-      "score": 169,
-      "url": "https://www.marginalia.nu/log/a_135_learn/",
-      "time": "2026-07-04T03:36:03"
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "score": 221,
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "time": "2026-07-04T14:03:40"
     },
     {
-      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-      "score": 58,
-      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-      "time": "2026-07-01T12:48:56"
+      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+      "score": 281,
+      "url": "https://peteris.rocks/blog/htop/",
+      "time": "2026-07-04T12:00:57"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246227,
+      "stars": 246237,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 225853,
+      "stars": 225968,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196189,
+      "stars": 196186,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156785,
+      "stars": 156791,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -77,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-04T12:57:26.516508+00:00"
+  "last_updated": "2026-07-04T18:54:25.526261+00:00"
 }
