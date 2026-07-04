@@ -3,85 +3,85 @@
   "nasa_apod": {
     "title": "Three Galaxies in Pavo",
     "date": "2026-07-03",
-    "explanation": "Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770 are seen face-on, w...",
+    "explanation": "Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC 6769 and NGC 6770 are seen face-on,...",
     "url": "https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "6.02\u00b0S",
-    "longitude": "164.26\u00b0W",
-    "timestamp": "2026-07-03T18:59:28+00:00",
+    "latitude": "11.81\u00b0S",
+    "longitude": "103.27\u00b0W",
+    "timestamp": "2026-07-04T01:51:24+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "score": 113,
-      "url": "https://github.com/jamesob/local-llm",
-      "time": "2026-07-03T15:03:43"
+      "title": "Giant trees have no trouble pumping water to top branches",
+      "score": 81,
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+      "time": "2026-07-03T22:40:29"
     },
     {
-      "title": "Factories are just rooms",
-      "score": 84,
-      "url": "https://interconnected.org/home/2026/07/03/factories",
-      "time": "2026-07-03T15:13:43"
+      "title": "Leanstral 1.5: Proof Abundance for All",
+      "score": 80,
+      "url": "https://mistral.ai/news/leanstral-1-5/",
+      "time": "2026-07-03T22:33:10"
     },
     {
-      "title": "Hunting a 16-year-old SQLite WAL bug with TLA+",
-      "score": 91,
-      "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
-      "time": "2026-06-30T11:07:38"
+      "title": "MSI Center \u2013 How to gain SYSTEM privileges in seconds",
+      "score": 20,
+      "url": "https://mrbruh.com/msicenter/",
+      "time": "2026-07-04T00:57:44"
     },
     {
-      "title": "My dad helped build North America's oat supply chain: Can it be remade?",
-      "score": 50,
-      "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
-      "time": "2026-06-30T14:00:51"
+      "title": "Steam Controller Auto-Charge \u2013 pilot to magnetic charging puck using CV",
+      "score": 64,
+      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+      "time": "2026-07-03T22:39:50"
     },
     {
-      "title": "PostgreSQL and the OOM killer: Why we use strict memory overcommit",
-      "score": 112,
-      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-      "time": "2026-07-03T13:00:31"
+      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+      "score": 85,
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "time": "2026-07-03T21:49:06"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246204,
+      "stars": 246207,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 225618,
+      "stars": 225704,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196182,
+      "stars": 196185,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156777,
+      "stars": 156778,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148085,
+      "stars": 148084,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-03T18:59:26.793648+00:00"
+  "last_updated": "2026-07-04T01:51:24.463229+00:00"
 }
