@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "38.52\u00b0S",
-    "longitude": "117.72\u00b0E",
-    "timestamp": "2026-07-05T08:38:40+00:00",
+    "latitude": "50.35\u00b0S",
+    "longitude": "17.88\u00b0W",
+    "timestamp": "2026-07-05T13:04:46+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "score": 106,
+      "score": 180,
       "url": "https://ui.shadcn.com/docs/changelog",
       "time": "2026-07-05T04:46:08"
     },
     {
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "score": 548,
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "time": "2026-07-04T19:41:10"
-    },
-    {
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "score": 29,
-      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-      "time": "2026-07-05T06:19:34"
-    },
-    {
       "title": "If you're a button, you have one job",
-      "score": 177,
+      "score": 316,
       "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
       "time": "2026-07-05T02:01:03"
     },
     {
-      "title": "Pandoc Lua Filters",
-      "score": 56,
-      "url": "https://pandoc.org/lua-filters.html",
-      "time": "2026-07-03T09:52:51"
+      "title": "Claude Design System Prompt",
+      "score": 52,
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "time": "2026-07-05T08:43:37"
+    },
+    {
+      "title": "Fast Software, the Best Software (2019)",
+      "score": 58,
+      "url": "https://craigmod.com/essays/fast_software/",
+      "time": "2026-07-05T07:25:25"
+    },
+    {
+      "title": "Functional Programming in hica",
+      "score": 16,
+      "url": "https://www.hica.dev/docs/functional-programming/",
+      "time": "2026-07-02T11:12:12"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246246,
+      "stars": 246249,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 226140,
+      "stars": 226193,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196190,
+      "stars": 196189,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156798,
+      "stars": 156804,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148080,
+      "stars": 148082,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-05T08:38:36.330265+00:00"
+  "last_updated": "2026-07-05T13:04:46.553348+00:00"
 }
