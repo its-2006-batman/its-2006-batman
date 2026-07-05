@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Pathfinder on Mars",
-    "date": "2026-07-04",
-    "explanation": "On July 4th, 1997, using its own array of fireworks, a parachute, and a cocoon of airbags, the Mars Pathfinder spacecraft bounced like a giant beach ball at least 15 times before it came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time. After its then novel airbag-assisted landing se...",
-    "url": "https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg",
+    "title": "Saturn's Iapetus: Painted Moon",
+    "date": "2026-07-05",
+    "explanation": "What has happened to Saturn's moon Iapetus?  Vast sections of this strange world are dark as coal, while others are as bright as snow.  To help better understand this unusually tinted moon, in 2007 NASA directed the robotic Cassini spacecraft then orbiting Saturn to swoop within 2,000 kilometers.  P...",
+    "url": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "11.55\u00b0S",
-    "longitude": "87.90\u00b0E",
-    "timestamp": "2026-07-05T01:58:14+00:00",
+    "latitude": "38.52\u00b0S",
+    "longitude": "117.72\u00b0E",
+    "timestamp": "2026-07-05T08:38:40+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Scientists reverse brain aging, with a nasal spray",
-      "score": 131,
-      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
-      "time": "2026-07-04T23:41:10"
+      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
+      "score": 106,
+      "url": "https://ui.shadcn.com/docs/changelog",
+      "time": "2026-07-05T04:46:08"
     },
     {
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "score": 358,
+      "score": 548,
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
       "time": "2026-07-04T19:41:10"
     },
     {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "score": 147,
-      "url": "https://github.com/openai/codex/issues/30364",
-      "time": "2026-07-04T21:51:09"
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "score": 29,
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+      "time": "2026-07-05T06:19:34"
     },
     {
-      "title": "Google Books (or similar) all book scans \u2013 $200k bounty (2025)",
-      "score": 341,
-      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "time": "2026-07-04T16:51:26"
+      "title": "If you're a button, you have one job",
+      "score": 177,
+      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "time": "2026-07-05T02:01:03"
     },
     {
-      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-      "score": 37,
-      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-      "time": "2026-07-04T22:36:28"
+      "title": "Pandoc Lua Filters",
+      "score": 56,
+      "url": "https://pandoc.org/lua-filters.html",
+      "time": "2026-07-03T09:52:51"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246240,
+      "stars": 246246,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 226045,
+      "stars": 226140,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196186,
+      "stars": 196190,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156791,
+      "stars": 156798,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148081,
+      "stars": 148080,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-05T01:58:14.263270+00:00"
+  "last_updated": "2026-07-05T08:38:36.330265+00:00"
 }
