@@ -8,56 +8,56 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "20.46\u00b0N",
-    "longitude": "142.17\u00b0W",
-    "timestamp": "2026-07-06T14:55:54+00:00",
+    "latitude": "6.22\u00b0N",
+    "longitude": "158.07\u00b0E",
+    "timestamp": "2026-07-06T19:39:13+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Workers Cache",
-      "score": 139,
-      "url": "https://blog.cloudflare.com/workers-cache/",
-      "time": "2026-07-06T13:02:51"
+      "title": "OpenWrt One \u2013 Open Hardware Router",
+      "score": 122,
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "time": "2026-07-06T18:23:12"
     },
     {
-      "title": "Aluminum Foil (2021)",
-      "score": 48,
-      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
-      "time": "2026-07-06T13:28:57"
+      "title": "A global workspace in language models",
+      "score": 56,
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "time": "2026-07-06T17:44:08"
     },
     {
-      "title": "Real-time map of Great Britain's rail network",
-      "score": 271,
-      "url": "https://www.map.signalbox.io",
-      "time": "2026-07-06T09:38:36"
+      "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+      "score": 200,
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "time": "2026-07-06T15:01:18"
     },
     {
-      "title": "Road to Elm 1.0",
-      "score": 144,
-      "url": "https://elm-lang.org/news/faster-builds",
-      "time": "2026-07-06T11:47:37"
+      "title": "Kani: A Model Checker for Rust",
+      "score": 83,
+      "url": "https://arxiv.org/abs/2607.01504",
+      "time": "2026-07-06T15:53:24"
     },
     {
-      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
-      "score": 47,
-      "url": "https://andonlabs.com/blog/fable5-vending-bench",
-      "time": "2026-07-06T12:38:13"
+      "title": "Resetting Xbox",
+      "score": 283,
+      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+      "time": "2026-07-06T14:18:23"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246279,
+      "stars": 246275,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 226559,
+      "stars": 226629,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -71,7 +71,7 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156834,
+      "stars": 156835,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-06T14:55:50.853846+00:00"
+  "last_updated": "2026-07-06T19:39:12.887862+00:00"
 }
