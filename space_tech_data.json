@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Saturn's Iapetus: Painted Moon",
-    "date": "2026-07-05",
-    "explanation": "What has happened to Saturn's moon Iapetus?  Vast sections of this strange world are dark as coal, while others are as bright as snow.  To help better understand this unusually tinted moon, in 2007 NASA directed the robotic Cassini spacecraft then orbiting Saturn to swoop within 2,000 kilometers.  P...",
-    "url": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg",
+    "title": "Dueling Bands over the Atacama Desert",
+    "date": "2026-07-06",
+    "explanation": "What are these two bands in the sky?  The more commonly seen band is on the left and is the central band of our Milky Way galaxy.  Our Sun orbits in the disk of this spiral galaxy so that from inside, it appears as a band of comparable brightness all the way around the sky.  The less commonly seen b...",
+    "url": "https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "31.56\u00b0N",
-    "longitude": "79.80\u00b0W",
-    "timestamp": "2026-07-06T02:04:21+00:00",
+    "latitude": "43.30\u00b0N",
+    "longitude": "179.86\u00b0W",
+    "timestamp": "2026-07-06T09:53:31+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "score": 32,
+      "score": 285,
       "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
       "time": "2026-07-06T01:04:03"
     },
     {
-      "title": "OpenPrinter",
-      "score": 448,
-      "url": "https://www.opentools.studio/",
-      "time": "2026-07-05T21:03:06"
-    },
-    {
-      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "score": 77,
-      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-      "time": "2026-07-06T00:04:48"
-    },
-    {
       "title": "Has_not_been_viewed_much",
-      "score": 79,
+      "score": 305,
       "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
       "time": "2026-07-05T23:49:00"
     },
     {
       "title": "Organic Maps",
-      "score": 817,
+      "score": 991,
       "url": "https://organicmaps.app/",
       "time": "2026-07-05T14:14:30"
+    },
+    {
+      "title": "Generate parametric, manufacturable 3D models in seconds",
+      "score": 28,
+      "url": "https://kyrall.com/",
+      "time": "2026-07-06T07:04:33"
+    },
+    {
+      "title": "Building relationships with customers through support didn't turn out as hoped",
+      "score": 126,
+      "url": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+      "time": "2026-07-06T02:06:49"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246267,
+      "stars": 246281,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 226346,
+      "stars": 226468,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196189,
+      "stars": 196194,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156813,
+      "stars": 156831,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148080,
+      "stars": 148079,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-06T02:04:21.662453+00:00"
+  "last_updated": "2026-07-06T09:53:23.991436+00:00"
 }
