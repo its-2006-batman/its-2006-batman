@@ -7,75 +7,81 @@
     "url": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "31.56\u00b0N",
+    "longitude": "79.80\u00b0W",
+    "timestamp": "2026-07-06T02:04:21+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "score": 32,
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "time": "2026-07-06T01:04:03"
+    },
+    {
+      "title": "OpenPrinter",
+      "score": 448,
+      "url": "https://www.opentools.studio/",
+      "time": "2026-07-05T21:03:06"
+    },
+    {
+      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+      "score": 77,
+      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+      "time": "2026-07-06T00:04:48"
+    },
+    {
+      "title": "Has_not_been_viewed_much",
+      "score": 79,
+      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+      "time": "2026-07-05T23:49:00"
+    },
+    {
       "title": "Organic Maps",
-      "score": 503,
+      "score": 817,
       "url": "https://organicmaps.app/",
       "time": "2026-07-05T14:14:30"
-    },
-    {
-      "title": "The Computers Used in Movies",
-      "score": 62,
-      "url": "https://www.starringthecomputer.com/computers.html",
-      "time": "2026-07-05T17:33:04"
-    },
-    {
-      "title": "\"These cameras are just like the Eye of Sauron\"",
-      "score": 64,
-      "url": "https://arxiv.org/abs/2602.09239",
-      "time": "2026-07-05T17:05:57"
-    },
-    {
-      "title": "It's not about physical vs. digital games, it's about ownership",
-      "score": 85,
-      "url": "https://popcar.bearblog.dev/its-about-ownership/",
-      "time": "2026-07-05T14:56:15"
-    },
-    {
-      "title": "Introduction to Compilers and Language Design (2021)",
-      "score": 225,
-      "url": "https://dthain.github.io/books/compiler/",
-      "time": "2026-07-05T11:54:16"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246261,
+      "stars": 246267,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 226275,
+      "stars": 226346,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196188,
+      "stars": 196189,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156809,
+      "stars": 156813,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148082,
+      "stars": 148080,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-05T18:59:38.955542+00:00"
+  "last_updated": "2026-07-06T02:04:21.662453+00:00"
 }
