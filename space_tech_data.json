@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "6.22\u00b0N",
-    "longitude": "158.07\u00b0E",
-    "timestamp": "2026-07-06T19:39:13+00:00",
+    "latitude": "21.04\u00b0S",
+    "longitude": "84.08\u00b0E",
+    "timestamp": "2026-07-07T01:59:40+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "score": 141,
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "time": "2026-07-06T23:00:24"
+    },
+    {
+      "title": "How to sequence your own DNA at home",
+      "score": 49,
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "time": "2026-07-07T00:14:21"
+    },
+    {
       "title": "OpenWrt One \u2013 Open Hardware Router",
-      "score": 122,
+      "score": 443,
       "url": "https://openwrt.org/toh/openwrt/one",
       "time": "2026-07-06T18:23:12"
     },
     {
-      "title": "A global workspace in language models",
-      "score": 56,
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "time": "2026-07-06T17:44:08"
+      "title": "CoMaps \u2013 FOSS Offline Maps",
+      "score": 317,
+      "url": "https://www.comaps.app/",
+      "time": "2026-07-06T18:55:07"
     },
     {
-      "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
-      "score": 200,
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "time": "2026-07-06T15:01:18"
-    },
-    {
-      "title": "Kani: A Model Checker for Rust",
-      "score": 83,
-      "url": "https://arxiv.org/abs/2607.01504",
-      "time": "2026-07-06T15:53:24"
-    },
-    {
-      "title": "Resetting Xbox",
-      "score": 283,
-      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-      "time": "2026-07-06T14:18:23"
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "score": 163,
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "time": "2026-07-06T20:14:55"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246275,
+      "stars": 246274,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 226629,
+      "stars": 226691,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196192,
+      "stars": 196190,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156835,
+      "stars": 156840,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148080,
+      "stars": 148079,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-06T19:39:12.887862+00:00"
+  "last_updated": "2026-07-07T01:59:40.306261+00:00"
 }
