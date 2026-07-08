@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  51.46°S                                       ║
-║  📍 LONGITUDE: 164.09°E                                      ║
+║  📍 LATITUDE:  8.56°N                                        ║
+║  📍 LONGITUDE: 154.16°E                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-07-08 01:29 UTC                   ║
+║  ⏰ UPDATE: 2026-07-08 08:05 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: NGC 6188: Dragons of Ara                                 ║
-║  DATE:  2026-07-07                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: Swift Boost Mission                                      ║
+║  DATE:  2026-07-08                                                ║
+║  TYPE:  video                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **GAO: DOE Is Prematurely Excluding Less Expensive Options for...** (79 ⭐)
-2. **Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with ...** (284 ⭐)
-3. **We charge $10k a week to delete AI-generated code** (143 ⭐)
+1. **How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueN...** (161 ⭐)
+2. **GitLost: We Tricked GitHub's AI Agent into Leaking Private R...** (91 ⭐)
+3. **Tenda firmware (multiple versions) contains hidden authentic...** (178 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246276★)
-2. **affaan-m/ECC** (227073★)
-3. **trekhleb/javascript-algorithms** (196194★)
+1. **react/react** (246284★)
+2. **affaan-m/ECC** (227182★)
+3. **trekhleb/javascript-algorithms** (196193★)
 <!-- LIVE_DATA_END -->

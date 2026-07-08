@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "NGC 6188: Dragons of Ara",
-    "date": "2026-07-07",
-    "explanation": "Where can you find dragons fighting in the night sky?  In the southern constellation of the Altar: Ara. The dragons are, of course, actually made of suggestively shaped gas and dust.  The celestial home of the mythological battling beasts is cataloged as NGC 6188 and located about 4,000 light years ...",
-    "url": "https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg",
-    "media_type": "image"
+    "title": "Swift Boost Mission",
+    "date": "2026-07-08",
+    "explanation": "Sometimes we can all use a little help from a friend.    NASA's Neil Gehrels Swift Observatory needs a boost to stay in orbit after almost 22 years of service.   This video shows an artist's visualization of the Swift Boost Mission: The Katalyst's LINK spacecraft was launched aboard a Northrop Grumm...",
+    "url": "https://apod.nasa.gov/apod/image/2607/Swift_Boost.mp4",
+    "media_type": "video"
   },
   "iss_position": {
-    "latitude": "51.46\u00b0S",
-    "longitude": "164.09\u00b0E",
-    "timestamp": "2026-07-08T01:29:30+00:00",
+    "latitude": "8.56\u00b0N",
+    "longitude": "154.16\u00b0E",
+    "timestamp": "2026-07-08T08:05:57+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-      "score": 79,
-      "url": "https://www.gao.gov/products/gao-26-108193",
-      "time": "2026-07-07T22:23:58"
+      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+      "score": 161,
+      "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+      "time": "2026-07-08T03:59:35"
     },
     {
-      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-      "score": 284,
-      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-      "time": "2026-07-07T18:24:10"
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "score": 91,
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "time": "2026-07-08T05:25:35"
     },
     {
-      "title": "We charge $10k a week to delete AI-generated code",
-      "score": 143,
-      "url": "https://odra.dev/slopfix/",
-      "time": "2026-07-07T20:35:42"
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "score": 178,
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "time": "2026-07-08T00:08:51"
     },
     {
-      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "score": 689,
-      "url": "https://streetcomplete.app/",
-      "time": "2026-07-07T12:38:35"
+      "title": "Copy That Floppy \u2013 Cambridge guide for preserving data from fragile floppy disks",
+      "score": 56,
+      "url": "https://www.digipres.org/the-floppy-guide/",
+      "time": "2026-07-08T03:22:31"
     },
     {
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "score": 433,
-      "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "time": "2026-07-07T14:23:15"
+      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
+      "score": 146,
+      "url": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+      "time": "2026-07-07T23:57:29"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246276,
+      "stars": 246284,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 227073,
+      "stars": 227182,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196194,
+      "stars": 196193,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156862,
+      "stars": 156878,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148078,
+      "stars": 148084,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-08T01:29:27.730751+00:00"
+  "last_updated": "2026-07-08T08:05:52.681223+00:00"
 }
