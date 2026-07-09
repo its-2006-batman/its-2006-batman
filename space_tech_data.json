@@ -1,81 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Swift Boost Mission",
-    "date": "2026-07-08",
-    "explanation": "Sometimes we can all use a little help from a friend.    NASA's Neil Gehrels Swift Observatory needs a boost to stay in orbit after almost 22 years of service.   This video shows an artist's visualization of the Swift Boost Mission: The Katalyst's LINK spacecraft was launched aboard a Northrop Grumm...",
-    "url": "https://apod.nasa.gov/apod/image/2607/Swift_Boost.mp4",
-    "media_type": "video"
+  "nasa_apod": null,
+  "iss_position": {
+    "latitude": "3.45\u00b0S",
+    "longitude": "59.15\u00b0E",
+    "timestamp": "2026-07-09T01:51:57+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
   },
-  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "What Do We Know About the Microplastics Inside Us?",
-      "score": 55,
-      "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
-      "time": "2026-07-08T17:43:37"
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "score": 284,
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "time": "2026-07-08T23:37:43"
     },
     {
-      "title": "Chatto is now Open Source",
-      "score": 387,
+      "title": "Separating signal from noise in coding evaluations",
+      "score": 158,
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "time": "2026-07-08T21:03:51"
+    },
+    {
+      "title": "A software engineering interview question I like: computing the median",
+      "score": 26,
+      "url": "https://krisshamloo.com/blog/007",
+      "time": "2026-07-09T00:38:02"
+    },
+    {
+      "title": "Chatto is now open source",
+      "score": 737,
       "url": "https://www.hmans.dev/blog/chatto-is-open-source",
       "time": "2026-07-08T15:19:50"
     },
     {
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "score": 300,
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "time": "2026-07-08T14:09:17"
-    },
-    {
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "score": 1107,
-      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-      "time": "2026-07-08T08:46:06"
-    },
-    {
-      "title": "GPT\u2011Live",
-      "score": 343,
-      "url": "https://openai.com/index/introducing-gpt-live/",
-      "time": "2026-07-08T17:03:19"
+      "title": "Remote Attestation",
+      "score": 19,
+      "url": "https://www.liamcvw.com/p/remote-attestation",
+      "time": "2026-07-09T00:32:33"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246305,
+      "stars": 246312,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 227360,
+      "stars": 227447,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196194,
+      "stars": 196196,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156893,
+      "stars": 156894,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148084,
+      "stars": 148082,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-08T19:04:40.312123+00:00"
+  "last_updated": "2026-07-09T01:51:55.804675+00:00"
 }
