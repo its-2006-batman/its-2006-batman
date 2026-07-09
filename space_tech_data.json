@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "44.83\u00b0N",
-    "longitude": "109.03\u00b0W",
-    "timestamp": "2026-07-09T09:18:31+00:00",
+    "latitude": "40.88\u00b0S",
+    "longitude": "92.46\u00b0W",
+    "timestamp": "2026-07-09T14:28:10+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Show HN: 18 Words",
+      "score": 208,
+      "url": "https://18words.com/",
+      "time": "2026-07-09T12:48:52"
+    },
+    {
+      "title": "Show HN: FableCut \u2013 A browser video editor AI agents can drive (zero deps)",
+      "score": 40,
+      "url": "https://github.com/ronak-create/FableCut",
+      "time": "2026-07-09T13:23:10"
+    },
+    {
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "score": 793,
+      "score": 1151,
       "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
       "time": "2026-07-08T23:37:43"
     },
     {
-      "title": "Spider venom kills varroa mites without harming honeybees",
-      "score": 107,
-      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
-      "time": "2026-07-09T05:14:45"
+      "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
+      "score": 218,
+      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+      "time": "2026-07-09T10:02:33"
     },
     {
-      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-      "score": 37,
-      "url": "https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/",
-      "time": "2026-07-09T08:22:52"
-    },
-    {
-      "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
-      "score": 86,
-      "url": "https://nexte.st/",
-      "time": "2026-07-06T04:19:30"
-    },
-    {
-      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
-      "score": 84,
-      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
-      "time": "2026-07-08T21:30:09"
+      "title": "Meta reuses old RAM in new servers with custom bridge chip",
+      "score": 173,
+      "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+      "time": "2026-07-03T19:27:05"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246315,
+      "stars": 246325,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 227577,
+      "stars": 227699,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196197,
+      "stars": 196196,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156907,
+      "stars": 156914,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148081,
+      "stars": 148082,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-09T09:18:29.908445+00:00"
+  "last_updated": "2026-07-09T14:28:02.746813+00:00"
 }
