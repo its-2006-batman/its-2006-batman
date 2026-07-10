@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  33.63°S                                       ║
-║  📍 LONGITUDE: 26.32°W                                       ║
+║  📍 LATITUDE:  45.99°S                                       ║
+║  📍 LONGITUDE: 8.49°W                                        ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-07-10 08:59 UTC                   ║
+║  ⏰ UPDATE: 2026-07-10 13:55 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Show HN: Getting GLM 5.2 running on my slow computer** (649 ⭐)
-2. **EU Parliament greenlights Chat Control 1.0** (1354 ⭐)
-3. **AI-generated videos to maximally drive a target brain region** (28 ⭐)
+1. **Late Bronze Age Collapse** (72 ⭐)
+2. **Offline tool to stabilize TV volume using IR control and spi...** (12 ⭐)
+3. **Write code like a human will maintain it** (17 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246358★)
-2. **affaan-m/ECC** (228073★)
-3. **trekhleb/javascript-algorithms** (196205★)
+1. **react/react** (246367★)
+2. **affaan-m/ECC** (228153★)
+3. **trekhleb/javascript-algorithms** (196206★)
 <!-- LIVE_DATA_END -->

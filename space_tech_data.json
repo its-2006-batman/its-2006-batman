@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "33.63\u00b0S",
-    "longitude": "26.32\u00b0W",
-    "timestamp": "2026-07-10T08:59:17+00:00",
+    "latitude": "45.99\u00b0S",
+    "longitude": "8.49\u00b0W",
+    "timestamp": "2026-07-10T13:55:28+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "score": 649,
-      "url": "https://github.com/JustVugg/colibri",
-      "time": "2026-07-09T08:05:04"
+      "title": "Late Bronze Age Collapse",
+      "score": 72,
+      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
+      "time": "2026-07-10T11:59:55"
     },
     {
-      "title": "EU Parliament greenlights Chat Control 1.0",
-      "score": 1354,
-      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-      "time": "2026-07-09T11:03:54"
+      "title": "Offline tool to stabilize TV volume using IR control and spike detection",
+      "score": 12,
+      "url": "https://github.com/AdBusterOfficial/Adbuster--WinApp",
+      "time": "2026-07-10T13:39:49"
     },
     {
-      "title": "AI-generated videos to maximally drive a target brain region",
-      "score": 28,
-      "url": "https://nevo-project.epfl.ch/",
-      "time": "2026-07-10T07:39:11"
+      "title": "Write code like a human will maintain it",
+      "score": 17,
+      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "time": "2026-07-10T13:33:00"
     },
     {
-      "title": "Train sim created by just one person is being called the best ever made",
-      "score": 557,
-      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-      "time": "2026-07-05T08:40:27"
+      "title": "Good Tools Are Invisible",
+      "score": 89,
+      "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+      "time": "2026-07-10T10:32:41"
     },
     {
-      "title": "Show HN: 18 Words",
-      "score": 979,
-      "url": "https://18words.com/",
-      "time": "2026-07-09T12:48:52"
+      "title": "GPT-5.6",
+      "score": 1402,
+      "url": "https://openai.com/index/gpt-5-6/",
+      "time": "2026-07-09T17:04:14"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246358,
+      "stars": 246367,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 228073,
+      "stars": 228153,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196205,
+      "stars": 196206,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156926,
+      "stars": 156934,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148080,
+      "stars": 148079,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-10T08:59:15.361751+00:00"
+  "last_updated": "2026-07-10T13:55:28.076415+00:00"
 }
