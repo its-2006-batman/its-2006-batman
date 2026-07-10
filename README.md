@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  48.26°S                                       ║
-║  📍 LONGITUDE: 92.53°W                                       ║
+║  📍 LATITUDE:  0.38°N                                        ║
+║  📍 LONGITUDE: 128.74°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-07-09 19:19 UTC                   ║
+║  ⏰ UPDATE: 2026-07-10 01:50 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **GPT-5.6** (603 ⭐)
-2. **ChatGPT Work** (209 ⭐)
-3. **Show HN: 18 Words** (645 ⭐)
+1. **Show HN: Getting GLM 5.2 running on my slow computer** (382 ⭐)
+2. **EU Parliament greenlights Chat Control 1.0** (995 ⭐)
+3. **GPT-5.6** (1065 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246344★)
-2. **affaan-m/ECC** (227820★)
-3. **trekhleb/javascript-algorithms** (196202★)
+1. **react/react** (246352★)
+2. **affaan-m/ECC** (227887★)
+3. **trekhleb/javascript-algorithms** (196204★)
 <!-- LIVE_DATA_END -->

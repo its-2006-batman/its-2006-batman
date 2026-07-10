@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "48.26\u00b0S",
-    "longitude": "92.53\u00b0W",
-    "timestamp": "2026-07-09T19:19:55+00:00",
+    "latitude": "0.38\u00b0N",
+    "longitude": "128.74\u00b0W",
+    "timestamp": "2026-07-10T01:50:02+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "GPT-5.6",
-      "score": 603,
-      "url": "https://openai.com/index/gpt-5-6/",
-      "time": "2026-07-09T17:04:14"
-    },
-    {
-      "title": "ChatGPT Work",
-      "score": 209,
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-      "time": "2026-07-09T17:03:53"
-    },
-    {
-      "title": "Show HN: 18 Words",
-      "score": 645,
-      "url": "https://18words.com/",
-      "time": "2026-07-09T12:48:52"
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "score": 382,
+      "url": "https://github.com/JustVugg/colibri",
+      "time": "2026-07-09T08:05:04"
     },
     {
       "title": "EU Parliament greenlights Chat Control 1.0",
-      "score": 671,
+      "score": 995,
       "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
       "time": "2026-07-09T11:03:54"
     },
     {
-      "title": "GLM 5.2 is nearly as accurate as a human book keeper",
-      "score": 24,
-      "url": "https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark",
-      "time": "2026-07-09T18:29:41"
+      "title": "GPT-5.6",
+      "score": 1065,
+      "url": "https://openai.com/index/gpt-5-6/",
+      "time": "2026-07-09T17:04:14"
+    },
+    {
+      "title": "Show HN: 18 Words",
+      "score": 823,
+      "url": "https://18words.com/",
+      "time": "2026-07-09T12:48:52"
+    },
+    {
+      "title": "Train sim created by just one person is being called the best ever made",
+      "score": 286,
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "time": "2026-07-05T08:40:27"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246344,
+      "stars": 246352,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 227820,
+      "stars": 227887,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196202,
+      "stars": 196204,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156919,
+      "stars": 156921,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148081,
+      "stars": 148080,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-09T19:19:50.192929+00:00"
+  "last_updated": "2026-07-10T01:50:00.909840+00:00"
 }
