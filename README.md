@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  0.38°N                                        ║
-║  📍 LONGITUDE: 128.74°W                                      ║
+║  📍 LATITUDE:  33.63°S                                       ║
+║  📍 LONGITUDE: 26.32°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-07-10 01:50 UTC                   ║
+║  ⏰ UPDATE: 2026-07-10 08:59 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: The Red Glow of the Cosmic Bat Nebula                    ║
-║  DATE:  2026-07-09                                                ║
+║  TITLE: Western Moon, Eastern Sea                                ║
+║  DATE:  2026-07-10                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Show HN: Getting GLM 5.2 running on my slow computer** (382 ⭐)
-2. **EU Parliament greenlights Chat Control 1.0** (995 ⭐)
-3. **GPT-5.6** (1065 ⭐)
+1. **Show HN: Getting GLM 5.2 running on my slow computer** (649 ⭐)
+2. **EU Parliament greenlights Chat Control 1.0** (1354 ⭐)
+3. **AI-generated videos to maximally drive a target brain region** (28 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246352★)
-2. **affaan-m/ECC** (227887★)
-3. **trekhleb/javascript-algorithms** (196204★)
+1. **react/react** (246358★)
+2. **affaan-m/ECC** (228073★)
+3. **trekhleb/javascript-algorithms** (196205★)
 <!-- LIVE_DATA_END -->

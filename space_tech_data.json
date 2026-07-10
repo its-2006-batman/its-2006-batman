@@ -1,77 +1,77 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "The Red Glow of the Cosmic Bat Nebula",
-    "date": "2026-07-09",
-    "explanation": "This Cosmic Bat wishes you a happy Summerween! This mid-year celebration of Halloween transcends hemispheres, even though summer in the Northern hemisphere is winter in the South. Contrary to its eery aura, the Cosmic Bat Nebula (LDN 43), not to be confused with the Bat Nebula (NGC 6995), is a vibra...",
-    "url": "https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg",
+    "title": "Western Moon, Eastern Sea",
+    "date": "2026-07-10",
+    "explanation": "The Mare Orientale, Latin for Eastern Sea, is one of the most striking large scale lunar features. The youngest of the large lunar impact basins it's very difficult to see from an earthbound perspective. Still, captured on July 7 during a period of favorable tilt, or libration of the lunar nearside,...",
+    "url": "https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "0.38\u00b0N",
-    "longitude": "128.74\u00b0W",
-    "timestamp": "2026-07-10T01:50:02+00:00",
+    "latitude": "33.63\u00b0S",
+    "longitude": "26.32\u00b0W",
+    "timestamp": "2026-07-10T08:59:17+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "score": 382,
+      "score": 649,
       "url": "https://github.com/JustVugg/colibri",
       "time": "2026-07-09T08:05:04"
     },
     {
       "title": "EU Parliament greenlights Chat Control 1.0",
-      "score": 995,
+      "score": 1354,
       "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
       "time": "2026-07-09T11:03:54"
     },
     {
-      "title": "GPT-5.6",
-      "score": 1065,
-      "url": "https://openai.com/index/gpt-5-6/",
-      "time": "2026-07-09T17:04:14"
-    },
-    {
-      "title": "Show HN: 18 Words",
-      "score": 823,
-      "url": "https://18words.com/",
-      "time": "2026-07-09T12:48:52"
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "score": 28,
+      "url": "https://nevo-project.epfl.ch/",
+      "time": "2026-07-10T07:39:11"
     },
     {
       "title": "Train sim created by just one person is being called the best ever made",
-      "score": 286,
+      "score": 557,
       "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
       "time": "2026-07-05T08:40:27"
+    },
+    {
+      "title": "Show HN: 18 Words",
+      "score": 979,
+      "url": "https://18words.com/",
+      "time": "2026-07-09T12:48:52"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246352,
+      "stars": 246358,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 227887,
+      "stars": 228073,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196204,
+      "stars": 196205,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156921,
+      "stars": 156926,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-10T01:50:00.909840+00:00"
+  "last_updated": "2026-07-10T08:59:15.361751+00:00"
 }
