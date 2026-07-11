@@ -7,75 +7,81 @@
     "url": "https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "49.83\u00b0N",
+    "longitude": "19.48\u00b0W",
+    "timestamp": "2026-07-11T01:29:03+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+      "score": 75,
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "time": "2026-07-10T22:30:44"
+    },
+    {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "score": 481,
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "time": "2026-07-10T20:47:09"
+    },
+    {
       "title": "QuadRF can spot drones and see WiFi through my wall",
-      "score": 233,
+      "score": 448,
       "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
       "time": "2026-07-10T15:59:53"
     },
     {
+      "title": "FreeCAD in the Browser",
+      "score": 10,
+      "url": "https://magik.net/freecad/",
+      "time": "2026-07-11T00:44:00"
+    },
+    {
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "score": 41,
+      "score": 343,
       "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
       "time": "2026-07-10T18:29:19"
-    },
-    {
-      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
-      "score": 81,
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "time": "2026-07-10T16:37:52"
-    },
-    {
-      "title": "The tech of 'Terminator 2' \u2013 an oral history (2017)",
-      "score": 73,
-      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-      "time": "2026-07-10T16:48:41"
-    },
-    {
-      "title": "War Atlas: An interactive cartography of every named war in human history",
-      "score": 23,
-      "url": "https://waratlas.org",
-      "time": "2026-07-10T17:52:48"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246373,
+      "stars": 246377,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 228226,
+      "stars": 228279,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196204,
+      "stars": 196206,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156940,
+      "stars": 156941,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148080,
+      "stars": 148082,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-10T19:13:49.182922+00:00"
+  "last_updated": "2026-07-11T01:29:01.047535+00:00"
 }
