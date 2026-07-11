@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "39.36\u00b0S",
-    "longitude": "82.88\u00b0W",
-    "timestamp": "2026-07-11T12:52:46+00:00",
+    "latitude": "21.92\u00b0N",
+    "longitude": "129.03\u00b0E",
+    "timestamp": "2026-07-11T18:42:52+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Networking and the Internet, from First Principles",
-      "score": 17,
-      "url": "https://fazamhd.com/mental-models/networking/",
-      "time": "2026-07-11T12:30:40"
+      "title": "AI 2040 and the Cult of Intelligence",
+      "score": 39,
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "time": "2026-07-11T18:04:01"
     },
     {
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "score": 296,
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
-      "time": "2026-07-10T22:30:44"
+      "title": "Modern Decor May Be Straining People's Brains",
+      "score": 94,
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "time": "2026-07-11T16:28:48"
     },
     {
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "score": 626,
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "time": "2026-07-10T15:59:53"
+      "title": "We scaled PgBouncer to 4x throughput",
+      "score": 118,
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "time": "2026-07-11T15:28:02"
     },
     {
-      "title": "Google Search lets creators know more about their reach",
-      "score": 29,
-      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
-      "time": "2026-07-07T23:51:49"
+      "title": "Prefer Strict Tables in SQLite",
+      "score": 18,
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "time": "2026-07-11T17:33:55"
     },
     {
-      "title": "Otary \u2013 Image and Geometry Python Library Now Has Tutorials",
-      "score": 43,
-      "url": "https://alexandrepoupeau.com/otary/learn/",
-      "time": "2026-07-08T11:30:12"
+      "title": "Who manages the agents?",
+      "score": 14,
+      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+      "time": "2026-07-11T18:02:33"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246394,
+      "stars": 246407,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 228415,
+      "stars": 228526,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196206,
+      "stars": 196212,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156948,
+      "stars": 156953,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148083,
+      "stars": 148078,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-11T12:52:46.194100+00:00"
+  "last_updated": "2026-07-11T18:42:52.814933+00:00"
 }
