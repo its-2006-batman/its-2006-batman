@@ -8,56 +8,56 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "6.76\u00b0S",
-    "longitude": "120.39\u00b0E",
-    "timestamp": "2026-07-12T07:57:09+00:00",
+    "latitude": "42.46\u00b0N",
+    "longitude": "97.00\u00b0E",
+    "timestamp": "2026-07-12T12:53:13+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "score": 212,
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "time": "2026-07-11T22:38:57"
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "score": 67,
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "time": "2026-07-12T11:09:42"
     },
     {
-      "title": "The 'Father of the Internet' is finally retiring",
+      "title": "Yt-Dlp Sequence Diagrams",
       "score": 24,
+      "url": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
+      "time": "2026-07-12T11:49:38"
+    },
+    {
+      "title": "Ghostel.el: Terminal emulator powered by libghostty",
+      "score": 53,
+      "url": "https://dakra.github.io/ghostel/",
+      "time": "2026-07-12T08:52:59"
+    },
+    {
+      "title": "Vint Cerf, a \u201cfather of the Internet\u201d, is retiring",
+      "score": 141,
       "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
       "time": "2026-07-10T00:06:59"
     },
     {
-      "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
-      "score": 248,
-      "url": "https://antjs.org",
-      "time": "2026-07-11T20:07:18"
-    },
-    {
       "title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
-      "score": 7,
+      "score": 97,
       "url": "https://github.com/cosmtrek/mindwalk",
       "time": "2026-07-12T05:51:32"
-    },
-    {
-      "title": "Text art tools",
-      "score": 22,
-      "url": "https://hlnet.notion.site/text-art-tools",
-      "time": "2026-07-08T13:00:43"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246436,
+      "stars": 246447,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 228704,
+      "stars": 228780,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -71,7 +71,7 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156965,
+      "stars": 156974,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-12T07:57:03.534091+00:00"
+  "last_updated": "2026-07-12T12:53:12.241536+00:00"
 }
