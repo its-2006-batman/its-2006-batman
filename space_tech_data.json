@@ -8,63 +8,63 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "42.46\u00b0N",
-    "longitude": "97.00\u00b0E",
-    "timestamp": "2026-07-12T12:53:13+00:00",
+    "latitude": "3.23\u00b0S",
+    "longitude": "42.23\u00b0W",
+    "timestamp": "2026-07-12T18:48:12+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Old and new apps, via modern coding agents by Terry Tao",
-      "score": 67,
+      "title": "Old and new apps, via modern coding agents",
+      "score": 334,
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
       "time": "2026-07-12T11:09:42"
     },
     {
-      "title": "Yt-Dlp Sequence Diagrams",
-      "score": 24,
-      "url": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
-      "time": "2026-07-12T11:49:38"
+      "title": "Don't you mean extinct?",
+      "score": 103,
+      "url": "https://fabiensanglard.net/extinct/index.html",
+      "time": "2026-07-12T15:17:20"
     },
     {
-      "title": "Ghostel.el: Terminal emulator powered by libghostty",
-      "score": 53,
-      "url": "https://dakra.github.io/ghostel/",
-      "time": "2026-07-12T08:52:59"
+      "title": "The shingles vaccine may reduce the risk of dementia",
+      "score": 88,
+      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "time": "2026-07-12T15:23:59"
     },
     {
-      "title": "Vint Cerf, a \u201cfather of the Internet\u201d, is retiring",
-      "score": 141,
-      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "time": "2026-07-10T00:06:59"
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "score": 6,
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "time": "2026-07-12T18:25:51"
     },
     {
-      "title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
-      "score": 97,
-      "url": "https://github.com/cosmtrek/mindwalk",
-      "time": "2026-07-12T05:51:32"
+      "title": "Automation Without Understanding",
+      "score": 29,
+      "url": "https://arxiv.org/abs/2607.06377",
+      "time": "2026-07-12T16:54:47"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246447,
+      "stars": 246449,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 228780,
+      "stars": 228879,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196217,
+      "stars": 196219,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
@@ -78,10 +78,10 @@
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148078,
+      "stars": 148080,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-12T12:53:12.241536+00:00"
+  "last_updated": "2026-07-12T18:48:09.517980+00:00"
 }
