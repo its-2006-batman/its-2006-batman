@@ -8,70 +8,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "21.92\u00b0N",
-    "longitude": "129.03\u00b0E",
-    "timestamp": "2026-07-11T18:42:52+00:00",
+    "latitude": "18.80\u00b0S",
+    "longitude": "154.47\u00b0W",
+    "timestamp": "2026-07-12T01:41:45+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "AI 2040 and the Cult of Intelligence",
-      "score": 39,
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-      "time": "2026-07-11T18:04:01"
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "score": 84,
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "time": "2026-07-11T22:38:57"
     },
     {
-      "title": "Modern Decor May Be Straining People's Brains",
-      "score": 94,
-      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-      "time": "2026-07-11T16:28:48"
+      "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
+      "score": 176,
+      "url": "https://antjs.org",
+      "time": "2026-07-11T20:07:18"
     },
     {
-      "title": "We scaled PgBouncer to 4x throughput",
-      "score": 118,
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "time": "2026-07-11T15:28:02"
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "score": 58,
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "time": "2026-07-11T21:58:00"
     },
     {
-      "title": "Prefer Strict Tables in SQLite",
-      "score": 18,
-      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "time": "2026-07-11T17:33:55"
+      "title": "The fine print that follows you out the door: non-compete clauses are spreading",
+      "score": 26,
+      "url": "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/",
+      "time": "2026-07-11T22:48:00"
     },
     {
-      "title": "Who manages the agents?",
-      "score": 14,
-      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
-      "time": "2026-07-11T18:02:33"
+      "title": "A dock that wakes up reliably",
+      "score": 12,
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "time": "2026-07-12T00:48:10"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246407,
+      "stars": 246428,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 228526,
+      "stars": 228618,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196212,
+      "stars": 196214,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156953,
+      "stars": 156954,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-11T18:42:52.814933+00:00"
+  "last_updated": "2026-07-12T01:41:44.411223+00:00"
 }
