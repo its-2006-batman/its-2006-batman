@@ -1,77 +1,77 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Messier 24: Sagittarius Star Cloud",
-    "date": "2026-07-11",
-    "explanation": "Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze t...",
-    "url": "https://apod.nasa.gov/apod/image/2607/M24_1088.jpg",
+    "title": "Galaxy NGC 474: Shells and Star Streams",
+    "date": "2026-07-12",
+    "explanation": "What's happening to galaxy NGC 474?  The multiple layers of emission appear strangely complex given the relatively featureless appearance of the elliptical galaxy in less deep images.  The cause of the shells is a topic of research, but they are possibly tidal tails related to debris left over from ...",
+    "url": "https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "18.80\u00b0S",
-    "longitude": "154.47\u00b0W",
-    "timestamp": "2026-07-12T01:41:45+00:00",
+    "latitude": "6.76\u00b0S",
+    "longitude": "120.39\u00b0E",
+    "timestamp": "2026-07-12T07:57:09+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Mesh LLM: distributed AI computing on iroh",
-      "score": 84,
+      "score": 212,
       "url": "https://www.iroh.computer/blog/mesh-llm",
       "time": "2026-07-11T22:38:57"
     },
     {
+      "title": "The 'Father of the Internet' is finally retiring",
+      "score": 24,
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "time": "2026-07-10T00:06:59"
+    },
+    {
       "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
-      "score": 176,
+      "score": 248,
       "url": "https://antjs.org",
       "time": "2026-07-11T20:07:18"
     },
     {
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "score": 58,
-      "url": "https://github.com/Wren6991/RISCBoy",
-      "time": "2026-07-11T21:58:00"
+      "title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
+      "score": 7,
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "time": "2026-07-12T05:51:32"
     },
     {
-      "title": "The fine print that follows you out the door: non-compete clauses are spreading",
-      "score": 26,
-      "url": "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/",
-      "time": "2026-07-11T22:48:00"
-    },
-    {
-      "title": "A dock that wakes up reliably",
-      "score": 12,
-      "url": "https://fabiensanglard.net/tb4/index.html",
-      "time": "2026-07-12T00:48:10"
+      "title": "Text art tools",
+      "score": 22,
+      "url": "https://hlnet.notion.site/text-art-tools",
+      "time": "2026-07-08T13:00:43"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246428,
+      "stars": 246436,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 228618,
+      "stars": 228704,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196214,
+      "stars": 196217,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156954,
+      "stars": 156965,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-12T01:41:44.411223+00:00"
+  "last_updated": "2026-07-12T07:57:03.534091+00:00"
 }
