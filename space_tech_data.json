@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "6.52\u00b0N",
-    "longitude": "29.24\u00b0E",
-    "timestamp": "2026-07-13T01:44:53+00:00",
+    "latitude": "1.93\u00b0N",
+    "longitude": "109.09\u00b0E",
+    "timestamp": "2026-07-13T08:45:28+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
-      "score": 296,
-      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-      "time": "2026-07-12T21:12:11"
+      "title": "Backtrack-Free Cursive",
+      "score": 54,
+      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+      "time": "2026-07-13T06:08:12"
+    },
+    {
+      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
+      "score": 55,
+      "url": "https://github.com/schlae/BeavisUltrasound",
+      "time": "2026-07-13T05:15:14"
+    },
+    {
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "score": 257,
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "time": "2026-07-08T16:53:58"
+    },
+    {
+      "title": "The social physics of conversation: Communication patterns matter",
+      "score": 22,
+      "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
+      "time": "2026-07-08T07:05:49"
     },
     {
       "title": "Cyberpunk Comics, Manga and Graphic Novels",
-      "score": 71,
+      "score": 179,
       "url": "https://shellzine.net/cyberpunk-comics/",
       "time": "2026-07-12T22:45:31"
-    },
-    {
-      "title": "Tiny Emulators",
-      "score": 143,
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "time": "2026-07-12T20:23:05"
-    },
-    {
-      "title": "Designing and assembling my first PCB",
-      "score": 42,
-      "url": "https://vilkeliskis.com/b/2026/0711.html",
-      "time": "2026-07-12T22:56:56"
-    },
-    {
-      "title": "So you want to learn physics (second edition, 2021)",
-      "score": 94,
-      "url": "https://www.susanrigetti.com/physics",
-      "time": "2026-07-08T03:28:00"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246457,
+      "stars": 246458,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 228961,
+      "stars": 229059,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196220,
+      "stars": 196223,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 156974,
+      "stars": 156985,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148080,
+      "stars": 148081,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-13T01:44:51.329967+00:00"
+  "last_updated": "2026-07-13T08:45:27.358384+00:00"
 }
