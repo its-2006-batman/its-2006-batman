@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  1.93°N                                        ║
-║  📍 LONGITUDE: 109.09°E                                      ║
+║  📍 LATITUDE:  24.00°N                                       ║
+║  📍 LONGITUDE: 173.46°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-07-13 08:45 UTC                   ║
+║  ⏰ UPDATE: 2026-07-13 14:01 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Galaxy NGC 474: Shells and Star Streams                  ║
-║  DATE:  2026-07-12                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: Auroras from Space                                       ║
+║  DATE:  2026-07-13                                                ║
+║  TYPE:  video                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Backtrack-Free Cursive** (54 ⭐)
-2. **Beavis Ultrasound PnP ISA Sound Card Replica** (55 ⭐)
-3. **GhostLock, a stack-UAF that has existed in all Linux distrib...** (257 ⭐)
+1. **Zig Creator Calls Spade a Spade, Anthropic Blows Smoke** (818 ⭐)
+2. **A voxel Tokyo in real Japan time – ride the Yamanote line an...** (107 ⭐)
+3. **Show HN: DOM-docx – HTML to native, editable Word docs (MIT)** (40 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246458★)
-2. **affaan-m/ECC** (229059★)
-3. **trekhleb/javascript-algorithms** (196223★)
+1. **react/react** (246461★)
+2. **affaan-m/ECC** (229134★)
+3. **trekhleb/javascript-algorithms** (196225★)
 <!-- LIVE_DATA_END -->
