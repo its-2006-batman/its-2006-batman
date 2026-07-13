@@ -8,63 +8,63 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "3.23\u00b0S",
-    "longitude": "42.23\u00b0W",
-    "timestamp": "2026-07-12T18:48:12+00:00",
+    "latitude": "6.52\u00b0N",
+    "longitude": "29.24\u00b0E",
+    "timestamp": "2026-07-13T01:44:53+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Old and new apps, via modern coding agents",
-      "score": 334,
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-      "time": "2026-07-12T11:09:42"
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "score": 296,
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "time": "2026-07-12T21:12:11"
     },
     {
-      "title": "Don't you mean extinct?",
-      "score": 103,
-      "url": "https://fabiensanglard.net/extinct/index.html",
-      "time": "2026-07-12T15:17:20"
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "score": 71,
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "time": "2026-07-12T22:45:31"
     },
     {
-      "title": "The shingles vaccine may reduce the risk of dementia",
-      "score": 88,
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
-      "time": "2026-07-12T15:23:59"
+      "title": "Tiny Emulators",
+      "score": 143,
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "time": "2026-07-12T20:23:05"
     },
     {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "score": 6,
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "time": "2026-07-12T18:25:51"
+      "title": "Designing and assembling my first PCB",
+      "score": 42,
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "time": "2026-07-12T22:56:56"
     },
     {
-      "title": "Automation Without Understanding",
-      "score": 29,
-      "url": "https://arxiv.org/abs/2607.06377",
-      "time": "2026-07-12T16:54:47"
+      "title": "So you want to learn physics (second edition, 2021)",
+      "score": 94,
+      "url": "https://www.susanrigetti.com/physics",
+      "time": "2026-07-08T03:28:00"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246449,
+      "stars": 246457,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 228879,
+      "stars": 228961,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196219,
+      "stars": 196220,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-12T18:48:09.517980+00:00"
+  "last_updated": "2026-07-13T01:44:51.329967+00:00"
 }
