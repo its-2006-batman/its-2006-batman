@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  51.07°S                                       ║
-║  📍 LONGITUDE: 152.28°W                                      ║
+║  📍 LATITUDE:  51.25°S                                       ║
+║  📍 LONGITUDE: 115.21°E                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-07-13 19:09 UTC                   ║
+║  ⏰ UPDATE: 2026-07-14 01:21 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Apple's new SpeechAnalyzer API, benchmarked against Whisper ...** (234 ⭐)
-2. **Show HN: Super Dario** (133 ⭐)
-3. **Logseq 2.0 Beta (DB version) is here** (37 ⭐)
+1. **Building and shipping Mac and iOS apps without opening Xcode** (293 ⭐)
+2. **Apple's new SpeechAnalyzer API, benchmarked against Whisper ...** (442 ⭐)
+3. **The Git history command deserves more attention** (9 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246460★)
-2. **affaan-m/ECC** (229196★)
-3. **trekhleb/javascript-algorithms** (196230★)
+1. **react/react** (246461★)
+2. **affaan-m/ECC** (229271★)
+3. **trekhleb/javascript-algorithms** (196231★)
 <!-- LIVE_DATA_END -->
