@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Auroras from Space",
-    "date": "2026-07-13",
-    "explanation": "What do auroras look like from above? Behold!  From the ground, auroras dance high above clouds, frequently causing spectacular displays.  From space, they look a bit different. As the International Space Station (ISS) circles the Earth every 90 minutes, it sometimes sees auroras below that are acti...",
-    "url": "https://apod.nasa.gov/apod/image/2607/Auroras_Esa.mp4",
-    "media_type": "video"
+    "title": "Double Lobed Asteroid Torifune",
+    "date": "2026-07-14",
+    "explanation": "Why is this asteroid a double?  Earlier this month the Japanese robotic spacecraft Hayabusa2 shot past asteroid 98943 Torifune and captured pictures. Although previous observations from distant Earth indicated that Torifune was oblong, Hayabusa2 found that Torifune actually has two joined lobes.  Wi...",
+    "url": "https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg",
+    "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.25\u00b0S",
-    "longitude": "115.21\u00b0E",
-    "timestamp": "2026-07-14T01:21:22+00:00",
+    "latitude": "36.59\u00b0S",
+    "longitude": "81.03\u00b0E",
+    "timestamp": "2026-07-14T07:44:39+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Building and shipping Mac and iOS apps without opening Xcode",
-      "score": 293,
-      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-      "time": "2026-07-13T18:22:16"
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "score": 356,
+      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "time": "2026-07-14T02:27:20"
     },
     {
-      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "score": 442,
-      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-      "time": "2026-07-13T16:06:08"
+      "title": "YouTrackDB is a general-use object-oriented graph database",
+      "score": 90,
+      "url": "https://github.com/JetBrains/youtrackdb",
+      "time": "2026-07-14T03:39:55"
     },
     {
       "title": "The Git history command deserves more attention",
-      "score": 9,
+      "score": 243,
       "url": "https://lalitm.com/post/git-history/",
       "time": "2026-07-14T00:57:11"
     },
     {
-      "title": "An Englishwoman who sketched India before photography took hold",
-      "score": 36,
-      "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
-      "time": "2026-07-13T23:12:22"
+      "title": "Fundamentals of Wireless Communication (2005)",
+      "score": 116,
+      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "time": "2026-07-14T02:10:19"
     },
     {
-      "title": "N+1",
-      "score": 29,
-      "url": "https://www.woman-of-letters.com/p/n1",
-      "time": "2026-07-09T19:43:49"
+      "title": "How to build a circular LCD clock",
+      "score": 64,
+      "url": "https://blinry.org/lcd-clock/",
+      "time": "2026-07-11T15:23:54"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246461,
+      "stars": 246462,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 229271,
+      "stars": 229382,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196231,
+      "stars": 196230,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157004,
+      "stars": 157016,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148085,
+      "stars": 148086,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-14T01:21:20.166119+00:00"
+  "last_updated": "2026-07-14T07:44:37.058741+00:00"
 }
