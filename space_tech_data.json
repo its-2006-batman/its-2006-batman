@@ -8,56 +8,56 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "36.59\u00b0S",
-    "longitude": "81.03\u00b0E",
-    "timestamp": "2026-07-14T07:44:39+00:00",
+    "latitude": "47.18\u00b0N",
+    "longitude": "157.06\u00b0E",
+    "timestamp": "2026-07-14T13:04:28+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "score": 356,
-      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
-      "time": "2026-07-14T02:27:20"
+      "title": "Codex starts encrypting sub-agent prompts",
+      "score": 155,
+      "url": "https://github.com/openai/codex/issues/28058",
+      "time": "2026-07-14T11:21:32"
     },
     {
-      "title": "YouTrackDB is a general-use object-oriented graph database",
-      "score": 90,
-      "url": "https://github.com/JetBrains/youtrackdb",
-      "time": "2026-07-14T03:39:55"
+      "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+      "score": 56,
+      "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+      "time": "2026-07-14T11:30:36"
     },
     {
-      "title": "The Git history command deserves more attention",
-      "score": 243,
-      "url": "https://lalitm.com/post/git-history/",
-      "time": "2026-07-14T00:57:11"
+      "title": "The Future Worth Building Is Human \u2013 Thinking Machines Lab",
+      "score": 51,
+      "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
+      "time": "2026-07-14T11:05:27"
     },
     {
-      "title": "Fundamentals of Wireless Communication (2005)",
-      "score": 116,
-      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
-      "time": "2026-07-14T02:10:19"
+      "title": "The great digital fatigue: How digital burnout is changing social media use",
+      "score": 52,
+      "url": "https://blog.incogni.com/digital-fatigue-and-burnout/",
+      "time": "2026-07-14T10:58:38"
     },
     {
-      "title": "How to build a circular LCD clock",
-      "score": 64,
-      "url": "https://blinry.org/lcd-clock/",
-      "time": "2026-07-11T15:23:54"
+      "title": "Beautiful Type Erasure with C++26 Reflection",
+      "score": 9,
+      "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+      "time": "2026-07-14T12:40:50"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246462,
+      "stars": 246465,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 229382,
+      "stars": 229484,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -71,17 +71,17 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157016,
+      "stars": 157026,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148086,
+      "stars": 148085,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-14T07:44:37.058741+00:00"
+  "last_updated": "2026-07-14T13:04:27.708942+00:00"
 }
