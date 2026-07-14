@@ -7,81 +7,75 @@
     "url": "https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "47.18\u00b0N",
-    "longitude": "157.06\u00b0E",
-    "timestamp": "2026-07-14T13:04:28+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Codex starts encrypting sub-agent prompts",
-      "score": 155,
-      "url": "https://github.com/openai/codex/issues/28058",
-      "time": "2026-07-14T11:21:32"
+      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+      "score": 209,
+      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+      "time": "2026-07-14T16:36:06"
     },
     {
-      "title": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
-      "score": 56,
-      "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
-      "time": "2026-07-14T11:30:36"
+      "title": "The Tower Keeps Rising",
+      "score": 118,
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "time": "2026-07-14T16:57:54"
     },
     {
-      "title": "The Future Worth Building Is Human \u2013 Thinking Machines Lab",
-      "score": 51,
-      "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
-      "time": "2026-07-14T11:05:27"
+      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
+      "score": 43,
+      "url": "https://prismml.com/news/bonsai-27b",
+      "time": "2026-07-14T17:50:48"
     },
     {
-      "title": "The great digital fatigue: How digital burnout is changing social media use",
-      "score": 52,
-      "url": "https://blog.incogni.com/digital-fatigue-and-burnout/",
-      "time": "2026-07-14T10:58:38"
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "score": 502,
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "time": "2026-07-11T08:21:27"
     },
     {
-      "title": "Beautiful Type Erasure with C++26 Reflection",
-      "score": 9,
-      "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-      "time": "2026-07-14T12:40:50"
+      "title": "How to stop Claude from saying load-bearing",
+      "score": 256,
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "time": "2026-07-14T11:46:02"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246465,
+      "stars": 246466,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 229484,
+      "stars": 229642,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196230,
+      "stars": 196234,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157026,
+      "stars": 157032,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148085,
+      "stars": 148083,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-14T13:04:27.708942+00:00"
+  "last_updated": "2026-07-14T18:59:59.553840+00:00"
 }
