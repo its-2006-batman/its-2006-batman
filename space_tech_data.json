@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Double Lobed Asteroid Torifune",
-    "date": "2026-07-14",
-    "explanation": "Why is this asteroid a double?  Earlier this month the Japanese robotic spacecraft Hayabusa2 shot past asteroid 98943 Torifune and captured pictures. Although previous observations from distant Earth indicated that Torifune was oblong, Hayabusa2 found that Torifune actually has two joined lobes.  Wi...",
-    "url": "https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg",
+    "title": "Red Sprites in the Tatacoa Desert",
+    "date": "2026-07-15",
+    "explanation": "Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud\u2019s negative charg...",
+    "url": "https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "23.42\u00b0N",
+    "longitude": "89.94\u00b0W",
+    "timestamp": "2026-07-15T07:48:34+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "score": 99,
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "time": "2026-07-15T06:28:00"
+    },
+    {
+      "title": "Jurassic Park computers in excruciating detail",
+      "score": 327,
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "time": "2026-07-15T02:57:47"
+    },
+    {
       "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "score": 30,
+      "score": 241,
       "url": "https://vpd.ca/",
       "time": "2026-07-15T00:15:53"
     },
     {
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "score": 421,
-      "url": "https://prismml.com/news/bonsai-27b",
-      "time": "2026-07-14T17:50:48"
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "score": 129,
+      "url": "https://tailscale.com/security-bulletins",
+      "time": "2026-07-15T01:08:26"
     },
     {
-      "title": "Dependabot version updates introduce default package cooldown",
-      "score": 88,
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
-      "time": "2026-07-14T21:15:51"
-    },
-    {
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "score": 77,
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "time": "2026-07-14T21:58:36"
-    },
-    {
-      "title": "The Tower Keeps Rising",
-      "score": 331,
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "time": "2026-07-14T16:57:54"
+      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+      "score": 24,
+      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+      "time": "2026-07-15T06:02:17"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246495,
+      "stars": 246498,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 229735,
+      "stars": 229850,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196233,
+      "stars": 196238,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157032,
+      "stars": 157051,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148084,
+      "stars": 148086,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-15T01:18:19.441528+00:00"
+  "last_updated": "2026-07-15T07:48:33.305410+00:00"
 }
