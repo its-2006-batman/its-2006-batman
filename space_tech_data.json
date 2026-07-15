@@ -8,70 +8,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "37.75\u00b0S",
-    "longitude": "8.91\u00b0W",
-    "timestamp": "2026-07-15T13:08:08+00:00",
+    "latitude": "20.85\u00b0S",
+    "longitude": "138.78\u00b0E",
+    "timestamp": "2026-07-15T18:53:15+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
-      "score": 142,
-      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-      "time": "2026-07-15T11:46:06"
+      "title": "Codex Micro",
+      "score": 137,
+      "url": "https://openai.com/supply/co-lab/work-louder/",
+      "time": "2026-07-15T16:12:58"
     },
     {
-      "title": "Prioritize mental health, and why communication is so important",
-      "score": 44,
-      "url": "https://ramones.dev/posts/mental-health/",
-      "time": "2026-07-15T11:27:35"
+      "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
+      "score": 50,
+      "url": "https://thinkingmachines.ai/inkling/",
+      "time": "2026-07-15T18:14:23"
     },
     {
-      "title": "Jurassic Park computers in excruciating detail",
-      "score": 604,
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "time": "2026-07-15T02:57:47"
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "score": 129,
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "time": "2026-07-15T15:34:05"
     },
     {
-      "title": "Weathergotchi \u2013 an open-source climate Tamagotchi",
-      "score": 27,
-      "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
-      "time": "2026-07-15T11:02:43"
+      "title": "Inkling: Our Open-Weights Model",
+      "score": 35,
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "time": "2026-07-15T18:12:45"
     },
     {
-      "title": "DSLs Enable Reliable Use of LLMs",
-      "score": 45,
-      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
-      "time": "2026-07-15T10:11:11"
+      "title": "Stripe, Advent offer to buy PayPal for more than $53B",
+      "score": 93,
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "time": "2026-07-15T03:32:45"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246498,
+      "stars": 246503,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 229950,
+      "stars": 230057,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196240,
+      "stars": 196247,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157051,
+      "stars": 157053,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-15T13:08:07.636384+00:00"
+  "last_updated": "2026-07-15T18:53:13.096251+00:00"
 }
