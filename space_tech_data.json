@@ -8,42 +8,42 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "23.42\u00b0N",
-    "longitude": "89.94\u00b0W",
-    "timestamp": "2026-07-15T07:48:34+00:00",
+    "latitude": "37.75\u00b0S",
+    "longitude": "8.91\u00b0W",
+    "timestamp": "2026-07-15T13:08:08+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "I tricked Claude into leaking your deepest, darkest secrets",
-      "score": 99,
-      "url": "https://www.ayush.digital/blog/the-memory-heist",
-      "time": "2026-07-15T06:28:00"
+      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
+      "score": 142,
+      "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+      "time": "2026-07-15T11:46:06"
+    },
+    {
+      "title": "Prioritize mental health, and why communication is so important",
+      "score": 44,
+      "url": "https://ramones.dev/posts/mental-health/",
+      "time": "2026-07-15T11:27:35"
     },
     {
       "title": "Jurassic Park computers in excruciating detail",
-      "score": 327,
+      "score": 604,
       "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
       "time": "2026-07-15T02:57:47"
     },
     {
-      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "score": 241,
-      "url": "https://vpd.ca/",
-      "time": "2026-07-15T00:15:53"
+      "title": "Weathergotchi \u2013 an open-source climate Tamagotchi",
+      "score": 27,
+      "url": "https://github.com/Michael-Manning/E-Paper-Climate-Logger",
+      "time": "2026-07-15T11:02:43"
     },
     {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "score": 129,
-      "url": "https://tailscale.com/security-bulletins",
-      "time": "2026-07-15T01:08:26"
-    },
-    {
-      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
-      "score": 24,
-      "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
-      "time": "2026-07-15T06:02:17"
+      "title": "DSLs Enable Reliable Use of LLMs",
+      "score": 45,
+      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+      "time": "2026-07-15T10:11:11"
     }
   ],
   "github_trending": [
@@ -57,14 +57,14 @@
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 229850,
+      "stars": 229950,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196238,
+      "stars": 196240,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-15T07:48:33.305410+00:00"
+  "last_updated": "2026-07-15T13:08:07.636384+00:00"
 }
