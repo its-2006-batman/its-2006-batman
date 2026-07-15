@@ -10,55 +10,55 @@
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "score": 209,
-      "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-      "time": "2026-07-14T16:36:06"
+      "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+      "score": 30,
+      "url": "https://vpd.ca/",
+      "time": "2026-07-15T00:15:53"
     },
     {
-      "title": "The Tower Keeps Rising",
-      "score": 118,
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
-      "time": "2026-07-14T16:57:54"
-    },
-    {
-      "title": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-      "score": 43,
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "score": 421,
       "url": "https://prismml.com/news/bonsai-27b",
       "time": "2026-07-14T17:50:48"
     },
     {
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "score": 502,
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-      "time": "2026-07-11T08:21:27"
+      "title": "Dependabot version updates introduce default package cooldown",
+      "score": 88,
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "time": "2026-07-14T21:15:51"
     },
     {
-      "title": "How to stop Claude from saying load-bearing",
-      "score": 256,
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "time": "2026-07-14T11:46:02"
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "score": 77,
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "time": "2026-07-14T21:58:36"
+    },
+    {
+      "title": "The Tower Keeps Rising",
+      "score": 331,
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "time": "2026-07-14T16:57:54"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246466,
+      "stars": 246495,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 229642,
+      "stars": 229735,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196234,
+      "stars": 196233,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
@@ -72,10 +72,10 @@
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148083,
+      "stars": 148084,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-14T18:59:59.553840+00:00"
+  "last_updated": "2026-07-15T01:18:19.441528+00:00"
 }
