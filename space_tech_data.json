@@ -7,64 +7,58 @@
     "url": "https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "20.85\u00b0S",
-    "longitude": "138.78\u00b0E",
-    "timestamp": "2026-07-15T18:53:15+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Codex Micro",
-      "score": 137,
-      "url": "https://openai.com/supply/co-lab/work-louder/",
-      "time": "2026-07-15T16:12:58"
-    },
-    {
-      "title": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
-      "score": 50,
-      "url": "https://thinkingmachines.ai/inkling/",
-      "time": "2026-07-15T18:14:23"
-    },
-    {
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "score": 129,
-      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "time": "2026-07-15T15:34:05"
-    },
-    {
       "title": "Inkling: Our Open-Weights Model",
-      "score": 35,
+      "score": 660,
       "url": "https://thinkingmachines.ai/news/introducing-inkling/",
       "time": "2026-07-15T18:12:45"
     },
     {
-      "title": "Stripe, Advent offer to buy PayPal for more than $53B",
-      "score": 93,
-      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
-      "time": "2026-07-15T03:32:45"
+      "title": "SQLite should have (Rust-style) editions",
+      "score": 103,
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "time": "2026-07-15T22:42:58"
+    },
+    {
+      "title": "Grok Build is open source",
+      "score": 243,
+      "url": "https://github.com/xai-org/grok-build",
+      "time": "2026-07-15T20:24:58"
+    },
+    {
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
+      "score": 35,
+      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+      "time": "2026-07-15T23:00:31"
+    },
+    {
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "score": 76,
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "time": "2026-07-15T21:16:36"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246503,
+      "stars": 246505,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 230057,
+      "stars": 230132,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196247,
+      "stars": 196250,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
@@ -83,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-15T18:53:13.096251+00:00"
+  "last_updated": "2026-07-16T01:27:45.247623+00:00"
 }
