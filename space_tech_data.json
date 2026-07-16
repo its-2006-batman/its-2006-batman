@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "10.27\u00b0N",
-    "longitude": "167.52\u00b0W",
-    "timestamp": "2026-07-16T13:16:57+00:00",
+    "latitude": "25.37\u00b0N",
+    "longitude": "42.81\u00b0W",
+    "timestamp": "2026-07-16T18:53:50+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "OnePlus halts operations in USA and Europe",
-      "score": 183,
-      "url": "https://community.oneplus.com/thread/2170715118587871237",
-      "time": "2026-07-16T10:14:04"
+      "title": "Kimi K3 is now live",
+      "score": 546,
+      "url": "https://www.kimi.com/en",
+      "time": "2026-07-16T14:46:05"
     },
     {
-      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
-      "score": 110,
-      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
-      "time": "2026-07-16T12:02:11"
+      "title": "Microsoft Comic Chat is now open source",
+      "score": 230,
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "time": "2026-07-16T16:06:27"
     },
     {
-      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
-      "score": 24,
-      "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
-      "time": "2026-07-16T11:58:09"
+      "title": "Decoy Font",
+      "score": 136,
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "time": "2026-07-16T16:18:21"
     },
     {
-      "title": "The lost joy of music piracy",
-      "score": 482,
-      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-      "time": "2026-07-16T04:46:21"
+      "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
+      "score": 67,
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "time": "2026-07-16T16:41:37"
     },
     {
-      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-      "score": 129,
-      "url": "https://joinedanthropic.com",
-      "time": "2026-07-16T08:03:35"
+      "title": "NotebookLM is now Gemini Notebook",
+      "score": 79,
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "time": "2026-07-16T16:08:13"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246506,
+      "stars": 246527,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 230299,
+      "stars": 230290,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196253,
+      "stars": 196252,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157073,
+      "stars": 157080,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148086,
+      "stars": 148083,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-16T13:16:57.064725+00:00"
+  "last_updated": "2026-07-16T18:53:45.564775+00:00"
 }
