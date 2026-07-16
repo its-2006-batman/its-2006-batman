@@ -418,7 +418,7 @@ END TRANSMISSION
 ║  📍 LONGITUDE: N/A                                           ║
 ║  ⚡ VELOCITY:  N/A                                           ║
 ║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-07-16 01:27 UTC                   ║
+║  ⏰ UPDATE: 2026-07-16 07:53 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Red Sprites in the Tatacoa Desert                        ║
-║  DATE:  2026-07-15                                                ║
+║  TITLE: NGC 300: A Cosmic Gemstone with Stars and Gas Clouds     ║
+║  DATE:  2026-07-16                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Inkling: Our Open-Weights Model** (660 ⭐)
-2. **SQLite should have (Rust-style) editions** (103 ⭐)
-3. **Grok Build is open source** (243 ⭐)
+1. **The lost joy of music piracy** (183 ⭐)
+2. **Inkling: Our Open-Weights Model** (921 ⭐)
+3. **If you want to create a button from scratch, you must first ...** (83 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246505★)
-2. **affaan-m/ECC** (230132★)
-3. **trekhleb/javascript-algorithms** (196250★)
+1. **react/react** (246506★)
+2. **affaan-m/ECC** (230229★)
+3. **trekhleb/javascript-algorithms** (196252★)
 <!-- LIVE_DATA_END -->

@@ -1,81 +1,81 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Red Sprites in the Tatacoa Desert",
-    "date": "2026-07-15",
-    "explanation": "Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud\u2019s negative charg...",
-    "url": "https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg",
+    "title": "NGC 300: A Cosmic Gemstone with Stars and Gas Clouds",
+    "date": "2026-07-16",
+    "explanation": "This sparkling, colorful gemstone is a spiral galaxy, NGC 300.   It is one of the closest spiral galaxies to Earth, only about 6 million light-years away.     But does it really look like this?   Here is a more standard portrait of it.   This unusual image combines the light from the stars and dust ...",
+    "url": "https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg",
     "media_type": "image"
   },
   "iss_position": null,
   "tech_headlines": [
     {
+      "title": "The lost joy of music piracy",
+      "score": 183,
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "time": "2026-07-16T04:46:21"
+    },
+    {
       "title": "Inkling: Our Open-Weights Model",
-      "score": 660,
+      "score": 921,
       "url": "https://thinkingmachines.ai/news/introducing-inkling/",
       "time": "2026-07-15T18:12:45"
     },
     {
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "score": 83,
+      "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
+      "time": "2026-07-16T03:48:43"
+    },
+    {
+      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+      "score": 25,
+      "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+      "time": "2026-07-12T17:57:58"
+    },
+    {
       "title": "SQLite should have (Rust-style) editions",
-      "score": 103,
+      "score": 238,
       "url": "https://mort.coffee/home/sqlite-editions/",
       "time": "2026-07-15T22:42:58"
-    },
-    {
-      "title": "Grok Build is open source",
-      "score": 243,
-      "url": "https://github.com/xai-org/grok-build",
-      "time": "2026-07-15T20:24:58"
-    },
-    {
-      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
-      "score": 35,
-      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-      "time": "2026-07-15T23:00:31"
-    },
-    {
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "score": 76,
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "time": "2026-07-15T21:16:36"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246505,
+      "stars": 246506,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 230132,
+      "stars": 230229,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196250,
+      "stars": 196252,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157053,
+      "stars": 157064,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148086,
+      "stars": 148084,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-16T01:27:45.247623+00:00"
+  "last_updated": "2026-07-16T07:53:16.763568+00:00"
 }
