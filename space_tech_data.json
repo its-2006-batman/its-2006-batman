@@ -1,77 +1,71 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NGC 300: A Cosmic Gemstone with Stars and Gas Clouds",
-    "date": "2026-07-16",
-    "explanation": "This sparkling, colorful gemstone is a spiral galaxy, NGC 300.   It is one of the closest spiral galaxies to Earth, only about 6 million light-years away.     But does it really look like this?   Here is a more standard portrait of it.   This unusual image combines the light from the stars and dust ...",
-    "url": "https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "25.37\u00b0N",
-    "longitude": "42.81\u00b0W",
-    "timestamp": "2026-07-16T18:53:50+00:00",
+    "latitude": "3.00\u00b0N",
+    "longitude": "9.00\u00b0E",
+    "timestamp": "2026-07-17T01:42:03+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Kimi K3 is now live",
-      "score": 546,
-      "url": "https://www.kimi.com/en",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "score": 1165,
+      "url": "https://www.kimi.com/blog/kimi-k3",
       "time": "2026-07-16T14:46:05"
     },
     {
+      "title": "Google Kills Custom Search API on Jan 1, 2027",
+      "score": 14,
+      "url": "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
+      "time": "2026-07-17T01:03:25"
+    },
+    {
       "title": "Microsoft Comic Chat is now open source",
-      "score": 230,
+      "score": 533,
       "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
       "time": "2026-07-16T16:06:27"
     },
     {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "score": 158,
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "time": "2026-07-16T20:18:15"
+    },
+    {
       "title": "Decoy Font",
-      "score": 136,
+      "score": 391,
       "url": "https://www.mixfont.com/experiments/decoy-font",
       "time": "2026-07-16T16:18:21"
-    },
-    {
-      "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
-      "score": 67,
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "time": "2026-07-16T16:41:37"
-    },
-    {
-      "title": "NotebookLM is now Gemini Notebook",
-      "score": 79,
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "time": "2026-07-16T16:08:13"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246527,
+      "stars": 246532,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 230290,
+      "stars": 230366,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196252,
+      "stars": 196248,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157080,
+      "stars": 157081,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-16T18:53:45.564775+00:00"
+  "last_updated": "2026-07-17T01:42:03.474919+00:00"
 }
