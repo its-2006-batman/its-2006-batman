@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "The Dust Trail of Comet Tempel 2",
+    "date": "2026-07-17",
+    "explanation": "Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin d...",
+    "url": "https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "3.00\u00b0N",
-    "longitude": "9.00\u00b0E",
-    "timestamp": "2026-07-17T01:42:03+00:00",
+    "latitude": "11.81\u00b0N",
+    "longitude": "91.78\u00b0W",
+    "timestamp": "2026-07-17T07:50:29+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "score": 47,
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "time": "2026-07-17T05:51:10"
+    },
+    {
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "score": 96,
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "time": "2026-07-17T03:48:26"
+    },
+    {
       "title": "Kimi K3: Open Frontier Intelligence",
-      "score": 1165,
+      "score": 1524,
       "url": "https://www.kimi.com/blog/kimi-k3",
       "time": "2026-07-16T14:46:05"
     },
     {
-      "title": "Google Kills Custom Search API on Jan 1, 2027",
-      "score": 14,
-      "url": "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
-      "time": "2026-07-17T01:03:25"
+      "title": "Pebble Mega Update \u2013 July 2026",
+      "score": 75,
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "time": "2026-07-17T03:53:38"
     },
     {
-      "title": "Microsoft Comic Chat is now open source",
-      "score": 533,
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "time": "2026-07-16T16:06:27"
-    },
-    {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "score": 158,
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "time": "2026-07-16T20:18:15"
-    },
-    {
-      "title": "Decoy Font",
-      "score": 391,
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "time": "2026-07-16T16:18:21"
+      "title": "An Engineer's Guide to USB Typ\u0435-\u0421 (2024)",
+      "score": 139,
+      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+      "time": "2026-07-10T16:31:26"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246532,
+      "stars": 246569,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 230366,
+      "stars": 230457,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196248,
+      "stars": 196250,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157081,
+      "stars": 157086,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148083,
+      "stars": 148080,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-17T01:42:03.474919+00:00"
+  "last_updated": "2026-07-17T07:50:29.495466+00:00"
 }
