@@ -8,44 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "44.28\u00b0N",
-    "longitude": "66.77\u00b0E",
-    "timestamp": "2026-07-18T12:48:07+00:00",
+    "latitude": "3.14\u00b0N",
+    "longitude": "71.84\u00b0W",
+    "timestamp": "2026-07-18T18:44:17+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "LG monitors silently install software through Windows Update without consent",
-      "score": 225,
-      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "time": "2026-07-18T10:21:19"
+      "title": "Goodbye, and Thanks for All the Bikesheds",
+      "score": 61,
+      "url": "https://queue.acm.org/detail.cfm?id=3818307",
+      "time": "2026-07-18T17:27:24"
     },
     {
-      "title": "Regressive JPEGs",
-      "score": 446,
-      "url": "https://maurycyz.com/projects/bad_jpeg/",
-      "time": "2026-07-18T03:14:20"
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "score": 350,
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "time": "2026-07-18T13:00:52"
     },
     {
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "score": 21,
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "time": "2026-07-18T11:00:29"
+      "title": "Gleam Is Now on Tangled",
+      "score": 109,
+      "url": "https://tangled.org/gleam.run/gleam",
+      "time": "2026-07-18T15:44:04"
     },
     {
-      "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
-      "score": 1222,
-      "url": "https://news.ycombinator.com/item?id=48945241",
-      "time": "2026-07-17T09:42:05"
+      "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
+      "score": 11,
+      "url": "https://reotrucks.com",
+      "time": "2026-07-18T18:13:05"
     },
     {
-      "title": "The Computer at the Bottom of a Canal",
-      "score": 37,
-      "url": "https://negroniventurestudios.com/2026/07/18/the-computer-at-the-bottom-of-a-canal/",
-      "time": "2026-07-18T08:33:31"
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "score": 87,
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "time": "2026-07-18T16:12:08"
     }
   ],
-  "github_trending": [],
-  "last_updated": "2026-07-18T12:48:05.204807+00:00"
+  "github_trending": [
+    {
+      "name": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 246564,
+      "language": "JavaScript",
+      "url": "https://github.com/react/react"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 230889,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196269,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 157116,
+      "language": "JavaScript",
+      "url": "https://github.com/Snailclimb/JavaGuide"
+    },
+    {
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148078,
+      "language": "JavaScript",
+      "url": "https://github.com/airbnb/javascript"
+    }
+  ],
+  "last_updated": "2026-07-18T18:44:11.460763+00:00"
 }
