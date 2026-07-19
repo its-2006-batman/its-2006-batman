@@ -8,70 +8,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "3.14\u00b0N",
-    "longitude": "71.84\u00b0W",
-    "timestamp": "2026-07-18T18:44:17+00:00",
+    "latitude": "34.90\u00b0N",
+    "longitude": "30.70\u00b0W",
+    "timestamp": "2026-07-19T01:28:54+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Goodbye, and Thanks for All the Bikesheds",
-      "score": 61,
-      "url": "https://queue.acm.org/detail.cfm?id=3818307",
-      "time": "2026-07-18T17:27:24"
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "score": 257,
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "time": "2026-07-14T19:25:10"
+    },
+    {
+      "title": "Transcribe.cpp",
+      "score": 15,
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "time": "2026-07-19T00:38:26"
+    },
+    {
+      "title": "Classic Amiga titles, free to download",
+      "score": 45,
+      "url": "https://amigafreeware.downer.tech/",
+      "time": "2026-07-18T21:55:27"
+    },
+    {
+      "title": "Better and Cheaper Than IPTV",
+      "score": 5,
+      "url": "https://github.com/stupside/castor",
+      "time": "2026-07-19T00:59:55"
     },
     {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "score": 350,
+      "score": 492,
       "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
       "time": "2026-07-18T13:00:52"
-    },
-    {
-      "title": "Gleam Is Now on Tangled",
-      "score": 109,
-      "url": "https://tangled.org/gleam.run/gleam",
-      "time": "2026-07-18T15:44:04"
-    },
-    {
-      "title": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
-      "score": 11,
-      "url": "https://reotrucks.com",
-      "time": "2026-07-18T18:13:05"
-    },
-    {
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "score": 87,
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "time": "2026-07-18T16:12:08"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246564,
+      "stars": 246569,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 230889,
+      "stars": 230947,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196269,
+      "stars": 196266,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157116,
+      "stars": 157117,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-18T18:44:11.460763+00:00"
+  "last_updated": "2026-07-19T01:28:51.411720+00:00"
 }
