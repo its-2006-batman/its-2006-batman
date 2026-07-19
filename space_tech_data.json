@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Shadow and Rainbow",
-    "date": "2026-07-18",
-    "explanation": "At sunset, an alignment of rainbow and mountain shadow was captured in this remarkable snapshot. The stunning view was recorded from a fire lookout on Smith Peak in the Plumas National Forest near Portola, California on July 13.  Still, near sunset it's no accident that the majestic mountain shadow ...",
-    "url": "https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg",
+    "title": "Flying Saucer Crash Lands in Utah Desert",
+    "date": "2026-07-19",
+    "explanation": "A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis spaceship launched in ...",
+    "url": "https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "34.90\u00b0N",
-    "longitude": "30.70\u00b0W",
-    "timestamp": "2026-07-19T01:28:54+00:00",
+    "latitude": "11.70\u00b0S",
+    "longitude": "86.14\u00b0W",
+    "timestamp": "2026-07-19T07:56:12+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "score": 257,
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "time": "2026-07-14T19:25:10"
-    },
-    {
       "title": "Transcribe.cpp",
-      "score": 15,
+      "score": 420,
       "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
       "time": "2026-07-19T00:38:26"
     },
     {
-      "title": "Classic Amiga titles, free to download",
-      "score": 45,
-      "url": "https://amigafreeware.downer.tech/",
-      "time": "2026-07-18T21:55:27"
+      "title": "Searchable field-level encryption on Supabase with CipherStash",
+      "score": 29,
+      "url": "https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash",
+      "time": "2026-07-15T13:10:01"
+    },
+    {
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "score": 417,
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "time": "2026-07-14T19:25:10"
+    },
+    {
+      "title": "Codex Resets",
+      "score": 156,
+      "url": "https://codex-resets.com/",
+      "time": "2026-07-18T23:24:26"
     },
     {
       "title": "Better and Cheaper Than IPTV",
-      "score": 5,
+      "score": 158,
       "url": "https://github.com/stupside/castor",
       "time": "2026-07-19T00:59:55"
-    },
-    {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "score": 492,
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "time": "2026-07-18T13:00:52"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246569,
+      "stars": 246570,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 230947,
+      "stars": 231011,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196266,
+      "stars": 196271,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157117,
+      "stars": 157122,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148078,
+      "stars": 148081,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-19T01:28:51.411720+00:00"
+  "last_updated": "2026-07-19T07:56:09.807543+00:00"
 }
