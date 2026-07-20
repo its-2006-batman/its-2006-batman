@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  27.69°N                                       ║
-║  📍 LONGITUDE: 172.68°E                                      ║
+║  📍 LATITUDE:  2.63°N                                        ║
+║  📍 LONGITUDE: 113.94°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-07-20 03:22 UTC                   ║
+║  ⏰ UPDATE: 2026-07-20 08:36 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Flying Saucer Crash Lands in Utah Desert                 ║
-║  DATE:  2026-07-19                                                ║
+║  TITLE: NGC 3576: The Statue of Liberty Nebula                   ║
+║  DATE:  2026-07-20                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Show HN: I replaced a $120k bowling center system with $1,60...** (1672 ⭐)
-2. **Claude Code uses Bun written in Rust now** (412 ⭐)
-3. **What I learned selling 2,500 MIDI recorders: Hardware is not...** (419 ⭐)
+1. **LoRA Speedrun – a public wall-clock leaderboard for fine-tun...** (60 ⭐)
+2. **Show HN: I replaced a $120k bowling center system with $1,60...** (2198 ⭐)
+3. **Moonshine: Lets you stream games from your PC to any device ...** (154 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246586★)
-2. **affaan-m/ECC** (231269★)
-3. **trekhleb/javascript-algorithms** (196277★)
+1. **react/react** (246588★)
+2. **affaan-m/ECC** (231358★)
+3. **trekhleb/javascript-algorithms** (196282★)
 <!-- LIVE_DATA_END -->

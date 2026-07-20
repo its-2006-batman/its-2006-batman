@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Flying Saucer Crash Lands in Utah Desert",
-    "date": "2026-07-19",
-    "explanation": "A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis spaceship launched in ...",
-    "url": "https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg",
+    "title": "NGC 3576: The Statue of Liberty Nebula",
+    "date": "2026-07-20",
+    "explanation": "What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping angel.  This re-assigned...",
+    "url": "https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "27.69\u00b0N",
-    "longitude": "172.68\u00b0E",
-    "timestamp": "2026-07-20T03:22:10+00:00",
+    "latitude": "2.63\u00b0N",
+    "longitude": "113.94\u00b0W",
+    "timestamp": "2026-07-20T08:36:50+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
+      "score": 60,
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "time": "2026-07-20T04:24:48"
+    },
+    {
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "score": 1672,
+      "score": 2198,
       "url": "https://news.ycombinator.com/item?id=48968606",
       "time": "2026-07-19T14:41:16"
     },
     {
-      "title": "Claude Code uses Bun written in Rust now",
-      "score": 412,
-      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-      "time": "2026-07-19T10:03:23"
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "score": 154,
+      "url": "https://github.com/hgaiser/moonshine",
+      "time": "2026-07-20T00:16:50"
     },
     {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "score": 419,
-      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-      "time": "2026-07-19T10:34:58"
+      "title": "Xiaomi-Robotics-1",
+      "score": 168,
+      "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+      "time": "2026-07-20T04:45:15"
     },
     {
-      "title": "The Zen of Parallel Programming",
-      "score": 122,
-      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
-      "time": "2026-07-14T14:23:26"
-    },
-    {
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "score": 278,
-      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-      "time": "2026-07-19T11:48:18"
+      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+      "score": 30,
+      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
+      "time": "2026-07-10T15:44:36"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246586,
+      "stars": 246588,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 231269,
+      "stars": 231358,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196277,
+      "stars": 196282,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157126,
+      "stars": 157133,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148083,
+      "stars": 148081,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-20T03:22:09.788676+00:00"
+  "last_updated": "2026-07-20T08:36:48.678684+00:00"
 }
