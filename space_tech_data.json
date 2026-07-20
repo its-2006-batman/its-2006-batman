@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "44.99\u00b0S",
-    "longitude": "62.80\u00b0W",
-    "timestamp": "2026-07-20T13:46:02+00:00",
+    "latitude": "13.47\u00b0N",
+    "longitude": "72.98\u00b0E",
+    "timestamp": "2026-07-20T19:23:05+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Stop Using OpenCode",
-      "score": 82,
-      "url": "https://wren.wtf/shower-thoughts/stop-using-opencode/",
-      "time": "2026-07-20T12:45:55"
-    },
-    {
-      "title": "Airport Simulator",
-      "score": 190,
-      "url": "https://airport.apunen.com/",
-      "time": "2026-07-20T10:30:40"
-    },
-    {
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "score": 253,
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
-      "time": "2026-07-20T08:13:36"
+      "title": "China's open-weights AI strategy is winning",
+      "score": 530,
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "time": "2026-07-20T14:21:47"
     },
     {
       "title": "Hacker wipes Romania's land registry database",
-      "score": 8,
+      "score": 446,
       "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
       "time": "2026-07-20T13:28:33"
     },
     {
-      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-      "score": 138,
-      "url": "https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/",
-      "time": "2026-07-20T12:14:08"
+      "title": "Hyprland 0.55 announced the switch to Lua for its config files",
+      "score": 63,
+      "url": "https://hypr.land/news/update55/",
+      "time": "2026-07-20T17:31:57"
+    },
+    {
+      "title": "Kimi Work",
+      "score": 87,
+      "url": "https://www.kimi.com/products/kimi-work",
+      "time": "2026-07-20T17:13:23"
+    },
+    {
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "score": 143,
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "time": "2026-07-20T16:36:36"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246596,
+      "stars": 246608,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 231443,
+      "stars": 231513,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196284,
+      "stars": 196290,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157141,
+      "stars": 157145,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148081,
+      "stars": 148082,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-20T13:45:59.952545+00:00"
+  "last_updated": "2026-07-20T19:23:01.992684+00:00"
 }
