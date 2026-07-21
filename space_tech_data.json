@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "3.92\u00b0S",
-    "longitude": "11.31\u00b0W",
-    "timestamp": "2026-07-21T13:13:52+00:00",
+    "latitude": "50.96\u00b0S",
+    "longitude": "161.15\u00b0E",
+    "timestamp": "2026-07-21T19:01:17+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "New US homeownership measure puts people first",
-      "score": 62,
-      "url": "https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first",
-      "time": "2026-07-21T12:03:14"
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "score": 183,
+      "url": "https://e360.yale.edu/digest/benin-coral-reef",
+      "time": "2026-07-21T15:41:51"
     },
     {
-      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "score": 260,
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "time": "2026-07-21T08:44:23"
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "score": 413,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "time": "2026-07-21T15:17:16"
     },
     {
-      "title": "Incremental \u2013 A library for incremental computations",
-      "score": 264,
-      "url": "https://github.com/janestreet/incremental",
-      "time": "2026-07-21T03:50:53"
+      "title": "Freeink: Open Ecosystem for E-Readers",
+      "score": 16,
+      "url": "https://freeink.org/",
+      "time": "2026-07-21T18:39:06"
     },
     {
-      "title": "Who's afraid of Chinese models?",
-      "score": 753,
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "time": "2026-07-20T11:05:58"
+      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+      "score": 50,
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "time": "2026-07-21T17:03:18"
     },
     {
-      "title": "Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode \u2013 Ken Jin's Blog",
-      "score": 31,
-      "url": "https://fidget-spinner.github.io/posts/ultra-fast-tracing.html",
-      "time": "2026-07-15T09:07:02"
+      "title": "Cheap Self-Hosted Kubernetes on Hetzner Cloud",
+      "score": 16,
+      "url": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
+      "time": "2026-07-21T18:25:08"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246621,
+      "stars": 246630,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 231755,
+      "stars": 231841,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196292,
+      "stars": 196295,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157174,
+      "stars": 157185,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148085,
+      "stars": 148087,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-21T13:13:52.241761+00:00"
+  "last_updated": "2026-07-21T19:01:17.011554+00:00"
 }
