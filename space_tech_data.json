@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "NGC 3576: The Statue of Liberty Nebula",
-    "date": "2026-07-20",
-    "explanation": "What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping angel.  This re-assigned...",
-    "url": "https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg",
+    "title": "Turtle Rock on Mars",
+    "date": "2026-07-21",
+    "explanation": "Is this a fossilized turtle on Mars?  No.  Although resembling a large Earth tortoise, this is a layered rock outcrop on Mars that is estimated to span about 15 meters, making it much larger than turtles on Earth. NASA\u2019s robotic Curiosity rover came across this unusual mound, dubbed Miraflores, last...",
+    "url": "https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "31.43\u00b0N",
-    "longitude": "37.81\u00b0W",
-    "timestamp": "2026-07-21T01:28:07+00:00",
+    "latitude": "42.55\u00b0S",
+    "longitude": "63.21\u00b0W",
+    "timestamp": "2026-07-21T08:05:36+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Incremental \u2013 A library for incremental computations",
+      "score": 146,
+      "url": "https://github.com/janestreet/incremental",
+      "time": "2026-07-21T03:50:53"
+    },
+    {
       "title": "Who's afraid of Chinese models?",
-      "score": 234,
+      "score": 585,
       "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
       "time": "2026-07-20T11:05:58"
     },
     {
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "score": 53,
+      "url": "https://www.armaangomes.com/blogs/doom/",
+      "time": "2026-07-21T03:54:16"
+    },
+    {
       "title": "Kimi Work",
-      "score": 393,
+      "score": 518,
       "url": "https://www.kimi.com/products/kimi-work",
       "time": "2026-07-20T17:13:23"
     },
     {
-      "title": "Human mathematicians are being outcounterexampled",
-      "score": 199,
-      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "time": "2026-07-20T19:03:37"
-    },
-    {
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "score": 334,
-      "url": "https://jelly-ui.com/",
-      "time": "2026-07-20T17:07:39"
-    },
-    {
-      "title": "Hacker wipes Romania's land registry database",
-      "score": 567,
-      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "time": "2026-07-20T13:28:33"
+      "title": "Linux kernel will support $ORIGIN, sort of",
+      "score": 15,
+      "url": "https://fzakaria.com/2026/07/20/linux-kernel-will-support-origin-sort-of",
+      "time": "2026-07-21T06:29:22"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246608,
+      "stars": 246616,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 231579,
+      "stars": 231662,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196287,
+      "stars": 196286,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157149,
+      "stars": 157161,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148083,
+      "stars": 148084,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-21T01:28:06.804171+00:00"
+  "last_updated": "2026-07-21T08:05:34.651034+00:00"
 }
