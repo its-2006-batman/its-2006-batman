@@ -7,81 +7,75 @@
     "url": "https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "50.96\u00b0S",
-    "longitude": "161.15\u00b0E",
-    "timestamp": "2026-07-21T19:01:17+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
-      "score": 183,
-      "url": "https://e360.yale.edu/digest/benin-coral-reef",
-      "time": "2026-07-21T15:41:51"
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "score": 697,
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "time": "2026-07-21T20:09:52"
     },
     {
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "score": 413,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "time": "2026-07-21T15:17:16"
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "score": 271,
+      "url": "https://fireworks.ai/blog/kimik3-fable",
+      "time": "2026-07-21T22:35:24"
     },
     {
-      "title": "Freeink: Open Ecosystem for E-Readers",
-      "score": 16,
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "score": 402,
       "url": "https://freeink.org/",
       "time": "2026-07-21T18:39:06"
     },
     {
-      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
-      "score": 50,
-      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
-      "time": "2026-07-21T17:03:18"
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "score": 156,
+      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+      "time": "2026-07-21T21:09:25"
     },
     {
-      "title": "Cheap Self-Hosted Kubernetes on Hetzner Cloud",
-      "score": 16,
-      "url": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
-      "time": "2026-07-21T18:25:08"
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "score": 608,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "time": "2026-07-21T15:17:16"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246630,
+      "stars": 246649,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 231841,
+      "stars": 231905,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196295,
+      "stars": 196299,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157185,
+      "stars": 157186,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148087,
+      "stars": 148088,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-21T19:01:17.011554+00:00"
+  "last_updated": "2026-07-22T01:27:16.986073+00:00"
 }
