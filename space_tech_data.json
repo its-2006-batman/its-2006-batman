@@ -1,57 +1,63 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "The Corona Australis Molecular Cloud and the Chandelier Cluster",
-    "date": "2026-07-22",
-    "explanation": "The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. The Corona Australis Cloud is a collage of reflection and emission nebulae on the left of today\u2019s image. At 430 light years away, this cloud is one of the closest star-forming regions to Earth. It contains gas coo...",
-    "url": "https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg",
+    "title": "The Large Magellanic Cloud",
+    "date": "2026-07-23",
+    "explanation": "Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20\u00b0 N (but the further south, the better), you can see it with the unaided eye if you go to a da...",
+    "url": "https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "50.86\u00b0S",
+    "longitude": "45.89\u00b0W",
+    "timestamp": "2026-07-23T08:09:08+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-      "score": 601,
+      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "score": 24,
+      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+      "time": "2026-07-21T10:04:20"
+    },
+    {
+      "title": "git's \u2013end-of-options Flag",
+      "score": 119,
+      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+      "time": "2026-07-21T13:13:47"
+    },
+    {
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "score": 825,
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
       "time": "2026-07-22T17:30:40"
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
-      "score": 148,
+      "score": 328,
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "time": "2026-07-22T14:18:05"
     },
     {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "score": 367,
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "time": "2026-07-22T17:20:38"
-    },
-    {
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "score": 646,
-      "url": "https://bento.page/slides/",
-      "time": "2026-07-22T15:19:23"
-    },
-    {
-      "title": "Medici family mystery may be solved after more than 400 years",
-      "score": 76,
-      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "time": "2026-07-22T21:55:34"
+      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "score": 19,
+      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+      "time": "2026-07-23T05:40:20"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246666,
+      "stars": 246673,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 232239,
+      "stars": 232338,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -65,17 +71,17 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157229,
+      "stars": 157245,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148085,
+      "stars": 148088,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-23T01:46:41.755111+00:00"
+  "last_updated": "2026-07-23T08:09:08.341333+00:00"
 }
