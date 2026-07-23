@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "50.86\u00b0S",
-    "longitude": "45.89\u00b0W",
-    "timestamp": "2026-07-23T08:09:08+00:00",
+    "latitude": "25.89\u00b0N",
+    "longitude": "0.53\u00b0E",
+    "timestamp": "2026-07-23T13:21:43+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-      "score": 24,
-      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
-      "time": "2026-07-21T10:04:20"
-    },
-    {
-      "title": "git's \u2013end-of-options Flag",
-      "score": 119,
-      "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-      "time": "2026-07-21T13:13:47"
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "score": 27,
+      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "time": "2026-07-23T13:10:02"
     },
     {
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "score": 825,
+      "score": 978,
       "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
       "time": "2026-07-22T17:30:40"
     },
     {
+      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "score": 100,
+      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+      "time": "2026-07-23T05:40:20"
+    },
+    {
       "title": "Quality non-fiction books are the antithesis of AI slop",
-      "score": 328,
+      "score": 416,
       "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "time": "2026-07-22T14:18:05"
     },
     {
-      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
-      "score": 19,
-      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
-      "time": "2026-07-23T05:40:20"
+      "title": "The Unity CLI: manage Unity from your terminal",
+      "score": 37,
+      "url": "https://unity.com/blog/meet-the-unity-cli",
+      "time": "2026-07-21T17:51:57"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246673,
+      "stars": 246678,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 232338,
+      "stars": 232415,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196305,
+      "stars": 196308,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157245,
+      "stars": 157250,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148088,
+      "stars": 148086,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-23T08:09:08.341333+00:00"
+  "last_updated": "2026-07-23T13:21:42.799727+00:00"
 }
