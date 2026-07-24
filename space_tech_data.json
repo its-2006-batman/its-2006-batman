@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "RCW 86: Historical Supernova Remnant",
+    "date": "2026-07-24",
+    "explanation": "In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked-eye for months before it faded from v...",
+    "url": "https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "20.19\u00b0N",
-    "longitude": "166.64\u00b0E",
-    "timestamp": "2026-07-24T01:42:23+00:00",
+    "latitude": "47.91\u00b0N",
+    "longitude": "113.69\u00b0E",
+    "timestamp": "2026-07-24T08:05:20+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "98.css",
-      "score": 203,
-      "url": "https://jdan.github.io/98.css/#status-bar",
-      "time": "2026-07-23T22:30:29"
+      "title": "Flux 3",
+      "score": 144,
+      "url": "https://bfl.ai/blog/flux-3",
+      "time": "2026-07-24T06:17:08"
+    },
+    {
+      "title": "The PImpl idiom and the C++26 std:indirect type",
+      "score": 22,
+      "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+      "time": "2026-07-24T07:02:43"
     },
     {
       "title": "Writing by hand is good for your brain",
-      "score": 973,
+      "score": 1253,
       "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "time": "2026-07-23T14:24:43"
     },
     {
-      "title": "The Visual 6502",
-      "score": 37,
-      "url": "http://visual6502.org/JSSim/index.html",
-      "time": "2026-07-23T23:36:42"
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "score": 892,
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "time": "2026-07-23T15:18:40"
     },
     {
       "title": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
-      "score": 225,
+      "score": 367,
       "url": "https://news.ycombinator.com/item?id=49026810",
       "time": "2026-07-23T19:26:01"
-    },
-    {
-      "title": "The Beam Engine",
-      "score": 157,
-      "url": "https://glinscott.github.io/beam-engine/",
-      "time": "2026-07-22T14:16:44"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246689,
+      "stars": 246692,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 232589,
+      "stars": 232665,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196317,
+      "stars": 196319,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157258,
+      "stars": 157268,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148087,
+      "stars": 148089,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-24T01:42:21.828316+00:00"
+  "last_updated": "2026-07-24T08:05:12.223260+00:00"
 }

@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  20.19°N                                       ║
-║  📍 LONGITUDE: 166.64°E                                      ║
+║  📍 LATITUDE:  47.91°N                                       ║
+║  📍 LONGITUDE: 113.69°E                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-07-24 01:42 UTC                   ║
+║  ⏰ UPDATE: 2026-07-24 08:05 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: RCW 86: Historical Supernova Remnant                     ║
+║  DATE:  2026-07-24                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **98.css** (203 ⭐)
-2. **Writing by hand is good for your brain** (973 ⭐)
-3. **The Visual 6502** (37 ⭐)
+1. **Flux 3** (144 ⭐)
+2. **The PImpl idiom and the C++26 std:indirect type** (22 ⭐)
+3. **Writing by hand is good for your brain** (1253 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246689★)
-2. **affaan-m/ECC** (232589★)
-3. **trekhleb/javascript-algorithms** (196317★)
+1. **react/react** (246692★)
+2. **affaan-m/ECC** (232665★)
+3. **trekhleb/javascript-algorithms** (196319★)
 <!-- LIVE_DATA_END -->
