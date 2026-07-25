@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "RCW 86: Historical Supernova Remnant",
-    "date": "2026-07-24",
-    "explanation": "In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked-eye for months before it faded from v...",
-    "url": "https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg",
+    "title": "Tranquility and Serenity",
+    "date": "2026-07-25",
+    "explanation": "The Seas of Tranquility and Serenity are calm today. They're calm most every day though, since they are actually lunar maria, ancient lava flows filling in large impact basins on the Moon. Also known by Latin names Mare Tranquillitatis (right) and Mare Serenitatis, the smooth dark lunar \"seas\" are i...",
+    "url": "https://apod.nasa.gov/apod/image/2607/TranquilitySerenity1024c.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "23.45\u00b0S",
-    "longitude": "16.15\u00b0W",
-    "timestamp": "2026-07-25T01:42:24+00:00",
+    "latitude": "8.03\u00b0S",
+    "longitude": "122.86\u00b0W",
+    "timestamp": "2026-07-25T07:48:30+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "ARC-AGI Leaderboard",
+      "score": 43,
+      "url": "https://arcprize.org/leaderboard",
+      "time": "2026-07-25T06:31:40"
+    },
+    {
+      "title": "Android May Soon Restrict On-Device ADB",
+      "score": 21,
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "time": "2026-07-25T06:57:14"
+    },
+    {
       "title": "Claude Opus 5",
-      "score": 1297,
+      "score": 1503,
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "time": "2026-07-24T16:57:41"
     },
     {
-      "title": "Postgres LISTEN/NOTIFY actually scales",
-      "score": 198,
-      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-      "time": "2026-07-24T19:05:53"
+      "title": "GC and Exceptions in Wasmtime",
+      "score": 67,
+      "url": "https://bytecodealliance.org/articles/wasmtime-gc",
+      "time": "2026-07-20T17:10:50"
     },
     {
-      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "score": 137,
-      "url": "https://artificialanalysis.ai/models",
-      "time": "2026-07-24T19:45:10"
-    },
-    {
-      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-      "score": 26,
-      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-      "time": "2026-07-24T23:13:18"
-    },
-    {
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "score": 509,
-      "url": "https://hhh.hn/hanwha-github-token/",
-      "time": "2026-07-24T11:54:41"
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "score": 119,
+      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "time": "2026-07-25T01:44:12"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246707,
+      "stars": 246712,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 232923,
+      "stars": 233003,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196319,
+      "stars": 196325,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157280,
+      "stars": 157289,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148090,
+      "stars": 148091,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-25T01:42:19.980535+00:00"
+  "last_updated": "2026-07-25T07:48:29.139521+00:00"
 }
