@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "38.19\u00b0N",
-    "longitude": "24.98\u00b0E",
-    "timestamp": "2026-07-24T19:09:46+00:00",
+    "latitude": "23.45\u00b0S",
+    "longitude": "16.15\u00b0W",
+    "timestamp": "2026-07-25T01:42:24+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Claude Opus 5",
-      "score": 704,
+      "score": 1297,
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "time": "2026-07-24T16:57:41"
     },
     {
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "score": 147,
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "time": "2026-07-24T13:32:30"
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "score": 198,
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "time": "2026-07-24T19:05:53"
     },
     {
-      "title": "I got into YC by hacking it",
-      "score": 44,
-      "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
-      "time": "2026-07-24T18:03:22"
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "score": 137,
+      "url": "https://artificialanalysis.ai/models",
+      "time": "2026-07-24T19:45:10"
+    },
+    {
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "score": 26,
+      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+      "time": "2026-07-24T23:13:18"
     },
     {
       "title": "My security camera shipped a GitHub admin token in its login page",
-      "score": 396,
+      "score": 509,
       "url": "https://hhh.hn/hanwha-github-token/",
       "time": "2026-07-24T11:54:41"
-    },
-    {
-      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-      "score": 353,
-      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-      "time": "2026-07-20T02:43:54"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246701,
+      "stars": 246707,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 232830,
+      "stars": 232923,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196317,
+      "stars": 196319,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157279,
+      "stars": 157280,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148087,
+      "stars": 148090,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-24T19:09:45.434788+00:00"
+  "last_updated": "2026-07-25T01:42:19.980535+00:00"
 }
