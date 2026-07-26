@@ -8,70 +8,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "40.36\u00b0S",
-    "longitude": "104.92\u00b0E",
-    "timestamp": "2026-07-25T18:50:03+00:00",
+    "latitude": "34.15\u00b0N",
+    "longitude": "169.60\u00b0E",
+    "timestamp": "2026-07-26T01:45:12+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "score": 62,
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "time": "2026-07-25T23:32:50"
+    },
+    {
       "title": "Stolen Buttons",
-      "score": 272,
+      "score": 568,
       "url": "https://anatolyzenkov.com/stolen-buttons",
       "time": "2026-07-20T09:23:42"
     },
     {
-      "title": "Open-weight AI is having its Kubernetes moment",
-      "score": 141,
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "time": "2026-07-25T14:49:49"
+      "title": "Systems and Delays",
+      "score": 10,
+      "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+      "time": "2026-07-26T00:37:30"
     },
     {
-      "title": "Android May Soon Restrict On-Device ADB",
-      "score": 730,
-      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-      "time": "2026-07-25T06:57:14"
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "score": 121,
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "time": "2026-07-25T21:48:22"
     },
     {
-      "title": "Bitchat is now on Radicle",
-      "score": 123,
-      "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
-      "time": "2026-07-25T13:18:49"
-    },
-    {
-      "title": "Bringing PyTorch Monarch to AMD GPUs",
-      "score": 30,
-      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm/",
-      "time": "2026-07-25T15:55:27"
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "score": 159,
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "time": "2026-07-25T20:42:35"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246724,
+      "stars": 246729,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 233206,
+      "stars": 233318,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196329,
+      "stars": 196332,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157299,
+      "stars": 157300,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-25T18:49:59.420466+00:00"
+  "last_updated": "2026-07-26T01:45:11.794583+00:00"
 }
