@@ -8,70 +8,70 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "39.70\u00b0N",
-    "longitude": "105.61\u00b0E",
-    "timestamp": "2026-07-26T12:55:33+00:00",
+    "latitude": "49.92\u00b0N",
+    "longitude": "54.19\u00b0W",
+    "timestamp": "2026-07-26T18:54:31+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
-      "score": 143,
-      "url": "https://astral.sh/blog/ruff-v0.16.0",
-      "time": "2026-07-26T09:01:39"
+      "title": "London Gatwick has launched a robotic airport parking service",
+      "score": 209,
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "time": "2026-07-26T14:40:27"
     },
     {
-      "title": "Third Drone Shot Down in Three Days in Romanian Territory",
-      "score": 41,
-      "url": "https://english.mapn.ro/",
-      "time": "2026-07-26T12:00:42"
+      "title": "Kill The Cookie Banner",
+      "score": 438,
+      "url": "https://killthecookiebanner.eu/",
+      "time": "2026-07-26T11:53:17"
     },
     {
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "score": 150,
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "time": "2026-07-26T05:57:22"
+      "title": "The Strongest El Ni\u00f1o Ever",
+      "score": 21,
+      "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
+      "time": "2026-07-26T18:35:36"
     },
     {
-      "title": "A shell colon does nothing. Use it anyway",
-      "score": 265,
-      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-      "time": "2026-07-25T13:33:49"
+      "title": "Design Is Compromise",
+      "score": 89,
+      "url": "https://stephango.com/design-is-compromise",
+      "time": "2026-07-26T15:51:12"
     },
     {
-      "title": "Systemd Linger",
-      "score": 22,
-      "url": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
-      "time": "2026-07-26T09:43:13"
+      "title": "Show HN: CheapSecurity \u2013 Lightweight, Self-Hosted CCTV for Linux SBCs",
+      "score": 38,
+      "url": "https://github.com/gmrandazzo/CheapSecurity",
+      "time": "2026-07-26T15:53:55"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246741,
+      "stars": 246732,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 233512,
+      "stars": 233578,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196336,
+      "stars": 196339,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157308,
+      "stars": 157313,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-26T12:55:25.066685+00:00"
+  "last_updated": "2026-07-26T18:54:30.675189+00:00"
 }
