@@ -1,41 +1,47 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Simulation TNG50: A Galaxy Cluster Forms",
-    "date": "2026-07-26",
-    "explanation": "How do clusters of galaxies form?  Since our universe moves too slowly to watch, faster-moving computer simulations are created to help find out.  One famous effort is TNG50 from IllustrisTNG, an upgrade of the famous Illustris Simulation. The first part of the featured video tracks cosmic gas (most...",
-    "url": "https://apod.nasa.gov/apod/image/2607/ClusterFormation_TNG50.mp4",
-    "media_type": "video"
+    "title": "NGC 7635: The Bubble Nebula",
+    "date": "2026-07-27",
+    "explanation": "What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and ...",
+    "url": "https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg",
+    "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "30.05\u00b0S",
+    "longitude": "138.84\u00b0W",
+    "timestamp": "2026-07-27T09:26:40+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
+      "score": 259,
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "time": "2026-07-27T06:18:10"
+    },
+    {
       "title": "PGSimCity - How PostgreSQL Works",
-      "score": 75,
+      "score": 569,
       "url": "https://nikolays.github.io/PGSimCity/",
       "time": "2026-07-27T00:19:04"
     },
     {
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "score": 222,
-      "url": "https://beyondloom.com/decker/",
-      "time": "2026-07-26T18:23:06"
-    },
-    {
       "title": "Show HN: Physically accurate black hole you can put in your room",
-      "score": 17,
+      "score": 304,
       "url": "https://blackhole.plav.in",
       "time": "2026-07-23T13:29:24"
     },
     {
-      "title": "We have proof automation now",
-      "score": 73,
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "time": "2026-07-26T20:53:26"
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
+      "score": 168,
+      "url": "https://github.com/vercel-labs/scriptc",
+      "time": "2026-07-26T22:46:10"
     },
     {
       "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "score": 181,
+      "score": 361,
       "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
       "time": "2026-07-26T17:49:44"
     }
@@ -44,38 +50,38 @@
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246732,
+      "stars": 246739,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 233685,
+      "stars": 233803,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196337,
+      "stars": 196336,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157315,
+      "stars": 157327,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148091,
+      "stars": 148088,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-27T01:52:08.205874+00:00"
+  "last_updated": "2026-07-27T09:26:39.699267+00:00"
 }
