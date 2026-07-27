@@ -8,70 +8,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "30.05\u00b0S",
-    "longitude": "138.84\u00b0W",
-    "timestamp": "2026-07-27T09:26:40+00:00",
+    "latitude": "37.99\u00b0S",
+    "longitude": "160.54\u00b0E",
+    "timestamp": "2026-07-27T14:08:16+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Kimi-K3 Releases on HuggingFace 7/27",
-      "score": 259,
+      "score": 629,
       "url": "https://huggingface.co/moonshotai/Kimi-K3",
       "time": "2026-07-27T06:18:10"
     },
     {
-      "title": "PGSimCity - How PostgreSQL Works",
-      "score": 569,
-      "url": "https://nikolays.github.io/PGSimCity/",
-      "time": "2026-07-27T00:19:04"
+      "title": "Should you wash your solar panels?",
+      "score": 35,
+      "url": "https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html",
+      "time": "2026-07-27T13:04:11"
     },
     {
-      "title": "Show HN: Physically accurate black hole you can put in your room",
-      "score": 304,
-      "url": "https://blackhole.plav.in",
-      "time": "2026-07-23T13:29:24"
+      "title": "How is the Bun Rewrite in Rust going?",
+      "score": 212,
+      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "time": "2026-07-27T11:12:26"
     },
     {
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "score": 168,
-      "url": "https://github.com/vercel-labs/scriptc",
-      "time": "2026-07-26T22:46:10"
+      "title": "AI companies are shredding rare books",
+      "score": 270,
+      "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+      "time": "2026-07-27T12:32:12"
     },
     {
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "score": 361,
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "time": "2026-07-26T17:49:44"
+      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity",
+      "score": 59,
+      "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
+      "time": "2026-07-27T09:58:50"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246739,
+      "stars": 246741,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 233803,
+      "stars": 233903,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196336,
+      "stars": 196338,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157327,
+      "stars": 157337,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-27T09:26:39.699267+00:00"
+  "last_updated": "2026-07-27T14:08:06.695040+00:00"
 }
