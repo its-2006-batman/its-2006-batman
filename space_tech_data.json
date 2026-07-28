@@ -1,77 +1,77 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "NGC 7635: The Bubble Nebula",
-    "date": "2026-07-27",
-    "explanation": "What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and ...",
-    "url": "https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg",
+    "title": "Barnards Loop over Twin Volcanoes",
+    "date": "2026-07-28",
+    "explanation": "What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected by a common pool of...",
+    "url": "https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "12.90\u00b0S",
-    "longitude": "119.40\u00b0E",
-    "timestamp": "2026-07-28T01:26:54+00:00",
+    "latitude": "44.88\u00b0N",
+    "longitude": "154.75\u00b0E",
+    "timestamp": "2026-07-28T08:12:18+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "7.1 Earthquake in Japan",
+      "score": 57,
+      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+      "time": "2026-07-28T07:44:24"
+    },
+    {
       "title": "Our position on open-weights models",
-      "score": 427,
+      "score": 838,
       "url": "https://www.anthropic.com/news/position-open-weights-models",
       "time": "2026-07-27T22:03:49"
     },
     {
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "score": 104,
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "time": "2026-07-27T22:37:52"
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "score": 148,
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "time": "2026-07-28T02:18:53"
     },
     {
-      "title": "DConf 2026 in London",
-      "score": 41,
-      "url": "https://dconf.org/2026/index.html",
-      "time": "2026-07-27T23:14:19"
+      "title": "Ars Astronomica \u2013 English translations of rare Hebrew and Latin astronomy texts",
+      "score": 45,
+      "url": "https://arsastronomica.com/",
+      "time": "2026-07-28T05:25:34"
     },
     {
-      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-      "score": 33,
-      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-      "time": "2026-07-27T23:19:19"
-    },
-    {
-      "title": "Watching Go's new garbage collector move through the heap",
-      "score": 169,
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "time": "2026-07-25T07:55:19"
+      "title": "Neutrino-1 8B",
+      "score": 60,
+      "url": "https://www.fermionresearch.com/models/neutrino-8b/",
+      "time": "2026-07-28T04:49:54"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246750,
+      "stars": 246740,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 234192,
+      "stars": 234342,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196341,
+      "stars": 196342,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157342,
+      "stars": 157351,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-28T01:26:53.605678+00:00"
+  "last_updated": "2026-07-28T08:12:14.807609+00:00"
 }

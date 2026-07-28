@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  12.90°S                                       ║
-║  📍 LONGITUDE: 119.40°E                                      ║
+║  📍 LATITUDE:  44.88°N                                       ║
+║  📍 LONGITUDE: 154.75°E                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-07-28 01:26 UTC                   ║
+║  ⏰ UPDATE: 2026-07-28 08:12 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: NGC 7635: The Bubble Nebula                              ║
-║  DATE:  2026-07-27                                                ║
+║  TITLE: Barnards Loop over Twin Volcanoes                        ║
+║  DATE:  2026-07-28                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Our position on open-weights models** (427 ⭐)
-2. **Benchmarking Opus 5 on SlopCodeBench** (104 ⭐)
-3. **DConf 2026 in London** (41 ⭐)
+1. **7.1 Earthquake in Japan** (57 ⭐)
+2. **Our position on open-weights models** (838 ⭐)
+3. **A $500 RL fine-tune of a 9B open model beat frontier models ...** (148 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246750★)
-2. **affaan-m/ECC** (234192★)
-3. **trekhleb/javascript-algorithms** (196341★)
+1. **react/react** (246740★)
+2. **affaan-m/ECC** (234342★)
+3. **trekhleb/javascript-algorithms** (196342★)
 <!-- LIVE_DATA_END -->
