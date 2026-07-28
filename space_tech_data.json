@@ -1,77 +1,71 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Barnards Loop over Twin Volcanoes",
-    "date": "2026-07-28",
-    "explanation": "What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected by a common pool of...",
-    "url": "https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "50.42\u00b0S",
-    "longitude": "159.94\u00b0W",
-    "timestamp": "2026-07-28T13:27:53+00:00",
+    "latitude": "39.03\u00b0N",
+    "longitude": "1.03\u00b0E",
+    "timestamp": "2026-07-28T19:04:52+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "7.1 Earthquake in Japan",
-      "score": 418,
-      "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-      "time": "2026-07-28T07:44:24"
+      "title": "You Could Have Come Up with Kimi Delta Attention",
+      "score": 233,
+      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "time": "2026-07-28T16:02:07"
     },
     {
-      "title": "AI revenues are growing fast, but not fast enough",
-      "score": 23,
-      "url": "https://www.economist.com/finance-and-economics/2026/07/28/ai-revenues-are-growing-fast-but-not-fast-enough",
-      "time": "2026-07-28T12:19:54"
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "score": 80,
+      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "time": "2026-07-28T17:11:54"
     },
     {
-      "title": "Show HN: I put a $2.43 necklace on 3 outfits. VLMs priced it at $19 to $104",
-      "score": 14,
-      "url": "https://github.com/BraveAnn011/ai-halo-valuation-bias",
-      "time": "2026-07-28T13:07:40"
+      "title": "Deflock Casa Grande",
+      "score": 24,
+      "url": "https://deflockcg.com/",
+      "time": "2026-07-28T18:41:48"
     },
     {
-      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "score": 45,
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "time": "2026-07-28T09:59:13"
+      "title": "Delayed Gratification \u2013 Proud to Be 'Last to Breaking News'",
+      "score": 127,
+      "url": "https://www.slow-journalism.com/",
+      "time": "2026-07-28T15:50:38"
     },
     {
-      "title": "Our position on open-weights models",
-      "score": 1018,
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "time": "2026-07-27T22:03:49"
+      "title": "Zig's Incremental Compilation Internals",
+      "score": 112,
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "time": "2026-07-28T15:46:45"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246741,
+      "stars": 246742,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 234486,
+      "stars": 234662,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196343,
+      "stars": 196344,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157361,
+      "stars": 157367,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-28T13:27:51.766455+00:00"
+  "last_updated": "2026-07-28T19:04:41.857024+00:00"
 }

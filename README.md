@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  50.42°S                                       ║
-║  📍 LONGITUDE: 159.94°W                                      ║
+║  📍 LATITUDE:  39.03°N                                       ║
+║  📍 LONGITUDE: 1.03°E                                        ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-07-28 13:27 UTC                   ║
+║  ⏰ UPDATE: 2026-07-28 19:04 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Barnards Loop over Twin Volcanoes                        ║
-║  DATE:  2026-07-28                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **7.1 Earthquake in Japan** (418 ⭐)
-2. **AI revenues are growing fast, but not fast enough** (23 ⭐)
-3. **Show HN: I put a $2.43 necklace on 3 outfits. VLMs priced it...** (14 ⭐)
+1. **You Could Have Come Up with Kimi Delta Attention** (233 ⭐)
+2. **Steel Bank Common Lisp version 2.6.7** (80 ⭐)
+3. **Deflock Casa Grande** (24 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246741★)
-2. **affaan-m/ECC** (234486★)
-3. **trekhleb/javascript-algorithms** (196343★)
+1. **react/react** (246742★)
+2. **affaan-m/ECC** (234662★)
+3. **trekhleb/javascript-algorithms** (196344★)
 <!-- LIVE_DATA_END -->
