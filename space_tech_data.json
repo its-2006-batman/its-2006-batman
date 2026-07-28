@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "29.83\u00b0S",
-    "longitude": "161.30\u00b0W",
-    "timestamp": "2026-07-27T19:09:42+00:00",
+    "latitude": "12.90\u00b0S",
+    "longitude": "119.40\u00b0E",
+    "timestamp": "2026-07-28T01:26:54+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "MAI-Cyber 1",
-      "score": 154,
-      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-      "time": "2026-07-27T16:52:22"
+      "title": "Our position on open-weights models",
+      "score": 427,
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "time": "2026-07-27T22:03:49"
+    },
+    {
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "score": 104,
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "time": "2026-07-27T22:37:52"
+    },
+    {
+      "title": "DConf 2026 in London",
+      "score": 41,
+      "url": "https://dconf.org/2026/index.html",
+      "time": "2026-07-27T23:14:19"
+    },
+    {
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "score": 33,
+      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "time": "2026-07-27T23:19:19"
     },
     {
       "title": "Watching Go's new garbage collector move through the heap",
-      "score": 31,
+      "score": 169,
       "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
       "time": "2026-07-25T07:55:19"
-    },
-    {
-      "title": "Kimi-K3 on HuggingFace",
-      "score": 1124,
-      "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "time": "2026-07-27T06:18:10"
-    },
-    {
-      "title": "Decathlon Germany adds Wero payment option to decathlon.de website",
-      "score": 138,
-      "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
-      "time": "2026-07-27T16:49:08"
-    },
-    {
-      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-      "score": 88,
-      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
-      "time": "2026-07-23T13:08:52"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246746,
+      "stars": 246750,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 234040,
+      "stars": 234192,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196342,
+      "stars": 196341,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157344,
+      "stars": 157342,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148088,
+      "stars": 148087,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-27T19:09:40.280900+00:00"
+  "last_updated": "2026-07-28T01:26:53.605678+00:00"
 }
