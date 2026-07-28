@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  44.88°N                                       ║
-║  📍 LONGITUDE: 154.75°E                                      ║
+║  📍 LATITUDE:  50.42°S                                       ║
+║  📍 LONGITUDE: 159.94°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-07-28 08:12 UTC                   ║
+║  ⏰ UPDATE: 2026-07-28 13:27 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **7.1 Earthquake in Japan** (57 ⭐)
-2. **Our position on open-weights models** (838 ⭐)
-3. **A $500 RL fine-tune of a 9B open model beat frontier models ...** (148 ⭐)
+1. **7.1 Earthquake in Japan** (418 ⭐)
+2. **AI revenues are growing fast, but not fast enough** (23 ⭐)
+3. **Show HN: I put a $2.43 necklace on 3 outfits. VLMs priced it...** (14 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246740★)
-2. **affaan-m/ECC** (234342★)
-3. **trekhleb/javascript-algorithms** (196342★)
+1. **react/react** (246741★)
+2. **affaan-m/ECC** (234486★)
+3. **trekhleb/javascript-algorithms** (196343★)
 <!-- LIVE_DATA_END -->
