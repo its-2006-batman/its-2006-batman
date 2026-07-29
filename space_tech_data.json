@@ -10,72 +10,72 @@
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": "More Tailscale tricks for your jailbroken Kindle",
-      "score": 140,
-      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-      "time": "2026-07-29T04:58:46"
+      "title": "KOReader",
+      "score": 214,
+      "url": "https://koreader.rocks/",
+      "time": "2026-07-29T11:05:08"
     },
     {
-      "title": "User Interfaces of the Demo Scene",
-      "score": 127,
-      "url": "https://www.datagubbe.se/scenegui/",
-      "time": "2026-07-29T04:30:36"
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "score": 26,
+      "url": "https://arxiv.org/abs/2607.25398",
+      "time": "2026-07-29T13:01:57"
     },
     {
-      "title": "Codex Security",
-      "score": 483,
-      "url": "https://github.com/openai/codex-security",
-      "time": "2026-07-28T20:52:55"
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "score": 119,
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "time": "2026-07-29T11:44:33"
     },
     {
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "score": 287,
-      "url": "https://github.com/twalichiewicz/HNewhere",
-      "time": "2026-07-28T22:09:06"
+      "title": "After the AI Crash",
+      "score": 18,
+      "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
+      "time": "2026-07-29T13:00:39"
     },
     {
-      "title": "Cracking Windows Open: Porting RADV to Win32",
-      "score": 35,
-      "url": "https://www.collabora.com/news-and-blog/news-and-events/cracking-windows-open-porting-radv-to-win32.html",
-      "time": "2026-07-29T04:30:47"
+      "title": "Show HN: Bullshit Detector \u2013 agent skills that fact-check videos and articles",
+      "score": 19,
+      "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+      "time": "2026-07-29T12:58:27"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246752,
+      "stars": 246753,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 235121,
+      "stars": 235276,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196341,
+      "stars": 196343,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157380,
+      "stars": 157376,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148087,
+      "stars": 148086,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-29T08:17:10.039082+00:00"
+  "last_updated": "2026-07-29T13:42:46.057402+00:00"
 }
