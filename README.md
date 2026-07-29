@@ -418,7 +418,7 @@ END TRANSMISSION
 ║  📍 LONGITUDE: N/A                                           ║
 ║  ⚡ VELOCITY:  N/A                                           ║
 ║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-07-29 01:27 UTC                   ║
+║  ⏰ UPDATE: 2026-07-29 08:17 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Barnards Loop over Twin Volcanoes                        ║
-║  DATE:  2026-07-28                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: Psyche Receives Gravity Assist from Mars                 ║
+║  DATE:  2026-07-29                                                ║
+║  TYPE:  video                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Codex Security** (336 ⭐)
-2. **Half-Life ported to Mac OS 9** (137 ⭐)
-3. **Show HN: I was tired of opening 2 tabs for every HN link, so...** (110 ⭐)
+1. **More Tailscale tricks for your jailbroken Kindle** (140 ⭐)
+2. **User Interfaces of the Demo Scene** (127 ⭐)
+3. **Codex Security** (483 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246738★)
-2. **affaan-m/ECC** (234827★)
-3. **trekhleb/javascript-algorithms** (196344★)
+1. **react/react** (246752★)
+2. **affaan-m/ECC** (235121★)
+3. **trekhleb/javascript-algorithms** (196341★)
 <!-- LIVE_DATA_END -->
