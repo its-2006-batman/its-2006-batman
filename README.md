@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  39.03°N                                       ║
-║  📍 LONGITUDE: 1.03°E                                        ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-07-28 19:04 UTC                   ║
+║  📍 LATITUDE:  N/A                                           ║
+║  📍 LONGITUDE: N/A                                           ║
+║  ⚡ VELOCITY:  N/A                                           ║
+║  🌍 ALTITUDE:  N/A                                           ║
+║  ⏰ UPDATE: 2026-07-29 01:27 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: Barnards Loop over Twin Volcanoes                        ║
+║  DATE:  2026-07-28                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **You Could Have Come Up with Kimi Delta Attention** (233 ⭐)
-2. **Steel Bank Common Lisp version 2.6.7** (80 ⭐)
-3. **Deflock Casa Grande** (24 ⭐)
+1. **Codex Security** (336 ⭐)
+2. **Half-Life ported to Mac OS 9** (137 ⭐)
+3. **Show HN: I was tired of opening 2 tabs for every HN link, so...** (110 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246742★)
-2. **affaan-m/ECC** (234662★)
+1. **react/react** (246738★)
+2. **affaan-m/ECC** (234827★)
 3. **trekhleb/javascript-algorithms** (196344★)
 <!-- LIVE_DATA_END -->

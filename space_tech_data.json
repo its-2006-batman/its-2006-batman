@@ -1,57 +1,57 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
-  "iss_position": {
-    "latitude": "39.03\u00b0N",
-    "longitude": "1.03\u00b0E",
-    "timestamp": "2026-07-28T19:04:52+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
+  "nasa_apod": {
+    "title": "Barnards Loop over Twin Volcanoes",
+    "date": "2026-07-28",
+    "explanation": "What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected by a common pool of...",
+    "url": "https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg",
+    "media_type": "image"
   },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "You Could Have Come Up with Kimi Delta Attention",
-      "score": 233,
-      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-      "time": "2026-07-28T16:02:07"
+      "title": "Codex Security",
+      "score": 336,
+      "url": "https://github.com/openai/codex-security",
+      "time": "2026-07-28T20:52:55"
     },
     {
-      "title": "Steel Bank Common Lisp version 2.6.7",
-      "score": 80,
-      "url": "https://sbcl.org/all-news.html?2.6.7",
-      "time": "2026-07-28T17:11:54"
+      "title": "Half-Life ported to Mac OS 9",
+      "score": 137,
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "time": "2026-07-28T20:58:39"
     },
     {
-      "title": "Deflock Casa Grande",
-      "score": 24,
-      "url": "https://deflockcg.com/",
-      "time": "2026-07-28T18:41:48"
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "score": 110,
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "time": "2026-07-28T22:09:06"
     },
     {
-      "title": "Delayed Gratification \u2013 Proud to Be 'Last to Breaking News'",
-      "score": 127,
-      "url": "https://www.slow-journalism.com/",
-      "time": "2026-07-28T15:50:38"
+      "title": "Substack writers, you need a website",
+      "score": 411,
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "time": "2026-07-28T16:58:31"
     },
     {
-      "title": "Zig's Incremental Compilation Internals",
-      "score": 112,
-      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-      "time": "2026-07-28T15:46:45"
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "score": 25,
+      "url": "https://www.hubble.md/",
+      "time": "2026-07-29T00:11:23"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246742,
+      "stars": 246738,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 234662,
+      "stars": 234827,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -65,7 +65,7 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157367,
+      "stars": 157368,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-28T19:04:41.857024+00:00"
+  "last_updated": "2026-07-29T01:27:02.219361+00:00"
 }
