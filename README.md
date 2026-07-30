@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  27.09°S                                       ║
-║  📍 LONGITUDE: 95.90°E                                       ║
+║  📍 LATITUDE:  50.92°N                                       ║
+║  📍 LONGITUDE: 119.37°E                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-07-30 01:19 UTC                   ║
+║  ⏰ UPDATE: 2026-07-30 08:05 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Psyche Receives Gravity Assist from Mars                 ║
-║  DATE:  2026-07-29                                                ║
-║  TYPE:  video                                                     ║
+║  TITLE: Red Sun through Wildfire Smoke                           ║
+║  DATE:  2026-07-30                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **AI's top startups are barely publishing their research** (182 ⭐)
-2. **The coolest use for the Vision Pro** (374 ⭐)
-3. **Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM ...** (644 ⭐)
+1. **AI's top startups are barely publishing their research** (409 ⭐)
+2. **The coolest use for the Vision Pro** (617 ⭐)
+3. **Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM ...** (766 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246764★)
-2. **affaan-m/ECC** (235585★)
-3. **trekhleb/javascript-algorithms** (196344★)
+1. **react/react** (246775★)
+2. **affaan-m/ECC** (235841★)
+3. **trekhleb/javascript-algorithms** (196347★)
 <!-- LIVE_DATA_END -->

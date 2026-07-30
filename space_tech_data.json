@@ -1,47 +1,47 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Psyche Receives Gravity Assist from Mars",
-    "date": "2026-07-29",
-    "explanation": "Solar System bodies make deep space exploration more fuel efficient! Today\u2019s video shows the Psyche spacecraft gaining speed and changing its trajectory with minimal fuel spent due to a gravity assist from Mars in May 2026. Mars has an average orbital speed of almost 87,000 km/h (54,000 mph) around ...",
-    "url": "https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3",
-    "media_type": "video"
+    "title": "Red Sun through Wildfire Smoke",
+    "date": "2026-07-30",
+    "explanation": "This could be the view from an exoplanet orbiting around a red dwarf star, but it is our own Sun.   This image was taken on July 22, 2026, in the Okanagan region in the Canadian province of British Columbia.   Wildfire smoke from the Pacific Northwest acted as a solar filter, allowing the photograph...",
+    "url": "https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg",
+    "media_type": "image"
   },
   "iss_position": {
-    "latitude": "27.09\u00b0S",
-    "longitude": "95.90\u00b0E",
-    "timestamp": "2026-07-30T01:19:41+00:00",
+    "latitude": "50.92\u00b0N",
+    "longitude": "119.37\u00b0E",
+    "timestamp": "2026-07-30T08:05:22+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "AI's top startups are barely publishing their research",
-      "score": 182,
+      "score": 409,
       "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
       "time": "2026-07-29T21:25:40"
     },
     {
       "title": "The coolest use for the Vision Pro",
-      "score": 374,
+      "score": 617,
       "url": "https://christianselig.com/2026/07/vision-pro-house/",
       "time": "2026-07-29T20:39:40"
     },
     {
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "score": 644,
+      "score": 766,
       "url": "https://github.com/drumih/turbo-fieldfare",
       "time": "2026-07-29T15:05:43"
     },
     {
       "title": "Superlogical",
-      "score": 515,
+      "score": 667,
       "url": "https://www.superlogical.com/",
       "time": "2026-07-29T15:41:33"
     },
     {
       "title": "LLM Honeypot",
-      "score": 38,
+      "score": 214,
       "url": "https://llm2human.pages.dev/",
       "time": "2026-07-29T22:51:03"
     }
@@ -50,38 +50,38 @@
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246764,
+      "stars": 246775,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 235585,
+      "stars": 235841,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196344,
+      "stars": 196347,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157375,
+      "stars": 157385,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148090,
+      "stars": 148089,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-30T01:19:40.184288+00:00"
+  "last_updated": "2026-07-30T08:05:17.684891+00:00"
 }
