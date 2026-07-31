@@ -8,70 +8,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.07\u00b0N",
-    "longitude": "29.82\u00b0E",
-    "timestamp": "2026-07-31T13:28:51+00:00",
+    "latitude": "27.46\u00b0S",
+    "longitude": "178.59\u00b0E",
+    "timestamp": "2026-07-31T19:05:53+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "score": 151,
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
-      "time": "2026-07-31T07:59:11"
+      "title": "Elevators",
+      "score": 497,
+      "url": "https://john.fun/elevators",
+      "time": "2026-07-31T15:17:28"
     },
     {
-      "title": "The End of an Era",
-      "score": 134,
-      "url": "https://hughhowey.com/the-end-of-an-era/",
-      "time": "2026-07-31T11:51:46"
+      "title": "qm",
+      "score": 57,
+      "url": "https://github.com/yc-software/qm",
+      "time": "2026-07-31T18:04:58"
     },
     {
-      "title": "The session you cannot take with you",
-      "score": 523,
-      "url": "https://earendil.com/posts/session-portability/",
-      "time": "2026-07-31T03:47:59"
+      "title": "Big Food vs. the People",
+      "score": 109,
+      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "time": "2026-07-31T16:04:32"
     },
     {
-      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-      "score": 167,
-      "url": "https://github.com/openjdk/jdk/pull/31120",
-      "time": "2026-07-31T04:38:19"
+      "title": "Termixer (TUI DJ Mixer)",
+      "score": 11,
+      "url": "https://github.com/l00sed/termixer",
+      "time": "2026-07-31T18:28:08"
     },
     {
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "score": 203,
-      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-      "time": "2026-07-31T07:29:22"
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "score": 68,
+      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+      "time": "2026-07-31T16:15:31"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246813,
+      "stars": 246817,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 236504,
+      "stars": 236591,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196352,
+      "stars": 196359,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157413,
+      "stars": 157418,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-31T13:28:50.646181+00:00"
+  "last_updated": "2026-07-31T19:05:48.970992+00:00"
 }
