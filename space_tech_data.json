@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "26.46\u00b0N",
-    "longitude": "5.25\u00b0E",
-    "timestamp": "2026-07-30T19:07:23+00:00",
+    "latitude": "48.83\u00b0S",
+    "longitude": "8.07\u00b0W",
+    "timestamp": "2026-07-31T01:46:41+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Advancing the price-performance frontier with GPT\u20115.6",
-      "score": 283,
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-      "time": "2026-07-30T17:15:51"
+      "title": "The AI Aesthetic",
+      "score": 103,
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "time": "2026-07-30T23:22:16"
     },
     {
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "score": 165,
+      "title": "Read this before you buy that TV streaming stick",
+      "score": 563,
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "time": "2026-07-30T17:04:53"
     },
     {
-      "title": "UEFA and its national associations will not participate in FIFA competitions",
-      "score": 51,
-      "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
-      "time": "2026-07-30T18:40:52"
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "score": 83,
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "time": "2026-07-30T22:33:11"
     },
     {
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "score": 308,
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "time": "2026-07-30T15:15:48"
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "score": 199,
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "time": "2026-07-30T19:34:27"
     },
     {
-      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "score": 116,
-      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-      "time": "2026-07-30T17:31:07"
+      "title": "Stacked PRs are now live on GitHub",
+      "score": 463,
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "time": "2026-07-30T16:26:16"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246778,
+      "stars": 246783,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 236128,
+      "stars": 236245,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196351,
+      "stars": 196352,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157389,
+      "stars": 157396,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148087,
+      "stars": 148084,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-30T19:07:09.504287+00:00"
+  "last_updated": "2026-07-31T01:46:40.902602+00:00"
 }
