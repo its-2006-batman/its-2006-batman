@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "NGC 4372 and the Dark Doodad",
+    "date": "2026-07-31",
+    "explanation": "The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across this ...",
+    "url": "https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "48.83\u00b0S",
-    "longitude": "8.07\u00b0W",
-    "timestamp": "2026-07-31T01:46:41+00:00",
+    "latitude": "19.10\u00b0N",
+    "longitude": "19.98\u00b0E",
+    "timestamp": "2026-07-31T08:31:44+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "The AI Aesthetic",
-      "score": 103,
-      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-      "time": "2026-07-30T23:22:16"
+      "title": "The session you cannot take with you",
+      "score": 249,
+      "url": "https://earendil.com/posts/session-portability/",
+      "time": "2026-07-31T03:47:59"
     },
     {
-      "title": "Read this before you buy that TV streaming stick",
-      "score": 563,
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "time": "2026-07-30T17:04:53"
+      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "score": 86,
+      "url": "https://github.com/openjdk/jdk/pull/31120",
+      "time": "2026-07-31T04:38:19"
     },
     {
-      "title": "I flagged two research papers for fake authors and both were accepted as orals",
-      "score": 83,
-      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
-      "time": "2026-07-30T22:33:11"
-    },
-    {
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "score": 199,
-      "url": "https://github.com/AminBlg/SimpleEnglish",
-      "time": "2026-07-30T19:34:27"
+      "title": "DeepSeek-V4-Flash Update",
+      "score": 168,
+      "url": "https://api-docs.deepseek.com/updates/",
+      "time": "2026-07-31T06:08:36"
     },
     {
       "title": "Stacked PRs are now live on GitHub",
-      "score": 463,
+      "score": 623,
       "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
       "time": "2026-07-30T16:26:16"
+    },
+    {
+      "title": "Show HN: What should the GUI for AI agents look like?",
+      "score": 36,
+      "url": "https://marbleos.com/demo",
+      "time": "2026-07-31T05:17:29"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246783,
+      "stars": 246806,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 236245,
+      "stars": 236430,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196352,
+      "stars": 196351,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157396,
+      "stars": 157407,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148084,
+      "stars": 148082,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-31T01:46:40.902602+00:00"
+  "last_updated": "2026-07-31T08:31:36.829289+00:00"
 }
