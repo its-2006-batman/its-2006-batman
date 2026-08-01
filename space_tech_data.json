@@ -7,81 +7,75 @@
     "url": "https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "51.52\u00b0N",
-    "longitude": "100.29\u00b0E",
-    "timestamp": "2026-08-01T08:01:40+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "score": 19,
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "time": "2026-08-01T07:37:44"
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "score": 23,
+      "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
+      "time": "2026-08-01T12:34:25"
+    },
+    {
+      "title": "Show HN: Free AI Prompt Gen \u2013 A local-first, open-source prompt engineering tool",
+      "score": 9,
+      "url": "https://freeaipromptgen.com/",
+      "time": "2026-08-01T12:03:25"
     },
     {
       "title": "Elevators",
-      "score": 1227,
+      "score": 1384,
       "url": "https://john.fun/elevators",
       "time": "2026-07-31T15:17:28"
     },
     {
       "title": "Flint: A Visualization Language for the AI Era",
-      "score": 95,
+      "score": 152,
       "url": "https://microsoft.github.io/flint-chart/",
       "time": "2026-08-01T02:45:09"
     },
     {
-      "title": "Ten Ways NAS Is Getting Enshitified",
+      "title": "How to Do Great Work (2023)",
       "score": 48,
-      "url": "https://nascompares.com/2026/07/31/the-10-ways-nas-is-getting-enshitified/",
-      "time": "2026-08-01T05:38:16"
-    },
-    {
-      "title": "How to Exist",
-      "score": 164,
-      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-      "time": "2026-08-01T00:25:00"
+      "url": "https://paulgraham.com/greatwork.html",
+      "time": "2026-08-01T08:19:44"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246834,
+      "stars": 246836,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 236707,
+      "stars": 236741,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196361,
+      "stars": 196364,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157423,
+      "stars": 157425,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148083,
+      "stars": 148087,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-01T08:01:37.873692+00:00"
+  "last_updated": "2026-08-01T12:53:57.691141+00:00"
 }
