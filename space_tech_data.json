@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "27.46\u00b0S",
-    "longitude": "178.59\u00b0E",
-    "timestamp": "2026-07-31T19:05:53+00:00",
+    "latitude": "51.15\u00b0N",
+    "longitude": "179.69\u00b0W",
+    "timestamp": "2026-08-01T01:47:58+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "score": 458,
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "time": "2026-07-31T19:03:45"
+    },
+    {
       "title": "Elevators",
-      "score": 497,
+      "score": 875,
       "url": "https://john.fun/elevators",
       "time": "2026-07-31T15:17:28"
     },
     {
-      "title": "qm",
-      "score": 57,
+      "title": "qm \u2013 Multiplayer agent harness for work",
+      "score": 458,
       "url": "https://github.com/yc-software/qm",
       "time": "2026-07-31T18:04:58"
     },
     {
-      "title": "Big Food vs. the People",
-      "score": 109,
-      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-      "time": "2026-07-31T16:04:32"
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "score": 158,
+      "url": "https://weeraman.com/because-we-can/",
+      "time": "2026-07-28T13:31:25"
     },
     {
-      "title": "Termixer (TUI DJ Mixer)",
-      "score": 11,
-      "url": "https://github.com/l00sed/termixer",
-      "time": "2026-07-31T18:28:08"
-    },
-    {
-      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-      "score": 68,
-      "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-      "time": "2026-07-31T16:15:31"
+      "title": "The Absurdity of Albert Camus",
+      "score": 45,
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+      "time": "2026-07-30T23:21:17"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246817,
+      "stars": 246826,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 236591,
+      "stars": 236648,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196359,
+      "stars": 196361,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157418,
+      "stars": 157420,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148081,
+      "stars": 148082,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-07-31T19:05:48.970992+00:00"
+  "last_updated": "2026-08-01T01:47:54.394500+00:00"
 }
