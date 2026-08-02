@@ -8,70 +8,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "18.23\u00b0S",
-    "longitude": "89.96\u00b0W",
-    "timestamp": "2026-08-02T12:55:24+00:00",
+    "latitude": "50.20\u00b0S",
+    "longitude": "122.47\u00b0E",
+    "timestamp": "2026-08-02T18:52:30+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-      "score": 22,
-      "url": "https://website-auditor.io/ai-visibility-index",
-      "time": "2026-08-02T11:53:52"
+      "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+      "score": 69,
+      "url": "https://github.com/wie-project/kakehashi",
+      "time": "2026-08-02T16:26:40"
     },
     {
-      "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
-      "score": 48,
-      "url": "https://meshdiff.com/",
-      "time": "2026-08-02T11:34:41"
+      "title": "Developers are attached to tools because tools encode trust",
+      "score": 32,
+      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "time": "2026-07-29T14:25:54"
     },
     {
-      "title": "Twenty Years of RISC OS Open",
-      "score": 9,
-      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "time": "2026-08-02T12:36:07"
+      "title": "How the words we teach English language learners changed",
+      "score": 127,
+      "url": "https://pudding.cool/2026/07/essential-words/",
+      "time": "2026-08-02T15:41:08"
     },
     {
-      "title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
-      "score": 64,
-      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "time": "2026-08-02T09:06:33"
+      "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
+      "score": 34,
+      "url": "https://github.com/graham33/nixos-dgx-spark",
+      "time": "2026-08-02T17:05:54"
     },
     {
-      "title": "Wikimedia Foundation refuses union recognition, hires union-busting law firm",
-      "score": 110,
-      "url": "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-08-02/News_and_notes",
-      "time": "2026-08-02T11:24:20"
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "score": 32,
+      "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "time": "2026-08-02T16:19:17"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246852,
+      "stars": 246853,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 236924,
+      "stars": 236997,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196367,
+      "stars": 196365,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157465,
+      "stars": 157471,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-02T12:55:24.543543+00:00"
+  "last_updated": "2026-08-02T18:52:30.423255+00:00"
 }
