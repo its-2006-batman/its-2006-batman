@@ -1,87 +1,51 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Buck Moon and Belt of Venus",
-    "date": "2026-08-01",
-    "explanation": "The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth's shadow also rises in the ...",
-    "url": "https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg",
+    "title": "A Fire Rainbow over West Virginia",
+    "date": "2026-08-02",
+    "explanation": "What's happening to this cloud? Ice crystals in a distant cirrus cloud are acting like little floating prisms.  Known informally as a fire rainbow for its flame-like appearance, a circumhorizon arc appears parallel to the horizon. For a circumhorizontal arc to be visible, the Sun must be at least 58...",
+    "url": "https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "49.11\u00b0S",
-    "longitude": "18.17\u00b0W",
-    "timestamp": "2026-08-02T01:44:31+00:00",
+    "latitude": "50.09\u00b0S",
+    "longitude": "71.76\u00b0W",
+    "timestamp": "2026-08-02T08:02:51+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-      "score": 153,
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-      "time": "2026-08-01T22:25:12"
+      "title": "Go 1.27 Interactive Tour",
+      "score": 181,
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "time": "2026-08-02T01:35:51"
+    },
+    {
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "score": 119,
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "time": "2026-08-02T02:07:09"
     },
     {
       "title": "Seedance 2.5",
-      "score": 166,
+      "score": 311,
       "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
       "time": "2026-08-01T20:45:12"
     },
     {
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "score": 48,
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "time": "2026-08-02T03:12:52"
+    },
+    {
       "title": "Di\u00e1taxis",
-      "score": 186,
+      "score": 312,
       "url": "https://diataxis.fr/",
       "time": "2026-08-01T20:33:27"
-    },
-    {
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "score": 114,
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
-      "time": "2026-08-01T18:32:20"
-    },
-    {
-      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
-      "score": 18,
-      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
-      "time": "2026-08-01T23:44:55"
     }
   ],
-  "github_trending": [
-    {
-      "name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 246842,
-      "language": "JavaScript",
-      "url": "https://github.com/react/react"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 236845,
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196364,
-      "language": "JavaScript",
-      "url": "https://github.com/trekhleb/javascript-algorithms"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157445,
-      "language": "JavaScript",
-      "url": "https://github.com/Snailclimb/JavaGuide"
-    },
-    {
-      "name": "airbnb/javascript",
-      "description": "JavaScript Style Guide",
-      "stars": 148087,
-      "language": "JavaScript",
-      "url": "https://github.com/airbnb/javascript"
-    }
-  ],
-  "last_updated": "2026-08-02T01:44:27.434772+00:00"
+  "github_trending": [],
+  "last_updated": "2026-08-02T08:02:41.627184+00:00"
 }
