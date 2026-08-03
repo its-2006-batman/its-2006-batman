@@ -8,56 +8,56 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "23.25\u00b0S",
-    "longitude": "40.96\u00b0W",
-    "timestamp": "2026-08-03T09:00:24+00:00",
+    "latitude": "49.95\u00b0N",
+    "longitude": "9.04\u00b0E",
+    "timestamp": "2026-08-03T14:13:01+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "score": 328,
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "time": "2026-08-03T11:28:54"
+    },
+    {
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "score": 40,
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "time": "2026-08-03T13:34:43"
+    },
+    {
       "title": "Don't be a meat proxy",
-      "score": 403,
+      "score": 1077,
       "url": "https://gruhn.me/blog/2026-08-03/",
       "time": "2026-08-03T06:28:01"
     },
     {
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "score": 525,
+      "score": 810,
       "url": "https://qwen.ai/blog?id=qwen3.8",
       "time": "2026-08-03T02:16:09"
     },
     {
-      "title": "Rust project goals: Immobile types and guaranteed destructors",
-      "score": 46,
-      "url": "https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md",
-      "time": "2026-08-03T06:42:00"
-    },
-    {
-      "title": "More German than many Germans",
-      "score": 216,
-      "url": "https://mertbulan.com/more-german-than-many-germans/",
-      "time": "2026-08-03T06:00:14"
-    },
-    {
-      "title": "Show HN: Isopolis \u2013 Isometric pixel map of SF",
-      "score": 208,
-      "url": "https://sf.isopolis.city/",
-      "time": "2026-08-03T00:46:38"
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "score": 51,
+      "url": "https://github.com/lyogavin/airllm",
+      "time": "2026-08-03T11:15:48"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246924,
+      "stars": 246930,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 237174,
+      "stars": 237235,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -71,17 +71,17 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157491,
+      "stars": 157498,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148084,
+      "stars": 148087,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-03T09:00:20.437016+00:00"
+  "last_updated": "2026-08-03T14:13:01.242327+00:00"
 }
