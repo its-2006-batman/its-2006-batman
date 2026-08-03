@@ -8,70 +8,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "50.20\u00b0S",
-    "longitude": "122.47\u00b0E",
-    "timestamp": "2026-08-02T18:52:30+00:00",
+    "latitude": "51.60\u00b0N",
+    "longitude": "177.20\u00b0E",
+    "timestamp": "2026-08-03T01:46:55+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+      "score": 32,
+      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+      "time": "2026-08-03T00:12:16"
+    },
+    {
+      "title": "Karpathy\u2019s Pelican",
+      "score": 437,
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "time": "2026-08-02T04:05:56"
+    },
+    {
+      "title": "CP/M-386 \u2013 CP/M for 386 protected mode, derived from CP/M\u201168K",
+      "score": 13,
+      "url": "https://github.com/johnsonjh/cpm386",
+      "time": "2026-08-03T00:38:10"
+    },
+    {
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "score": 56,
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "time": "2026-07-31T13:08:30"
+    },
+    {
       "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
-      "score": 69,
+      "score": 181,
       "url": "https://github.com/wie-project/kakehashi",
       "time": "2026-08-02T16:26:40"
-    },
-    {
-      "title": "Developers are attached to tools because tools encode trust",
-      "score": 32,
-      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
-      "time": "2026-07-29T14:25:54"
-    },
-    {
-      "title": "How the words we teach English language learners changed",
-      "score": 127,
-      "url": "https://pudding.cool/2026/07/essential-words/",
-      "time": "2026-08-02T15:41:08"
-    },
-    {
-      "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
-      "score": 34,
-      "url": "https://github.com/graham33/nixos-dgx-spark",
-      "time": "2026-08-02T17:05:54"
-    },
-    {
-      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
-      "score": 32,
-      "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-      "time": "2026-08-02T16:19:17"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246853,
+      "stars": 246858,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 236997,
+      "stars": 237082,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196365,
+      "stars": 196363,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157471,
+      "stars": 157474,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-02T18:52:30.423255+00:00"
+  "last_updated": "2026-08-03T01:46:50.113081+00:00"
 }
