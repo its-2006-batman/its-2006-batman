@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  0.31°S                                        ║
-║  📍 LONGITUDE: 90.49°W                                       ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-08-04 01:22 UTC                   ║
+║  📍 LATITUDE:  N/A                                           ║
+║  📍 LONGITUDE: N/A                                           ║
+║  ⚡ VELOCITY:  N/A                                           ║
+║  🌍 ALTITUDE:  N/A                                           ║
+║  ⏰ UPDATE: 2026-08-04 08:16 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Vaporizing Meteor Photobombs the Lacerta Nebula          ║
-║  DATE:  2026-08-03                                                ║
+║  TITLE: Curious Cometary Knots in the Helix Nebula               ║
+║  DATE:  2026-08-04                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **LLMs reward expertise** (405 ⭐)
-2. **Ten advances in mathematics and theoretical computer science** (419 ⭐)
-3. **Ask HN: Who is hiring? (August 2026)** (94 ⭐)
+1. **LLMs reward expertise** (857 ⭐)
+2. **Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35...** (151 ⭐)
+3. **Amazonian civilization had estimated 3M people in 3% of fore...** (135 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (246941★)
-2. **affaan-m/ECC** (237337★)
-3. **trekhleb/javascript-algorithms** (196367★)
+1. **react/react** (246950★)
+2. **affaan-m/ECC** (237442★)
+3. **trekhleb/javascript-algorithms** (196372★)
 <!-- LIVE_DATA_END -->
