@@ -7,75 +7,81 @@
     "url": "https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "3.21\u00b0N",
+    "longitude": "78.30\u00b0E",
+    "timestamp": "2026-08-04T13:44:19+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "score": 149,
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "time": "2026-08-04T10:00:55"
+    },
+    {
+      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+      "score": 131,
+      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+      "time": "2026-08-04T10:13:13"
+    },
+    {
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "score": 142,
+      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+      "time": "2026-08-04T12:01:02"
+    },
+    {
       "title": "LLMs reward expertise",
-      "score": 857,
+      "score": 1113,
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
       "time": "2026-08-03T21:13:53"
     },
     {
-      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "score": 151,
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "time": "2026-08-03T16:54:15"
-    },
-    {
-      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-      "score": 135,
-      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-      "time": "2026-07-29T16:07:46"
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "score": 524,
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "time": "2026-08-03T16:27:12"
-    },
-    {
-      "title": "Devtools must be open source",
-      "score": 587,
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "time": "2026-08-03T14:15:47"
+      "title": "Buckminster Fuller: everything I know",
+      "score": 36,
+      "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+      "time": "2026-08-04T11:33:32"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246950,
+      "stars": 246920,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 237442,
+      "stars": 237539,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196372,
+      "stars": 196370,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157506,
+      "stars": 157510,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148090,
+      "stars": 148091,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-04T08:16:16.562682+00:00"
+  "last_updated": "2026-08-04T13:44:15.935481+00:00"
 }
