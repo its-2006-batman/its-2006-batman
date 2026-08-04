@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "15.61\u00b0S",
-    "longitude": "15.11\u00b0E",
-    "timestamp": "2026-08-03T19:16:41+00:00",
+    "latitude": "0.31\u00b0S",
+    "longitude": "90.49\u00b0W",
+    "timestamp": "2026-08-04T01:22:54+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "LLMs reward expertise",
+      "score": 405,
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "time": "2026-08-03T21:13:53"
+    },
+    {
       "title": "Ten advances in mathematics and theoretical computer science",
-      "score": 159,
+      "score": 419,
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
       "time": "2026-08-03T16:27:12"
     },
     {
+      "title": "Ask HN: Who is hiring? (August 2026)",
+      "score": 94,
+      "url": "https://news.ycombinator.com/item?id=49156683",
+      "time": "2026-08-03T15:00:54"
+    },
+    {
       "title": "Devtools must be open source",
-      "score": 331,
+      "score": 496,
       "url": "https://blog.exe.dev/devtools-must-be-open-source",
       "time": "2026-08-03T14:15:47"
     },
     {
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "score": 64,
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-      "time": "2026-08-03T17:02:10"
-    },
-    {
-      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
-      "score": 210,
-      "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
-      "time": "2026-08-03T13:13:02"
-    },
-    {
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "score": 192,
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "time": "2026-08-03T13:34:43"
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "score": 9,
+      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+      "time": "2026-07-29T16:07:46"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246937,
+      "stars": 246941,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 237282,
+      "stars": 237337,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196368,
+      "stars": 196367,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157500,
+      "stars": 157502,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148088,
+      "stars": 148089,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-03T19:16:39.228411+00:00"
+  "last_updated": "2026-08-04T01:22:53.454391+00:00"
 }
