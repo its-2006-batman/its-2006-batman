@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "12.03\u00b0S",
-    "longitude": "113.78\u00b0W",
-    "timestamp": "2026-08-05T13:40:13+00:00",
+    "latitude": "9.40\u00b0S",
+    "longitude": "0.87\u00b0W",
+    "timestamp": "2026-08-05T19:12:07+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Position: LLMs Can't Jump",
-      "score": 106,
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-      "time": "2026-08-05T11:01:37"
+      "title": "Discovery Loop",
+      "score": 304,
+      "url": "https://www.discoveryloop.com/",
+      "time": "2026-08-05T16:19:44"
     },
     {
-      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
-      "score": 190,
-      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-      "time": "2026-08-05T11:03:13"
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "score": 156,
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "time": "2026-08-05T16:05:31"
     },
     {
-      "title": "Why the Legendary Erd\u0151s Problems Are Falling to AI",
-      "score": 29,
-      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-      "time": "2026-08-05T11:49:34"
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "score": 26,
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "time": "2026-08-05T18:37:49"
     },
     {
-      "title": "Stateless MCP has recaptured my interest",
-      "score": 305,
-      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-      "time": "2026-08-01T05:51:36"
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "score": 28,
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "time": "2026-08-05T18:18:56"
     },
     {
-      "title": "Scaling NumPy on Free-Threaded Python",
-      "score": 44,
-      "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
-      "time": "2026-07-30T16:09:39"
+      "title": "Zed DeltaDB",
+      "score": 18,
+      "url": "https://zed.dev/deltadb",
+      "time": "2026-08-05T18:52:54"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247004,
+      "stars": 247017,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 237905,
+      "stars": 237976,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196383,
+      "stars": 196386,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157541,
+      "stars": 157547,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148097,
+      "stars": 148100,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-05T13:40:11.739228+00:00"
+  "last_updated": "2026-08-05T19:12:01.713121+00:00"
 }
