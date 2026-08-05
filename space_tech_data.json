@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Curious Cometary Knots in the Helix Nebula",
-    "date": "2026-08-04",
-    "explanation": "What causes unusual knots of gas and dust in planetary nebulas?  Seen also in the Ring Nebula, the Dumbbell Nebula and NGC 2392, the knots' existence was not initially predicted, and their origins are still not well understood.  Pictured here is a fascinating image of part of the Helix Nebula by the...",
-    "url": "https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg",
+    "title": "Spokes on Saturn's B Ring",
+    "date": "2026-08-05",
+    "explanation": "Don\u2019t get spooked by Saturn\u2019s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long, so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulish shadow appears and...",
+    "url": "https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "20.07\u00b0N",
-    "longitude": "98.78\u00b0E",
-    "timestamp": "2026-08-05T01:28:17+00:00",
+    "latitude": "15.40\u00b0N",
+    "longitude": "146.21\u00b0E",
+    "timestamp": "2026-08-05T08:14:09+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "libexpat now funded by the City of Munich for up to 6 months",
-      "score": 108,
-      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "time": "2026-08-04T23:18:12"
+      "title": "Stateless MCP has recaptured my interest",
+      "score": 151,
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+      "time": "2026-08-01T05:51:36"
     },
     {
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "score": 46,
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "time": "2026-08-04T23:50:52"
+      "title": "\"Gravity is worth asking about.\"",
+      "score": 30,
+      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+      "time": "2026-07-30T03:57:33"
+    },
+    {
+      "title": "The Golden Age of British Ice Cream",
+      "score": 50,
+      "url": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
+      "time": "2026-08-04T18:25:16"
     },
     {
       "title": "Pi's Minimalism Is Its Advantage",
-      "score": 80,
+      "score": 316,
       "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
       "time": "2026-08-04T22:22:12"
     },
     {
-      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-      "score": 156,
-      "url": "https://twitter.com/gwern/status/2084739205071343837",
-      "time": "2026-08-04T20:48:17"
-    },
-    {
-      "title": "We finally learned to center a div, then browsers added sidebars",
-      "score": 51,
-      "url": "https://seg6.space/posts/center-div/",
-      "time": "2026-08-04T22:24:00"
+      "title": "The Pneumatics of Hero of Alexandria",
+      "score": 14,
+      "url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
+      "time": "2026-07-31T15:22:35"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 246959,
+      "stars": 246974,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 237710,
+      "stars": 237812,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196377,
+      "stars": 196383,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157519,
+      "stars": 157531,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148094,
+      "stars": 148096,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-05T01:28:17.042354+00:00"
+  "last_updated": "2026-08-05T08:14:09.105362+00:00"
 }
