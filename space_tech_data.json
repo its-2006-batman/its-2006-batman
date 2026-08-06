@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Spokes on Saturn's B Ring",
-    "date": "2026-08-05",
-    "explanation": "Don\u2019t get spooked by Saturn\u2019s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. If you look closely, a ghoulish shadow appears and disappears as\u00a0 Saturn\u2019s B ring\u00a0 rotates. Decades of observation with\u00a0 Voyager 2,\u00a0 Cassini, and\u00a0Hubble\u00a0...",
-    "url": "https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif",
+    "title": "New Sharpest Image of the Sun Uncovers Instability",
+    "date": "2026-08-06",
+    "explanation": "What does the new sharpest image of our Sun show? Instability. To be clear, a certain kind of interactive process called the Kelvin-Helmholtz instability (KHI). This instability can create waves and swirls when two streams flow past each other -- in this case variable streams of solar magnetic plasm...",
+    "url": "https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "14.65\u00b0S",
-    "longitude": "91.25\u00b0W",
-    "timestamp": "2026-08-06T01:25:10+00:00",
+    "latitude": "15.86\u00b0S",
+    "longitude": "39.80\u00b0W",
+    "timestamp": "2026-08-06T08:12:48+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Crime Pays but Botany Doesn't",
+      "score": 119,
+      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+      "time": "2026-08-06T04:46:35"
+    },
+    {
+      "title": "How to Make a Nintendo 64 Game in 2026",
+      "score": 18,
+      "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+      "time": "2026-08-04T13:24:03"
+    },
+    {
       "title": "Discovery Loop",
-      "score": 582,
+      "score": 729,
       "url": "https://www.discoveryloop.com/",
       "time": "2026-08-05T16:19:44"
     },
     {
-      "title": "Zed DeltaDB",
-      "score": 296,
-      "url": "https://zed.dev/deltadb",
-      "time": "2026-08-05T18:52:54"
-    },
-    {
-      "title": "The title cards in Blade Runner are amazing",
-      "score": 129,
-      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "time": "2026-08-05T21:29:23"
-    },
-    {
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "score": 462,
+      "score": 635,
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "time": "2026-08-05T16:05:31"
     },
     {
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "score": 219,
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "time": "2026-08-05T18:18:56"
+      "title": "What I love about Django",
+      "score": 5,
+      "url": "https://buttondown.com/blog/what-i-love-about-django",
+      "time": "2026-08-06T07:34:06"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247046,
+      "stars": 247052,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 238025,
+      "stars": 238119,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196389,
+      "stars": 196391,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157549,
+      "stars": 157566,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148101,
+      "stars": 148104,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-06T01:25:07.468172+00:00"
+  "last_updated": "2026-08-06T08:12:47.850701+00:00"
 }
