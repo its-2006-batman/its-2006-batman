@@ -3,85 +3,85 @@
   "nasa_apod": {
     "title": "Spokes on Saturn's B Ring",
     "date": "2026-08-05",
-    "explanation": "Don\u2019t get spooked by Saturn\u2019s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long, so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulish shadow appears and...",
+    "explanation": "Don\u2019t get spooked by Saturn\u2019s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. If you look closely, a ghoulish shadow appears and disappears as\u00a0 Saturn\u2019s B ring\u00a0 rotates. Decades of observation with\u00a0 Voyager 2,\u00a0 Cassini, and\u00a0Hubble\u00a0...",
     "url": "https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "9.40\u00b0S",
-    "longitude": "0.87\u00b0W",
-    "timestamp": "2026-08-05T19:12:07+00:00",
+    "latitude": "14.65\u00b0S",
+    "longitude": "91.25\u00b0W",
+    "timestamp": "2026-08-06T01:25:10+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Discovery Loop",
-      "score": 304,
+      "score": 582,
       "url": "https://www.discoveryloop.com/",
       "time": "2026-08-05T16:19:44"
     },
     {
+      "title": "Zed DeltaDB",
+      "score": 296,
+      "url": "https://zed.dev/deltadb",
+      "time": "2026-08-05T18:52:54"
+    },
+    {
+      "title": "The title cards in Blade Runner are amazing",
+      "score": 129,
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "time": "2026-08-05T21:29:23"
+    },
+    {
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "score": 156,
+      "score": 462,
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "time": "2026-08-05T16:05:31"
     },
     {
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "score": 26,
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "time": "2026-08-05T18:37:49"
-    },
-    {
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "score": 28,
+      "score": 219,
       "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
       "time": "2026-08-05T18:18:56"
-    },
-    {
-      "title": "Zed DeltaDB",
-      "score": 18,
-      "url": "https://zed.dev/deltadb",
-      "time": "2026-08-05T18:52:54"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247017,
+      "stars": 247046,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 237976,
+      "stars": 238025,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196386,
+      "stars": 196389,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157547,
+      "stars": 157549,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148100,
+      "stars": 148101,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-05T19:12:01.713121+00:00"
+  "last_updated": "2026-08-06T01:25:07.468172+00:00"
 }
