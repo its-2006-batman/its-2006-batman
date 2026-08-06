@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "12.78\u00b0N",
-    "longitude": "60.04\u00b0E",
-    "timestamp": "2026-08-06T13:38:39+00:00",
+    "latitude": "4.08\u00b0N",
+    "longitude": "98.88\u00b0E",
+    "timestamp": "2026-08-06T23:47:37+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "score": 282,
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "time": "2026-08-06T20:23:11"
+    },
+    {
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "score": 107,
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "time": "2026-08-05T15:33:23"
+    },
+    {
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "score": 48,
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "time": "2026-08-06T21:52:16"
+    },
+    {
       "title": "Mario Meets Pareto",
-      "score": 138,
+      "score": 840,
       "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
       "time": "2026-08-06T11:24:53"
     },
     {
-      "title": "Why Do Fewer Renters Expect to Move?",
-      "score": 21,
-      "url": "https://libertystreeteconomics.newyorkfed.org/2026/08/why-do-fewer-renters-expect-to-move/",
-      "time": "2026-08-06T12:50:36"
-    },
-    {
-      "title": "How to Make a Nintendo 64 Game in 2026",
-      "score": 244,
-      "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-      "time": "2026-08-04T13:24:03"
-    },
-    {
-      "title": "Crime Pays but Botany Doesn't",
-      "score": 360,
-      "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "time": "2026-08-06T04:46:35"
-    },
-    {
-      "title": "Pareto Front",
-      "score": 81,
-      "url": "https://en.wikipedia.org/wiki/Pareto_front",
-      "time": "2026-07-29T12:12:29"
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "score": 116,
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "time": "2026-08-06T19:14:21"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247061,
+      "stars": 247071,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 238170,
+      "stars": 238296,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196394,
+      "stars": 196404,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157575,
+      "stars": 157581,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148109,
+      "stars": 148112,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-06T13:38:38.795154+00:00"
+  "last_updated": "2026-08-06T23:47:34.670354+00:00"
 }
