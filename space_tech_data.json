@@ -1,47 +1,41 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Rubin's COSMOS field",
-    "date": "2026-08-07",
-    "explanation": "There are more than half a million galaxies in the central panel of this image from the NSF-DOE Vera C. Rubin Observatory in Chile.   This is the COSMOS field, a patch of sky several times larger than the full moon, first observed by Hubble.   It has also been observed by Webb and other telescopes b...",
-    "url": "https://apod.nasa.gov/apod/image/2608/noirlab2618b_1024.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "40.06\u00b0S",
-    "longitude": "152.01\u00b0W",
-    "timestamp": "2026-08-07T06:58:10+00:00",
+    "latitude": "46.31\u00b0N",
+    "longitude": "23.88\u00b0E",
+    "timestamp": "2026-08-07T12:37:51+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "score": 308,
+      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
+      "time": "2026-08-07T10:28:55"
+    },
+    {
+      "title": "New Mexico court orders Meta to pay $567m over harms to children\u2019s mental health",
+      "score": 385,
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "time": "2026-08-07T00:06:28"
+    },
+    {
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "score": 568,
+      "score": 732,
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
       "time": "2026-08-06T20:23:11"
     },
     {
-      "title": "Mario Meets Pareto",
-      "score": 1000,
-      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-      "time": "2026-08-06T11:24:53"
-    },
-    {
-      "title": "Atomic Clocks",
-      "score": 30,
-      "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
-      "time": "2026-07-31T21:58:03"
-    },
-    {
       "title": "Taste Is All That's Left",
-      "score": 348,
+      "score": 490,
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
       "time": "2026-08-06T17:01:33"
     },
     {
       "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "score": 201,
+      "score": 252,
       "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
       "time": "2026-08-05T15:33:23"
     }
@@ -50,38 +44,38 @@
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247082,
+      "stars": 247086,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 238382,
+      "stars": 238454,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196412,
+      "stars": 196413,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157593,
+      "stars": 157605,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148113,
+      "stars": 148115,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-07T06:58:06.859799+00:00"
+  "last_updated": "2026-08-07T12:37:40.904167+00:00"
 }
