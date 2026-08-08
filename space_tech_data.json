@@ -1,57 +1,63 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "A Messier Moment for Tempel 2",
+    "date": "2026-08-08",
+    "explanation": "Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's cat...",
+    "url": "https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "45.25\u00b0N",
-    "longitude": "127.37\u00b0E",
-    "timestamp": "2026-08-08T00:48:08+00:00",
+    "latitude": "30.74\u00b0S",
+    "longitude": "41.23\u00b0W",
+    "timestamp": "2026-08-08T06:32:13+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "score": 172,
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "time": "2026-08-08T01:49:11"
+    },
+    {
+      "title": "The Nixpkgs core team has disbanded",
+      "score": 250,
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "time": "2026-08-08T01:12:45"
+    },
+    {
       "title": "DeepSeek V4 Flash 0731",
-      "score": 436,
+      "score": 559,
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
       "time": "2026-08-07T17:56:20"
     },
     {
+      "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
+      "score": 87,
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "time": "2026-08-05T21:44:42"
+    },
+    {
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "score": 45,
+      "score": 190,
       "url": "https://genesisopenmodels.anl.gov/",
       "time": "2026-08-07T22:24:27"
-    },
-    {
-      "title": "Assembly Hall of Shame",
-      "score": 238,
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "time": "2026-08-07T18:01:30"
-    },
-    {
-      "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
-      "score": 137,
-      "url": "https://ancientlibrary.net/",
-      "time": "2026-08-07T18:51:14"
-    },
-    {
-      "title": "Should AI labs be treated like the owners of dangerous animals?",
-      "score": 7,
-      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-      "time": "2026-08-08T00:03:31"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247110,
+      "stars": 247114,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 238580,
+      "stars": 238632,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -65,17 +71,17 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157609,
+      "stars": 157612,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148118,
+      "stars": 148120,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-08T00:47:56.810128+00:00"
+  "last_updated": "2026-08-08T06:32:06.018462+00:00"
 }
