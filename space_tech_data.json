@@ -1,57 +1,63 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "A Messier Moment for Tempel 2",
+    "date": "2026-08-08",
+    "explanation": "Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's cat...",
+    "url": "https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "5.41\u00b0S",
-    "longitude": "8.83\u00b0W",
-    "timestamp": "2026-08-08T18:20:34+00:00",
+    "latitude": "51.11\u00b0S",
+    "longitude": "33.38\u00b0W",
+    "timestamp": "2026-08-09T00:51:34+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "My server is a phone now",
+      "score": 52,
+      "url": "https://seg6.space/posts/phone-server/",
+      "time": "2026-08-08T22:49:23"
+    },
+    {
       "title": "Fastmail offers EU data region",
-      "score": 95,
+      "score": 310,
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
       "time": "2026-08-08T16:04:51"
     },
     {
-      "title": "A domain can now say it is for sale, in DNS",
-      "score": 216,
+      "title": "Improving Heuristics for A* Pathfinding",
+      "score": 26,
+      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "time": "2026-07-28T06:04:42"
+    },
+    {
+      "title": "_for-sale DNS records",
+      "score": 339,
       "url": "https://specification.website/spec/foundations/for-sale-dns/",
       "time": "2026-08-08T13:26:51"
     },
     {
-      "title": "LinkedIn Feed Blocker",
-      "score": 40,
-      "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
-      "time": "2026-08-08T16:49:07"
-    },
-    {
-      "title": "\"Code was never the hard part\" is an insult to all programmers",
-      "score": 60,
-      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-      "time": "2026-08-08T14:32:33"
-    },
-    {
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "score": 291,
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "time": "2026-08-08T09:18:50"
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "score": 83,
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "time": "2026-08-08T19:38:08"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247131,
+      "stars": 247136,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 238768,
+      "stars": 238815,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -72,10 +78,10 @@
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148121,
+      "stars": 148122,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-08T18:20:24.505267+00:00"
+  "last_updated": "2026-08-09T00:51:28.431168+00:00"
 }
