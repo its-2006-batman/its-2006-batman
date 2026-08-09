@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "Contemplating the Sun",
+    "date": "2026-08-09",
+    "explanation": "Have you contemplated your home star recently?  Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below.  This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recreation Area near Pag...",
+    "url": "https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "15.47\u00b0N",
-    "longitude": "147.25\u00b0E",
-    "timestamp": "2026-08-09T06:36:13+00:00",
+    "latitude": "49.64\u00b0N",
+    "longitude": "40.20\u00b0W",
+    "timestamp": "2026-08-09T12:25:57+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-      "score": 93,
-      "url": "http://longbets.org/601/",
-      "time": "2026-08-09T04:30:26"
+      "title": "There Are Magic Hexagons of Every Order",
+      "score": 61,
+      "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+      "time": "2026-08-09T07:19:58"
     },
     {
       "title": "My server is a phone now",
-      "score": 241,
+      "score": 369,
       "url": "https://seg6.space/posts/phone-server/",
       "time": "2026-08-08T22:49:23"
     },
     {
-      "title": "Improving Heuristics for A* Pathfinding",
-      "score": 171,
-      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-      "time": "2026-07-28T06:04:42"
+      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
+      "score": 97,
+      "url": "https://github.com/jmarshall23/msword",
+      "time": "2026-08-09T05:23:41"
     },
     {
-      "title": "Melatonin impairs morning cognition in healthy young adults",
-      "score": 61,
-      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
-      "time": "2026-08-09T00:59:58"
+      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
+      "score": 190,
+      "url": "https://os8088.com/",
+      "time": "2026-08-08T23:37:27"
     },
     {
-      "title": "Shopify replaced Redis with MySQL for inventory reservations\u2013and it scaled",
-      "score": 144,
-      "url": "https://shopify.engineering/scaling-inventory-reservations",
-      "time": "2026-08-08T22:32:50"
+      "title": "The Grid That Doubles the Strength of the Ground",
+      "score": 38,
+      "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
+      "time": "2026-08-05T04:11:13"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247139,
+      "stars": 247141,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 238862,
+      "stars": 238912,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196416,
+      "stars": 196420,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157629,
+      "stars": 157631,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148120,
+      "stars": 148121,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-09T06:36:02.773685+00:00"
+  "last_updated": "2026-08-09T12:25:49.628311+00:00"
 }
