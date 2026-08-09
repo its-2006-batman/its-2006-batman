@@ -8,70 +8,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "49.64\u00b0N",
-    "longitude": "40.20\u00b0W",
-    "timestamp": "2026-08-09T12:25:57+00:00",
+    "latitude": "15.87\u00b0N",
+    "longitude": "173.36\u00b0E",
+    "timestamp": "2026-08-09T18:22:49+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "There Are Magic Hexagons of Every Order",
-      "score": 61,
-      "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-      "time": "2026-08-09T07:19:58"
+      "title": "Criminal Deception in Silicon Valley",
+      "score": 106,
+      "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+      "time": "2026-08-09T15:26:45"
     },
     {
-      "title": "My server is a phone now",
-      "score": 369,
-      "url": "https://seg6.space/posts/phone-server/",
-      "time": "2026-08-08T22:49:23"
+      "title": "Mea Culpa \u2013 Dark Hours",
+      "score": 378,
+      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "time": "2026-08-09T13:20:43"
     },
     {
-      "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
-      "score": 97,
-      "url": "https://github.com/jmarshall23/msword",
-      "time": "2026-08-09T05:23:41"
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "score": 34,
+      "url": "https://news.ycombinator.com/item?id=49233423",
+      "time": "2026-08-09T17:23:22"
     },
     {
-      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-      "score": 190,
-      "url": "https://os8088.com/",
-      "time": "2026-08-08T23:37:27"
+      "title": "Production Imminent: 40 Solar-Charging Aptera EVs Coming Soon",
+      "score": 24,
+      "url": "https://frequal.com/aptera/ProductionImminent.html",
+      "time": "2026-08-09T17:19:48"
     },
     {
-      "title": "The Grid That Doubles the Strength of the Ground",
-      "score": 38,
-      "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
-      "time": "2026-08-05T04:11:13"
+      "title": "Cool URIs Don't Change (1998)",
+      "score": 66,
+      "url": "https://www.w3.org/Provider/Style/URI",
+      "time": "2026-08-09T14:32:53"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247141,
+      "stars": 247144,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 238912,
+      "stars": 238982,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196420,
+      "stars": 196421,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157631,
+      "stars": 157634,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-09T12:25:49.628311+00:00"
+  "last_updated": "2026-08-09T18:22:46.477537+00:00"
 }
