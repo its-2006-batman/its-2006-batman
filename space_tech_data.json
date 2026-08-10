@@ -1,71 +1,77 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "Three Galaxy Pairs",
+    "date": "2026-08-10",
+    "explanation": "ch of these pairs of galaxies is different.  The two galaxies at the top are likely not interacting, at least presently.  However, the top galaxy with the blue stripe, NGC 4650A, is a polar ring galaxy and may be the result of a past galaxy collision. The two galaxies in the middle of the featured i...",
+    "url": "https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "51.00\u00b0N",
-    "longitude": "162.87\u00b0E",
-    "timestamp": "2026-08-10T00:53:55+00:00",
+    "latitude": "48.93\u00b0N",
+    "longitude": "80.65\u00b0E",
+    "timestamp": "2026-08-10T07:07:21+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "How I use LLMs to learn complex topics",
-      "score": 372,
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "time": "2026-08-09T19:16:49"
+      "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+      "score": 61,
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "time": "2026-08-10T06:02:38"
     },
     {
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "score": 66,
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "time": "2026-08-09T20:42:29"
+      "title": "What Happened to HackerOne?",
+      "score": 164,
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "time": "2026-08-10T02:23:17"
     },
     {
-      "title": "\"The Persian M\u00e2R-N\u00e2meh Or, the Book for Taking Omens from Snakes\" (1892)",
-      "score": 20,
-      "url": "https://publicdomainreview.org/collection/marnameh/",
-      "time": "2026-08-07T04:04:56"
+      "title": "Auto mode is now the default in Claude Code",
+      "score": 149,
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "time": "2026-08-10T03:50:00"
     },
     {
-      "title": "Mea Culpa \u2013 Dark Hours",
-      "score": 548,
-      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "time": "2026-08-09T13:20:43"
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "score": 40,
+      "url": "https://github.com/shinyquagsire23/Klepton",
+      "time": "2026-08-10T03:12:48"
     },
     {
-      "title": "Ask HN: What are you working on? (August 2026)",
-      "score": 158,
-      "url": "https://news.ycombinator.com/item?id=49233423",
-      "time": "2026-08-09T17:23:22"
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "score": 53,
+      "url": "https://www.whodunnitai.com/",
+      "time": "2026-08-10T03:18:40"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247123,
+      "stars": 247133,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 239028,
+      "stars": 239074,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196417,
+      "stars": 196420,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157634,
+      "stars": 157649,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -77,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-10T00:53:40.543805+00:00"
+  "last_updated": "2026-08-10T07:07:18.884789+00:00"
 }
