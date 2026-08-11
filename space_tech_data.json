@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Six Moons of Saturn",
-    "date": "2026-08-11",
-    "explanation": "How many moons does Saturn have? While the total will likely continue to grow, as of June 2026 the ringed gas giant had 293 confirmed moons. That's easily more than any other planet of the Solar System, including ruling gas giant Jupiter with a mere 115 confirmed moons. Most of Saturn's known moons ...",
-    "url": "https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "32.36\u00b0N",
-    "longitude": "25.72\u00b0E",
-    "timestamp": "2026-08-11T12:38:54+00:00",
+    "latitude": "44.89\u00b0N",
+    "longitude": "89.23\u00b0W",
+    "timestamp": "2026-08-11T18:44:44+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "France to ban unsolicited telemarketing calls",
-      "score": 432,
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "time": "2026-08-11T08:15:46"
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
+      "score": 399,
+      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+      "time": "2026-08-11T12:41:59"
     },
     {
-      "title": "H3-metal \u2013 Native MiniMax-H3 inference for Apple Silicon",
-      "score": 317,
-      "url": "https://github.com/antirez/h3.c",
-      "time": "2026-08-11T01:22:09"
+      "title": "Apple Silicon and macOS VMs: 11\u201316\u00d7 Faster LLM Inference with Llama.cpp",
+      "score": 205,
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "time": "2026-08-11T14:50:33"
     },
     {
-      "title": "As AI eats the web, the internet\u2019s collective memory is disappearing",
-      "score": 421,
-      "url": "https://thewalrus.ca/google-search-is-dying/",
-      "time": "2026-08-10T22:36:30"
+      "title": "OpenSSH 10.5 released, AI assistance now welcome",
+      "score": 21,
+      "url": "https://www.openssh.org/releasenotes.html#10.5",
+      "time": "2026-08-11T17:49:37"
     },
     {
-      "title": "Chicken Scheme 6.0",
-      "score": 220,
-      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "time": "2026-08-11T00:24:15"
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "score": 276,
+      "url": "https://stolen-thoughts.com/",
+      "time": "2026-08-11T13:22:00"
     },
     {
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "score": 380,
-      "url": "https://cactuscompute.com/needle",
-      "time": "2026-08-10T17:22:07"
+      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+      "score": 59,
+      "url": "https://photosynthesis.camera",
+      "time": "2026-08-08T22:47:10"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247143,
+      "stars": 247154,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 239360,
+      "stars": 239426,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196434,
+      "stars": 196436,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157698,
+      "stars": 157700,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148130,
+      "stars": 148128,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-11T12:38:51.937671+00:00"
+  "last_updated": "2026-08-11T18:44:34.048530+00:00"
 }
