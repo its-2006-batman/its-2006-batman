@@ -1,81 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Three Galaxy Pairs",
-    "date": "2026-08-10",
-    "explanation": "ch of these pairs of galaxies is different.  The two galaxies at the top are likely not interacting, at least presently.  However, the top galaxy with the blue stripe, NGC 4650A, is a polar ring galaxy and may be the result of a past galaxy collision. The two galaxies in the middle of the featured i...",
-    "url": "https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg",
-    "media_type": "image"
+  "nasa_apod": null,
+  "iss_position": {
+    "latitude": "50.82\u00b0S",
+    "longitude": "21.14\u00b0W",
+    "timestamp": "2026-08-11T00:52:56+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
   },
-  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "The UK's War on Anonymity Has Come to America",
+      "score": 61,
+      "url": "https://www.effort.news/uk-lobby",
+      "time": "2026-08-10T23:45:50"
+    },
+    {
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "score": 147,
+      "url": "https://cactuscompute.com/needle",
+      "time": "2026-08-10T17:22:07"
+    },
+    {
       "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "score": 800,
+      "score": 1022,
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "time": "2026-08-10T10:10:02"
     },
     {
-      "title": "Sonic Pi v5",
-      "score": 127,
-      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "time": "2026-08-07T10:26:34"
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "score": 26,
+      "url": "https://everycube.alen.is/",
+      "time": "2026-08-10T23:16:25"
     },
     {
-      "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
-      "score": 36,
-      "url": "https://www.stoaexchange.com",
-      "time": "2026-08-10T16:35:27"
-    },
-    {
-      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
-      "score": 77,
-      "url": "https://github.com/AntigmaLabs/ante",
-      "time": "2026-08-10T15:59:23"
-    },
-    {
-      "title": "Learning more about Claude's mathematical capabilities",
-      "score": 52,
-      "url": "https://www.anthropic.com/research/riemann-zeta",
-      "time": "2026-08-10T17:41:13"
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "score": 352,
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "time": "2026-08-10T14:06:22"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247123,
+      "stars": 247128,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 239191,
+      "stars": 239246,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196421,
+      "stars": 196422,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157662,
+      "stars": 157668,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148120,
+      "stars": 148119,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-10T18:40:28.817126+00:00"
+  "last_updated": "2026-08-11T00:52:41.313314+00:00"
 }
