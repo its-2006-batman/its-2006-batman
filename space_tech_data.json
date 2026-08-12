@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "21.68\u00b0S",
-    "longitude": "149.11\u00b0W",
-    "timestamp": "2026-08-12T12:41:30+00:00",
+    "latitude": "41.21\u00b0S",
+    "longitude": "92.88\u00b0E",
+    "timestamp": "2026-08-12T18:45:16+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "DeepSeek V4 Pro 0813",
+      "score": 363,
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "time": "2026-08-12T16:04:50"
+    },
+    {
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "score": 478,
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "time": "2026-08-12T14:22:30"
+    },
+    {
       "title": "2026 Eclipse Webcams",
-      "score": 68,
+      "score": 398,
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
       "time": "2026-08-12T11:53:01"
     },
     {
-      "title": "What sort of maths are LLMs good at?",
-      "score": 111,
-      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-      "time": "2026-08-12T10:04:25"
+      "title": "Zed: Delta",
+      "score": 19,
+      "url": "https://zed.dev/blog/introducing-delta",
+      "time": "2026-08-12T18:19:59"
     },
     {
-      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-      "score": 98,
-      "url": "https://woxi.ad-si.com",
-      "time": "2026-08-12T10:06:29"
-    },
-    {
-      "title": "I hate packaging my software for Linux",
-      "score": 52,
-      "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
-      "time": "2026-08-12T11:33:48"
-    },
-    {
-      "title": "LinkedIn CringeBot 3000",
-      "score": 327,
-      "url": "https://www.cringebot3000.com/",
-      "time": "2026-08-12T06:30:49"
+      "title": "Qwen3.8-2.4T",
+      "score": 64,
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+      "time": "2026-08-12T16:26:16"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247189,
+      "stars": 247201,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 239622,
+      "stars": 239716,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196444,
+      "stars": 196449,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157719,
+      "stars": 157730,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148133,
+      "stars": 148131,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-12T12:41:27.096331+00:00"
+  "last_updated": "2026-08-12T18:45:16.273233+00:00"
 }
