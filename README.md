@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  47.20°N                                       ║
-║  📍 LONGITUDE: 75.70°E                                       ║
+║  📍 LATITUDE:  21.68°S                                       ║
+║  📍 LONGITUDE: 149.11°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-08-12 07:05 UTC                   ║
+║  ⏰ UPDATE: 2026-08-12 12:41 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: Perseids Over a little Planet                            ║
+║  DATE:  2026-08-12                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **The hardest working font in Manhattan (2025)** (139 ⭐)
-2. **Compression is prediction** (457 ⭐)
-3. **llama.cpp** (115 ⭐)
+1. **2026 Eclipse Webcams** (68 ⭐)
+2. **What sort of maths are LLMs good at?** (111 ⭐)
+3. **Show HN: Woxi - Open-source Mathematica / Wolfram Language r...** (98 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (247172★)
-2. **affaan-m/ECC** (239548★)
-3. **trekhleb/javascript-algorithms** (196443★)
+1. **react/react** (247189★)
+2. **affaan-m/ECC** (239622★)
+3. **trekhleb/javascript-algorithms** (196444★)
 <!-- LIVE_DATA_END -->
