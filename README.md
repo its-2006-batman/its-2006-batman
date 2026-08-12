@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  36.88°N                                       ║
-║  📍 LONGITUDE: 168.86°W                                      ║
+║  📍 LATITUDE:  47.20°N                                       ║
+║  📍 LONGITUDE: 75.70°E                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-08-12 00:59 UTC                   ║
+║  ⏰ UPDATE: 2026-08-12 07:05 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,7 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **CFTC declares market emergency, orders Kalshi to continue to...** (37 ⭐)
-2. **WorldClaw Agentic 3D open-world generation at scale** (104 ⭐)
-3. **Nvidia Nemotron 3.5 Lightning and NeMo Switchyard** (171 ⭐)
+1. **The hardest working font in Manhattan (2025)** (139 ⭐)
+2. **Compression is prediction** (457 ⭐)
+3. **llama.cpp** (115 ⭐)
+
+### ⭐ TRENDING REPOS
+1. **react/react** (247172★)
+2. **affaan-m/ECC** (239548★)
+3. **trekhleb/javascript-algorithms** (196443★)
 <!-- LIVE_DATA_END -->
