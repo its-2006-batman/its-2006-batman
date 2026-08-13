@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "15.05\u00b0N",
-    "longitude": "30.79\u00b0E",
-    "timestamp": "2026-08-13T12:42:21+00:00",
+    "latitude": "35.94\u00b0N",
+    "longitude": "84.41\u00b0W",
+    "timestamp": "2026-08-13T18:46:07+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-      "score": 60,
-      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "time": "2026-08-13T12:09:50"
+      "title": "Gemini 3.7 Flash",
+      "score": 235,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "time": "2026-08-13T17:23:22"
     },
     {
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "score": 245,
-      "url": "https://openai.com/codex/",
-      "time": "2026-08-13T04:53:41"
+      "title": "Mistral OCR 4.1",
+      "score": 94,
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "time": "2026-08-13T17:05:12"
     },
     {
-      "title": "The lattice of sets of natural numbers is rich",
-      "score": 53,
-      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
-      "time": "2026-08-10T13:53:13"
+      "title": "Choose Boring Technology (2015)",
+      "score": 61,
+      "url": "https://mcfunley.com/choose-boring-technology",
+      "time": "2026-08-13T17:48:13"
     },
     {
-      "title": "DeepSeek V4 Pro 0813",
-      "score": 967,
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "time": "2026-08-12T16:04:50"
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "score": 52,
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "time": "2026-08-13T18:10:02"
     },
     {
-      "title": "Picking berries is my meditation",
-      "score": 30,
-      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
-      "time": "2026-08-08T19:24:02"
+      "title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
+      "score": 40,
+      "url": "https://donkeybas.com/",
+      "time": "2026-08-13T17:45:50"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247217,
+      "stars": 247230,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 239867,
+      "stars": 239930,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196457,
+      "stars": 196462,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157764,
+      "stars": 157768,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148146,
+      "stars": 148148,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-13T12:42:21.259286+00:00"
+  "last_updated": "2026-08-13T18:46:06.121606+00:00"
 }
