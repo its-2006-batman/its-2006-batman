@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "41.22\u00b0N",
-    "longitude": "78.56\u00b0E",
-    "timestamp": "2026-08-14T07:06:23+00:00",
+    "latitude": "21.75\u00b0S",
+    "longitude": "160.38\u00b0W",
+    "timestamp": "2026-08-14T12:38:48+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
-      "score": 231,
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "score": 637,
       "url": "https://z.ai/blog/glm-5.3",
       "time": "2026-08-14T05:19:59"
     },
     {
+      "title": "DeepSeek peak/off-peak pricing update",
+      "score": 80,
+      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "time": "2026-08-14T09:55:33"
+    },
+    {
+      "title": "Don't classify, hallucinate!",
+      "score": 15,
+      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+      "time": "2026-08-10T20:50:36"
+    },
+    {
       "title": "Gemini 3.7 Flash",
-      "score": 775,
+      "score": 887,
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "time": "2026-08-13T17:23:22"
     },
     {
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "score": 544,
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "time": "2026-08-13T18:10:02"
-    },
-    {
-      "title": "Hello, me. It's been a while",
-      "score": 152,
-      "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-      "time": "2026-08-13T18:37:18"
-    },
-    {
-      "title": "Bluesky Protocol Services",
-      "score": 140,
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "time": "2026-08-14T00:14:28"
+      "title": "Differential Heuristics",
+      "score": 45,
+      "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
+      "time": "2026-08-09T13:58:46"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247247,
+      "stars": 247257,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 240042,
+      "stars": 240088,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196468,
+      "stars": 196472,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157784,
+      "stars": 157786,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148156,
+      "stars": 148155,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-14T07:06:16.317157+00:00"
+  "last_updated": "2026-08-14T12:38:40.487998+00:00"
 }
