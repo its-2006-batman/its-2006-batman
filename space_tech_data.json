@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "35.94\u00b0N",
-    "longitude": "84.41\u00b0W",
-    "timestamp": "2026-08-13T18:46:07+00:00",
+    "latitude": "27.86\u00b0N",
+    "longitude": "169.24\u00b0W",
+    "timestamp": "2026-08-14T01:00:26+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Bluesky Protocol Services",
+      "score": 40,
+      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+      "time": "2026-08-14T00:14:28"
+    },
+    {
       "title": "Gemini 3.7 Flash",
-      "score": 235,
+      "score": 596,
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "time": "2026-08-13T17:23:22"
     },
     {
-      "title": "Mistral OCR 4.1",
-      "score": 94,
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "time": "2026-08-13T17:05:12"
-    },
-    {
-      "title": "Choose Boring Technology (2015)",
-      "score": 61,
-      "url": "https://mcfunley.com/choose-boring-technology",
-      "time": "2026-08-13T17:48:13"
-    },
-    {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "score": 52,
+      "score": 407,
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "time": "2026-08-13T18:10:02"
     },
     {
-      "title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
-      "score": 40,
-      "url": "https://donkeybas.com/",
-      "time": "2026-08-13T17:45:50"
+      "title": "NP-Overrated",
+      "score": 138,
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "time": "2026-08-13T20:14:17"
+    },
+    {
+      "title": "How AI text watermarking works",
+      "score": 43,
+      "url": "https://declaude.org/watermarking/",
+      "time": "2026-08-13T23:16:55"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247230,
+      "stars": 247238,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 239930,
+      "stars": 239980,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196462,
+      "stars": 196464,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157768,
+      "stars": 157771,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148148,
+      "stars": 148150,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-13T18:46:06.121606+00:00"
+  "last_updated": "2026-08-14T01:00:23.914479+00:00"
 }
