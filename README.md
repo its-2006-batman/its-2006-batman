@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  27.86°N                                       ║
-║  📍 LONGITUDE: 169.24°W                                      ║
+║  📍 LATITUDE:  41.22°N                                       ║
+║  📍 LONGITUDE: 78.56°E                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-08-14 01:00 UTC                   ║
+║  ⏰ UPDATE: 2026-08-14 07:06 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Total Solar Eclipse Over Spain                           ║
-║  DATE:  2026-08-13                                                ║
+║  TITLE: Total Solar Eclipse from Greenland                       ║
+║  DATE:  2026-08-14                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Bluesky Protocol Services** (40 ⭐)
-2. **Gemini 3.7 Flash** (596 ⭐)
-3. **Accelerating GPT-5.6 Sol Ultrafast** (407 ⭐)
+1. **GLM-5.3: Frontier Coding with Emergent Cyber Capabilities** (231 ⭐)
+2. **Gemini 3.7 Flash** (775 ⭐)
+3. **Accelerating GPT-5.6 Sol Ultrafast** (544 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (247238★)
-2. **affaan-m/ECC** (239980★)
-3. **trekhleb/javascript-algorithms** (196464★)
+1. **react/react** (247247★)
+2. **affaan-m/ECC** (240042★)
+3. **trekhleb/javascript-algorithms** (196468★)
 <!-- LIVE_DATA_END -->
