@@ -8,44 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "41.15\u00b0N",
-    "longitude": "84.88\u00b0E",
-    "timestamp": "2026-08-15T06:18:39+00:00",
+    "latitude": "45.71\u00b0N",
+    "longitude": "87.61\u00b0W",
+    "timestamp": "2026-08-15T12:15:16+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Qwen 3.8 27B",
-      "score": 1028,
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "time": "2026-08-14T15:00:00"
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "score": 20,
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "time": "2026-08-15T11:00:02"
     },
     {
       "title": "The other Sean Byrne doesn't exist",
-      "score": 36,
+      "score": 234,
       "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
       "time": "2026-08-15T04:18:44"
     },
     {
-      "title": "Coin-sized device can hack a Boeing 737",
-      "score": 23,
-      "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
-      "time": "2026-08-13T07:57:40"
+      "title": "Qwen 3.8 27B",
+      "score": 1194,
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "time": "2026-08-14T15:00:00"
     },
     {
-      "title": "Going Dark, and the era of law enforcement hacking",
-      "score": 288,
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "time": "2026-08-14T20:52:44"
+      "title": "The mathematical beauty of hyperbezier curves",
+      "score": 32,
+      "url": "https://linebender.org/blog/hyperbezier/",
+      "time": "2026-08-09T23:09:04"
     },
     {
-      "title": "Magnitude 7.7 Earthquake \u2013 68 km NNW of Ende, Indonesia",
-      "score": 165,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-      "time": "2026-08-15T01:14:05"
+      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+      "score": 33,
+      "url": "https://uecker.codeberg.page/2026-07-14.html",
+      "time": "2026-08-15T07:59:42"
     }
   ],
-  "github_trending": [],
-  "last_updated": "2026-08-15T06:18:39.542884+00:00"
+  "github_trending": [
+    {
+      "name": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 247248,
+      "language": "JavaScript",
+      "url": "https://github.com/react/react"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 240225,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196460,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 157773,
+      "language": "JavaScript",
+      "url": "https://github.com/Snailclimb/JavaGuide"
+    },
+    {
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148135,
+      "language": "JavaScript",
+      "url": "https://github.com/airbnb/javascript"
+    }
+  ],
+  "last_updated": "2026-08-15T12:15:16.145123+00:00"
 }
