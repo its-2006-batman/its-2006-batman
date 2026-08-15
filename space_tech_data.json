@@ -1,51 +1,51 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Total Solar Eclipse from Greenland",
-    "date": "2026-08-14",
-    "explanation": "On August 12, the Moon's shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who found themselves wi...",
-    "url": "https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg",
+    "title": "Bright Perseids from Sweden",
+    "date": "2026-08-15",
+    "explanation": "Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth's skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/Swift-Tuttle vaporize...",
+    "url": "https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "38.10\u00b0S",
-    "longitude": "105.70\u00b0W",
-    "timestamp": "2026-08-15T00:35:31+00:00",
+    "latitude": "41.15\u00b0N",
+    "longitude": "84.88\u00b0E",
+    "timestamp": "2026-08-15T06:18:39+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Qwen 3.8 27B",
-      "score": 860,
+      "score": 1028,
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
       "time": "2026-08-14T15:00:00"
     },
     {
+      "title": "The other Sean Byrne doesn't exist",
+      "score": 36,
+      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "time": "2026-08-15T04:18:44"
+    },
+    {
+      "title": "Coin-sized device can hack a Boeing 737",
+      "score": 23,
+      "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+      "time": "2026-08-13T07:57:40"
+    },
+    {
       "title": "Going Dark, and the era of law enforcement hacking",
-      "score": 164,
+      "score": 288,
       "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
       "time": "2026-08-14T20:52:44"
     },
     {
-      "title": "RISC-V: They should have known better",
-      "score": 87,
-      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "time": "2026-08-14T22:38:34"
-    },
-    {
-      "title": "Why does Opus 5 feel worse to work with?",
-      "score": 761,
-      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "time": "2026-08-14T10:12:48"
-    },
-    {
-      "title": "The case for overhauling American science",
-      "score": 16,
-      "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
-      "time": "2026-08-14T23:11:34"
+      "title": "Magnitude 7.7 Earthquake \u2013 68 km NNW of Ende, Indonesia",
+      "score": 165,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "time": "2026-08-15T01:14:05"
     }
   ],
   "github_trending": [],
-  "last_updated": "2026-08-15T00:35:30.883535+00:00"
+  "last_updated": "2026-08-15T06:18:39.542884+00:00"
 }

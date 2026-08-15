@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  38.10°S                                       ║
-║  📍 LONGITUDE: 105.70°W                                      ║
+║  📍 LATITUDE:  41.15°N                                       ║
+║  📍 LONGITUDE: 84.88°E                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-08-15 00:35 UTC                   ║
+║  ⏰ UPDATE: 2026-08-15 06:18 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,14 +433,14 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Total Solar Eclipse from Greenland                       ║
-║  DATE:  2026-08-14                                                ║
+║  TITLE: Bright Perseids from Sweden                              ║
+║  DATE:  2026-08-15                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Qwen 3.8 27B** (860 ⭐)
-2. **Going Dark, and the era of law enforcement hacking** (164 ⭐)
-3. **RISC-V: They should have known better** (87 ⭐)
+1. **Qwen 3.8 27B** (1028 ⭐)
+2. **The other Sean Byrne doesn't exist** (36 ⭐)
+3. **Coin-sized device can hack a Boeing 737** (23 ⭐)
 <!-- LIVE_DATA_END -->
