@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "8.01\u00b0N",
-    "longitude": "133.77\u00b0E",
-    "timestamp": "2026-08-15T18:12:12+00:00",
+    "latitude": "45.08\u00b0N",
+    "longitude": "82.08\u00b0E",
+    "timestamp": "2026-08-16T00:37:26+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
-      "score": 117,
+      "title": "Bede Liu, a digital signal processing pioneer, has died",
+      "score": 49,
+      "url": "https://spectrum.ieee.org/digital-signal-processing",
+      "time": "2026-08-15T21:45:54"
+    },
+    {
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "score": 332,
       "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
       "time": "2026-08-15T15:58:53"
     },
     {
-      "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
-      "score": 116,
-      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "time": "2026-08-15T14:04:49"
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "score": 65,
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "time": "2026-08-15T20:54:11"
     },
     {
-      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-      "score": 283,
-      "url": "https://sankalp.bearblog.dev/autoresearch/",
-      "time": "2026-08-15T11:00:02"
+      "title": "Banned Words List",
+      "score": 10,
+      "url": "https://pen.org/banned-words-list/",
+      "time": "2026-08-15T23:54:05"
     },
     {
-      "title": "RISC-V: They Should Have Known Better",
-      "score": 80,
-      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "time": "2026-08-14T12:50:56"
-    },
-    {
-      "title": "A Spectre Is Haunting Unicode",
-      "score": 44,
-      "url": "https://www.dampfkraft.com/ghost-characters.html",
-      "time": "2026-08-15T14:34:04"
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "score": 124,
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "time": "2026-08-15T21:14:34"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247251,
+      "stars": 247266,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 240254,
+      "stars": 240300,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196465,
+      "stars": 196468,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157773,
+      "stars": 157782,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148137,
+      "stars": 148144,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-15T18:12:09.402480+00:00"
+  "last_updated": "2026-08-16T00:37:26.729953+00:00"
 }
