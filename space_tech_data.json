@@ -1,77 +1,71 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Bright Perseids from Sweden",
-    "date": "2026-08-15",
-    "explanation": "Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth's skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/Swift-Tuttle vaporize...",
-    "url": "https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg",
+    "title": "Milky Way over Yellowstone",
+    "date": "2026-08-16",
+    "explanation": "The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring.  Steam ...",
+    "url": "https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "45.08\u00b0N",
-    "longitude": "82.08\u00b0E",
-    "timestamp": "2026-08-16T00:37:26+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Bede Liu, a digital signal processing pioneer, has died",
+      "title": "Asus Bike Booster",
+      "score": 275,
+      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "time": "2026-08-12T06:33:12"
+    },
+    {
+      "title": "The quirky personal homepages of programming language creators",
       "score": 49,
-      "url": "https://spectrum.ieee.org/digital-signal-processing",
-      "time": "2026-08-15T21:45:54"
+      "url": "https://breck.lol/plMakers.html",
+      "time": "2026-08-16T04:24:00"
+    },
+    {
+      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "score": 106,
+      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+      "time": "2026-08-10T13:01:18"
     },
     {
       "title": "Semaglutide linked to lower predicted dementia risk",
-      "score": 332,
+      "score": 396,
       "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
       "time": "2026-08-15T15:58:53"
     },
     {
-      "title": "Cultivating a state of mind where new ideas are born (2023)",
-      "score": 65,
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "time": "2026-08-15T20:54:11"
-    },
-    {
-      "title": "Banned Words List",
-      "score": 10,
-      "url": "https://pen.org/banned-words-list/",
-      "time": "2026-08-15T23:54:05"
-    },
-    {
-      "title": "Abdominal fat predicts heart disease risk better than BMI",
-      "score": 124,
-      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-      "time": "2026-08-15T21:14:34"
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "score": 37,
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "time": "2026-08-16T02:12:53"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247266,
+      "stars": 247272,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 240300,
+      "stars": 240335,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196468,
+      "stars": 196469,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157782,
+      "stars": 157781,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-16T00:37:26.729953+00:00"
+  "last_updated": "2026-08-16T06:20:38.962210+00:00"
 }
