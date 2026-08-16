@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "49.43\u00b0S",
-    "longitude": "99.54\u00b0E",
-    "timestamp": "2026-08-16T12:16:25+00:00",
+    "latitude": "13.17\u00b0S",
+    "longitude": "47.96\u00b0W",
+    "timestamp": "2026-08-16T18:12:28+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Asus Bike Booster",
-      "score": 464,
-      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-      "time": "2026-08-12T06:33:12"
+      "title": "Claude: System Prompts",
+      "score": 341,
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "time": "2026-08-16T12:48:21"
     },
     {
-      "title": "Superconducting monolayer cuprate with a single CuO2 plane",
-      "score": 24,
-      "url": "https://www.nature.com/articles/s41586-026-10857-1",
-      "time": "2026-08-12T19:07:06"
+      "title": "The AI Credit Resale Economy",
+      "score": 134,
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "time": "2026-08-16T14:44:55"
     },
     {
-      "title": "Patterns and problems in emerging multi-agent systems",
-      "score": 120,
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "time": "2026-08-16T02:12:53"
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "score": 77,
+      "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
+      "time": "2026-08-16T15:16:06"
     },
     {
-      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-      "score": 186,
-      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-      "time": "2026-08-10T13:01:18"
+      "title": "NIH is ending a key grant for budding clinical researchers",
+      "score": 42,
+      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
+      "time": "2026-08-16T16:14:55"
     },
     {
-      "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
-      "score": 1,
-      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
-      "time": "2026-08-16T12:00:23"
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "score": 27,
+      "url": "https://rvembedded.com/blog_post/12/",
+      "time": "2026-08-16T17:01:07"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247281,
+      "stars": 247291,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 240372,
+      "stars": 240435,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196470,
+      "stars": 196479,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157786,
+      "stars": 157797,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148145,
+      "stars": 148148,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-16T12:16:24.247583+00:00"
+  "last_updated": "2026-08-16T18:12:26.018672+00:00"
 }
