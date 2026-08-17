@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.34\u00b0N",
-    "longitude": "57.00\u00b0W",
-    "timestamp": "2026-08-17T12:19:59+00:00",
+    "latitude": "41.15\u00b0N",
+    "longitude": "156.94\u00b0E",
+    "timestamp": "2026-08-17T18:21:29+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "score": 571,
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "time": "2026-08-16T23:45:09"
+      "title": "A Preview of DuckDB v2.0",
+      "score": 333,
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "time": "2026-08-17T13:46:27"
     },
     {
-      "title": "On A.I. regulation and messaging",
-      "score": 115,
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "time": "2026-08-17T01:59:56"
+      "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
+      "score": 187,
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "time": "2026-08-17T14:18:38"
     },
     {
-      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-      "score": 379,
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "time": "2026-08-16T21:53:43"
+      "title": "Incident with Github.com",
+      "score": 254,
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "time": "2026-08-17T13:35:06"
     },
     {
-      "title": "A third world engineer responds to \u201cRISC-V: They should have known better\u201d",
-      "score": 548,
-      "url": "https://rvembedded.com/blog_post/12/",
-      "time": "2026-08-16T17:01:07"
+      "title": "How to disable or avoid intrusive AI",
+      "score": 141,
+      "url": "https://www.librarian.net/notoai/",
+      "time": "2026-08-17T14:07:56"
     },
     {
-      "title": "How Go detects struct copies with sync.noCopy",
-      "score": 4,
-      "url": "https://func25.dev/posts/go-sync-nocopy/",
-      "time": "2026-08-13T12:33:43"
+      "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
+      "score": 56,
+      "url": "https://speko.ai/",
+      "time": "2026-08-17T15:36:18"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247293,
+      "stars": 247310,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 240595,
+      "stars": 240646,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196497,
+      "stars": 196499,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157815,
+      "stars": 157822,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148138,
+      "stars": 148136,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-17T12:19:58.258046+00:00"
+  "last_updated": "2026-08-17T18:21:29.519556+00:00"
 }
