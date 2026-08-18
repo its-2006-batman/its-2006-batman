@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "48.92\u00b0S",
-    "longitude": "133.33\u00b0E",
-    "timestamp": "2026-08-18T12:21:26+00:00",
+    "latitude": "41.31\u00b0S",
+    "longitude": "28.36\u00b0W",
+    "timestamp": "2026-08-18T18:20:08+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Linux 7.3 improves performance when running out of vRAM",
-      "score": 244,
-      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "time": "2026-08-18T07:51:50"
+      "title": "Claude Code weekly limits reduce by a third tomorrow",
+      "score": 144,
+      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+      "time": "2026-08-18T17:02:15"
     },
     {
-      "title": "How Bluesky draws its logo on screenshots",
-      "score": 573,
-      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "time": "2026-08-17T22:20:40"
+      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+      "score": 72,
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "time": "2026-08-18T17:24:53"
     },
     {
-      "title": "Google buys crashed airline Spirit's data at auction, because AI",
-      "score": 130,
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "time": "2026-08-18T10:13:28"
+      "title": "Using the railway network as a flatbed scanner",
+      "score": 289,
+      "url": "https://philo.gay/linecam/",
+      "time": "2026-08-18T12:43:54"
     },
     {
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "score": 507,
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "time": "2026-08-17T21:03:18"
+      "title": "Fixing a bricked Framework laptop",
+      "score": 236,
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "time": "2026-08-18T13:18:40"
     },
     {
-      "title": "Quake Shareware, a CD-ROM just a little too full",
-      "score": 386,
-      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "time": "2026-08-17T22:06:14"
+      "title": "The Amazon tax",
+      "score": 528,
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "time": "2026-08-18T13:22:38"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247403,
+      "stars": 247414,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 240826,
+      "stars": 240903,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196508,
+      "stars": 196516,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157851,
+      "stars": 157864,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148134,
+      "stars": 148136,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-18T12:21:24.004389+00:00"
+  "last_updated": "2026-08-18T18:20:06.556225+00:00"
 }
