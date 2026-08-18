@@ -1,77 +1,77 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "A Golden Corona Eclipse",
-    "date": "2026-08-17",
-    "explanation": "This total solar eclipse appeared not only poetically beautiful but scientifically interesting.  Usually the solar corona appears white, and to some observers the corona of last week's total solar eclipse did appear this pearly color.  But this time, totality observers in Spain saw a corona that app...",
-    "url": "https://apod.nasa.gov/apod/image/2608/GoldCorona_Santos_960.jpg",
+    "title": "Perseids from Perseus",
+    "date": "2026-08-18",
+    "explanation": "This was a good year for the Perseids meteor shower.  A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual.  Where was the Moon?  It was busy visiting the Sun.  Near the Perseids peak, the Moon moved directly in front of the Sun and cre...",
+    "url": "https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "45.80\u00b0N",
-    "longitude": "72.74\u00b0E",
-    "timestamp": "2026-08-18T00:35:04+00:00",
+    "latitude": "18.67\u00b0S",
+    "longitude": "85.79\u00b0W",
+    "timestamp": "2026-08-18T06:23:05+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "How Bluesky draws its logo on screenshots",
-      "score": 162,
+      "score": 390,
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
       "time": "2026-08-17T22:20:40"
     },
     {
-      "title": "Cursor Origin",
-      "score": 34,
-      "url": "https://cursor.com/docs/origin",
-      "time": "2026-08-17T23:58:19"
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "score": 320,
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "time": "2026-08-17T21:03:18"
     },
     {
       "title": "Quake Shareware, a CD-ROM just a little too full",
-      "score": 105,
+      "score": 267,
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
       "time": "2026-08-17T22:06:14"
     },
     {
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "score": 56,
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "time": "2026-08-17T22:01:17"
+      "title": "The Benchmarkpocalypse",
+      "score": 53,
+      "url": "https://danluu.com/benchpocalypse/",
+      "time": "2026-08-18T02:11:02"
     },
     {
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "score": 151,
-      "url": "https://arxiv.org/abs/2608.13759",
-      "time": "2026-08-17T17:54:59"
+      "title": "Shattered skeleton is first confirmed death from trebuchet",
+      "score": 46,
+      "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
+      "time": "2026-08-13T12:47:43"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247336,
+      "stars": 247387,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 240701,
+      "stars": 240776,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196510,
+      "stars": 196508,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157824,
+      "stars": 157836,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-18T00:35:03.003249+00:00"
+  "last_updated": "2026-08-18T06:23:05.365442+00:00"
 }
