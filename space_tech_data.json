@@ -8,42 +8,42 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "41.31\u00b0S",
-    "longitude": "28.36\u00b0W",
-    "timestamp": "2026-08-18T18:20:08+00:00",
+    "latitude": "48.60\u00b0S",
+    "longitude": "103.88\u00b0W",
+    "timestamp": "2026-08-19T00:35:27+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Claude Code weekly limits reduce by a third tomorrow",
-      "score": 144,
-      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-      "time": "2026-08-18T17:02:15"
-    },
-    {
-      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-      "score": 72,
-      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "time": "2026-08-18T17:24:53"
-    },
-    {
-      "title": "Using the railway network as a flatbed scanner",
-      "score": 289,
-      "url": "https://philo.gay/linecam/",
-      "time": "2026-08-18T12:43:54"
-    },
-    {
-      "title": "Fixing a bricked Framework laptop",
-      "score": 236,
-      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "time": "2026-08-18T13:18:40"
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "score": 109,
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "time": "2026-08-18T21:50:33"
     },
     {
       "title": "The Amazon tax",
-      "score": 528,
+      "score": 876,
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
       "time": "2026-08-18T13:22:38"
+    },
+    {
+      "title": "Solo \u2013 a .so loader for static Linux binaries",
+      "score": 12,
+      "url": "https://github.com/pg83/solo",
+      "time": "2026-08-18T23:51:49"
+    },
+    {
+      "title": "Being ambitious and being a dad",
+      "score": 222,
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "time": "2026-08-16T16:08:57"
+    },
+    {
+      "title": "How does IKEA come up with names for its products?",
+      "score": 214,
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "time": "2026-08-18T18:11:53"
     }
   ],
   "github_trending": [
@@ -57,7 +57,7 @@
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 240903,
+      "stars": 240962,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -71,7 +71,7 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157864,
+      "stars": 157868,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-18T18:20:06.556225+00:00"
+  "last_updated": "2026-08-19T00:35:26.387901+00:00"
 }
