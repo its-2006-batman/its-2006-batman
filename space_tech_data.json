@@ -1,63 +1,63 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Perseids from Perseus",
-    "date": "2026-08-18",
-    "explanation": "This was a good year for the Perseids meteor shower.  A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual.  Where was the Moon?  It was busy visiting the Sun.  Near the Perseids peak, the Moon moved directly in front of the Sun and cre...",
-    "url": "https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg",
-    "media_type": "image"
+    "title": "The Case of the Mysterious Maybe Meteor",
+    "date": "2026-08-19",
+    "explanation": "Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let\u2019s present the evidence. The 24 frames-per-second video was taken in Spain (40\u00b034'30.3\"N 1\u00b012'28.8\"W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is this a meteor? Meteor ...",
+    "url": "https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4",
+    "media_type": "video"
   },
   "iss_position": {
-    "latitude": "48.60\u00b0S",
-    "longitude": "103.88\u00b0W",
-    "timestamp": "2026-08-19T00:35:27+00:00",
+    "latitude": "11.46\u00b0N",
+    "longitude": "94.31\u00b0E",
+    "timestamp": "2026-08-19T06:24:02+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "score": 109,
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "time": "2026-08-18T21:50:33"
+      "title": "Meta's blockbuster trial draws parallels to big tobacco",
+      "score": 175,
+      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "time": "2026-08-19T02:24:34"
     },
     {
-      "title": "The Amazon tax",
-      "score": 876,
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "time": "2026-08-18T13:22:38"
+      "title": "Bun 1.4 Rust rewrite is not looking good",
+      "score": 53,
+      "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
+      "time": "2026-08-19T05:51:17"
     },
     {
-      "title": "Solo \u2013 a .so loader for static Linux binaries",
-      "score": 12,
-      "url": "https://github.com/pg83/solo",
-      "time": "2026-08-18T23:51:49"
+      "title": "OpenLogi",
+      "score": 269,
+      "url": "https://openlogi.org/en",
+      "time": "2026-08-19T01:58:28"
     },
     {
-      "title": "Being ambitious and being a dad",
-      "score": 222,
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "time": "2026-08-16T16:08:57"
+      "title": "Palomar: A registry of Lean verified mathematics",
+      "score": 59,
+      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+      "time": "2026-08-19T02:41:50"
     },
     {
-      "title": "How does IKEA come up with names for its products?",
-      "score": 214,
-      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "time": "2026-08-18T18:11:53"
+      "title": "Supersonic Trebuchet [video]",
+      "score": 43,
+      "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
+      "time": "2026-08-15T00:18:08"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247414,
+      "stars": 247416,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 240962,
+      "stars": 241024,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -71,17 +71,17 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157868,
+      "stars": 157879,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148136,
+      "stars": 148132,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-19T00:35:26.387901+00:00"
+  "last_updated": "2026-08-19T06:24:00.307454+00:00"
 }
