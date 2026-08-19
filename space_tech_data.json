@@ -8,70 +8,70 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "11.46\u00b0N",
-    "longitude": "94.31\u00b0E",
-    "timestamp": "2026-08-19T06:24:02+00:00",
+    "latitude": "46.61\u00b0N",
+    "longitude": "44.25\u00b0W",
+    "timestamp": "2026-08-19T12:21:33+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Meta's blockbuster trial draws parallels to big tobacco",
-      "score": 175,
-      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-      "time": "2026-08-19T02:24:34"
-    },
-    {
-      "title": "Bun 1.4 Rust rewrite is not looking good",
-      "score": 53,
-      "url": "https://tipiirai.com/writing/bun-rust-rewrite-worries",
-      "time": "2026-08-19T05:51:17"
+      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+      "score": 29,
+      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+      "time": "2026-08-19T11:46:58"
     },
     {
       "title": "OpenLogi",
-      "score": 269,
+      "score": 951,
       "url": "https://openlogi.org/en",
       "time": "2026-08-19T01:58:28"
     },
     {
-      "title": "Palomar: A registry of Lean verified mathematics",
-      "score": 59,
-      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-      "time": "2026-08-19T02:41:50"
+      "title": "Air Theremin \u2013 a browser theremin you play by waving at your webcam",
+      "score": 62,
+      "url": "https://theremin.bizibah.com/",
+      "time": "2026-08-19T10:15:00"
     },
     {
-      "title": "Supersonic Trebuchet [video]",
-      "score": 43,
-      "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
-      "time": "2026-08-15T00:18:08"
+      "title": "Cerebras CS-4",
+      "score": 334,
+      "url": "https://www.cerebras.ai/cs4",
+      "time": "2026-08-19T00:28:18"
+    },
+    {
+      "title": "Being ambitious and being a dad",
+      "score": 603,
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "time": "2026-08-16T16:08:57"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247416,
+      "stars": 247420,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 241024,
+      "stars": 241073,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196516,
+      "stars": 196522,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157879,
+      "stars": 157881,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-19T06:24:00.307454+00:00"
+  "last_updated": "2026-08-19T12:21:30.826931+00:00"
 }
