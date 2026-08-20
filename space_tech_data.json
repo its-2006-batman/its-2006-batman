@@ -7,81 +7,75 @@
     "url": "https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "39.39\u00b0S",
-    "longitude": "145.60\u00b0E",
-    "timestamp": "2026-08-20T12:23:47+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Don't Paste the AI, please",
-      "score": 546,
-      "url": "https://dontpastetheai.com/",
-      "time": "2026-08-20T08:20:44"
+      "title": "I like 'em thick: an apology to my English teachers",
+      "score": 292,
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "time": "2026-08-18T15:50:52"
     },
     {
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "score": 160,
+      "score": 683,
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
       "time": "2026-08-20T10:08:52"
     },
     {
-      "title": "AI didn't erase the junior engineer's value, it increased it it",
-      "score": 26,
-      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
-      "time": "2026-08-20T11:42:20"
+      "title": "HTML Can Do That",
+      "score": 308,
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "time": "2026-08-19T15:11:36"
     },
     {
-      "title": "Windows brings out the Rorschach test in everyone (2003)",
-      "score": 247,
-      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "time": "2026-08-20T06:16:40"
+      "title": "Linux 7.2 Released",
+      "score": 61,
+      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "time": "2026-08-20T15:46:18"
     },
     {
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "score": 8,
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "time": "2026-08-20T12:04:38"
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "score": 194,
+      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+      "time": "2026-08-20T00:15:01"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247434,
+      "stars": 247442,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 241289,
+      "stars": 241383,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196530,
+      "stars": 196526,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157912,
+      "stars": 157911,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148127,
+      "stars": 148125,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-20T12:23:46.530188+00:00"
+  "last_updated": "2026-08-20T18:21:20.287467+00:00"
 }
