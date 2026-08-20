@@ -8,80 +8,80 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "38.27\u00b0N",
-    "longitude": "140.94\u00b0E",
-    "timestamp": "2026-08-19T18:17:25+00:00",
+    "latitude": "50.36\u00b0N",
+    "longitude": "79.16\u00b0E",
+    "timestamp": "2026-08-20T00:35:37+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "OpenRouter Is Joining Stripe",
-      "score": 59,
+      "title": "OpenRouter is joining Stripe",
+      "score": 591,
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
       "time": "2026-08-19T17:32:38"
     },
     {
-      "title": "Opus 5.0 drives incoherence into the stratosphere",
-      "score": 53,
-      "url": "https://github.com/anthropics/claude-code/issues/77136",
-      "time": "2026-08-19T17:40:06"
+      "title": "Go 1.27",
+      "score": 419,
+      "url": "https://go.dev/blog/go1.27",
+      "time": "2026-08-19T18:33:49"
     },
     {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "score": 437,
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "time": "2026-08-19T11:21:50"
+      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+      "score": 37,
+      "url": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+      "time": "2026-08-19T23:38:22"
     },
     {
-      "title": "Geolocating a random island using geometry and CUDA programming",
-      "score": 292,
-      "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "time": "2026-08-19T12:19:52"
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "score": 270,
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "time": "2026-08-19T17:47:29"
     },
     {
-      "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-      "score": 90,
-      "url": "https://ornith.ai/ornith_1_5.html",
-      "time": "2026-08-19T14:48:39"
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "score": 122,
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "time": "2026-08-19T19:06:16"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247419,
+      "stars": 247428,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 241136,
+      "stars": 241193,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196530,
+      "stars": 196529,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157889,
+      "stars": 157890,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148131,
+      "stars": 148132,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-19T18:17:25.037711+00:00"
+  "last_updated": "2026-08-20T00:35:33.294548+00:00"
 }
