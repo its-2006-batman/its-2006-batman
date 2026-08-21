@@ -7,65 +7,71 @@
     "url": "https://apod.nasa.gov/apod/image/2608/eso2612b.mp4",
     "media_type": "video"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "38.18\u00b0N",
+    "longitude": "38.04\u00b0W",
+    "timestamp": "2026-08-21T12:22:48+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Codex on AWS bedrock bug causing 10x charges",
-      "score": 83,
-      "url": "https://github.com/openai/codex/issues/37674",
-      "time": "2026-08-21T03:17:43"
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "score": 149,
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "time": "2026-08-21T10:33:56"
     },
     {
-      "title": "The August 17 outage",
-      "score": 440,
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "time": "2026-08-20T19:22:24"
+      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+      "score": 86,
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "time": "2026-08-21T10:05:46"
     },
     {
-      "title": "I like 'em thick: an apology to my English teachers",
-      "score": 663,
-      "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "time": "2026-08-18T15:50:52"
+      "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+      "score": 17,
+      "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+      "time": "2026-08-21T11:43:38"
     },
     {
-      "title": "HTML Can Do That",
-      "score": 692,
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "time": "2026-08-19T15:11:36"
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "score": 136,
+      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "time": "2026-08-21T07:23:27"
     },
     {
-      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
-      "score": 5,
-      "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-      "time": "2026-08-21T05:39:39"
+      "title": "Small, native web tricks worth remembering",
+      "score": 77,
+      "url": "https://htmlcat.net/",
+      "time": "2026-08-21T09:45:14"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247529,
+      "stars": 247528,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 241528,
+      "stars": 241603,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196523,
+      "stars": 196525,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157912,
+      "stars": 157927,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -77,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-21T06:25:22.836187+00:00"
+  "last_updated": "2026-08-21T12:22:47.049993+00:00"
 }
