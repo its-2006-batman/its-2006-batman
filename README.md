@@ -418,7 +418,7 @@ END TRANSMISSION
 ║  📍 LONGITUDE: N/A                                           ║
 ║  ⚡ VELOCITY:  N/A                                           ║
 ║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-08-21 00:37 UTC                   ║
+║  ⏰ UPDATE: 2026-08-21 06:25 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: The Elephant's Trunk in Cepheus                          ║
-║  DATE:  2026-08-20                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: Time-Lapse of the Star S301 Orbiting the Black Hole in t ║
+║  DATE:  2026-08-21                                                ║
+║  TYPE:  video                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **The August 17 outage, and the work ahead** (284 ⭐)
-2. **Consumer Rights Wiki** (198 ⭐)
-3. **I like 'em thick: an apology to my English teachers** (540 ⭐)
+1. **Codex on AWS bedrock bug causing 10x charges** (83 ⭐)
+2. **The August 17 outage** (440 ⭐)
+3. **I like 'em thick: an apology to my English teachers** (663 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (247447★)
-2. **affaan-m/ECC** (241464★)
-3. **trekhleb/javascript-algorithms** (196522★)
+1. **react/react** (247529★)
+2. **affaan-m/ECC** (241528★)
+3. **trekhleb/javascript-algorithms** (196523★)
 <!-- LIVE_DATA_END -->

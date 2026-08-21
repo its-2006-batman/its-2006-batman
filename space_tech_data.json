@@ -1,81 +1,81 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "The Elephant's Trunk in Cepheus",
-    "date": "2026-08-20",
-    "explanation": "Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed tele...",
-    "url": "https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg",
-    "media_type": "image"
+    "title": "Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy",
+    "date": "2026-08-21",
+    "explanation": "What does it feel like to zoom around a spinning supermassive black hole?   The featured video is an animation showing a time-lapse of 4 years of observations of the star S301 orbiting Sagittarius A*, the 4-million-solar-mass black hole in the center of our Galaxy.   S301 was discovered in 2023 with...",
+    "url": "https://apod.nasa.gov/apod/image/2608/eso2612b.mp4",
+    "media_type": "video"
   },
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": "The August 17 outage, and the work ahead",
-      "score": 284,
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "score": 83,
+      "url": "https://github.com/openai/codex/issues/37674",
+      "time": "2026-08-21T03:17:43"
+    },
+    {
+      "title": "The August 17 outage",
+      "score": 440,
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
       "time": "2026-08-20T19:22:24"
     },
     {
-      "title": "Consumer Rights Wiki",
-      "score": 198,
-      "url": "https://consumerrights.wiki/w/Main_Page",
-      "time": "2026-08-20T18:19:51"
-    },
-    {
       "title": "I like 'em thick: an apology to my English teachers",
-      "score": 540,
+      "score": 663,
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
       "time": "2026-08-18T15:50:52"
     },
     {
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "score": 829,
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "time": "2026-08-20T20:07:26"
+      "title": "HTML Can Do That",
+      "score": 692,
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "time": "2026-08-19T15:11:36"
     },
     {
-      "title": "Copyright does not protect AI-generated content in EU",
-      "score": 12,
-      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "time": "2026-08-21T00:15:12"
+      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "score": 5,
+      "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+      "time": "2026-08-21T05:39:39"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247447,
+      "stars": 247529,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 241464,
+      "stars": 241528,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196522,
+      "stars": 196523,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157909,
+      "stars": 157912,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148121,
+      "stars": 148123,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-21T00:37:40.779070+00:00"
+  "last_updated": "2026-08-21T06:25:22.836187+00:00"
 }
