@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  49.49°N                                       ║
-║  📍 LONGITUDE: 157.55°E                                      ║
+║  📍 LATITUDE:  51.60°N                                       ║
+║  📍 LONGITUDE: 82.49°E                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-08-21 18:20 UTC                   ║
+║  ⏰ UPDATE: 2026-08-22 00:35 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Time-Lapse of the Star S301 Orbiting the Black Hole in t ║
-║  DATE:  2026-08-21                                                ║
-║  TYPE:  video                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Kagi added a setting for removing paywalled links from searc...** (724 ⭐)
-2. **Kobo can run apps now** (95 ⭐)
-3. **Felony Bench** (145 ⭐)
+1. **Paul Atkins Misreads Adam Smith and the American Founding** (34 ⭐)
+2. **Kobo can run apps now** (401 ⭐)
+3. **Felony Bench** (489 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (247535★)
-2. **affaan-m/ECC** (241697★)
-3. **trekhleb/javascript-algorithms** (196531★)
+1. **react/react** (247494★)
+2. **affaan-m/ECC** (241788★)
+3. **trekhleb/javascript-algorithms** (196533★)
 <!-- LIVE_DATA_END -->

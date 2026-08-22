@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy",
-    "date": "2026-08-21",
-    "explanation": "What does it feel like to zoom around a spinning supermassive black hole?   The featured video is an animation showing a time-lapse of 4 years of observations of the star S301 orbiting Sagittarius A*, the 4-million-solar-mass black hole in the center of our Galaxy.   S301 was discovered in 2023 with...",
-    "url": "https://apod.nasa.gov/apod/image/2608/eso2612b.mp4",
-    "media_type": "video"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "49.49\u00b0N",
-    "longitude": "157.55\u00b0E",
-    "timestamp": "2026-08-21T18:20:40+00:00",
+    "latitude": "51.60\u00b0N",
+    "longitude": "82.49\u00b0E",
+    "timestamp": "2026-08-22T00:35:13+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "score": 724,
-      "url": "https://kagi.com/changelog#11296",
-      "time": "2026-08-21T13:56:37"
+      "title": "Paul Atkins Misreads Adam Smith and the American Founding",
+      "score": 34,
+      "url": "https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/",
+      "time": "2026-08-21T23:32:44"
     },
     {
       "title": "Kobo can run apps now",
-      "score": 95,
+      "score": 401,
       "url": "https://bandarlabs.github.io/Cobalt/",
       "time": "2026-08-21T16:25:25"
     },
     {
       "title": "Felony Bench",
-      "score": 145,
+      "score": 489,
       "url": "https://www.felonybench.com/",
       "time": "2026-08-21T15:17:04"
     },
     {
-      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "score": 228,
-      "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "time": "2026-08-21T13:11:28"
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "score": 514,
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "time": "2026-08-21T12:10:13"
     },
     {
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "score": 382,
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "time": "2026-08-21T10:33:56"
+      "title": "Electric shock gloves in use by police departments in Bellevue, Omaha",
+      "score": 19,
+      "url": "https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/",
+      "time": "2026-08-21T23:25:57"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247535,
+      "stars": 247494,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 241697,
+      "stars": 241788,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196531,
+      "stars": 196533,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157930,
+      "stars": 157935,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148126,
+      "stars": 148127,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-21T18:20:34.886468+00:00"
+  "last_updated": "2026-08-22T00:35:12.949532+00:00"
 }
