@@ -7,81 +7,75 @@
     "url": "https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "47.79\u00b0S",
-    "longitude": "115.27\u00b0E",
-    "timestamp": "2026-08-22T12:16:33+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
-      "score": 280,
-      "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
-      "time": "2026-08-22T10:26:09"
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "score": 115,
+      "url": "https://quantumi.sh/public/labs.html",
+      "time": "2026-08-22T14:54:07"
     },
     {
-      "title": "Z80\u2013The 1970s Microprocessor Still Alive",
-      "score": 27,
-      "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-      "time": "2026-08-22T09:49:57"
+      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
+      "score": 177,
+      "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+      "time": "2026-08-22T13:24:06"
+    },
+    {
+      "title": "A Friendly Introduction to Racket",
+      "score": 67,
+      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "time": "2026-08-22T14:08:19"
+    },
+    {
+      "title": "New MCP Roadmap",
+      "score": 126,
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "time": "2026-08-22T13:31:34"
     },
     {
       "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
-      "score": 39,
+      "score": 196,
       "url": "https://munderdiffl.in/",
       "time": "2026-08-22T09:49:14"
-    },
-    {
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "score": 289,
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "time": "2026-08-21T19:51:54"
-    },
-    {
-      "title": "Felony Bench",
-      "score": 748,
-      "url": "https://www.felonybench.com/",
-      "time": "2026-08-21T15:17:04"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247621,
+      "stars": 247630,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 241975,
+      "stars": 242086,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196536,
+      "stars": 196538,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157946,
+      "stars": 157952,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148126,
+      "stars": 148129,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-22T12:16:31.406347+00:00"
+  "last_updated": "2026-08-22T18:13:02.279392+00:00"
 }
