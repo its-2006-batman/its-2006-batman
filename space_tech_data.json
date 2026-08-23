@@ -1,63 +1,63 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Mostly Perseids",
-    "date": "2026-08-22",
-    "explanation": "Recorded the night of August 12-13, images from four dedicated meteor-monitoring cameras at an astronomical observatory in Czechia were aligned and combined to create this all-night, all-sky view. On that night, the total count came to 1,706 meteors. And since that coincided with the peak activity o...",
-    "url": "https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg",
-    "media_type": "image"
+    "title": "Cassini Approaches Saturn",
+    "date": "2026-08-23",
+    "explanation": "What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have been digitally tweaked,...",
+    "url": "https://player.vimeo.com/video/11386048#t=0m58s?color=8BA0FF&portrait=0",
+    "media_type": "video"
   },
   "iss_position": {
-    "latitude": "48.83\u00b0S",
-    "longitude": "77.31\u00b0W",
-    "timestamp": "2026-08-23T00:38:16+00:00",
+    "latitude": "2.58\u00b0N",
+    "longitude": "78.44\u00b0E",
+    "timestamp": "2026-08-23T06:21:13+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Scrap",
-      "score": 290,
-      "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "time": "2026-08-22T18:08:56"
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "score": 67,
+      "url": "https://martypc.net/",
+      "time": "2026-08-23T03:13:16"
     },
     {
-      "title": "NanoGPT Speedrun Frontier",
-      "score": 36,
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "time": "2026-08-22T22:14:27"
+      "title": "The Golden Rule for Becoming a Better Writer",
+      "score": 39,
+      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
+      "time": "2026-08-23T03:32:25"
     },
     {
-      "title": "Why your local LLM feels dumber than it is",
-      "score": 161,
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "time": "2026-08-22T18:14:16"
+      "title": "I Dream of Quieter Computing",
+      "score": 46,
+      "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+      "time": "2026-08-23T02:33:22"
     },
     {
-      "title": "NetBSD and my life (2005)",
-      "score": 88,
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "time": "2026-08-22T19:07:46"
+      "title": "The End of an Athlon",
+      "score": 3,
+      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+      "time": "2026-08-23T05:51:01"
     },
     {
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "score": 292,
-      "url": "https://quantumi.sh/public/labs.html",
-      "time": "2026-08-22T14:54:07"
+      "title": "The Art and Beauty of Blade Runner",
+      "score": 49,
+      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "time": "2026-08-23T00:56:03"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247639,
+      "stars": 247669,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 242173,
+      "stars": 242253,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -71,17 +71,17 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157957,
+      "stars": 157962,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148131,
+      "stars": 148132,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-23T00:38:10.766935+00:00"
+  "last_updated": "2026-08-23T06:21:12.975927+00:00"
 }
