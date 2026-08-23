@@ -7,75 +7,81 @@
     "url": "https://player.vimeo.com/video/11386048#t=0m58s?color=8BA0FF&portrait=0",
     "media_type": "video"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "42.08\u00b0N",
+    "longitude": "125.18\u00b0E",
+    "timestamp": "2026-08-23T18:13:20+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "The End of an Athlon",
-      "score": 122,
-      "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "time": "2026-08-23T05:51:01"
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "score": 299,
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "time": "2026-08-23T14:23:09"
     },
     {
-      "title": "To become a better writer, read as much as you can",
-      "score": 219,
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "time": "2026-08-23T03:32:25"
+      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models \u2013 for 1/5 the cost",
+      "score": 163,
+      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+      "time": "2026-08-23T16:24:21"
     },
     {
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "score": 13,
-      "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
-      "time": "2026-08-23T10:14:48"
+      "title": "How Complex Systems Fail (1998)",
+      "score": 106,
+      "url": "https://how.complexsystems.fail/",
+      "time": "2026-08-23T15:13:31"
     },
     {
-      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-      "score": 14,
-      "url": "https://skylens.yantraai.app/",
-      "time": "2026-08-23T09:27:40"
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "score": 160,
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "time": "2026-08-23T13:05:38"
     },
     {
-      "title": "JIT Compiling Code in 5\u03bcs",
-      "score": 85,
-      "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-      "time": "2026-08-23T06:04:51"
+      "title": "A website for debloated open source alternatives",
+      "score": 40,
+      "url": "https://debloat.dev/",
+      "time": "2026-08-23T16:54:10"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247673,
+      "stars": 247676,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 242362,
+      "stars": 242450,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196537,
+      "stars": 196540,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157972,
+      "stars": 157974,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148131,
+      "stars": 148129,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-23T12:17:01.916772+00:00"
+  "last_updated": "2026-08-23T18:13:20.391465+00:00"
 }
