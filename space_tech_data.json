@@ -4,67 +4,67 @@
     "title": "Cassini Approaches Saturn",
     "date": "2026-08-23",
     "explanation": "What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have been digitally tweaked,...",
-    "url": "https://player.vimeo.com/video/11386048#t=0m58s?color=8BA0FF&portrait=0",
+    "url": "https://www.youtube.com/embed/UgxWkOXcdZU?si=GOlnR_CQR3sDtl-j",
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "42.08\u00b0N",
-    "longitude": "125.18\u00b0E",
-    "timestamp": "2026-08-23T18:13:20+00:00",
+    "latitude": "48.32\u00b0N",
+    "longitude": "99.14\u00b0E",
+    "timestamp": "2026-08-24T00:37:09+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "score": 299,
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
-      "time": "2026-08-23T14:23:09"
+      "title": "Everything I own, owned",
+      "score": 176,
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "time": "2026-08-23T22:41:04"
     },
     {
-      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models \u2013 for 1/5 the cost",
-      "score": 163,
-      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
-      "time": "2026-08-23T16:24:21"
+      "title": "How I find problems to solve as a staff engineer",
+      "score": 244,
+      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "time": "2026-08-23T19:23:29"
     },
     {
-      "title": "How Complex Systems Fail (1998)",
-      "score": 106,
-      "url": "https://how.complexsystems.fail/",
-      "time": "2026-08-23T15:13:31"
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "score": 164,
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "time": "2026-08-23T18:16:37"
     },
     {
-      "title": "Malware infects Android-based automotive head unit firmware",
-      "score": 160,
-      "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "time": "2026-08-23T13:05:38"
+      "title": "AI Chip Architectures",
+      "score": 27,
+      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "time": "2026-08-23T02:25:10"
     },
     {
-      "title": "A website for debloated open source alternatives",
-      "score": 40,
-      "url": "https://debloat.dev/",
-      "time": "2026-08-23T16:54:10"
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "score": 154,
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "time": "2026-08-23T19:29:32"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247676,
+      "stars": 247683,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 242450,
+      "stars": 242553,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196540,
+      "stars": 196542,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
@@ -78,10 +78,10 @@
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148129,
+      "stars": 148130,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-23T18:13:20.391465+00:00"
+  "last_updated": "2026-08-24T00:37:08.522868+00:00"
 }
