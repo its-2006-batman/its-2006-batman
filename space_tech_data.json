@@ -8,44 +8,44 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "23.96\u00b0S",
-    "longitude": "141.76\u00b0E",
-    "timestamp": "2026-08-24T12:23:52+00:00",
+    "latitude": "50.25\u00b0S",
+    "longitude": "1.13\u00b0W",
+    "timestamp": "2026-08-24T18:22:49+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "SeL4 security proofs now complete on AArch64",
-      "score": 17,
-      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-      "time": "2026-08-24T11:32:51"
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "score": 410,
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "time": "2026-08-24T15:08:17"
     },
     {
-      "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "score": 228,
-      "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "time": "2026-08-23T20:38:09"
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "score": 246,
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "time": "2026-08-24T15:28:04"
     },
     {
-      "title": "Everything I own, owned",
-      "score": 1056,
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "time": "2026-08-23T22:41:04"
+      "title": "IPFS Maintainers Winding Down",
+      "score": 158,
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "time": "2026-08-24T15:48:45"
     },
     {
-      "title": "Omacom Foundation funding hits $10M",
-      "score": 28,
-      "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
-      "time": "2026-08-24T11:04:42"
+      "title": "The entire city of San Francisco as a video game",
+      "score": 61,
+      "url": "https://sf.thijs.gg/",
+      "time": "2026-08-24T17:05:38"
     },
     {
-      "title": "Omakase Computing",
-      "score": 15,
-      "url": "https://learn.omacom.io/3/omacom/76/omakase-computing",
-      "time": "2026-08-24T11:13:53"
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "score": 717,
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "time": "2026-08-24T13:05:25"
     }
   ],
   "github_trending": [],
-  "last_updated": "2026-08-24T12:23:52.218914+00:00"
+  "last_updated": "2026-08-24T18:22:41.151700+00:00"
 }
