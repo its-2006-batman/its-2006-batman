@@ -8,80 +8,44 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "38.14\u00b0N",
-    "longitude": "70.27\u00b0W",
-    "timestamp": "2026-08-24T06:34:04+00:00",
+    "latitude": "23.96\u00b0S",
+    "longitude": "141.76\u00b0E",
+    "timestamp": "2026-08-24T12:23:52+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "SeL4 security proofs now complete on AArch64",
+      "score": 17,
+      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+      "time": "2026-08-24T11:32:51"
+    },
+    {
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "score": 228,
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "time": "2026-08-23T20:38:09"
+    },
+    {
       "title": "Everything I own, owned",
-      "score": 602,
+      "score": 1056,
       "url": "https://schlarp.com/posts/everything-i-own-owned/",
       "time": "2026-08-23T22:41:04"
     },
     {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "score": 415,
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "time": "2026-08-23T18:16:37"
+      "title": "Omacom Foundation funding hits $10M",
+      "score": 28,
+      "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
+      "time": "2026-08-24T11:04:42"
     },
     {
-      "title": "How I find problems to solve as a staff engineer",
-      "score": 370,
-      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "time": "2026-08-23T19:23:29"
-    },
-    {
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "score": 275,
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "time": "2026-08-23T17:59:52"
-    },
-    {
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "score": 256,
-      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "time": "2026-08-23T19:29:32"
+      "title": "Omakase Computing",
+      "score": 15,
+      "url": "https://learn.omacom.io/3/omacom/76/omakase-computing",
+      "time": "2026-08-24T11:13:53"
     }
   ],
-  "github_trending": [
-    {
-      "name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 247683,
-      "language": "JavaScript",
-      "url": "https://github.com/react/react"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 242671,
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196548,
-      "language": "JavaScript",
-      "url": "https://github.com/trekhleb/javascript-algorithms"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 157986,
-      "language": "JavaScript",
-      "url": "https://github.com/Snailclimb/JavaGuide"
-    },
-    {
-      "name": "airbnb/javascript",
-      "description": "JavaScript Style Guide",
-      "stars": 148132,
-      "language": "JavaScript",
-      "url": "https://github.com/airbnb/javascript"
-    }
-  ],
-  "last_updated": "2026-08-24T06:34:04.286802+00:00"
+  "github_trending": [],
+  "last_updated": "2026-08-24T12:23:52.218914+00:00"
 }
