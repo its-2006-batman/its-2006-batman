@@ -1,71 +1,71 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
-  "iss_position": {
-    "latitude": "16.67\u00b0N",
-    "longitude": "37.54\u00b0W",
-    "timestamp": "2026-08-25T12:24:49+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
+  "nasa_apod": {
+    "title": "Earth's Shadow Visualized with Lunar Eclipses",
+    "date": "2026-08-25",
+    "explanation": "What\u2019s creating this giant hole in space? This is not a black hole \u2014 it\u2019s a shadow.  It\u2019s Earth\u2019s shadow.  Since at least the time of Aristotle, people have noted that Earth's dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle.  Using modern digital t...",
+    "url": "https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg",
+    "media_type": "image"
   },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
-      "score": 66,
-      "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-      "time": "2026-08-25T11:37:24"
+      "title": "Apple introduces M6 and M5 Ultra",
+      "score": 664,
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "time": "2026-08-25T13:01:22"
     },
     {
-      "title": "Quantum battery upends the rules of charging",
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "score": 544,
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "time": "2026-08-25T13:03:17"
+    },
+    {
+      "title": "Nitter project received cease and desist",
+      "score": 168,
+      "url": "https://github.com/zedeus/nitter/issues/1442",
+      "time": "2026-08-25T17:08:21"
+    },
+    {
+      "title": "Black hole singularity is a surface not a point",
       "score": 38,
-      "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-      "time": "2026-08-25T10:34:12"
+      "url": "https://arxiv.org/abs/2608.21590",
+      "time": "2026-08-25T17:02:49"
     },
     {
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "score": 506,
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "time": "2026-08-24T22:13:40"
-    },
-    {
-      "title": "HelloAssembly The smallest possible complete Windows application",
-      "score": 4,
-      "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
-      "time": "2026-08-25T11:40:00"
-    },
-    {
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "score": 750,
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "time": "2026-08-24T15:28:04"
+      "title": "My Friend Aaron",
+      "score": 73,
+      "url": "https://rorz.io/writing/my-friend-aaron",
+      "time": "2026-08-25T16:53:33"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247886,
+      "stars": 247894,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 243047,
+      "stars": 243129,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196550,
+      "stars": 196556,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158015,
+      "stars": 158027,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-25T12:24:37.438783+00:00"
+  "last_updated": "2026-08-25T18:22:06.480766+00:00"
 }

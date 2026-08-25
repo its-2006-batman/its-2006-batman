@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  16.67°N                                       ║
-║  📍 LONGITUDE: 37.54°W                                       ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-08-25 12:24 UTC                   ║
+║  📍 LATITUDE:  N/A                                           ║
+║  📍 LONGITUDE: N/A                                           ║
+║  ⚡ VELOCITY:  N/A                                           ║
+║  🌍 ALTITUDE:  N/A                                           ║
+║  ⏰ UPDATE: 2026-08-25 18:22 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: Earth's Shadow Visualized with Lunar Eclipses            ║
+║  DATE:  2026-08-25                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Credit Card Rewards Became a $9.2B Wealth Transfer** (66 ⭐)
-2. **Quantum battery upends the rules of charging** (38 ⭐)
-3. **iCloud+ Hide My Email addresses will remain on icloud.com** (506 ⭐)
+1. **Apple introduces M6 and M5 Ultra** (664 ⭐)
+2. **New Mac Studio with M5 Max and M5 Ultra** (544 ⭐)
+3. **Nitter project received cease and desist** (168 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (247886★)
-2. **affaan-m/ECC** (243047★)
-3. **trekhleb/javascript-algorithms** (196550★)
+1. **react/react** (247894★)
+2. **affaan-m/ECC** (243129★)
+3. **trekhleb/javascript-algorithms** (196556★)
 <!-- LIVE_DATA_END -->
