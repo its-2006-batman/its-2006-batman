@@ -1,87 +1,51 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Comet 220P in Outburst",
-    "date": "2026-08-24",
-    "explanation": "Comet 220P is unexpectedly bright. Normally, periodic Comet 220P/McNaught is so dim that to see it requires a telescope. Two surprising outbursts this year, however, have made it about 20,000 times brighter than usual, so that it is now visible with binoculars and long-duration camera exposures. As ...",
-    "url": "https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg",
+    "title": "Earth's Shadow Visualized with Lunar Eclipses",
+    "date": "2026-08-25",
+    "explanation": "What\u2019s creating this giant hole in space? This is not a black hole \u2014 it\u2019s a shadow.  It\u2019s Earth\u2019s shadow.  Since at least the time of Aristotle, people have noted that Earth's dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle.  Using modern digital t...",
+    "url": "https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "46.98\u00b0S",
-    "longitude": "81.93\u00b0W",
-    "timestamp": "2026-08-25T00:36:36+00:00",
+    "latitude": "20.74\u00b0S",
+    "longitude": "84.82\u00b0E",
+    "timestamp": "2026-08-25T06:26:03+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "score": 176,
+      "score": 376,
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "time": "2026-08-24T22:13:40"
     },
     {
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "score": 709,
+      "score": 805,
       "url": "https://twitter.com/lemire/status/2091894299289874926",
       "time": "2026-08-24T15:08:17"
     },
     {
-      "title": "Moon (2024)",
-      "score": 79,
-      "url": "https://ciechanow.ski/moon/",
-      "time": "2026-08-24T22:06:02"
-    },
-    {
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "score": 535,
+      "score": 650,
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
       "time": "2026-08-24T15:28:04"
     },
     {
-      "title": "The entire city of San Francisco as a video game",
-      "score": 321,
-      "url": "https://sf.thijs.gg/",
-      "time": "2026-08-24T17:05:38"
+      "title": "Nostr is an inclusive communication commons",
+      "score": 82,
+      "url": "https://nostr.org/",
+      "time": "2026-08-22T13:49:01"
+    },
+    {
+      "title": "How Universities Should Prepare Founders",
+      "score": 78,
+      "url": "https://paulgraham.com/prepare.html",
+      "time": "2026-08-25T01:40:39"
     }
   ],
-  "github_trending": [
-    {
-      "name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 247856,
-      "language": "JavaScript",
-      "url": "https://github.com/react/react"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 242928,
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196547,
-      "language": "JavaScript",
-      "url": "https://github.com/trekhleb/javascript-algorithms"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158001,
-      "language": "JavaScript",
-      "url": "https://github.com/Snailclimb/JavaGuide"
-    },
-    {
-      "name": "airbnb/javascript",
-      "description": "JavaScript Style Guide",
-      "stars": 148132,
-      "language": "JavaScript",
-      "url": "https://github.com/airbnb/javascript"
-    }
-  ],
-  "last_updated": "2026-08-25T00:36:36.266143+00:00"
+  "github_trending": [],
+  "last_updated": "2026-08-25T06:25:54.454761+00:00"
 }
