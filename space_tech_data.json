@@ -8,70 +8,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "29.38\u00b0N",
-    "longitude": "92.52\u00b0W",
-    "timestamp": "2026-08-26T06:27:42+00:00",
+    "latitude": "6.85\u00b0S",
+    "longitude": "144.31\u00b0E",
+    "timestamp": "2026-08-26T12:26:41+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Apple introduces M6 and M5 Ultra",
-      "score": 1064,
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "time": "2026-08-25T13:01:22"
+      "title": "Omarchy is full of security holes",
+      "score": 48,
+      "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+      "time": "2026-08-26T12:17:43"
     },
     {
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "score": 347,
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "time": "2026-08-25T19:07:01"
+      "title": "RAG Is Simpler Than You Think",
+      "score": 150,
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "time": "2026-08-26T08:39:17"
     },
     {
-      "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
-      "score": 414,
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "time": "2026-08-25T14:06:02"
+      "title": "Oldinsurancemaps.net is now a Charter Project",
+      "score": 88,
+      "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+      "time": "2026-08-26T08:57:46"
     },
     {
-      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
-      "score": 10,
-      "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-      "time": "2026-08-26T05:49:20"
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "score": 174,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "time": "2026-08-26T10:04:55"
     },
     {
-      "title": "Queryable Executables",
-      "score": 97,
-      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "time": "2026-08-26T00:20:49"
+      "title": "Value Classes Still Need Compiler Sympathy",
+      "score": 45,
+      "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+      "time": "2026-08-26T08:59:15"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247905,
+      "stars": 247898,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 243268,
+      "stars": 243340,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196559,
+      "stars": 196558,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158041,
+      "stars": 158043,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-26T06:27:37.441920+00:00"
+  "last_updated": "2026-08-26T12:26:38.462735+00:00"
 }
