@@ -1,51 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "JWST Images The Lion's Head Nebula",
-    "date": "2026-08-26",
-    "explanation": "Are we looking at the future of our Sun? The James Webb Space Telescope captured today\u2019s composite image of the Lion\u2019s Head Nebula (NGC 2392) with its NIRCam and MIRI instruments. The Lion\u2019s Head Nebula is the remnant of a Sun-like star. This star was unable to sustain the nuclear fusion in its core...",
-    "url": "https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg",
+    "title": "Colorful Aurora over Icelandic Waterfall",
+    "date": "2026-08-27",
+    "explanation": "What a sight to behold, when a night sky became filled with colors that appeared to rain over the Sk\u00f3gafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But it is not easy.   It ...",
+    "url": "https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "8.45\u00b0S",
-    "longitude": "130.86\u00b0W",
-    "timestamp": "2026-08-26T19:29:16+00:00",
+    "latitude": "19.69\u00b0N",
+    "longitude": "95.43\u00b0W",
+    "timestamp": "2026-08-27T05:36:22+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "score": 657,
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "time": "2026-08-27T01:12:55"
+    },
+    {
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "score": 295,
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "time": "2026-08-27T01:46:22"
+    },
+    {
+      "title": "Mechanical Turk shutting down September 30",
+      "score": 244,
+      "url": "https://www.mturk.com/",
+      "time": "2026-08-26T23:55:44"
+    },
+    {
       "title": "GLM-5.3-Flash",
-      "score": 642,
+      "score": 953,
       "url": "https://z.ai/blog/glm-5.3-flash",
       "time": "2026-08-26T14:08:50"
     },
     {
-      "title": "Tailcat",
-      "score": 162,
-      "url": "https://github.com/tailscale/tailcat",
-      "time": "2026-08-26T17:42:22"
-    },
-    {
-      "title": "An ongoing 3D-printer AGPL violation",
-      "score": 125,
-      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-      "time": "2026-08-26T17:41:40"
-    },
-    {
-      "title": "AWS Acquires DuckLabs",
-      "score": 825,
-      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-      "time": "2026-08-26T12:59:26"
-    },
-    {
-      "title": "Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]",
-      "score": 92,
-      "url": "https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf",
-      "time": "2026-08-26T18:20:09"
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "score": 172,
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "time": "2026-08-26T22:35:02"
     }
   ],
-  "github_trending": [],
-  "last_updated": "2026-08-26T19:29:07.357541+00:00"
+  "github_trending": [
+    {
+      "name": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 247911,
+      "language": "JavaScript",
+      "url": "https://github.com/react/react"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 243566,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196567,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 158053,
+      "language": "JavaScript",
+      "url": "https://github.com/Snailclimb/JavaGuide"
+    },
+    {
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148136,
+      "language": "JavaScript",
+      "url": "https://github.com/airbnb/javascript"
+    }
+  ],
+  "last_updated": "2026-08-27T05:36:22.246856+00:00"
 }
