@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "19.69\u00b0N",
-    "longitude": "95.43\u00b0W",
-    "timestamp": "2026-08-27T05:36:22+00:00",
+    "latitude": "11.50\u00b0N",
+    "longitude": "115.41\u00b0W",
+    "timestamp": "2026-08-27T17:01:58+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "507 Mechanical Movements",
+      "score": 220,
+      "url": "https://507movements.com/",
+      "time": "2026-08-27T14:08:18"
+    },
+    {
+      "title": "Small Models Have Arrived",
+      "score": 53,
+      "url": "https://calv.info/small-models-have-arrived",
+      "time": "2026-08-27T15:56:58"
+    },
+    {
       "title": "Nvidia agrees to acquire Hugging Face for $13B",
-      "score": 657,
+      "score": 1691,
       "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
       "time": "2026-08-27T01:12:55"
     },
     {
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "score": 295,
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "time": "2026-08-27T01:46:22"
+      "title": "Microduck",
+      "score": 290,
+      "url": "https://pollen-robotics.com/microduck/",
+      "time": "2026-08-27T10:57:56"
     },
     {
-      "title": "Mechanical Turk shutting down September 30",
-      "score": 244,
-      "url": "https://www.mturk.com/",
-      "time": "2026-08-26T23:55:44"
-    },
-    {
-      "title": "GLM-5.3-Flash",
-      "score": 953,
-      "url": "https://z.ai/blog/glm-5.3-flash",
-      "time": "2026-08-26T14:08:50"
-    },
-    {
-      "title": "Asahi Linux Progress Report: Linux 7.2",
-      "score": 172,
-      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
-      "time": "2026-08-26T22:35:02"
+      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "score": 94,
+      "url": "https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31",
+      "time": "2026-08-27T13:22:36"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247911,
+      "stars": 247983,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 243566,
+      "stars": 243693,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196567,
+      "stars": 196570,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158053,
+      "stars": 158073,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148136,
+      "stars": 148140,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-27T05:36:22.246856+00:00"
+  "last_updated": "2026-08-27T17:01:53.621236+00:00"
 }
