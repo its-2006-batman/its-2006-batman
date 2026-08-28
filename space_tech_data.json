@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "The Sky Turns Above Paranal",
+    "date": "2026-08-28",
+    "explanation": "At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the ...",
+    "url": "https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "10.50\u00b0S",
-    "longitude": "40.82\u00b0W",
-    "timestamp": "2026-08-28T00:00:01+00:00",
+    "latitude": "0.11\u00b0S",
+    "longitude": "124.38\u00b0W",
+    "timestamp": "2026-08-28T17:50:41+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "score": 520,
-      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-      "time": "2026-08-27T17:17:57"
+      "title": "Get your Windows license refund",
+      "score": 409,
+      "url": "https://en.refund4freedom.org/",
+      "time": "2026-08-28T13:42:40"
     },
     {
-      "title": "Small Models Have Arrived",
-      "score": 468,
-      "url": "https://calv.info/small-models-have-arrived",
-      "time": "2026-08-27T15:56:58"
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "score": 86,
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "time": "2026-08-28T15:58:46"
     },
     {
-      "title": "507 Mechanical Movements",
-      "score": 468,
-      "url": "https://507movements.com/",
-      "time": "2026-08-27T14:08:18"
+      "title": "GUIs should be fully keyboard-driven",
+      "score": 105,
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "time": "2026-08-28T15:17:09"
     },
     {
-      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "score": 24,
-      "url": "https://www.terminal-bench-science.ai/announcement",
-      "time": "2026-08-28T00:06:51"
+      "title": "U.S. sanctions against the A/I Collective",
+      "score": 244,
+      "url": "https://www.inventati.org/",
+      "time": "2026-08-28T12:58:53"
     },
     {
-      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-      "score": 66,
-      "url": "https://github.com/elyosh/OpenTIE/",
-      "time": "2026-08-27T22:10:47"
+      "title": "Inception-style curved map for turn-by-turn directions",
+      "score": 255,
+      "url": "https://www.orbify.eu/demo/",
+      "time": "2026-08-28T12:29:05"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 247988,
+      "stars": 248008,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 243768,
+      "stars": 243923,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196570,
+      "stars": 196576,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158076,
+      "stars": 158103,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148141,
+      "stars": 148144,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-28T01:52:26.256917+00:00"
+  "last_updated": "2026-08-28T17:50:38.530430+00:00"
 }
