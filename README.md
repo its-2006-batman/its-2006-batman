@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  45.77°N                                       ║
-║  📍 LONGITUDE: 165.55°W                                      ║
+║  📍 LATITUDE:  51.51°S                                       ║
+║  📍 LONGITUDE: 5.76°W                                        ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-08-29 11:55 UTC                   ║
+║  ⏰ UPDATE: 2026-08-29 15:53 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Iceland votes on whether to restart talks on joining EU** (19 ⭐)
-2. **Samsung's Processing-in-Memory (PIM)** (129 ⭐)
-3. **Europe's last regular standard-gauge steam passenger service** (57 ⭐)
+1. **Debian votes to allow "responsible use of generative AI"** (205 ⭐)
+2. **Indirect Calling of Nested Functions on GCC Without Executab...** (19 ⭐)
+3. **Show HN: Typebase – A single-folder back end you write in Ty...** (33 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (248024★)
-2. **affaan-m/ECC** (244062★)
-3. **trekhleb/javascript-algorithms** (196580★)
+1. **react/react** (248034★)
+2. **affaan-m/ECC** (244105★)
+3. **trekhleb/javascript-algorithms** (196584★)
 <!-- LIVE_DATA_END -->

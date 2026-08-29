@@ -8,70 +8,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "45.77\u00b0N",
-    "longitude": "165.55\u00b0W",
-    "timestamp": "2026-08-29T11:55:00+00:00",
+    "latitude": "51.51\u00b0S",
+    "longitude": "5.76\u00b0W",
+    "timestamp": "2026-08-29T15:53:58+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Iceland votes on whether to restart talks on joining EU",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "score": 205,
+      "url": "https://lwn.net/Articles/1091231/",
+      "time": "2026-08-29T14:02:10"
+    },
+    {
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
       "score": 19,
-      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
-      "time": "2026-08-29T11:39:38"
+      "url": "https://uecker.codeberg.page/2026-08-29.html",
+      "time": "2026-08-29T14:20:33"
     },
     {
-      "title": "Samsung's Processing-in-Memory (PIM)",
-      "score": 129,
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
-      "time": "2026-08-29T06:06:51"
+      "title": "Show HN: Typebase \u2013 A single-folder back end you write in TypeScript",
+      "score": 33,
+      "url": "https://typebase.io",
+      "time": "2026-08-26T11:33:31"
     },
     {
-      "title": "Europe's last regular standard-gauge steam passenger service",
-      "score": 57,
-      "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
-      "time": "2026-08-26T22:32:00"
+      "title": "SQLite as a Document Database (2020)",
+      "score": 16,
+      "url": "https://dgl.cx/2020/06/sqlite-json-support",
+      "time": "2026-08-24T23:00:10"
     },
     {
-      "title": "GUIs should be fully keyboard-driven",
-      "score": 849,
-      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-      "time": "2026-08-28T15:17:09"
-    },
-    {
-      "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-      "score": 35,
-      "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
-      "time": "2026-08-26T15:22:48"
+      "title": "Creating the Aetheryte Radio",
+      "score": 29,
+      "url": "https://haz.ee/posts/aetheryte-radio.html",
+      "time": "2026-08-28T14:59:15"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 248024,
+      "stars": 248034,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 244062,
+      "stars": 244105,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196580,
+      "stars": 196584,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158110,
+      "stars": 158118,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-29T11:55:00.285120+00:00"
+  "last_updated": "2026-08-29T15:53:57.544844+00:00"
 }
