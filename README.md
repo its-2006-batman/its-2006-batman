@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  47.81°N                                       ║
-║  📍 LONGITUDE: 61.35°E                                       ║
+║  📍 LATITUDE:  45.77°N                                       ║
+║  📍 LONGITUDE: 165.55°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-08-29 01:16 UTC                   ║
+║  ⏰ UPDATE: 2026-08-29 11:55 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: The Sky Turns Above Paranal                              ║
-║  DATE:  2026-08-28                                                ║
+║  TITLE: Eclipse Pair                                             ║
+║  DATE:  2026-08-29                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Does the Sumerian King List Align with Paleoclimate Events?** (36 ⭐)
-2. **GUIs should be fully keyboard-driven** (603 ⭐)
-3. **Boot a Virtual iPhone via Apple's Virtualization.framework** (46 ⭐)
+1. **Iceland votes on whether to restart talks on joining EU** (19 ⭐)
+2. **Samsung's Processing-in-Memory (PIM)** (129 ⭐)
+3. **Europe's last regular standard-gauge steam passenger service** (57 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (248011★)
-2. **affaan-m/ECC** (243969★)
-3. **trekhleb/javascript-algorithms** (196576★)
+1. **react/react** (248024★)
+2. **affaan-m/ECC** (244062★)
+3. **trekhleb/javascript-algorithms** (196580★)
 <!-- LIVE_DATA_END -->

@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "The Sky Turns Above Paranal",
-    "date": "2026-08-28",
-    "explanation": "At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the ...",
-    "url": "https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg",
+    "title": "Eclipse Pair",
+    "date": "2026-08-29",
+    "explanation": "clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and f...",
+    "url": "https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "47.81\u00b0N",
-    "longitude": "61.35\u00b0E",
-    "timestamp": "2026-08-29T01:16:25+00:00",
+    "latitude": "45.77\u00b0N",
+    "longitude": "165.55\u00b0W",
+    "timestamp": "2026-08-29T11:55:00+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-      "score": 36,
-      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-      "time": "2026-08-28T23:46:10"
+      "title": "Iceland votes on whether to restart talks on joining EU",
+      "score": 19,
+      "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+      "time": "2026-08-29T11:39:38"
+    },
+    {
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "score": 129,
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "time": "2026-08-29T06:06:51"
+    },
+    {
+      "title": "Europe's last regular standard-gauge steam passenger service",
+      "score": 57,
+      "url": "https://parowozowniawolsztyn.pl/?page_id=2141",
+      "time": "2026-08-26T22:32:00"
     },
     {
       "title": "GUIs should be fully keyboard-driven",
-      "score": 603,
+      "score": 849,
       "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
       "time": "2026-08-28T15:17:09"
     },
     {
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "score": 46,
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "time": "2026-08-28T23:02:21"
-    },
-    {
-      "title": "Htmx 4.0",
-      "score": 523,
-      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-      "time": "2026-08-28T13:28:56"
-    },
-    {
-      "title": "U.S. sanctions against the A/I Collective",
-      "score": 476,
-      "url": "https://www.inventati.org/",
-      "time": "2026-08-28T12:58:53"
+      "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
+      "score": 35,
+      "url": "https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/",
+      "time": "2026-08-26T15:22:48"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 248011,
+      "stars": 248024,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 243969,
+      "stars": 244062,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196576,
+      "stars": 196580,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158102,
+      "stars": 158110,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148144,
+      "stars": 148143,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-29T01:16:24.895439+00:00"
+  "last_updated": "2026-08-29T11:55:00.285120+00:00"
 }
