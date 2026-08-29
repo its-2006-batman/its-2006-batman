@@ -8,56 +8,56 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "0.11\u00b0S",
-    "longitude": "124.38\u00b0W",
-    "timestamp": "2026-08-28T17:50:41+00:00",
+    "latitude": "47.81\u00b0N",
+    "longitude": "61.35\u00b0E",
+    "timestamp": "2026-08-29T01:16:25+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Get your Windows license refund",
-      "score": 409,
-      "url": "https://en.refund4freedom.org/",
-      "time": "2026-08-28T13:42:40"
-    },
-    {
-      "title": "Just the rumour of a bug is enough to find an exploit these days",
-      "score": 86,
-      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-      "time": "2026-08-28T15:58:46"
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "score": 36,
+      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "time": "2026-08-28T23:46:10"
     },
     {
       "title": "GUIs should be fully keyboard-driven",
-      "score": 105,
+      "score": 603,
       "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
       "time": "2026-08-28T15:17:09"
     },
     {
-      "title": "U.S. sanctions against the A/I Collective",
-      "score": 244,
-      "url": "https://www.inventati.org/",
-      "time": "2026-08-28T12:58:53"
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "score": 46,
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "time": "2026-08-28T23:02:21"
     },
     {
-      "title": "Inception-style curved map for turn-by-turn directions",
-      "score": 255,
-      "url": "https://www.orbify.eu/demo/",
-      "time": "2026-08-28T12:29:05"
+      "title": "Htmx 4.0",
+      "score": 523,
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "time": "2026-08-28T13:28:56"
+    },
+    {
+      "title": "U.S. sanctions against the A/I Collective",
+      "score": 476,
+      "url": "https://www.inventati.org/",
+      "time": "2026-08-28T12:58:53"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 248008,
+      "stars": 248011,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 243923,
+      "stars": 243969,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -71,7 +71,7 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158103,
+      "stars": 158102,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-28T17:50:38.530430+00:00"
+  "last_updated": "2026-08-29T01:16:24.895439+00:00"
 }
