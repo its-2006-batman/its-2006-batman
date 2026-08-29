@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.51\u00b0S",
-    "longitude": "5.76\u00b0W",
-    "timestamp": "2026-08-29T15:53:58+00:00",
+    "latitude": "2.06\u00b0N",
+    "longitude": "166.85\u00b0W",
+    "timestamp": "2026-08-29T20:07:39+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "score": 205,
-      "url": "https://lwn.net/Articles/1091231/",
-      "time": "2026-08-29T14:02:10"
+      "title": "The Internet Is Kind of a Predatory Cesspit Now",
+      "score": 222,
+      "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
+      "time": "2026-08-29T18:40:56"
     },
     {
-      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-      "score": 19,
-      "url": "https://uecker.codeberg.page/2026-08-29.html",
-      "time": "2026-08-29T14:20:33"
+      "title": "Warp builds self-improving agents on Claude",
+      "score": 30,
+      "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "time": "2026-08-29T19:09:33"
     },
     {
-      "title": "Show HN: Typebase \u2013 A single-folder back end you write in TypeScript",
-      "score": 33,
-      "url": "https://typebase.io",
-      "time": "2026-08-26T11:33:31"
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "score": 179,
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "time": "2026-08-24T05:09:23"
     },
     {
-      "title": "SQLite as a Document Database (2020)",
-      "score": 16,
-      "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "time": "2026-08-24T23:00:10"
+      "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+      "score": 9,
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "time": "2026-08-29T19:33:23"
     },
     {
-      "title": "Creating the Aetheryte Radio",
-      "score": 29,
-      "url": "https://haz.ee/posts/aetheryte-radio.html",
-      "time": "2026-08-28T14:59:15"
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "score": 39,
+      "url": "https://tucker.wales/writing/bias-towards-action/",
+      "time": "2026-08-29T17:39:18"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 248034,
+      "stars": 248318,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 244105,
+      "stars": 244151,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196584,
+      "stars": 196585,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158118,
+      "stars": 158122,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148143,
+      "stars": 148145,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-29T15:53:57.544844+00:00"
+  "last_updated": "2026-08-29T20:07:38.004232+00:00"
 }
