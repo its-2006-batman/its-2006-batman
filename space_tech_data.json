@@ -7,75 +7,81 @@
     "url": "https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "33.83\u00b0N",
+    "longitude": "108.89\u00b0E",
+    "timestamp": "2026-08-30T15:40:07+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "score": 57,
-      "url": "https://arxiv.org/abs/1804.07389",
-      "time": "2026-08-30T08:23:26"
+      "title": "Creepy Crawlies",
+      "score": 141,
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "time": "2026-08-29T17:49:01"
     },
     {
-      "title": "Spark: Sparklines in your shell",
-      "score": 13,
-      "url": "https://git.zx2c4.com/spark/about/",
-      "time": "2026-08-30T10:02:16"
+      "title": "No AI Fridays",
+      "score": 144,
+      "url": "https://noaifridays.com/",
+      "time": "2026-08-30T12:31:05"
+    },
+    {
+      "title": "Hacking IKEA Furniture",
+      "score": 117,
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "time": "2026-08-30T11:39:43"
+    },
+    {
+      "title": "Casey Muratori \u2013 The Root of the Root of All Evil \u2013 BSC 2026 [video]",
+      "score": 160,
+      "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+      "time": "2026-08-27T12:40:43"
     },
     {
       "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-      "score": 32,
+      "score": 135,
       "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
       "time": "2026-08-30T08:51:39"
-    },
-    {
-      "title": "Brits would quite like their private messages to stay private",
-      "score": 69,
-      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-      "time": "2026-08-30T09:26:08"
-    },
-    {
-      "title": "Everyone Should Build Their Own Network Stack",
-      "score": 8,
-      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
-      "time": "2026-08-30T09:52:15"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 248326,
+      "stars": 248327,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 244460,
+      "stars": 244543,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196581,
+      "stars": 196578,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158129,
+      "stars": 158131,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148144,
+      "stars": 148138,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-30T10:52:08.895340+00:00"
+  "last_updated": "2026-08-30T15:40:05.292818+00:00"
 }
