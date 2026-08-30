@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  14.37°N                                       ║
-║  📍 LONGITUDE: 89.77°E                                       ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-08-30 02:14 UTC                   ║
+║  📍 LATITUDE:  N/A                                           ║
+║  📍 LONGITUDE: N/A                                           ║
+║  ⚡ VELOCITY:  N/A                                           ║
+║  🌍 ALTITUDE:  N/A                                           ║
+║  ⏰ UPDATE: 2026-08-30 10:52 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: Eclipse Pair                                             ║
-║  DATE:  2026-08-29                                                ║
+║  TITLE: M74: A Grand Design Spiral                               ║
+║  DATE:  2026-08-30                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Bug Blindness** (53 ⭐)
-2. **FreeCORE TrueNAS Core – Continued** (22 ⭐)
-3. **Hy4 preview** (201 ⭐)
+1. **Longest Straight Line Paths on Water or Land on the Earth (2...** (57 ⭐)
+2. **Spark: Sparklines in your shell** (13 ⭐)
+3. **Arbitrary code execution in QubesOS via copy-to-VM error rep...** (32 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **react/react** (248320★)
-2. **affaan-m/ECC** (244283★)
-3. **trekhleb/javascript-algorithms** (196580★)
+1. **react/react** (248326★)
+2. **affaan-m/ECC** (244460★)
+3. **trekhleb/javascript-algorithms** (196581★)
 <!-- LIVE_DATA_END -->

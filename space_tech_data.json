@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Eclipse Pair",
-    "date": "2026-08-29",
-    "explanation": "clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and f...",
-    "url": "https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg",
+    "title": "M74: A Grand Design Spiral",
+    "date": "2026-08-30",
+    "explanation": "If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful sp...",
+    "url": "https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "14.37\u00b0N",
-    "longitude": "89.77\u00b0E",
-    "timestamp": "2026-08-30T02:14:47+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Bug Blindness",
-      "score": 53,
-      "url": "https://danluu.com/bug-blind/",
-      "time": "2026-08-30T00:21:40"
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "score": 57,
+      "url": "https://arxiv.org/abs/1804.07389",
+      "time": "2026-08-30T08:23:26"
     },
     {
-      "title": "FreeCORE TrueNAS Core \u2013 Continued",
-      "score": 22,
-      "url": "https://freecore.org/",
-      "time": "2026-08-30T01:31:32"
+      "title": "Spark: Sparklines in your shell",
+      "score": 13,
+      "url": "https://git.zx2c4.com/spark/about/",
+      "time": "2026-08-30T10:02:16"
     },
     {
-      "title": "Hy4 preview",
-      "score": 201,
-      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "time": "2026-08-29T19:33:23"
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "score": 32,
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "time": "2026-08-30T08:51:39"
     },
     {
-      "title": "RISC-V is now officially supported by CPython",
-      "score": 24,
-      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "time": "2026-08-24T20:12:22"
+      "title": "Brits would quite like their private messages to stay private",
+      "score": 69,
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "time": "2026-08-30T09:26:08"
     },
     {
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "score": 368,
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "time": "2026-08-24T05:09:23"
+      "title": "Everyone Should Build Their Own Network Stack",
+      "score": 8,
+      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+      "time": "2026-08-30T09:52:15"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 248320,
+      "stars": 248326,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 244283,
+      "stars": 244460,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196580,
+      "stars": 196581,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158122,
+      "stars": 158129,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148145,
+      "stars": 148144,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-30T02:14:46.824575+00:00"
+  "last_updated": "2026-08-30T10:52:08.895340+00:00"
 }
