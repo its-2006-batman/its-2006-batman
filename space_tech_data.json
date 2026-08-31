@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "M74: A Grand Design Spiral",
-    "date": "2026-08-30",
-    "explanation": "If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful sp...",
-    "url": "https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg",
-    "media_type": "image"
+    "title": "Launch of the Roman Space Telescope",
+    "date": "2026-08-31",
+    "explanation": "A new telescope has been launched into space to study the universe. The Nancy Grace Roman Space Telescope (RST) has the same size main mirror as the Hubble Space Telescope (HST) but sees 100 times more sky during each snapshot.  This is possible because when compared to HST, RST's main mirror is mor...",
+    "url": "https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4",
+    "media_type": "video"
   },
   "iss_position": {
-    "latitude": "23.46\u00b0S",
-    "longitude": "103.42\u00b0W",
-    "timestamp": "2026-08-31T02:10:12+00:00",
+    "latitude": "45.86\u00b0N",
+    "longitude": "108.96\u00b0W",
+    "timestamp": "2026-08-31T12:04:10+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
+      "score": 130,
+      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "time": "2026-08-31T09:59:05"
+    },
+    {
       "title": "\u201cI just chose words carefully\u201d",
-      "score": 295,
+      "score": 880,
       "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
       "time": "2026-08-30T22:49:48"
     },
     {
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "score": 117,
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "time": "2026-08-31T07:49:18"
+    },
+    {
       "title": "Creepy Crawlies",
-      "score": 937,
+      "score": 1228,
       "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
       "time": "2026-08-29T17:49:01"
     },
     {
-      "title": "Understanding ChatGPT Work",
-      "score": 14,
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "time": "2026-08-31T01:28:22"
-    },
-    {
-      "title": "Haiku R1/beta6 has been released",
-      "score": 259,
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "time": "2026-08-30T16:01:10"
-    },
-    {
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "score": 80,
-      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-      "time": "2026-08-30T20:00:25"
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "score": 147,
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "time": "2026-08-31T03:20:33"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 248328,
+      "stars": 248338,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 244739,
+      "stars": 244941,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196580,
+      "stars": 196581,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158134,
+      "stars": 158145,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148138,
+      "stars": 148137,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-08-31T02:10:09.469845+00:00"
+  "last_updated": "2026-08-31T12:04:09.199309+00:00"
 }
