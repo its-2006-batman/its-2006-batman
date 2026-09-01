@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "46.68\u00b0N",
-    "longitude": "121.37\u00b0E",
-    "timestamp": "2026-09-01T15:42:53+00:00",
+    "latitude": "35.41\u00b0N",
+    "longitude": "29.09\u00b0E",
+    "timestamp": "2026-09-01T20:16:01+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "score": 555,
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "time": "2026-09-01T17:53:53"
+    },
+    {
+      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
+      "score": 380,
+      "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
+      "time": "2026-09-01T15:55:53"
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "score": 94,
+      "url": "https://danluu.com/zitron/",
+      "time": "2026-09-01T18:35:15"
+    },
+    {
+      "title": "Launch HN: Nori Robotics (YC S26) \u2013 A low-cost humanoid robot for development",
+      "score": 69,
+      "url": "https://www.norirobotics.com/",
+      "time": "2026-09-01T17:35:10"
+    },
+    {
       "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-      "score": 521,
+      "score": 740,
       "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
       "time": "2026-09-01T10:11:02"
-    },
-    {
-      "title": "Ask HN: Who is hiring? (September 2026)",
-      "score": 34,
-      "url": "https://news.ycombinator.com/item?id=49522897",
-      "time": "2026-09-01T15:01:17"
-    },
-    {
-      "title": "Urban Congestion Pricing and the Response Times of Emergency Medical Services",
-      "score": 36,
-      "url": "https://www.nber.org/digest/202609/urban-congestion-pricing-and-response-times-emergency-medical-services",
-      "time": "2026-09-01T14:28:24"
-    },
-    {
-      "title": "Io_uring Without Readahead",
-      "score": 50,
-      "url": "https://frn.sh/io-uring/",
-      "time": "2026-09-01T13:19:12"
-    },
-    {
-      "title": "44% on ARC-AGI-1 in 67 cents",
-      "score": 237,
-      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-      "time": "2026-09-01T09:52:45"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 248633,
+      "stars": 248638,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 245597,
+      "stars": 245685,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196585,
+      "stars": 196588,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158187,
+      "stars": 158192,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148138,
+      "stars": 148141,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-01T15:42:52.558615+00:00"
+  "last_updated": "2026-09-01T20:15:59.247060+00:00"
 }
