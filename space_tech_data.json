@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Launch of the Roman Space Telescope",
-    "date": "2026-08-31",
-    "explanation": "A new telescope has been launched into space to study the universe. The Nancy Grace Roman Space Telescope (RST) has the same size main mirror as the Hubble Space Telescope (HST) but sees 100 times more sky during each snapshot.  This is possible because when compared to HST, RST's main mirror is mor...",
-    "url": "https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4",
-    "media_type": "video"
+    "title": "A Plane Lunar Eclipse",
+    "date": "2026-09-01",
+    "explanation": "Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see ...",
+    "url": "https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg",
+    "media_type": "image"
   },
   "iss_position": {
-    "latitude": "38.10\u00b0S",
-    "longitude": "124.16\u00b0E",
-    "timestamp": "2026-09-01T02:29:50+00:00",
+    "latitude": "13.96\u00b0S",
+    "longitude": "129.25\u00b0E",
+    "timestamp": "2026-09-01T10:42:19+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "score": 565,
-      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-      "time": "2026-08-31T21:10:58"
+      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+      "score": 24,
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "time": "2026-09-01T10:11:02"
     },
     {
-      "title": "Run macOS Software on Linux",
-      "score": 116,
-      "url": "https://www.darlinghq.org/",
-      "time": "2026-08-31T22:53:45"
+      "title": "GPU World",
+      "score": 253,
+      "url": "https://www.gpuworld.org/",
+      "time": "2026-09-01T03:16:36"
     },
     {
-      "title": "I turned my security cameras into an automatic bird identification system",
-      "score": 369,
-      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-      "time": "2026-08-31T16:47:11"
+      "title": "Fastpotify",
+      "score": 422,
+      "url": "https://fastpotify.rocks/",
+      "time": "2026-09-01T02:52:14"
     },
     {
-      "title": "'Mad honey' that can stop your heart is being sold online",
-      "score": 145,
-      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-      "time": "2026-08-28T09:17:27"
+      "title": "44% on ARC-AGI-1 in 67 cents",
+      "score": 18,
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "time": "2026-09-01T09:52:45"
     },
     {
-      "title": "Playa Phone",
-      "score": 506,
-      "url": "https://playaphone.com/",
-      "time": "2026-08-31T14:52:26"
+      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "score": 55,
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "time": "2026-08-29T21:25:17"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 248355,
+      "stars": 248629,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 245283,
+      "stars": 245487,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196584,
+      "stars": 196585,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158154,
+      "stars": 158181,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148140,
+      "stars": 148138,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-01T02:29:47.099350+00:00"
+  "last_updated": "2026-09-01T10:42:18.511858+00:00"
 }
