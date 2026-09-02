@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "25.67\u00b0N",
-    "longitude": "165.87\u00b0E",
-    "timestamp": "2026-09-02T10:07:36+00:00",
+    "latitude": "25.88\u00b0S",
+    "longitude": "96.46\u00b0W",
+    "timestamp": "2026-09-02T15:32:24+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Commodore 64 released September 1, 1982",
-      "score": 55,
-      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
-      "time": "2026-09-02T08:36:43"
+      "title": "A Note from LWN",
+      "score": 362,
+      "url": "https://lwn.net/Articles/1090585/",
+      "time": "2026-09-02T13:17:12"
     },
     {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "score": 1252,
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "time": "2026-09-01T17:53:53"
+      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
+      "score": 107,
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "time": "2026-09-02T13:59:59"
     },
     {
-      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "score": 148,
-      "url": "https://arxiv.org/abs/2608.29530",
-      "time": "2026-09-02T04:15:56"
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "score": 72,
+      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+      "time": "2026-09-02T13:40:29"
     },
     {
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "score": 711,
-      "url": "https://danluu.com/zitron/",
-      "time": "2026-09-01T18:35:15"
+      "title": "GrapheneOS says Pixel 11 has MTE support after all",
+      "score": 62,
+      "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
+      "time": "2026-09-02T14:00:28"
     },
     {
-      "title": "Fine, I'll build my own text editor",
-      "score": 126,
-      "url": "https://dbushell.com/2026/09/01/text-editor/",
-      "time": "2026-09-01T17:12:15"
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "score": 121,
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "time": "2026-09-02T12:30:39"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 248653,
+      "stars": 248660,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 245955,
+      "stars": 246085,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196593,
+      "stars": 196595,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158214,
+      "stars": 158221,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148143,
+      "stars": 148140,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-02T10:07:35.584439+00:00"
+  "last_updated": "2026-09-02T15:32:23.909277+00:00"
 }
