@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "A Plane Lunar Eclipse",
-    "date": "2026-09-01",
-    "explanation": "Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see ...",
-    "url": "https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "35.41\u00b0N",
-    "longitude": "29.09\u00b0E",
-    "timestamp": "2026-09-01T20:16:01+00:00",
+    "latitude": "51.53\u00b0S",
+    "longitude": "175.29\u00b0E",
+    "timestamp": "2026-09-02T01:51:00+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Hang on to Your Firefox",
+      "score": 514,
+      "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "time": "2026-09-01T20:30:51"
+    },
+    {
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "score": 555,
+      "score": 937,
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
       "time": "2026-09-01T17:53:53"
     },
     {
-      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
-      "score": 380,
-      "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
-      "time": "2026-09-01T15:55:53"
-    },
-    {
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "score": 94,
+      "score": 419,
       "url": "https://danluu.com/zitron/",
       "time": "2026-09-01T18:35:15"
     },
     {
-      "title": "Launch HN: Nori Robotics (YC S26) \u2013 A low-cost humanoid robot for development",
-      "score": 69,
-      "url": "https://www.norirobotics.com/",
-      "time": "2026-09-01T17:35:10"
+      "title": "The efficient frontier of LLM inference",
+      "score": 39,
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "time": "2026-09-01T23:48:05"
     },
     {
-      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-      "score": 740,
-      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
-      "time": "2026-09-01T10:11:02"
+      "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
+      "score": 55,
+      "url": "https://masteranza.github.io/weedout/",
+      "time": "2026-09-01T22:06:57"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 248638,
+      "stars": 248646,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 245685,
+      "stars": 245779,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196588,
+      "stars": 196590,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158192,
+      "stars": 158198,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148141,
+      "stars": 148142,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-01T20:15:59.247060+00:00"
+  "last_updated": "2026-09-02T01:50:48.677617+00:00"
 }
