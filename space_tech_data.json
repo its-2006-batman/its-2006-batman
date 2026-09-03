@@ -8,70 +8,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "35.34\u00b0S",
-    "longitude": "156.53\u00b0W",
-    "timestamp": "2026-09-02T20:14:21+00:00",
+    "latitude": "44.82\u00b0N",
+    "longitude": "30.34\u00b0E",
+    "timestamp": "2026-09-03T01:56:48+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Muse Spark 1.3",
-      "score": 88,
+      "score": 396,
       "url": "https://developer.meta.com/ai/models/muse-spark/",
       "time": "2026-09-02T19:35:04"
     },
     {
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "score": 646,
+      "score": 829,
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
       "time": "2026-09-02T15:12:40"
     },
     {
       "title": "Google avoids a breakup of its ad tech business",
-      "score": 77,
+      "score": 266,
       "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
       "time": "2026-09-02T14:46:16"
     },
     {
-      "title": "The Post-AI Internet Doesn't Look Great",
-      "score": 30,
-      "url": "https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/",
-      "time": "2026-09-02T19:41:01"
+      "title": "Holden's Lightning Flight",
+      "score": 60,
+      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+      "time": "2026-08-31T11:29:44"
     },
     {
-      "title": "Can I opt out of my input or output data being used for training?",
-      "score": 315,
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "time": "2026-09-02T12:30:39"
+      "title": "Reverse Engineering Unknown File Formats with ImHex",
+      "score": 104,
+      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+      "time": "2026-08-31T12:01:05"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 248663,
+      "stars": 248668,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 246203,
+      "stars": 246377,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196598,
+      "stars": 196599,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158226,
+      "stars": 158224,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-02T20:14:20.403123+00:00"
+  "last_updated": "2026-09-03T01:56:47.588444+00:00"
 }
