@@ -1,87 +1,75 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "The Eclipse and the Stork",
-    "date": "2026-09-03",
-    "explanation": "How do animals react to a total solar eclipse?   The featured image shows a stork roosting on her nest in Poland at a partial phase of the recent total solar eclipse.   If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to notice unusual daytim...",
-    "url": "https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg",
-    "media_type": "image"
-  },
-  "iss_position": {
-    "latitude": "9.77\u00b0N",
-    "longitude": "64.61\u00b0E",
-    "timestamp": "2026-09-03T15:25:23+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "nasa_apod": null,
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Audacity 4.0",
-      "score": 603,
-      "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-      "time": "2026-09-03T10:53:08"
+      "title": "GPT-6 Astra",
+      "score": 444,
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "time": "2026-09-03T18:41:05"
     },
     {
-      "title": "ChatGPT Is Throwing 404",
-      "score": 244,
-      "url": "https://chatgpt.com/",
-      "time": "2026-09-03T14:46:47"
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "score": 249,
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "time": "2026-09-03T18:32:13"
     },
     {
-      "title": "Pre-Release of Polars 2.0",
-      "score": 300,
-      "url": "https://pola.rs/posts/announcing-polars-2/",
-      "time": "2026-09-03T06:59:08"
+      "title": ".name Termination",
+      "score": 970,
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "time": "2026-09-03T14:54:39"
     },
     {
-      "title": "Elevated Errors for Multiple Models",
-      "score": 153,
-      "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-      "time": "2026-09-03T13:29:12"
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "score": 192,
+      "url": "https://ifm.ai/blog/k2/",
+      "time": "2026-09-03T15:36:43"
     },
     {
-      "title": "The Browser's Main Thread Is Expensive",
-      "score": 266,
-      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-      "time": "2026-09-01T14:00:15"
+      "title": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
+      "score": 308,
+      "url": "https://anyhumanever.com/",
+      "time": "2026-09-03T14:51:10"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 249043,
+      "stars": 249053,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 246833,
+      "stars": 247012,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196601,
+      "stars": 196606,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158246,
+      "stars": 158250,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148140,
+      "stars": 148144,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-03T15:25:22.349688+00:00"
+  "last_updated": "2026-09-03T20:15:07.235294+00:00"
 }
