@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "32.64\u00b0N",
-    "longitude": "162.24\u00b0E",
-    "timestamp": "2026-09-04T10:06:58+00:00",
+    "latitude": "4.70\u00b0S",
+    "longitude": "124.59\u00b0W",
+    "timestamp": "2026-09-04T15:22:02+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Discovery of a new OpenAI agent message board",
+      "score": 583,
+      "url": "https://collusion.wiki/",
+      "time": "2026-09-04T11:54:53"
+    },
+    {
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "score": 145,
+      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "time": "2026-09-04T11:59:15"
+    },
+    {
+      "title": "Solving the Jane Street Reverse Engineering Challenge",
+      "score": 217,
+      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
+      "time": "2026-09-04T10:17:01"
+    },
+    {
+      "title": "Burnt out on a three-day week",
+      "score": 54,
+      "url": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week/",
+      "time": "2026-09-04T14:14:05"
+    },
+    {
       "title": "GPT-6 Astra",
-      "score": 1818,
+      "score": 1993,
       "url": "https://openai.com/index/gpt-6-astra/",
       "time": "2026-09-03T18:41:05"
-    },
-    {
-      "title": ".name Termination",
-      "score": 1825,
-      "url": "https://neil.fraser.name/news/2026/09/03/",
-      "time": "2026-09-03T14:54:39"
-    },
-    {
-      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
-      "score": 31,
-      "url": "https://carbonawarepricing.com/",
-      "time": "2026-09-04T08:19:57"
-    },
-    {
-      "title": "The Raspberry Pi Interactive Timeline \u00b7 2006\u20132026",
-      "score": 17,
-      "url": "https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline",
-      "time": "2026-09-04T08:35:15"
-    },
-    {
-      "title": "Authorization terminology is a mess: Let's fix it",
-      "score": 45,
-      "url": "https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/",
-      "time": "2026-09-01T14:18:54"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 249071,
+      "stars": 249075,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 247665,
+      "stars": 248014,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196612,
+      "stars": 196613,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158265,
+      "stars": 158268,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148147,
+      "stars": 148146,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-04T10:06:57.185721+00:00"
+  "last_updated": "2026-09-04T15:21:58.994419+00:00"
 }
