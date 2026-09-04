@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "4.70\u00b0S",
-    "longitude": "124.59\u00b0W",
-    "timestamp": "2026-09-04T15:22:02+00:00",
+    "latitude": "3.11\u00b0S",
+    "longitude": "163.53\u00b0E",
+    "timestamp": "2026-09-04T19:59:54+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Formalizing Fermat's Last Theorem",
+      "score": 164,
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "time": "2026-09-04T18:42:56"
+    },
+    {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 583,
+      "score": 1212,
       "url": "https://collusion.wiki/",
       "time": "2026-09-04T11:54:53"
     },
     {
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "score": 145,
-      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-      "time": "2026-09-04T11:59:15"
+      "title": "Shutting down our public encrypted DNS",
+      "score": 83,
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "time": "2026-09-04T18:50:28"
     },
     {
-      "title": "Solving the Jane Street Reverse Engineering Challenge",
-      "score": 217,
-      "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-      "time": "2026-09-04T10:17:01"
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "score": 128,
+      "url": "https://opentrailpaper.com",
+      "time": "2026-09-04T17:18:08"
     },
     {
-      "title": "Burnt out on a three-day week",
-      "score": 54,
-      "url": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week/",
-      "time": "2026-09-04T14:14:05"
-    },
-    {
-      "title": "GPT-6 Astra",
-      "score": 1993,
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "time": "2026-09-03T18:41:05"
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "score": 19,
+      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+      "time": "2026-09-04T19:06:39"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 249075,
+      "stars": 249076,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 248014,
+      "stars": 248291,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196613,
+      "stars": 196615,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158268,
+      "stars": 158275,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148146,
+      "stars": 148147,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-04T15:21:58.994419+00:00"
+  "last_updated": "2026-09-04T19:59:53.966986+00:00"
 }
