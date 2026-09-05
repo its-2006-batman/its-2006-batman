@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "46.96\u00b0N",
-    "longitude": "104.45\u00b0W",
-    "timestamp": "2026-09-05T09:36:22+00:00",
+    "latitude": "51.59\u00b0N",
+    "longitude": "156.20\u00b0E",
+    "timestamp": "2026-09-05T14:09:39+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "score": 67,
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "time": "2026-09-05T07:52:50"
+      "title": "The \"$60 Gaming PC\" \u2013 AMD BC-250 (2025)",
+      "score": 17,
+      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "time": "2026-09-05T13:36:38"
     },
     {
       "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "score": 490,
+      "score": 610,
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
       "time": "2026-09-04T21:52:01"
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 1707,
+      "score": 1837,
       "url": "https://collusion.wiki/",
       "time": "2026-09-04T11:54:53"
     },
     {
-      "title": "Formalizing Fermat's Last Theorem",
-      "score": 617,
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "time": "2026-09-04T18:42:56"
-    },
-    {
       "title": "Nitter has more working instances than before the takedowns",
-      "score": 211,
+      "score": 380,
       "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
       "time": "2026-09-05T00:04:16"
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "score": 665,
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "time": "2026-09-04T18:42:56"
     }
   ],
   "github_trending": [
     {
-      "name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 249081,
-      "language": "JavaScript",
-      "url": "https://github.com/react/react"
-    },
-    {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 248890,
+      "stars": 249229,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
+      "name": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 249089,
+      "language": "JavaScript",
+      "url": "https://github.com/react/react"
+    },
+    {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196616,
+      "stars": 196617,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158282,
+      "stars": 158287,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148151,
+      "stars": 148150,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-05T09:36:21.965793+00:00"
+  "last_updated": "2026-09-05T14:09:36.270314+00:00"
 }
