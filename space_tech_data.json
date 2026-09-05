@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "3.11\u00b0S",
-    "longitude": "163.53\u00b0E",
-    "timestamp": "2026-09-04T19:59:54+00:00",
+    "latitude": "47.03\u00b0N",
+    "longitude": "13.24\u00b0E",
+    "timestamp": "2026-09-05T01:52:20+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "score": 235,
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "time": "2026-09-04T21:52:01"
+    },
+    {
       "title": "Formalizing Fermat's Last Theorem",
-      "score": 164,
+      "score": 489,
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
       "time": "2026-09-04T18:42:56"
     },
     {
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "score": 44,
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "time": "2026-09-05T00:04:14"
+    },
+    {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 1212,
+      "score": 1481,
       "url": "https://collusion.wiki/",
       "time": "2026-09-04T11:54:53"
     },
     {
-      "title": "Shutting down our public encrypted DNS",
-      "score": 83,
-      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-      "time": "2026-09-04T18:50:28"
-    },
-    {
-      "title": "Show HN: Open-Source eInk Bike Computer",
-      "score": 128,
-      "url": "https://opentrailpaper.com",
-      "time": "2026-09-04T17:18:08"
-    },
-    {
-      "title": "Government Rails Site Hit Hours After CVE Patch",
-      "score": 19,
-      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-      "time": "2026-09-04T19:06:39"
+      "title": "Statichost.eu \u2013 European static site hosting",
+      "score": 174,
+      "url": "https://www.statichost.eu/",
+      "time": "2026-09-04T20:34:49"
     }
   ],
   "github_trending": [
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 249076,
+      "stars": 249080,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 248291,
+      "stars": 248541,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196615,
+      "stars": 196617,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158275,
+      "stars": 158277,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148147,
+      "stars": 148151,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-04T19:59:53.966986+00:00"
+  "last_updated": "2026-09-05T01:52:18.686030+00:00"
 }
