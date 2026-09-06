@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Chasing the Moon's Shadow",
-    "date": "2026-09-05",
-    "explanation": "Chasing the shadow of a New Moon, NASA\u2019s WB-57F high altitude research aircraft took to the skies off the coast of Iceland on August 12 to observe a total solar eclipse. At 50,000 feet the aircraft was piloted along the precisely determined path of totality to maximize its time in the Moon\u2019s shadow....",
-    "url": "https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg",
+    "title": "Pluto in Enhanced Color",
+    "date": "2026-09-06",
+    "explanation": "Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unex...",
+    "url": "https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "2.22\u00b0S",
+    "longitude": "121.95\u00b0E",
+    "timestamp": "2026-09-06T09:51:48+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "score": 108,
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "time": "2026-09-06T07:21:06"
+    },
+    {
+      "title": "Play GTA Vice City in the Browser",
+      "score": 39,
+      "url": "https://quenq.com/apps/vice-city-online/",
+      "time": "2026-09-06T07:33:17"
+    },
+    {
       "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "score": 93,
+      "score": 398,
       "url": "https://cloudinabottle.org/blog/launch-post",
       "time": "2026-09-06T00:03:29"
     },
     {
+      "title": "Music Theory for Programmers",
+      "score": 129,
+      "url": "https://runjs.app/blog/music-theory-for-programmers",
+      "time": "2026-09-02T20:19:13"
+    },
+    {
       "title": "The revolt of the reader",
-      "score": 103,
+      "score": 356,
       "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
       "time": "2026-09-05T21:37:49"
-    },
-    {
-      "title": "Private German rocket makes history, reaches orbit from European soil",
-      "score": 366,
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
-      "time": "2026-09-05T20:31:38"
-    },
-    {
-      "title": "Learn Programming with OCaml",
-      "score": 177,
-      "url": "https://usr.lmf.cnrs.fr/lpo/",
-      "time": "2026-09-05T16:45:02"
-    },
-    {
-      "title": "The \"$60 Gaming PC\" \u2013 AMD BC-250 (2025)",
-      "score": 280,
-      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-      "time": "2026-09-05T13:36:38"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 249943,
+      "stars": 250358,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 249113,
+      "stars": 249127,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196624,
+      "stars": 196625,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158295,
+      "stars": 158304,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148163,
+      "stars": 148164,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-06T01:46:49.945033+00:00"
+  "last_updated": "2026-09-06T09:51:47.399804+00:00"
 }
