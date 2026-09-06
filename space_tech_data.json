@@ -7,81 +7,75 @@
     "url": "https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "45.92\u00b0S",
-    "longitude": "74.78\u00b0W",
-    "timestamp": "2026-09-05T19:40:11+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "The Luxuries in Life",
-      "score": 105,
-      "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-      "time": "2026-09-05T17:46:16"
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "score": 93,
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "time": "2026-09-06T00:03:29"
     },
     {
-      "title": "The moral panic over data centres is foolish",
-      "score": 30,
-      "url": "https://www.economist.com/leaders/2026/09/03/the-moral-panic-over-data-centres-is-foolish",
-      "time": "2026-09-05T19:15:50"
+      "title": "The revolt of the reader",
+      "score": 103,
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "time": "2026-09-05T21:37:49"
+    },
+    {
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "score": 366,
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "time": "2026-09-05T20:31:38"
     },
     {
       "title": "Learn Programming with OCaml",
-      "score": 50,
+      "score": 177,
       "url": "https://usr.lmf.cnrs.fr/lpo/",
       "time": "2026-09-05T16:45:02"
     },
     {
       "title": "The \"$60 Gaming PC\" \u2013 AMD BC-250 (2025)",
-      "score": 193,
+      "score": 280,
       "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
       "time": "2026-09-05T13:36:38"
-    },
-    {
-      "title": "Discovery of a new OpenAI agent message board",
-      "score": 1988,
-      "url": "https://collusion.wiki/",
-      "time": "2026-09-04T11:54:53"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 249647,
+      "stars": 249943,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 249104,
+      "stars": 249113,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196623,
+      "stars": 196624,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158290,
+      "stars": 158295,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148157,
+      "stars": 148163,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-05T19:40:11.148359+00:00"
+  "last_updated": "2026-09-06T01:46:49.945033+00:00"
 }
