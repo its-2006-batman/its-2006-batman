@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "8.08\u00b0N",
-    "longitude": "58.55\u00b0E",
-    "timestamp": "2026-09-06T14:33:35+00:00",
+    "latitude": "36.60\u00b0N",
+    "longitude": "117.45\u00b0E",
+    "timestamp": "2026-09-06T19:42:54+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Intellectual Fly Is Open (2025)",
-      "score": 182,
+      "title": "Nitter is unarchived and will continue",
+      "score": 143,
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "time": "2026-09-06T17:49:47"
+    },
+    {
+      "title": "Finder is so frustrating and has been since day one",
+      "score": 44,
+      "url": "https://kepter.app/finder",
+      "time": "2026-09-06T19:06:09"
+    },
+    {
+      "title": "Your intellectual fly is open (2025)",
+      "score": 362,
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "time": "2026-09-06T11:56:43"
     },
     {
-      "title": "Doomscrolling Ourselves to Death",
-      "score": 126,
-      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-      "time": "2026-09-06T11:53:40"
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "score": 77,
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "time": "2026-09-06T15:44:24"
     },
     {
       "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-      "score": 357,
+      "score": 476,
       "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
       "time": "2026-09-06T07:21:06"
-    },
-    {
-      "title": "The many mysteries and lessons of the Bayeux tapestry",
-      "score": 13,
-      "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
-      "time": "2026-09-06T13:38:07"
-    },
-    {
-      "title": "M-DISC \u2013 DVD/Blu-ray compatible discs that may last up to 1000 years",
-      "score": 87,
-      "url": "https://en.wikipedia.org/wiki/M-DISC",
-      "time": "2026-09-02T04:10:21"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 250633,
+      "stars": 251027,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 249134,
+      "stars": 249155,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196627,
+      "stars": 196633,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158307,
+      "stars": 158314,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148164,
+      "stars": 148166,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-06T14:33:33.184146+00:00"
+  "last_updated": "2026-09-06T19:42:53.307157+00:00"
 }
