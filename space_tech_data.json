@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Pluto in Enhanced Color",
-    "date": "2026-09-06",
-    "explanation": "Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unex...",
-    "url": "https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg",
+    "title": "The Pelican Nebula in Gas, Dust, and Stars",
+    "date": "2026-09-07",
+    "explanation": "The Pelican Nebula is slowly being transformed.  IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details of this filamentary ...",
+    "url": "https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.59\u00b0N",
-    "longitude": "26.10\u00b0W",
-    "timestamp": "2026-09-07T01:44:02+00:00",
+    "latitude": "50.64\u00b0N",
+    "longitude": "175.91\u00b0E",
+    "timestamp": "2026-09-07T10:58:02+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Making a Python interpreter in 1024 bytes",
-      "score": 77,
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "time": "2026-09-06T23:14:08"
+      "title": "Keep Our Servers Running",
+      "score": 517,
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "time": "2026-09-07T03:29:51"
     },
     {
-      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-      "score": 194,
-      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-      "time": "2026-09-06T20:24:00"
+      "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
+      "score": 22,
+      "url": "https://mathathonchallenge.com/index.html",
+      "time": "2026-09-07T09:26:53"
     },
     {
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "score": 138,
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "time": "2026-09-06T20:32:38"
+      "title": "Live map of public transport in Belgium",
+      "score": 39,
+      "url": "https://openbaarvervoerbelgie.be/",
+      "time": "2026-09-07T09:02:47"
     },
     {
-      "title": "Your intellectual fly is open (2025)",
-      "score": 523,
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "time": "2026-09-06T11:56:43"
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "score": 17,
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "time": "2026-09-07T09:26:41"
     },
     {
-      "title": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "score": 67,
-      "url": "https://github.com/marsbos/mador",
-      "time": "2026-09-06T20:45:13"
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "score": 196,
+      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+      "time": "2026-09-07T07:03:20"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 251400,
+      "stars": 252223,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 249164,
+      "stars": 249623,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196642,
+      "stars": 196639,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158316,
+      "stars": 158341,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148171,
+      "stars": 148173,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-07T01:43:55.498374+00:00"
+  "last_updated": "2026-09-07T10:57:58.580001+00:00"
 }
