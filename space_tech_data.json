@@ -7,75 +7,81 @@
     "url": "https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "28.72\u00b0S",
+    "longitude": "152.88\u00b0W",
+    "timestamp": "2026-09-08T01:55:30+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "score": 43,
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "time": "2026-09-08T01:16:59"
+    },
+    {
+      "title": "TALA Is Open-Source",
+      "score": 80,
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "time": "2026-09-07T23:37:42"
+    },
+    {
       "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
-      "score": 98,
+      "score": 219,
       "url": "https://lax-skyline.parcelscope.net/",
       "time": "2026-09-07T18:52:06"
     },
     {
-      "title": "Why the AfD Wins",
-      "score": 21,
-      "url": "https://firstthings.com/why-the-afd-wins/",
-      "time": "2026-09-07T20:35:30"
+      "title": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
+      "score": 88,
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "time": "2026-09-07T22:12:38"
     },
     {
-      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-      "score": 24,
-      "url": "https://kallus.org/blog/dummit_and_foote.html",
-      "time": "2026-09-04T20:20:07"
-    },
-    {
-      "title": "WeatherNext 3",
-      "score": 93,
-      "url": "https://deepmind.google/science/weathernext/",
-      "time": "2026-09-03T16:06:08"
-    },
-    {
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "score": 42,
-      "url": "https://arxiv.org/abs/2607.24888",
-      "time": "2026-09-05T11:25:18"
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "score": 91,
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "time": "2026-09-07T20:32:55"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 252687,
+      "stars": 252895,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 249634,
+      "stars": 249636,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196648,
+      "stars": 196650,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158350,
+      "stars": 158352,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148176,
+      "stars": 148177,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-07T20:53:19.086223+00:00"
+  "last_updated": "2026-09-08T01:55:29.382321+00:00"
 }
