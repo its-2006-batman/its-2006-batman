@@ -7,64 +7,58 @@
     "url": "https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "51.27\u00b0S",
-    "longitude": "74.54\u00b0W",
-    "timestamp": "2026-09-08T15:35:44+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "DaVinci Resolve 21.1",
-      "score": 146,
-      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "time": "2026-09-08T13:36:53"
+      "title": "100s of flights cancelled at UK airports due to ATC issue",
+      "score": 79,
+      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+      "time": "2026-09-08T18:26:27"
     },
     {
       "title": "Google DeepMind Releases AlphaGenome Atlas",
-      "score": 46,
+      "score": 391,
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
       "time": "2026-09-08T14:55:45"
     },
     {
-      "title": "The two Christian saints who are the Buddha",
-      "score": 38,
-      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
-      "time": "2026-09-08T14:44:25"
+      "title": "DaVinci Resolve 21.1",
+      "score": 297,
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "time": "2026-09-08T13:36:53"
     },
     {
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "score": 308,
-      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-      "time": "2026-09-08T14:05:57"
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "score": 159,
+      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "time": "2026-09-08T14:49:19"
     },
     {
-      "title": "Show HN: Copperhead \u2013 Hardware as Fast as Software",
-      "score": 92,
-      "url": "https://copperhead.sh/",
-      "time": "2026-09-08T13:26:45"
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "score": 111,
+      "url": "https://ai.meta.com/muse/",
+      "time": "2026-09-08T19:25:00"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 253881,
+      "stars": 254133,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 249656,
+      "stars": 249665,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196656,
+      "stars": 196660,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
@@ -78,10 +72,10 @@
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148185,
+      "stars": 148191,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-08T15:35:43.275566+00:00"
+  "last_updated": "2026-09-08T20:26:14.796015+00:00"
 }
