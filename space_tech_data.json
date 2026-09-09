@@ -8,80 +8,80 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "46.77\u00b0N",
-    "longitude": "77.36\u00b0E",
-    "timestamp": "2026-09-09T15:29:59+00:00",
+    "latitude": "49.15\u00b0N",
+    "longitude": "15.15\u00b0E",
+    "timestamp": "2026-09-09T20:10:01+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Tailwind Labs is joining Shopify",
-      "score": 342,
+      "title": "iPhone Duo",
+      "score": 399,
+      "url": "https://www.apple.com/iphone-duo/",
+      "time": "2026-09-09T18:15:43"
+    },
+    {
+      "title": "AirPods 5",
+      "score": 198,
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "time": "2026-09-09T17:39:24"
+    },
+    {
+      "title": "Shopify acquires Tailwind",
+      "score": 697,
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "time": "2026-09-09T13:27:11"
     },
     {
-      "title": "Desert Ant Labs: local, fast models that run on device",
-      "score": 193,
-      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-      "time": "2026-09-09T11:39:46"
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "score": 175,
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "time": "2026-09-08T18:11:05"
     },
     {
-      "title": "Claude, change the \"Add to Cart\" button to blue",
-      "score": 434,
-      "url": "https://opusfived.dev/",
-      "time": "2026-09-09T09:39:46"
-    },
-    {
-      "title": "Show HN: Geiger \u2013 See every AI agent on your machine and what it can touch",
-      "score": 17,
-      "url": "https://github.com/Atomburstofficial/geiger",
-      "time": "2026-09-09T14:54:49"
-    },
-    {
-      "title": "I advertise malicious software on Google Ads",
-      "score": 210,
-      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
-      "time": "2026-09-09T11:43:21"
+      "title": "Apple Watch Series 12",
+      "score": 124,
+      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "time": "2026-09-09T17:56:17"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 254874,
+      "stars": 255048,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 249675,
+      "stars": 249635,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196666,
+      "stars": 196670,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158400,
+      "stars": 158406,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148199,
+      "stars": 148201,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-09T15:29:55.613325+00:00"
+  "last_updated": "2026-09-09T20:10:01.385525+00:00"
 }
