@@ -7,75 +7,81 @@
     "url": "https://apod.nasa.gov/apod/image/2609/xz_and.mp4",
     "media_type": "video"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "46.77\u00b0N",
+    "longitude": "77.36\u00b0E",
+    "timestamp": "2026-09-09T15:29:59+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Muse \u2013 Meta\u2019s personal AI agent",
-      "score": 516,
-      "url": "https://ai.meta.com/muse/",
-      "time": "2026-09-08T19:25:00"
+      "title": "Tailwind Labs is joining Shopify",
+      "score": 342,
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "time": "2026-09-09T13:27:11"
     },
     {
-      "title": "How GPT\u20115.6 Sol helps run quantum computing experiments",
-      "score": 61,
-      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-      "time": "2026-09-09T07:22:46"
+      "title": "Desert Ant Labs: local, fast models that run on device",
+      "score": 193,
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "time": "2026-09-09T11:39:46"
     },
     {
-      "title": "On Really Trying (2009)",
-      "score": 54,
-      "url": "https://gwern.net/on-really-trying",
-      "time": "2026-09-09T06:58:44"
+      "title": "Claude, change the \"Add to Cart\" button to blue",
+      "score": 434,
+      "url": "https://opusfived.dev/",
+      "time": "2026-09-09T09:39:46"
     },
     {
-      "title": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]",
-      "score": 1697,
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "time": "2026-09-08T05:42:28"
+      "title": "Show HN: Geiger \u2013 See every AI agent on your machine and what it can touch",
+      "score": 17,
+      "url": "https://github.com/Atomburstofficial/geiger",
+      "time": "2026-09-09T14:54:49"
     },
     {
-      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
-      "score": 120,
-      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "time": "2026-09-03T07:29:40"
+      "title": "I advertise malicious software on Google Ads",
+      "score": 210,
+      "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+      "time": "2026-09-09T11:43:21"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 254699,
+      "stars": 254874,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 249677,
+      "stars": 249675,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196664,
+      "stars": 196666,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158395,
+      "stars": 158400,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148198,
+      "stars": 148199,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-09T10:19:08.323943+00:00"
+  "last_updated": "2026-09-09T15:29:55.613325+00:00"
 }
