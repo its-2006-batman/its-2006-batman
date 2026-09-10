@@ -8,80 +8,80 @@
     "media_type": "video"
   },
   "iss_position": {
-    "latitude": "49.15\u00b0N",
-    "longitude": "15.15\u00b0E",
-    "timestamp": "2026-09-09T20:10:01+00:00",
+    "latitude": "13.52\u00b0S",
+    "longitude": "150.52\u00b0W",
+    "timestamp": "2026-09-10T01:57:27+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "iPhone Duo",
-      "score": 399,
+      "score": 894,
       "url": "https://www.apple.com/iphone-duo/",
       "time": "2026-09-09T18:15:43"
     },
     {
-      "title": "AirPods 5",
-      "score": 198,
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "time": "2026-09-09T17:39:24"
-    },
-    {
       "title": "Shopify acquires Tailwind",
-      "score": 697,
+      "score": 895,
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "time": "2026-09-09T13:27:11"
     },
     {
       "title": "What do Visa and Mastercard do? An intro to card networks",
-      "score": 175,
+      "score": 374,
       "url": "https://tautology.town/2026/06/01/card-networks.html",
       "time": "2026-09-08T18:11:05"
     },
     {
-      "title": "Apple Watch Series 12",
-      "score": 124,
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "time": "2026-09-09T17:56:17"
+      "title": "AirPods 5",
+      "score": 379,
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "time": "2026-09-09T17:39:24"
+    },
+    {
+      "title": "Growing proof that autonomous cars save lives",
+      "score": 212,
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "time": "2026-09-09T17:14:59"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 255048,
+      "stars": 255205,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 249635,
+      "stars": 249638,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196670,
+      "stars": 196674,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158406,
+      "stars": 158407,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148201,
+      "stars": 148200,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-09T20:10:01.385525+00:00"
+  "last_updated": "2026-09-10T01:57:27.343813+00:00"
 }
