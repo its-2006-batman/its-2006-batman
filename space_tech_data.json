@@ -1,45 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "LDN 1295: The Giraffe Nebula",
-    "date": "2026-09-10",
-    "explanation": "What does this image look like to you?   Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a squirrel instead).   The featured image shows LDN 1295, also called the Giraffe Nebula, in the constellation of the mythical queen of Aethiopia (Cassiopeia)...",
-    "url": "https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg",
-    "media_type": "image"
+  "nasa_apod": null,
+  "iss_position": {
+    "latitude": "12.48\u00b0N",
+    "longitude": "24.77\u00b0E",
+    "timestamp": "2026-09-11T01:56:04+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
   },
-  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "I have a theory that software drives people insane",
-      "score": 284,
-      "url": "https://graybeard.ing/software-drives-people-insane/",
-      "time": "2026-09-10T16:13:42"
+      "title": "YuE2 \u00b7 Frontier Music with Symbolic Planning",
+      "score": 31,
+      "url": "https://map-yue2.github.io/",
+      "time": "2026-09-11T00:33:26"
     },
     {
-      "title": "Rust is tier-1 language at Microsoft",
-      "score": 495,
-      "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "time": "2026-09-10T13:39:16"
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "score": 783,
+      "url": "https://shopify.engineering/back-to-native",
+      "time": "2026-09-10T14:09:31"
     },
     {
-      "title": "Genuine Creativity Is Your New Moat (2026)",
-      "score": 38,
-      "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
-      "time": "2026-09-10T19:03:34"
-    },
-    {
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "score": 219,
-      "url": "https://cognition.com/blog/swe-2",
-      "time": "2026-09-10T15:29:47"
+      "title": "Google will buy half the electricity of a nuclear power plant",
+      "score": 73,
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "time": "2026-09-11T00:42:41"
     },
     {
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "score": 354,
+      "score": 675,
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "time": "2026-09-10T06:49:43"
+    },
+    {
+      "title": "OpenAI Agents API",
+      "score": 133,
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "time": "2026-09-10T19:43:22"
     }
   ],
-  "github_trending": [],
-  "last_updated": "2026-09-10T20:11:38.319118+00:00"
+  "github_trending": [
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 255916,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 250033,
+      "language": "JavaScript",
+      "url": "https://github.com/react/react"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196673,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 158435,
+      "language": "JavaScript",
+      "url": "https://github.com/Snailclimb/JavaGuide"
+    },
+    {
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148199,
+      "language": "JavaScript",
+      "url": "https://github.com/airbnb/javascript"
+    }
+  ],
+  "last_updated": "2026-09-11T01:56:03.461218+00:00"
 }
