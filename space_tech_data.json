@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "M83: The Southern Pinwheel",
+    "date": "2026-09-11",
+    "explanation": "Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, the Southern Pinwheel.  Still, reddish star form...",
+    "url": "https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "51.04\u00b0S",
-    "longitude": "11.11\u00b0E",
-    "timestamp": "2026-09-11T10:09:15+00:00",
+    "latitude": "48.09\u00b0N",
+    "longitude": "70.64\u00b0E",
+    "timestamp": "2026-09-11T15:27:29+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Cherenkov Radiation - traveling faster than light",
-      "score": 40,
-      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
-      "time": "2026-09-11T08:42:04"
+      "title": "Houthis 'take control' of key island in global shipping route",
+      "score": 182,
+      "url": "https://www.bbc.com/news/live/cmd683p01eljt",
+      "time": "2026-09-11T13:41:38"
     },
     {
-      "title": "Shopify is moving from React Native back to Swift and Kotlin",
-      "score": 1075,
-      "url": "https://shopify.engineering/back-to-native",
-      "time": "2026-09-10T14:09:31"
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "score": 273,
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "time": "2026-09-11T11:17:50"
     },
     {
-      "title": "Don't let anyone take away your big box of cables",
-      "score": 534,
-      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "time": "2026-09-10T15:27:22"
+      "title": "Logo Programming Language",
+      "score": 59,
+      "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+      "time": "2026-09-09T07:07:26"
     },
     {
-      "title": "Working with Git Worktrees in Magit",
-      "score": 48,
-      "url": "https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/",
-      "time": "2026-09-08T06:31:59"
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "score": 508,
+      "url": "https://news.ycombinator.com/item?id=49657850",
+      "time": "2026-09-11T13:11:04"
     },
     {
-      "title": "OpenAI Agents API",
-      "score": 268,
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "time": "2026-09-10T19:43:22"
+      "title": "So you want to use OpenRouter?",
+      "score": 419,
+      "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+      "time": "2026-09-09T05:37:21"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 256148,
+      "stars": 256294,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250034,
+      "stars": 250039,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196674,
+      "stars": 196673,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158448,
+      "stars": 158450,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148199,
+      "stars": 148200,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-11T10:09:14.691299+00:00"
+  "last_updated": "2026-09-11T15:27:25.528854+00:00"
 }
