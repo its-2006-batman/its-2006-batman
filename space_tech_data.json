@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "M83: The Southern Pinwheel",
-    "date": "2026-09-11",
-    "explanation": "Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, the Southern Pinwheel.  Still, reddish star form...",
-    "url": "https://apod.nasa.gov/apod/image/2609/M83_Final2_1x1024.jpg",
+    "title": "Apollo 11: Catching Some Sun",
+    "date": "2026-09-12",
+    "explanation": "Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Ald...",
+    "url": "https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "5.94\u00b0N",
-    "longitude": "147.49\u00b0W",
-    "timestamp": "2026-09-12T02:00:31+00:00",
+    "latitude": "4.75\u00b0N",
+    "longitude": "93.75\u00b0E",
+    "timestamp": "2026-09-12T09:44:06+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "score": 65,
+      "url": "https://eiln.github.io/posts/ane.html",
+      "time": "2026-09-12T07:54:03"
+    },
+    {
+      "title": "IKEA made a mod for Skyrim [video]",
+      "score": 77,
+      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "time": "2026-09-10T07:20:50"
+    },
+    {
       "title": "A misalignment of AI in mathematics",
-      "score": 652,
+      "score": 915,
       "url": "https://mathandai.org/",
       "time": "2026-09-11T17:45:12"
     },
     {
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "score": 303,
+      "score": 525,
       "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
       "time": "2026-09-11T18:24:55"
     },
     {
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "score": 334,
-      "url": "https://www.rubyhack.ai/",
-      "time": "2026-09-11T23:17:42"
-    },
-    {
-      "title": "A Design Space Exploration of Async/Await",
-      "score": 147,
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "time": "2026-09-09T13:59:50"
-    },
-    {
-      "title": "GrapheneOS' rewritten Messages app is released",
-      "score": 199,
-      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-      "time": "2026-09-11T18:50:36"
+      "title": "Navier-Stokes Announcement",
+      "score": 157,
+      "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "time": "2026-09-12T04:09:43"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 256545,
+      "stars": 256741,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250046,
+      "stars": 250049,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196681,
+      "stars": 196683,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158458,
+      "stars": 158464,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148205,
+      "stars": 148206,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-12T02:00:30.762921+00:00"
+  "last_updated": "2026-09-12T09:44:05.691964+00:00"
 }
