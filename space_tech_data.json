@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.60\u00b0N",
-    "longitude": "28.39\u00b0E",
-    "timestamp": "2026-09-11T20:10:51+00:00",
+    "latitude": "5.94\u00b0N",
+    "longitude": "147.49\u00b0W",
+    "timestamp": "2026-09-12T02:00:31+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "A misalignment of AI in mathematics",
-      "score": 203,
+      "score": 652,
       "url": "https://mathandai.org/",
       "time": "2026-09-11T17:45:12"
     },
     {
-      "title": "\u039b Snap \u2013 An inviting programming language for kids and adults for CS study",
-      "score": 64,
-      "url": "https://snap.berkeley.edu/",
-      "time": "2026-09-11T17:36:11"
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "score": 303,
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "time": "2026-09-11T18:24:55"
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "score": 334,
+      "url": "https://www.rubyhack.ai/",
+      "time": "2026-09-11T23:17:42"
+    },
+    {
+      "title": "A Design Space Exploration of Async/Await",
+      "score": 147,
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "time": "2026-09-09T13:59:50"
     },
     {
       "title": "GrapheneOS' rewritten Messages app is released",
-      "score": 37,
+      "score": 199,
       "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
       "time": "2026-09-11T18:50:36"
-    },
-    {
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "score": 39,
-      "url": "https://github.com/kennethwolters/litelm",
-      "time": "2026-09-11T18:10:20"
-    },
-    {
-      "title": "The EPA is planning to scrap public review rules for data center pollution",
-      "score": 163,
-      "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-      "time": "2026-09-11T18:05:21"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 256427,
+      "stars": 256545,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250045,
+      "stars": 250046,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196678,
+      "stars": 196681,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158456,
+      "stars": 158458,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148203,
+      "stars": 148205,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-11T20:10:48.695222+00:00"
+  "last_updated": "2026-09-12T02:00:30.762921+00:00"
 }
