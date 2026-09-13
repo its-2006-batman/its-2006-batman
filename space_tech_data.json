@@ -1,63 +1,63 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Apollo 11: Catching Some Sun",
-    "date": "2026-09-12",
-    "explanation": "Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Ald...",
-    "url": "https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg",
-    "media_type": "image"
+    "title": "Comet NEOWISE Rising over the Adriatic Sea",
+    "date": "2026-09-13",
+    "explanation": "This sight was worth getting out of bed early.  Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one of the few comets vis...",
+    "url": "https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4",
+    "media_type": "video"
   },
   "iss_position": {
-    "latitude": "4.68\u00b0N",
-    "longitude": "19.46\u00b0E",
-    "timestamp": "2026-09-13T01:55:15+00:00",
+    "latitude": "47.81\u00b0N",
+    "longitude": "129.37\u00b0E",
+    "timestamp": "2026-09-13T10:45:30+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Everyone should slow down AI development except for me",
-      "score": 96,
-      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "time": "2026-09-13T00:30:44"
+      "title": "JetKVM Mini",
+      "score": 131,
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "time": "2026-09-13T07:49:46"
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "score": 233,
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "time": "2026-09-13T01:22:31"
+    },
+    {
+      "title": "The Interim Computer Museum",
+      "score": 118,
+      "url": "https://icm.museum/",
+      "time": "2026-09-13T02:43:57"
+    },
+    {
+      "title": "Norton Neo Browser",
+      "score": 20,
+      "url": "https://neobrowser.ai/",
+      "time": "2026-09-13T09:07:59"
     },
     {
       "title": "Make your first edit to OpenStreetMap",
-      "score": 333,
+      "score": 471,
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
       "time": "2026-09-12T16:25:08"
-    },
-    {
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "score": 119,
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "time": "2026-09-12T20:25:48"
-    },
-    {
-      "title": "Nvidia is the central bank of AI",
-      "score": 399,
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "time": "2026-09-12T15:08:27"
-    },
-    {
-      "title": "Align AI and Mathematics\u2013To Something Else",
-      "score": 7,
-      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
-      "time": "2026-09-13T00:47:48"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 257138,
+      "stars": 257367,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250094,
+      "stars": 250097,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -71,7 +71,7 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158478,
+      "stars": 158483,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-13T01:55:05.544185+00:00"
+  "last_updated": "2026-09-13T10:45:26.526655+00:00"
 }
