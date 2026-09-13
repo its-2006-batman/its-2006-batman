@@ -7,71 +7,65 @@
     "url": "https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4",
     "media_type": "video"
   },
-  "iss_position": {
-    "latitude": "47.81\u00b0N",
-    "longitude": "129.37\u00b0E",
-    "timestamp": "2026-09-13T10:45:30+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Flock worker calls police on reporter filming public camera installation",
+      "score": 194,
+      "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+      "time": "2026-09-13T13:35:31"
+    },
+    {
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "score": 20,
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "time": "2026-09-13T14:28:36"
+    },
+    {
       "title": "JetKVM Mini",
-      "score": 131,
+      "score": 319,
       "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
       "time": "2026-09-13T07:49:46"
     },
     {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "score": 233,
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "time": "2026-09-13T01:22:31"
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "score": 44,
+      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "time": "2026-09-13T12:01:52"
     },
     {
-      "title": "The Interim Computer Museum",
-      "score": 118,
-      "url": "https://icm.museum/",
-      "time": "2026-09-13T02:43:57"
-    },
-    {
-      "title": "Norton Neo Browser",
-      "score": 20,
-      "url": "https://neobrowser.ai/",
-      "time": "2026-09-13T09:07:59"
-    },
-    {
-      "title": "Make your first edit to OpenStreetMap",
-      "score": 471,
-      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "time": "2026-09-12T16:25:08"
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "score": 31,
+      "url": "https://github.com/FeralFirmware/TailTalk/",
+      "time": "2026-09-12T23:43:31"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 257367,
+      "stars": 257509,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250097,
+      "stars": 250353,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196697,
+      "stars": 196699,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158483,
+      "stars": 158493,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-13T10:45:26.526655+00:00"
+  "last_updated": "2026-09-13T15:14:41.141138+00:00"
 }
