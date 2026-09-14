@@ -7,81 +7,75 @@
     "url": "https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4",
     "media_type": "video"
   },
-  "iss_position": {
-    "latitude": "40.29\u00b0N",
-    "longitude": "29.86\u00b0W",
-    "timestamp": "2026-09-13T19:58:18+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "score": 490,
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "time": "2026-09-13T21:06:13"
+    },
+    {
       "title": "Why is Google still serving dodgy ads?",
-      "score": 233,
+      "score": 608,
       "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
       "time": "2026-09-13T17:37:44"
     },
     {
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "score": 279,
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "time": "2026-09-13T14:28:36"
+      "title": "The case against JPEG XL",
+      "score": 42,
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "time": "2026-09-14T01:02:37"
     },
     {
-      "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
-      "score": 46,
-      "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
-      "time": "2026-09-13T17:57:59"
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "score": 87,
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "time": "2026-09-13T21:47:04"
     },
     {
-      "title": "Data collected by cars and sold to third parties",
-      "score": 158,
-      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "time": "2026-09-13T13:45:08"
-    },
-    {
-      "title": "JetKVM Mini",
-      "score": 447,
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-      "time": "2026-09-13T07:49:46"
+      "title": "Open-Source AI and Open Models Reading List",
+      "score": 23,
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "time": "2026-09-14T00:22:51"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 257646,
+      "stars": 257789,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250407,
+      "stars": 250416,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196701,
+      "stars": 196706,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158496,
+      "stars": 158507,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148220,
+      "stars": 148226,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-13T19:58:17.569585+00:00"
+  "last_updated": "2026-09-14T02:12:42.795576+00:00"
 }
