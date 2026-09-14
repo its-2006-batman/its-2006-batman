@@ -1,47 +1,41 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "Where Your Elements Came From",
-    "date": "2026-09-14",
-    "explanation": "The hydrogen in your body and present in every molecule of water came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your body was made durin...",
-    "url": "https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "32.76\u00b0S",
-    "longitude": "66.34\u00b0W",
-    "timestamp": "2026-09-14T17:11:47+00:00",
+    "latitude": "17.68\u00b0N",
+    "longitude": "69.37\u00b0E",
+    "timestamp": "2026-09-14T21:09:06+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Claude is a Contrarian",
-      "score": 45,
-      "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-      "time": "2026-09-14T16:14:24"
-    },
-    {
-      "title": "Distributed Systems Classics",
-      "score": 36,
+      "title": "Distributed Systems Classics (2017)",
+      "score": 174,
       "url": "https://nvartolomei.com/dist-sys-classics/",
       "time": "2026-09-14T16:02:01"
     },
     {
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "score": 77,
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "time": "2026-09-14T13:59:09"
+      "title": "A Beginning for Mathematics",
+      "score": 19,
+      "url": "https://proofsandprompts.com/2026/09/14/a-beginning-for-mathematics/",
+      "time": "2026-09-14T20:14:45"
     },
     {
-      "title": "Foundation Model Engineering: From Theory to Production",
-      "score": 33,
-      "url": "https://sungeuns.github.io/foundation-model-engineering/",
-      "time": "2026-09-14T15:27:48"
+      "title": "A Beginning for Mathematics",
+      "score": 117,
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "time": "2026-09-14T15:33:07"
     },
     {
-      "title": "What a time to be alive",
-      "score": 137,
+      "title": "Principles for Fast Tokio Applications",
+      "score": 130,
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "time": "2026-09-14T15:27:56"
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "score": 285,
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
       "time": "2026-09-14T12:40:57"
     }
@@ -50,38 +44,38 @@
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 258218,
+      "stars": 258318,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250430,
+      "stars": 250439,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196706,
+      "stars": 196710,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158533,
+      "stars": 158541,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148227,
+      "stars": 148232,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-14T17:11:45.161861+00:00"
+  "last_updated": "2026-09-14T21:08:55.270872+00:00"
 }
