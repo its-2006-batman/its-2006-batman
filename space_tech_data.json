@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "A Daytime Eclipse: Moon Occults Venus",
+    "date": "2026-09-15",
+    "explanation": "There was something behind the clouds.  Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France.  But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the planet Venus far in the d...",
+    "url": "https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "10.55\u00b0S",
-    "longitude": "167.14\u00b0E",
-    "timestamp": "2026-09-15T15:51:57+00:00",
+    "latitude": "26.92\u00b0S",
+    "longitude": "110.20\u00b0E",
+    "timestamp": "2026-09-15T20:35:56+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Introducing System One Models and Jev",
+      "score": 233,
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "time": "2026-09-15T19:25:03"
+    },
+    {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "score": 478,
+      "score": 1055,
       "url": "https://github.com/arnegiacomo/fugleramme",
       "time": "2026-09-15T12:31:10"
     },
     {
-      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-      "score": 85,
-      "url": "https://bkovac.github.io/modem-thing/",
-      "time": "2026-09-15T13:20:24"
+      "title": "An Update on Wayback Machine Access",
+      "score": 205,
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "time": "2026-09-15T17:52:18"
     },
     {
-      "title": "Swift 6.4 Released",
-      "score": 8,
-      "url": "https://www.swift.org/blog/swift-6.4-released/",
-      "time": "2026-09-15T15:40:14"
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "score": 125,
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "time": "2026-09-15T18:11:24"
     },
     {
-      "title": "I can't stop thinking about Papua New Guinea",
-      "score": 658,
-      "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-      "time": "2026-09-15T06:16:24"
-    },
-    {
-      "title": "Java 27 Released",
-      "score": 197,
-      "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
-      "time": "2026-09-15T13:13:43"
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "score": 146,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "time": "2026-09-15T17:38:18"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 258956,
+      "stars": 259177,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250458,
+      "stars": 250467,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196718,
+      "stars": 196726,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158572,
+      "stars": 158578,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148229,
+      "stars": 148233,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-15T15:51:45.997573+00:00"
+  "last_updated": "2026-09-15T20:35:53.695862+00:00"
 }
