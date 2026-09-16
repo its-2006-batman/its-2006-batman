@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "A Daytime Eclipse: Moon Occults Venus",
-    "date": "2026-09-15",
-    "explanation": "There was something behind the clouds.  Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France.  But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the planet Venus far in the d...",
-    "url": "https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg",
+    "title": "Webb's View of M64",
+    "date": "2026-09-16",
+    "explanation": "Sometimes where Hubble finds darkness, Webb sees light. An example is today\u2019s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker \u201cthe Black Eye Galaxy.\u201d Webb\u2019s Mid-InfraRed Instrument (MIRI) sees ...",
+    "url": "https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "50.48\u00b0N",
-    "longitude": "105.16\u00b0W",
-    "timestamp": "2026-09-16T02:12:13+00:00",
+    "latitude": "14.50\u00b0S",
+    "longitude": "112.84\u00b0W",
+    "timestamp": "2026-09-16T10:26:45+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Introducing System One Models and Jev",
-      "score": 801,
+      "score": 1416,
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "time": "2026-09-15T19:25:03"
     },
     {
+      "title": "Learning Programming in an Age of LLMs",
+      "score": 26,
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "time": "2026-09-16T09:12:34"
+    },
+    {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "score": 1332,
+      "score": 1662,
       "url": "https://github.com/arnegiacomo/fugleramme",
       "time": "2026-09-15T12:31:10"
     },
     {
-      "title": "An Update on Wayback Machine Access",
-      "score": 396,
-      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "time": "2026-09-15T17:52:18"
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "score": 263,
+      "url": "https://security.apple.com/blog/apple-reference-image/",
+      "time": "2026-09-16T02:07:31"
     },
     {
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "score": 133,
-      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "time": "2026-09-15T21:07:47"
-    },
-    {
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "score": 310,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "time": "2026-09-15T17:38:18"
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "score": 35,
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "time": "2026-09-16T08:08:57"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 259362,
+      "stars": 259652,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250475,
+      "stars": 250481,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196732,
+      "stars": 196733,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158590,
+      "stars": 158597,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148236,
+      "stars": 148233,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-16T02:12:12.283556+00:00"
+  "last_updated": "2026-09-16T10:26:41.229330+00:00"
 }

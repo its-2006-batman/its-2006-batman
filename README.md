@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  50.48°N                                       ║
-║  📍 LONGITUDE: 105.16°W                                      ║
+║  📍 LATITUDE:  14.50°S                                       ║
+║  📍 LONGITUDE: 112.84°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-09-16 02:12 UTC                   ║
+║  ⏰ UPDATE: 2026-09-16 10:26 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: A Daytime Eclipse: Moon Occults Venus                    ║
-║  DATE:  2026-09-15                                                ║
+║  TITLE: Webb's View of M64                                       ║
+║  DATE:  2026-09-16                                                ║
 ║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Introducing System One Models and Jev** (801 ⭐)
-2. **Show HN: An e-ink frame that hears birds and draws them as 1...** (1332 ⭐)
-3. **An Update on Wayback Machine Access** (396 ⭐)
+1. **Introducing System One Models and Jev** (1416 ⭐)
+2. **Learning Programming in an Age of LLMs** (26 ⭐)
+3. **Show HN: An e-ink frame that hears birds and draws them as 1...** (1662 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (259362★)
-2. **react/react** (250475★)
-3. **trekhleb/javascript-algorithms** (196732★)
+1. **affaan-m/ECC** (259652★)
+2. **react/react** (250481★)
+3. **trekhleb/javascript-algorithms** (196733★)
 <!-- LIVE_DATA_END -->
