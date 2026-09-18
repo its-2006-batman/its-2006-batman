@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "A Treasure Chest in the Carina Nebula",
-    "date": "2026-09-17",
-    "explanation": "This treasure chest is full of stars.   The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pilar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away.   It is formed by interstellar gas and dust, and shaped by powerful stellar winds and radiation...",
-    "url": "https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "48.76\u00b0S",
-    "longitude": "137.63\u00b0E",
-    "timestamp": "2026-09-17T20:42:18+00:00",
+    "latitude": "39.74\u00b0N",
+    "longitude": "147.14\u00b0W",
+    "timestamp": "2026-09-18T02:02:14+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Astra for Law",
-      "score": 34,
+      "score": 319,
       "url": "https://openai.com/index/astra-for-law/",
       "time": "2026-09-17T20:17:48"
     },
     {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "score": 235,
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "time": "2026-09-17T21:13:31"
+    },
+    {
+      "title": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
+      "score": 24,
+      "url": "https://github.com/aardappel/goose/tree/master",
+      "time": "2026-09-18T01:04:54"
+    },
+    {
+      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+      "score": 288,
+      "url": "https://bend-lang.com/",
+      "time": "2026-09-17T20:36:13"
+    },
+    {
       "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "score": 302,
+      "score": 465,
       "url": "https://github.com/asciimoo/hister",
       "time": "2026-09-17T16:25:37"
-    },
-    {
-      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "score": 442,
-      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-      "time": "2026-09-15T17:28:38"
-    },
-    {
-      "title": "Wax motor",
-      "score": 84,
-      "url": "https://en.wikipedia.org/wiki/Wax_motor",
-      "time": "2026-09-16T12:35:14"
-    },
-    {
-      "title": "Everybody's Lost Their Minds",
-      "score": 41,
-      "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-      "time": "2026-09-17T19:43:34"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 261017,
+      "stars": 261207,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250542,
+      "stars": 250548,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196761,
+      "stars": 196765,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158641,
+      "stars": 158647,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148242,
+      "stars": 148244,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-17T20:42:17.714507+00:00"
+  "last_updated": "2026-09-18T02:02:13.674691+00:00"
 }
