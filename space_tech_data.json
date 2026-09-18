@@ -7,75 +7,81 @@
     "url": "https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "41.16\u00b0S",
+    "longitude": "147.81\u00b0W",
+    "timestamp": "2026-09-18T20:06:52+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "An Empirical Study of Harness Design for Coding Agents",
-      "score": 110,
-      "url": "https://arxiv.org/abs/2609.20804",
-      "time": "2026-09-18T13:06:30"
-    },
-    {
-      "title": "I Vibed a Proof of Conway's Conjecture",
-      "score": 45,
-      "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
-      "time": "2026-09-18T14:36:10"
-    },
-    {
-      "title": "AI Protest in Montreal",
-      "score": 20,
-      "url": "https://montrealgazette.com/news/photos-anti-ai-protest-in-montreal/",
-      "time": "2026-09-18T14:45:41"
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "score": 104,
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "time": "2026-09-18T19:03:09"
     },
     {
       "title": "Cloudflare Quick Tunnels",
-      "score": 13,
+      "score": 404,
       "url": "https://try.cloudflare.com/",
       "time": "2026-09-18T14:18:41"
     },
     {
-      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
-      "score": 22,
-      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-      "time": "2026-09-17T20:52:33"
+      "title": "Saving another 100TB of RAM with math (and Rust)",
+      "score": 45,
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "time": "2026-09-18T18:51:46"
+    },
+    {
+      "title": "Apple releases iPhone Duo simulator and Xcode 27.1 beta",
+      "score": 38,
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "time": "2026-09-18T18:39:31"
+    },
+    {
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "score": 106,
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "time": "2026-09-18T16:54:18"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 261682,
+      "stars": 261881,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250558,
+      "stars": 250564,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196765,
+      "stars": 196772,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158665,
+      "stars": 158672,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148244,
+      "stars": 148247,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-18T15:22:52.469965+00:00"
+  "last_updated": "2026-09-18T20:06:48.636260+00:00"
 }
