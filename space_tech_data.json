@@ -1,81 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
-  "iss_position": {
-    "latitude": "39.74\u00b0N",
-    "longitude": "147.14\u00b0W",
-    "timestamp": "2026-09-18T02:02:14+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
+  "nasa_apod": {
+    "title": "Messier 33: The Triangulum Galaxy",
+    "date": "2026-09-18",
+    "explanation": "The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M...",
+    "url": "https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg",
+    "media_type": "image"
   },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "OpenJev",
+      "score": 24,
+      "url": "https://openjev.com/",
+      "time": "2026-09-18T09:42:22"
+    },
+    {
+      "title": "Jemalloc 5.4.0",
+      "score": 148,
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "time": "2026-09-18T04:20:24"
+    },
+    {
+      "title": "The scourge of x86 emulation",
+      "score": 146,
+      "url": "https://fex-emu.com/Scourge-of-emulation/",
+      "time": "2026-09-18T04:09:48"
+    },
+    {
       "title": "Astra for Law",
-      "score": 319,
+      "score": 495,
       "url": "https://openai.com/index/astra-for-law/",
       "time": "2026-09-17T20:17:48"
     },
     {
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "score": 235,
+      "score": 455,
       "url": "https://prismml.com/news/bonsai-2-27b",
       "time": "2026-09-17T21:13:31"
-    },
-    {
-      "title": "Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe",
-      "score": 24,
-      "url": "https://github.com/aardappel/goose/tree/master",
-      "time": "2026-09-18T01:04:54"
-    },
-    {
-      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
-      "score": 288,
-      "url": "https://bend-lang.com/",
-      "time": "2026-09-17T20:36:13"
-    },
-    {
-      "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "score": 465,
-      "url": "https://github.com/asciimoo/hister",
-      "time": "2026-09-17T16:25:37"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 261207,
+      "stars": 261481,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250548,
+      "stars": 250552,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196765,
+      "stars": 196764,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158647,
+      "stars": 158660,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148244,
+      "stars": 148243,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-18T02:02:13.674691+00:00"
+  "last_updated": "2026-09-18T10:12:08.009689+00:00"
 }
