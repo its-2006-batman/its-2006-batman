@@ -1,81 +1,81 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Messier 33: The Triangulum Galaxy",
-    "date": "2026-09-18",
-    "explanation": "The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M...",
-    "url": "https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg",
+    "title": "A Zodiacal Night",
+    "date": "2026-09-19",
+    "explanation": "Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 met...",
+    "url": "https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg",
     "media_type": "image"
   },
   "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "score": 214,
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "time": "2026-09-19T05:48:50"
+    },
+    {
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "score": 89,
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "time": "2026-09-19T06:28:02"
+    },
+    {
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "score": 107,
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "time": "2026-09-19T06:41:44"
+    },
+    {
+      "title": "San Francisco Onion Futures Company",
+      "score": 190,
+      "url": "https://onionfutures.com/",
+      "time": "2026-09-19T04:23:30"
+    },
+    {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "score": 549,
+      "score": 839,
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
       "time": "2026-09-18T19:03:09"
-    },
-    {
-      "title": "Cloudflare Quick Tunnels",
-      "score": 581,
-      "url": "https://try.cloudflare.com/",
-      "time": "2026-09-18T14:18:41"
-    },
-    {
-      "title": "Saving another 100TB of RAM",
-      "score": 230,
-      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-      "time": "2026-09-18T18:51:46"
-    },
-    {
-      "title": "The Farnese letter",
-      "score": 27,
-      "url": "https://simonklee.dk/farnese-letter",
-      "time": "2026-09-17T17:39:01"
-    },
-    {
-      "title": "Xcode 27.1 Beta Release Notes",
-      "score": 114,
-      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
-      "time": "2026-09-18T18:39:31"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 262104,
+      "stars": 262412,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250575,
+      "stars": 250584,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196772,
+      "stars": 196775,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158674,
+      "stars": 158681,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148248,
+      "stars": 148247,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-19T02:06:44.560630+00:00"
+  "last_updated": "2026-09-19T09:53:34.648829+00:00"
 }
