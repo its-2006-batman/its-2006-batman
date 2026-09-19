@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "12.21\u00b0N",
-    "longitude": "21.85\u00b0W",
-    "timestamp": "2026-09-19T14:59:06+00:00",
+    "latitude": "31.01\u00b0N",
+    "longitude": "75.69\u00b0W",
+    "timestamp": "2026-09-19T19:44:02+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Laya the open source version of Jev",
-      "score": 338,
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "score": 814,
       "url": "https://laya.convaiinnovations.com/",
       "time": "2026-09-19T10:46:58"
     },
     {
-      "title": "What Zig felt like, coming from Rust",
-      "score": 39,
-      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
-      "time": "2026-09-19T13:55:18"
-    },
-    {
-      "title": "A graphical desktop for the ZX Spectrum",
-      "score": 19,
-      "url": "https://github.com/mindbox77/zxdesk",
-      "time": "2026-09-19T14:01:58"
-    },
-    {
       "title": "AI-generated posters don\u2019t have to be horrible",
-      "score": 578,
+      "score": 1036,
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "time": "2026-09-19T09:20:58"
     },
     {
-      "title": "Tin: full-text search for Postgres",
-      "score": 27,
-      "url": "https://planetscale.com/blog/introducing-tin",
-      "time": "2026-09-19T13:52:06"
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "score": 30,
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "time": "2026-09-19T18:11:40"
+    },
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "score": 570,
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "time": "2026-09-19T05:48:50"
+    },
+    {
+      "title": "A graphical desktop for the ZX Spectrum",
+      "score": 114,
+      "url": "https://github.com/mindbox77/zxdesk",
+      "time": "2026-09-19T14:01:58"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 262624,
+      "stars": 262799,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250585,
+      "stars": 250587,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196774,
+      "stars": 196775,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158687,
+      "stars": 158696,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148242,
+      "stars": 148244,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-19T14:59:06.489251+00:00"
+  "last_updated": "2026-09-19T19:43:53.887017+00:00"
 }
