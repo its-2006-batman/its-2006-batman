@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  31.01°N                                       ║
-║  📍 LONGITUDE: 75.69°W                                       ║
+║  📍 LATITUDE:  48.22°N                                       ║
+║  📍 LONGITUDE: 85.30°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-09-19 19:44 UTC                   ║
+║  ⏰ UPDATE: 2026-09-20 02:12 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **I built non-autoregressive decision models with RL a year ag...** (814 ⭐)
-2. **AI-generated posters don’t have to be horrible** (1036 ⭐)
-3. **Btrfs/ZFS/bcachefs under workloads classic benchmarks skip** (30 ⭐)
+1. **Exfiltrate Your Weights** (135 ⭐)
+2. **How Hacker News ranking works: scoring, controversy, and pen...** (154 ⭐)
+3. **I built non-autoregressive decision models with RL a year ag...** (1095 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (262799★)
-2. **react/react** (250587★)
-3. **trekhleb/javascript-algorithms** (196775★)
+1. **affaan-m/ECC** (262992★)
+2. **react/react** (250596★)
+3. **trekhleb/javascript-algorithms** (196777★)
 <!-- LIVE_DATA_END -->
