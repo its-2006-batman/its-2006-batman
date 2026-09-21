@@ -1,87 +1,51 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Analemma over the Callanish Stones",
-    "date": "2026-09-20",
-    "explanation": "If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed f...",
-    "url": "https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg",
+    "title": "Cocoon Nebula Wide Field",
+    "date": "2026-09-21",
+    "explanation": "When does a nebula look like a comet?  In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus), the eye is drawn to the Cocoon Nebula.  A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission and reflection on the ...",
+    "url": "https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "45.19\u00b0S",
-    "longitude": "98.34\u00b0E",
-    "timestamp": "2026-09-21T02:12:26+00:00",
+    "latitude": "51.29\u00b0S",
+    "longitude": "86.96\u00b0W",
+    "timestamp": "2026-09-21T11:21:15+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Google's Open Agentic Orchestrator",
-      "score": 217,
-      "url": "https://agentexecutor.io",
-      "time": "2026-09-20T22:32:43"
+      "title": "ZuckOff Know when a camera is in the room",
+      "score": 124,
+      "url": "https://zuckoff.app/",
+      "time": "2026-09-21T10:33:14"
     },
     {
-      "title": "What happened to the Snowden archive",
-      "score": 175,
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "time": "2026-09-20T22:35:49"
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "score": 74,
+      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "time": "2026-09-21T10:27:50"
     },
     {
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "score": 354,
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "time": "2026-09-20T17:38:50"
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "score": 138,
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "time": "2026-09-21T07:11:55"
     },
     {
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "score": 609,
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "time": "2026-09-20T15:18:44"
+      "title": "Jev-Leftpad",
+      "score": 74,
+      "url": "https://github.com/f/jev-leftpad",
+      "time": "2026-09-21T08:39:32"
     },
     {
-      "title": "Qwen Image 2.1",
-      "score": 508,
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "time": "2026-09-20T13:09:25"
+      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+      "score": 215,
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "time": "2026-09-21T05:55:22"
     }
   ],
-  "github_trending": [
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 263804,
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 250614,
-      "language": "JavaScript",
-      "url": "https://github.com/react/react"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196787,
-      "language": "JavaScript",
-      "url": "https://github.com/trekhleb/javascript-algorithms"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158739,
-      "language": "JavaScript",
-      "url": "https://github.com/Snailclimb/JavaGuide"
-    },
-    {
-      "name": "airbnb/javascript",
-      "description": "JavaScript Style Guide",
-      "stars": 148246,
-      "language": "JavaScript",
-      "url": "https://github.com/airbnb/javascript"
-    }
-  ],
-  "last_updated": "2026-09-21T02:12:25.213810+00:00"
+  "github_trending": [],
+  "last_updated": "2026-09-21T11:21:12.827910+00:00"
 }
