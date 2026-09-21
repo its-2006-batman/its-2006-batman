@@ -8,44 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.29\u00b0S",
-    "longitude": "86.96\u00b0W",
-    "timestamp": "2026-09-21T11:21:15+00:00",
+    "latitude": "31.23\u00b0S",
+    "longitude": "128.97\u00b0E",
+    "timestamp": "2026-09-21T17:21:15+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "ZuckOff Know when a camera is in the room",
-      "score": 124,
-      "url": "https://zuckoff.app/",
-      "time": "2026-09-21T10:33:14"
+      "title": "What Sun got wrong",
+      "score": 272,
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "time": "2026-09-21T14:03:18"
     },
     {
-      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-      "score": 74,
-      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
-      "time": "2026-09-21T10:27:50"
+      "title": "Attention is all you have",
+      "score": 176,
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "time": "2026-09-21T14:26:56"
     },
     {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "score": 138,
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "time": "2026-09-21T07:11:55"
+      "title": "Grok 4.7",
+      "score": 171,
+      "url": "https://x.ai/news/grok-4-7",
+      "time": "2026-09-21T15:50:15"
     },
     {
-      "title": "Jev-Leftpad",
-      "score": 74,
-      "url": "https://github.com/f/jev-leftpad",
-      "time": "2026-09-21T08:39:32"
+      "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
+      "score": 28,
+      "url": "http://pdp1173.com/",
+      "time": "2026-09-21T15:45:06"
     },
     {
-      "title": "Grim Fandango Puzzle Document (1996) [pdf]",
-      "score": 215,
-      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-      "time": "2026-09-21T05:55:22"
+      "title": "Fable 5 \u2013 Median thinking declined in August",
+      "score": 69,
+      "url": "https://twitter.com/Lon/status/2101793422487204027",
+      "time": "2026-09-21T16:13:57"
     }
   ],
-  "github_trending": [],
-  "last_updated": "2026-09-21T11:21:12.827910+00:00"
+  "github_trending": [
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 264556,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 250626,
+      "language": "JavaScript",
+      "url": "https://github.com/react/react"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196787,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 158772,
+      "language": "JavaScript",
+      "url": "https://github.com/Snailclimb/JavaGuide"
+    },
+    {
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148249,
+      "language": "JavaScript",
+      "url": "https://github.com/airbnb/javascript"
+    }
+  ],
+  "last_updated": "2026-09-21T17:21:14.943310+00:00"
 }
