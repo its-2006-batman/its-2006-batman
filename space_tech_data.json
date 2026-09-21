@@ -8,44 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.44\u00b0S",
-    "longitude": "163.28\u00b0E",
-    "timestamp": "2026-09-20T19:55:48+00:00",
+    "latitude": "45.19\u00b0S",
+    "longitude": "98.34\u00b0E",
+    "timestamp": "2026-09-21T02:12:26+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Google's Open Agentic Orchestrator",
+      "score": 217,
+      "url": "https://agentexecutor.io",
+      "time": "2026-09-20T22:32:43"
+    },
+    {
+      "title": "What happened to the Snowden archive",
+      "score": 175,
+      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+      "time": "2026-09-20T22:35:49"
+    },
+    {
       "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "score": 143,
+      "score": 354,
       "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
       "time": "2026-09-20T17:38:50"
     },
     {
       "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "score": 301,
+      "score": 609,
       "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
       "time": "2026-09-20T15:18:44"
     },
     {
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "score": 297,
-      "url": "https://pirateface.co/",
-      "time": "2026-09-20T15:16:07"
-    },
-    {
       "title": "Qwen Image 2.1",
-      "score": 353,
+      "score": 508,
       "url": "https://qwen.ai/blog?id=qwen-image-2.1",
       "time": "2026-09-20T13:09:25"
-    },
-    {
-      "title": "A Necessary History of the Oddest Letter: W",
-      "score": 43,
-      "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-      "time": "2026-09-20T17:55:57"
     }
   ],
-  "github_trending": [],
-  "last_updated": "2026-09-20T19:55:48.121566+00:00"
+  "github_trending": [
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 263804,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 250614,
+      "language": "JavaScript",
+      "url": "https://github.com/react/react"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196787,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 158739,
+      "language": "JavaScript",
+      "url": "https://github.com/Snailclimb/JavaGuide"
+    },
+    {
+      "name": "airbnb/javascript",
+      "description": "JavaScript Style Guide",
+      "stars": 148246,
+      "language": "JavaScript",
+      "url": "https://github.com/airbnb/javascript"
+    }
+  ],
+  "last_updated": "2026-09-21T02:12:25.213810+00:00"
 }
