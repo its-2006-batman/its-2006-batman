@@ -1,77 +1,77 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Cocoon Nebula Wide Field",
-    "date": "2026-09-21",
-    "explanation": "When does a nebula look like a comet?  In this crowded starfield covering over two degrees within the high-flying constellation of the Swan (Cygnus), the eye is drawn to the Cocoon Nebula.  A compact star forming region, the cosmic Cocoon punctuates a nebula bright in emission and reflection on the ...",
-    "url": "https://apod.nasa.gov/apod/image/2609/Cocoon_Czerski_1080.jpg",
+    "title": "Chance Triple Alignment: Plane, Space Station, Sun",
+    "date": "2026-09-22",
+    "explanation": "This shot captured an unexpected silhouette. Which is it?  It isn't the sunspots, the small dark regions caused by concentrated magnetic fields visible around the Sun's bright disk. Sunspots typically last for weeks and were expected, since these spots were seen previously.  It isn\u2019t the Internation...",
+    "url": "https://apod.nasa.gov/apod/image/2609/PlaneIssSpots_Horalek_960.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "29.63\u00b0N",
-    "longitude": "62.74\u00b0W",
-    "timestamp": "2026-09-22T02:17:15+00:00",
+    "latitude": "49.54\u00b0S",
+    "longitude": "93.12\u00b0W",
+    "timestamp": "2026-09-22T10:30:51+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Xiaomi MiMo v2.6",
-      "score": 564,
+      "title": "Can gzip be a language model?",
+      "score": 152,
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "time": "2026-09-22T06:08:39"
+    },
+    {
+      "title": "AMD's random number generator can't generate a 0?",
+      "score": 40,
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
+      "time": "2026-09-22T08:39:43"
+    },
+    {
+      "title": "MiMo v2.6",
+      "score": 916,
       "url": "https://mimo.xiaomi.com/mimo-v2-6",
       "time": "2026-09-21T20:12:12"
     },
     {
-      "title": "Claude Status \u2013 Elevated errors for multiple models",
-      "score": 60,
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "time": "2026-09-22T01:05:19"
-    },
-    {
       "title": "Spymarks, Not Watermarks",
-      "score": 129,
+      "score": 453,
       "url": "https://brand.io/article/spymarks/",
       "time": "2026-09-21T23:03:49"
     },
     {
-      "title": "I don't want to read what you didn't write",
-      "score": 283,
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "time": "2026-09-21T22:30:41"
-    },
-    {
-      "title": "Transformers Explained Visually",
-      "score": 214,
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "time": "2026-09-21T19:43:49"
+      "title": "I said no and Apple said yes",
+      "score": 171,
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "time": "2026-09-22T08:04:55"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 264779,
+      "stars": 265003,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250640,
+      "stars": 250646,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196788,
+      "stars": 196790,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158778,
+      "stars": 158793,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-22T02:17:11.634932+00:00"
+  "last_updated": "2026-09-22T10:30:50.901807+00:00"
 }
