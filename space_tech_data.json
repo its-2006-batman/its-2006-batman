@@ -7,65 +7,71 @@
     "url": "https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg",
     "media_type": "image"
   },
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "31.12\u00b0S",
+    "longitude": "172.83\u00b0W",
+    "timestamp": "2026-09-23T20:48:18+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "score": 248,
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "time": "2026-09-23T18:06:47"
+    },
+    {
       "title": "Fixing the Portobello Police Station Clock",
-      "score": 32,
+      "score": 316,
       "url": "https://pointinthecloud.com/2026-04-11-211700.html",
       "time": "2026-09-23T15:18:53"
     },
     {
-      "title": "Strands Harness",
-      "score": 35,
-      "url": "https://strandsagents.com/blog/introducing-strands-harness/",
-      "time": "2026-09-23T15:05:46"
+      "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
+      "score": 118,
+      "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
+      "time": "2026-09-23T19:55:14"
     },
     {
-      "title": "Stripe's Knowledge AI Platform",
-      "score": 65,
-      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-      "time": "2026-09-23T13:38:00"
+      "title": "A brief history of Windows scroll bar shortcuts",
+      "score": 60,
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "time": "2026-09-23T18:02:08"
     },
     {
-      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-      "score": 333,
-      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "time": "2026-09-23T12:15:33"
-    },
-    {
-      "title": "GPT-6 Astra has gained the ability to drive a car",
-      "score": 11,
-      "url": "https://drivingbench.com/",
-      "time": "2026-09-23T15:14:22"
+      "title": "Italian parliament votes for return to nuclear energy",
+      "score": 332,
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "time": "2026-09-23T17:06:16"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 265971,
+      "stars": 266109,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250668,
+      "stars": 250670,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196794,
+      "stars": 196795,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158839,
+      "stars": 158843,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -77,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-23T15:43:33.366382+00:00"
+  "last_updated": "2026-09-23T20:48:13.623074+00:00"
 }
