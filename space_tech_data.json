@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.60\u00b0N",
-    "longitude": "47.28\u00b0W",
-    "timestamp": "2026-09-22T20:37:18+00:00",
+    "latitude": "24.23\u00b0S",
+    "longitude": "117.18\u00b0E",
+    "timestamp": "2026-09-23T02:17:23+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "GPT-6 Sol and Luna",
-      "score": 744,
+      "score": 1202,
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
       "time": "2026-09-22T18:00:34"
     },
     {
       "title": "Claude Opus 5.5",
-      "score": 846,
+      "score": 1224,
       "url": "https://www.anthropic.com/claude-opus-5-5",
       "time": "2026-09-22T16:29:05"
     },
     {
+      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+      "score": 414,
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "time": "2026-09-22T17:46:02"
+    },
+    {
       "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
-      "score": 477,
+      "score": 564,
       "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
       "time": "2026-09-22T13:52:15"
     },
     {
-      "title": "SAML: A Fractal of Bad Design",
-      "score": 67,
-      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "time": "2026-09-22T18:57:17"
-    },
-    {
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "score": 155,
-      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "time": "2026-09-22T16:51:31"
+      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+      "score": 77,
+      "url": "https://github.com/xCuri0/ReBarUEFI",
+      "time": "2026-09-21T01:07:46"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 265321,
+      "stars": 265491,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250655,
+      "stars": 250658,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196794,
+      "stars": 196796,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158811,
+      "stars": 158810,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148260,
+      "stars": 148261,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-22T20:37:15.725579+00:00"
+  "last_updated": "2026-09-23T02:17:22.775716+00:00"
 }
