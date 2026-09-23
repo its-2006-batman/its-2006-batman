@@ -7,81 +7,75 @@
     "url": "https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "43.81\u00b0N",
-    "longitude": "63.50\u00b0E",
-    "timestamp": "2026-09-23T10:25:27+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Jev in 25 Lines of Python",
-      "score": 168,
-      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-      "time": "2026-09-23T07:26:23"
+      "title": "Fixing the Portobello Police Station Clock",
+      "score": 32,
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "time": "2026-09-23T15:18:53"
     },
     {
-      "title": "GPT-6 Sol and Luna",
-      "score": 1546,
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "time": "2026-09-22T18:00:34"
+      "title": "Strands Harness",
+      "score": 35,
+      "url": "https://strandsagents.com/blog/introducing-strands-harness/",
+      "time": "2026-09-23T15:05:46"
     },
     {
-      "title": "Claude Opus 5.5",
-      "score": 1558,
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "time": "2026-09-22T16:29:05"
+      "title": "Stripe's Knowledge AI Platform",
+      "score": 65,
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "time": "2026-09-23T13:38:00"
     },
     {
-      "title": "Abandoning Scientific Linux Was a Mistake",
-      "score": 62,
-      "url": "https://blog.melashri.net/posts/scientific-linux-mistake/",
-      "time": "2026-09-23T08:46:39"
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "score": 333,
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "time": "2026-09-23T12:15:33"
     },
     {
-      "title": "Transit rewards",
-      "score": 144,
-      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-      "time": "2026-09-23T02:52:29"
+      "title": "GPT-6 Astra has gained the ability to drive a car",
+      "score": 11,
+      "url": "https://drivingbench.com/",
+      "time": "2026-09-23T15:14:22"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 265774,
+      "stars": 265971,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250660,
+      "stars": 250668,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196798,
+      "stars": 196794,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158829,
+      "stars": 158839,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148262,
+      "stars": 148261,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-23T10:25:25.483453+00:00"
+  "last_updated": "2026-09-23T15:43:33.366382+00:00"
 }
