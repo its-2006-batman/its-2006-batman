@@ -8,56 +8,56 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "31.12\u00b0S",
-    "longitude": "172.83\u00b0W",
-    "timestamp": "2026-09-23T20:48:18+00:00",
+    "latitude": "49.00\u00b0N",
+    "longitude": "110.33\u00b0W",
+    "timestamp": "2026-09-24T02:04:31+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "score": 157,
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "time": "2026-09-23T22:38:16"
+    },
+    {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "score": 248,
+      "score": 504,
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "time": "2026-09-23T18:06:47"
     },
     {
-      "title": "Fixing the Portobello Police Station Clock",
-      "score": 316,
-      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "time": "2026-09-23T15:18:53"
+      "title": "Meta VR Glasses",
+      "score": 225,
+      "url": "https://www.meta.com/vr-glasses/",
+      "time": "2026-09-23T23:47:56"
     },
     {
-      "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
-      "score": 118,
-      "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
-      "time": "2026-09-23T19:55:14"
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "score": 130,
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "time": "2026-09-23T21:01:48"
     },
     {
-      "title": "A brief history of Windows scroll bar shortcuts",
-      "score": 60,
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-      "time": "2026-09-23T18:02:08"
-    },
-    {
-      "title": "Italian parliament votes for return to nuclear energy",
-      "score": 332,
-      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-      "time": "2026-09-23T17:06:16"
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "score": 57,
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
+      "time": "2026-09-23T22:45:49"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 266109,
+      "stars": 266211,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250670,
+      "stars": 250671,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -71,17 +71,17 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158843,
+      "stars": 158844,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148261,
+      "stars": 148260,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-23T20:48:13.623074+00:00"
+  "last_updated": "2026-09-24T02:04:29.824817+00:00"
 }
