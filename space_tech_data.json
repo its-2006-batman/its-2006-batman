@@ -10,72 +10,72 @@
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Nokia Design Archive",
-      "score": 39,
+      "title": "F-Droid 2.0: A New Chapter for Android Freedom",
+      "score": 126,
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "time": "2026-09-24T15:26:12"
+    },
+    {
+      "title": "Dynamic Abliteration: Non-Destructive Refusal Suppression via Engram Steering",
+      "score": 66,
+      "url": "https://blog.madhukaraphatak.in/non-destructive-refusal-supression-using-engram",
+      "time": "2026-09-24T14:33:52"
+    },
+    {
+      "title": "Enjoy Every Sandwich",
+      "score": 104,
+      "url": "https://bradmontague.substack.com/p/enjoy-every-sandwich",
+      "time": "2026-09-22T18:19:25"
+    },
+    {
+      "title": "The science of Monkey Island: can grog dissolve a metal mug that fast?",
+      "score": 50,
+      "url": "https://jgeekstudies.org/2026/09/23/the-science-of-monkey-island-can-grog-actually-dissolve-a-metal-mug-that-fast/",
+      "time": "2026-09-23T15:55:57"
+    },
+    {
+      "title": "Nokia Design Archive (2025)",
+      "score": 162,
       "url": "https://nokiadesignarchive.aalto.fi/index.html",
       "time": "2026-09-24T09:49:33"
-    },
-    {
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "score": 429,
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "time": "2026-09-23T22:38:16"
-    },
-    {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "score": 660,
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "time": "2026-09-23T18:06:47"
-    },
-    {
-      "title": "Where's the Beef?: The lab-grown-meat revolution that wasn't",
-      "score": 15,
-      "url": "https://harpers.org/archive/2026/09/wheres-the-beef-lab-grown-meat-erin-somers/",
-      "time": "2026-09-23T21:54:07"
-    },
-    {
-      "title": "Ideas on modernizing the open-source desktop",
-      "score": 149,
-      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-      "time": "2026-09-24T02:52:09"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 266428,
+      "stars": 266611,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250680,
+      "stars": 250688,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196795,
+      "stars": 196794,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158850,
+      "stars": 158852,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148260,
+      "stars": 148262,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-24T10:41:54.631100+00:00"
+  "last_updated": "2026-09-24T16:05:00.976988+00:00"
 }
