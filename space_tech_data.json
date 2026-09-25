@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "The Ghosts of Five Supernovas",
-    "date": "2026-09-24",
-    "explanation": "The ghosts of five supernovas haunt this extraordinary image.   It was acquired at Ouka\u00efmeden Observatory in Morocco with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the area of one thousand full moons tiled together, in the constellation of Auriga (the ...",
-    "url": "https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_1000.jpg",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "9.27\u00b0N",
-    "longitude": "20.92\u00b0E",
-    "timestamp": "2026-09-24T20:54:00+00:00",
+    "latitude": "1.05\u00b0S",
+    "longitude": "124.29\u00b0E",
+    "timestamp": "2026-09-25T02:21:30+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "F-Droid 2.0",
-      "score": 694,
+      "score": 961,
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
       "time": "2026-09-24T15:26:12"
     },
     {
       "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "score": 240,
+      "score": 500,
       "url": "https://bastardica.mitpit.com",
       "time": "2026-09-23T22:53:28"
     },
     {
       "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
-      "score": 127,
+      "score": 206,
       "url": "https://github.com/devdotfast/whiteboard",
       "time": "2026-09-24T17:21:36"
     },
     {
-      "title": "Fearless SIMD v1.0",
-      "score": 106,
-      "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "time": "2026-09-22T12:23:37"
+      "title": "Why is the liver so weirdly regenerative?",
+      "score": 271,
+      "url": "https://dynomight.substack.com/p/liver",
+      "time": "2026-09-24T16:23:00"
     },
     {
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "score": 146,
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "time": "2026-09-23T15:33:33"
+      "title": "Fearless SIMD v1.0",
+      "score": 190,
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "time": "2026-09-22T12:23:37"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 266774,
+      "stars": 266949,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250700,
+      "stars": 250706,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196795,
+      "stars": 196797,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158857,
+      "stars": 158864,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148268,
+      "stars": 148273,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-24T20:54:00.108705+00:00"
+  "last_updated": "2026-09-25T02:21:29.251717+00:00"
 }
