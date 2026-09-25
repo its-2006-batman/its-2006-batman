@@ -1,81 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
-  "iss_position": {
-    "latitude": "1.05\u00b0S",
-    "longitude": "124.29\u00b0E",
-    "timestamp": "2026-09-25T02:21:30+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
+  "nasa_apod": {
+    "title": "Globular Cluster Omega Centauri",
+    "date": "2026-09-25",
+    "explanation": "Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Wa...",
+    "url": "https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg",
+    "media_type": "image"
   },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "score": 211,
+      "url": "https://www.dawo.community/en/",
+      "time": "2026-09-25T08:06:49"
+    },
+    {
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "score": 71,
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "time": "2026-09-25T07:27:45"
+    },
+    {
+      "title": "Ink and Switch Interactive Homepage",
+      "score": 22,
+      "url": "https://www.inkandswitch.com/",
+      "time": "2026-09-25T09:50:25"
+    },
+    {
       "title": "F-Droid 2.0",
-      "score": 961,
+      "score": 1261,
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
       "time": "2026-09-24T15:26:12"
     },
     {
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "score": 500,
-      "url": "https://bastardica.mitpit.com",
-      "time": "2026-09-23T22:53:28"
-    },
-    {
-      "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
-      "score": 206,
-      "url": "https://github.com/devdotfast/whiteboard",
-      "time": "2026-09-24T17:21:36"
-    },
-    {
-      "title": "Why is the liver so weirdly regenerative?",
-      "score": 271,
-      "url": "https://dynomight.substack.com/p/liver",
-      "time": "2026-09-24T16:23:00"
-    },
-    {
-      "title": "Fearless SIMD v1.0",
-      "score": 190,
-      "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "time": "2026-09-22T12:23:37"
+      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+      "score": 53,
+      "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+      "time": "2026-09-25T07:03:46"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 266949,
+      "stars": 267168,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250706,
+      "stars": 250712,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196797,
+      "stars": 196796,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158864,
+      "stars": 158869,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148273,
+      "stars": 148272,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-25T02:21:29.251717+00:00"
+  "last_updated": "2026-09-25T10:45:30.079925+00:00"
 }
