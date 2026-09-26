@@ -7,81 +7,75 @@
     "url": "https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "28.69\u00b0S",
-    "longitude": "104.09\u00b0W",
-    "timestamp": "2026-09-26T15:18:53+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-      "score": 324,
-      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-      "time": "2026-09-26T10:55:56"
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "score": 212,
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "time": "2026-09-25T10:55:40"
     },
     {
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "score": 167,
-      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "time": "2026-09-26T09:13:41"
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "score": 63,
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "time": "2026-09-26T15:56:34"
     },
     {
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "score": 582,
-      "url": "https://swarmtraces.org/",
-      "time": "2026-09-25T21:09:27"
+      "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
+      "score": 45,
+      "url": "https://github.com/reladraw/reladraw",
+      "time": "2026-09-26T17:10:40"
     },
     {
-      "title": "Modern Object Pascal Introduction for Programmers \u2013 Castle Game Engine",
-      "score": 39,
-      "url": "https://castle-engine.io/modern_pascal",
-      "time": "2026-09-24T11:33:56"
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "score": 38,
+      "url": "https://www.movingimagearchive.com/",
+      "time": "2026-09-24T16:11:42"
     },
     {
-      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-      "score": 8,
-      "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-      "time": "2026-09-25T20:53:54"
+      "title": "The Lost Atomic Update on Loongson CPU",
+      "score": 73,
+      "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+      "time": "2026-09-24T08:36:40"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 267786,
+      "stars": 267877,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250748,
+      "stars": 250753,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196813,
+      "stars": 196815,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158883,
+      "stars": 158890,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148281,
+      "stars": 148283,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-26T15:18:51.244008+00:00"
+  "last_updated": "2026-09-26T20:19:06.039910+00:00"
 }
