@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "14.08\u00b0S",
-    "longitude": "168.19\u00b0W",
-    "timestamp": "2026-09-25T20:50:34+00:00",
+    "latitude": "18.20\u00b0S",
+    "longitude": "46.87\u00b0W",
+    "timestamp": "2026-09-26T02:25:59+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "score": 234,
+      "url": "https://swarmtraces.org/",
+      "time": "2026-09-25T21:09:27"
+    },
+    {
       "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
-      "score": 166,
+      "score": 347,
       "url": "https://ollaya.dev/",
       "time": "2026-09-25T18:33:50"
     },
     {
-      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-      "score": 82,
-      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-      "time": "2026-09-25T18:37:05"
-    },
-    {
-      "title": "Platform-independent SIMD in Go",
-      "score": 317,
-      "url": "https://go.dev/blog/simd-experiment",
-      "time": "2026-09-25T11:47:06"
-    },
-    {
       "title": "Show HN: Jev Plays Pok\u00e9mon Red",
-      "score": 46,
+      "score": 159,
       "url": "https://jev-pokemon.vercel.app/",
       "time": "2026-09-25T14:28:07"
     },
     {
-      "title": "Advice to a Beginning Graduate Student (2001)",
-      "score": 30,
-      "url": "https://www.cs.cmu.edu/~mblum/research/pdf/grad.html",
-      "time": "2026-09-25T19:12:45"
+      "title": "What even is an OS now?",
+      "score": 88,
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "time": "2026-09-25T21:36:56"
+    },
+    {
+      "title": "Plan mode is dead",
+      "score": 102,
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "time": "2026-09-25T03:59:11"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 267407,
+      "stars": 267537,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250734,
+      "stars": 250735,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196804,
+      "stars": 196809,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158866,
+      "stars": 158873,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148275,
+      "stars": 148280,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-25T20:50:32.459605+00:00"
+  "last_updated": "2026-09-26T02:25:59.046777+00:00"
 }
