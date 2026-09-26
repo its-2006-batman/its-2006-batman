@@ -8,70 +8,70 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "51.48\u00b0S",
-    "longitude": "88.80\u00b0W",
-    "timestamp": "2026-09-26T10:27:57+00:00",
+    "latitude": "28.69\u00b0S",
+    "longitude": "104.09\u00b0W",
+    "timestamp": "2026-09-26T15:18:53+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "score": 37,
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "time": "2026-09-26T09:41:58"
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "score": 324,
+      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "time": "2026-09-26T10:55:56"
     },
     {
       "title": "Fifteen years later, the Apple Cards origin story",
-      "score": 10,
+      "score": 167,
       "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
       "time": "2026-09-26T09:13:41"
     },
     {
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "score": 494,
+      "score": 582,
       "url": "https://swarmtraces.org/",
       "time": "2026-09-25T21:09:27"
     },
     {
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "score": 79,
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "time": "2026-09-26T04:20:58"
+      "title": "Modern Object Pascal Introduction for Programmers \u2013 Castle Game Engine",
+      "score": 39,
+      "url": "https://castle-engine.io/modern_pascal",
+      "time": "2026-09-24T11:33:56"
     },
     {
-      "title": "We're gonna need a lot more mathematicians",
-      "score": 142,
-      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "time": "2026-09-26T02:46:54"
+      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+      "score": 8,
+      "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+      "time": "2026-09-25T20:53:54"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 267691,
+      "stars": 267786,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250742,
+      "stars": 250748,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196812,
+      "stars": 196813,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158880,
+      "stars": 158883,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -83,5 +83,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-26T10:27:57.228890+00:00"
+  "last_updated": "2026-09-26T15:18:51.244008+00:00"
 }
