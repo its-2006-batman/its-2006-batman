@@ -1,87 +1,87 @@
 {
   "spacex_launch": null,
   "nasa_apod": {
-    "title": "Andromeda before Photoshop",
-    "date": "2026-09-27",
-    "explanation": "What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections.  The picture is a stack of 223 images, eac...",
-    "url": "https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg",
+    "title": "Cosmic Latte: The Average Color of the Universe",
+    "date": "2026-09-28",
+    "explanation": "What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived shade of beige. In comp...",
+    "url": "https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "29.27\u00b0S",
-    "longitude": "47.55\u00b0W",
-    "timestamp": "2026-09-28T02:26:07+00:00",
+    "latitude": "7.97\u00b0S",
+    "longitude": "50.35\u00b0W",
+    "timestamp": "2026-09-28T12:16:40+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Self-parking car using genetic algorithm (2021)",
-      "score": 24,
-      "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
-      "time": "2026-09-28T01:21:32"
+      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+      "score": 82,
+      "url": "https://git.mills.io/prologic/parley",
+      "time": "2026-09-28T10:30:54"
     },
     {
-      "title": "When did Google get so weird?",
-      "score": 828,
-      "url": "https://sancho.bearblog.dev/google-weird/",
-      "time": "2026-09-27T20:12:54"
+      "title": "AI companies in race to demonstrate their model most threatening to humanity",
+      "score": 111,
+      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
+      "time": "2026-09-28T08:35:40"
     },
     {
-      "title": "Ember-1",
-      "score": 365,
-      "url": "https://fireworks.ai/blog/ember-1",
-      "time": "2026-09-27T17:31:53"
+      "title": "Owed a billion dollars in Nvidia stock",
+      "score": 803,
+      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "time": "2026-09-28T02:05:13"
     },
     {
-      "title": "Research finds 485 chemicals in US pesticide products linked to breast cancer",
-      "score": 32,
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
-      "time": "2026-09-28T01:27:21"
+      "title": "Footguns with Postgres \"at time zone 'UTC'\"",
+      "score": 61,
+      "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
+      "time": "2026-09-27T10:19:51"
     },
     {
-      "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
-      "score": 24,
-      "url": "https://github.com/dashersw/coyopedal",
-      "time": "2026-09-26T02:24:50"
+      "title": "37,500 border drawings: a map of the world as people remember it",
+      "score": 34,
+      "url": "https://www.habibicode.org/thedrawnworld",
+      "time": "2026-09-28T08:35:10"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 268453,
+      "stars": 268665,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250786,
+      "stars": 250797,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196825,
+      "stars": 196828,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158917,
+      "stars": 158932,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148288,
+      "stars": 148287,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-28T02:26:05.619343+00:00"
+  "last_updated": "2026-09-28T12:16:39.579179+00:00"
 }
