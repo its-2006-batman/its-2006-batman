@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "7.97\u00b0S",
-    "longitude": "50.35\u00b0W",
-    "timestamp": "2026-09-28T12:16:40+00:00",
+    "latitude": "50.77\u00b0S",
+    "longitude": "52.82\u00b0E",
+    "timestamp": "2026-09-28T22:43:16+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-      "score": 82,
-      "url": "https://git.mills.io/prologic/parley",
-      "time": "2026-09-28T10:30:54"
+      "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "score": 129,
+      "url": "https://github.com/firelex/jeff",
+      "time": "2026-09-28T20:23:36"
     },
     {
-      "title": "AI companies in race to demonstrate their model most threatening to humanity",
-      "score": 111,
-      "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-      "time": "2026-09-28T08:35:40"
+      "title": "Pirating the Pirates",
+      "score": 356,
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "time": "2026-09-28T15:54:15"
     },
     {
-      "title": "Owed a billion dollars in Nvidia stock",
-      "score": 803,
-      "url": "https://colo.to/nvidia-stock-narrative.html",
-      "time": "2026-09-28T02:05:13"
+      "title": "12,000-year-old G\u00f6beklitepe burials explain scattered bones",
+      "score": 46,
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "time": "2026-09-26T10:16:26"
     },
     {
-      "title": "Footguns with Postgres \"at time zone 'UTC'\"",
-      "score": 61,
-      "url": "https://bookofrevenue.com/blog/6ab81e9a97a13f0001f7e4e1/postgres-at-time-zone-u-does-not-do-what-you-think-it-does",
-      "time": "2026-09-27T10:19:51"
+      "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
+      "score": 94,
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "time": "2026-09-28T18:58:53"
     },
     {
-      "title": "37,500 border drawings: a map of the world as people remember it",
-      "score": 34,
-      "url": "https://www.habibicode.org/thedrawnworld",
-      "time": "2026-09-28T08:35:10"
+      "title": "World Labs Is Joining AMD",
+      "score": 125,
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "time": "2026-09-28T20:18:05"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 268665,
+      "stars": 268953,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250797,
+      "stars": 250810,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196828,
+      "stars": 196835,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158932,
+      "stars": 158937,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "airbnb/javascript",
       "description": "JavaScript Style Guide",
-      "stars": 148287,
+      "stars": 148285,
       "language": "JavaScript",
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-28T12:16:39.579179+00:00"
+  "last_updated": "2026-09-28T22:43:14.416552+00:00"
 }
