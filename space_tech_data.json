@@ -1,81 +1,51 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "Sh2-188: The Shrimp Nebula",
+    "date": "2026-09-29",
+    "explanation": "What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its...",
+    "url": "https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "39.87\u00b0N",
-    "longitude": "0.49\u00b0W",
-    "timestamp": "2026-09-29T11:45:09+00:00",
+    "latitude": "45.17\u00b0S",
+    "longitude": "107.76\u00b0E",
+    "timestamp": "2026-09-29T17:12:23+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "AI companies leak data to advertisers [pdf]",
-      "score": 136,
+      "title": "GPT 6.1 Sol",
+      "score": 44,
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "time": "2026-09-29T17:06:45"
+    },
+    {
+      "title": "How Delhi cut electricity loss from 50 to 5 percent",
+      "score": 296,
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "time": "2026-09-29T12:43:29"
+    },
+    {
+      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+      "score": 75,
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "time": "2026-09-29T16:30:48"
+    },
+    {
+      "title": "Dots",
+      "score": 8,
+      "url": "https://openai.com/index/introducing-dots/",
+      "time": "2026-09-29T17:07:57"
+    },
+    {
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "score": 371,
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "time": "2026-09-29T09:03:41"
-    },
-    {
-      "title": "You Are No Longer Invited to Dinner",
-      "score": 10,
-      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-      "time": "2026-09-29T11:14:45"
-    },
-    {
-      "title": "Using any C++ library in Godot",
-      "score": 59,
-      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-      "time": "2026-09-29T08:40:37"
-    },
-    {
-      "title": "Jeeves. Reasoning improves Jev-like decision models",
-      "score": 17,
-      "url": "https://github.com/PostHog/jeeves",
-      "time": "2026-09-29T11:13:54"
-    },
-    {
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "score": 160,
-      "url": "https://jagi.studio/posts/phyllotaxis/",
-      "time": "2026-09-28T16:18:57"
     }
   ],
-  "github_trending": [
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 269303,
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 250823,
-      "language": "JavaScript",
-      "url": "https://github.com/react/react"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196840,
-      "language": "JavaScript",
-      "url": "https://github.com/trekhleb/javascript-algorithms"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158949,
-      "language": "JavaScript",
-      "url": "https://github.com/Snailclimb/JavaGuide"
-    },
-    {
-      "name": "airbnb/javascript",
-      "description": "JavaScript Style Guide",
-      "stars": 148287,
-      "language": "JavaScript",
-      "url": "https://github.com/airbnb/javascript"
-    }
-  ],
-  "last_updated": "2026-09-29T11:44:57.783627+00:00"
+  "github_trending": [],
+  "last_updated": "2026-09-29T17:12:21.896872+00:00"
 }
