@@ -2,56 +2,56 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "9.52\u00b0S",
-    "longitude": "4.74\u00b0W",
-    "timestamp": "2026-09-29T21:37:10+00:00",
+    "latitude": "20.85\u00b0S",
+    "longitude": "70.10\u00b0E",
+    "timestamp": "2026-09-30T02:51:49+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "score": 285,
+      "url": "https://github.com/ninjahawk/livenerf",
+      "time": "2026-09-29T22:36:14"
+    },
+    {
       "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "score": 76,
+      "score": 179,
       "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
       "time": "2026-09-29T19:30:17"
     },
     {
-      "title": "Tcl/Tk 9.1",
-      "score": 198,
-      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-      "time": "2026-09-29T17:13:38"
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "score": 128,
+      "url": "https://space.bl2.net/",
+      "time": "2026-09-29T19:08:01"
+    },
+    {
+      "title": "America.gov",
+      "score": 388,
+      "url": "https://america.gov/",
+      "time": "2026-09-29T14:04:57"
     },
     {
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "score": 651,
+      "score": 809,
       "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
       "time": "2026-09-29T17:06:45"
-    },
-    {
-      "title": "How Delhi cut electricity loss from 50 to 5 percent",
-      "score": 395,
-      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "time": "2026-09-29T12:43:29"
-    },
-    {
-      "title": "PS5 Relapse Exploit",
-      "score": 168,
-      "url": "https://github.com/ntfargo/Relapse-Exploit",
-      "time": "2026-09-29T15:44:41"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 269589,
+      "stars": 269685,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250828,
+      "stars": 250834,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -65,7 +65,7 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158959,
+      "stars": 158962,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/airbnb/javascript"
     }
   ],
-  "last_updated": "2026-09-29T21:37:00.003752+00:00"
+  "last_updated": "2026-09-30T02:51:46.598988+00:00"
 }
