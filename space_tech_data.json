@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "8.11\u00b0S",
-    "longitude": "142.02\u00b0E",
-    "timestamp": "2026-09-30T11:31:43+00:00",
+    "latitude": "45.12\u00b0N",
+    "longitude": "77.84\u00b0W",
+    "timestamp": "2026-09-30T17:10:29+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Pi.dev: You Said No MCP",
-      "score": 120,
+      "title": "You Said No MCP",
+      "score": 447,
       "url": "https://earendil.com/posts/you-said-no-mcp/",
       "time": "2026-09-30T09:55:23"
     },
     {
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "score": 673,
-      "url": "https://github.com/ninjahawk/livenerf",
-      "time": "2026-09-29T22:36:14"
+      "title": "A Brief History of the Bloomberg Terminal",
+      "score": 59,
+      "url": "https://spectrum.ieee.org/bloomberg-terminal",
+      "time": "2026-09-30T14:34:07"
     },
     {
-      "title": "Show HN: JBR-001 \u2013 An open-source 3D printable desktop robot",
-      "score": 14,
-      "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-      "time": "2026-09-29T10:05:56"
+      "title": "The AI Race Just Got Awkward",
+      "score": 300,
+      "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
+      "time": "2026-09-30T15:50:11"
     },
     {
-      "title": "Solving Factorio Quality",
-      "score": 105,
-      "url": "https://exyr.org/2026/solving-factorio-quality/",
-      "time": "2026-09-29T02:27:54"
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "score": 69,
+      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "time": "2026-09-30T13:50:50"
     },
     {
-      "title": "September 2026: The world today, as seen by one Polish guy",
-      "score": 291,
-      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-      "time": "2026-09-30T07:12:31"
+      "title": "I Could've Accessed 17T Microsoft Records",
+      "score": 104,
+      "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+      "time": "2026-09-28T20:32:46"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 269900,
+      "stars": 270061,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250840,
+      "stars": 250841,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196848,
+      "stars": 196849,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158974,
+      "stars": 158976,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 148581,
+      "stars": 148872,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-09-30T11:31:30.138728+00:00"
+  "last_updated": "2026-09-30T17:10:16.577259+00:00"
 }
