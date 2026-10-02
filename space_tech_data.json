@@ -2,80 +2,44 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "27.59\u00b0N",
-    "longitude": "115.14\u00b0W",
-    "timestamp": "2026-10-02T16:59:16+00:00",
+    "latitude": "13.71\u00b0N",
+    "longitude": "162.03\u00b0E",
+    "timestamp": "2026-10-02T21:32:48+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "The Legend of von Neumann (1973) [pdf]",
-      "score": 137,
-      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
-      "time": "2026-10-02T13:18:32"
+      "title": "Apple Pass Designer",
+      "score": 207,
+      "url": "https://developer.apple.com/pass-designer/",
+      "time": "2026-10-02T19:06:56"
     },
     {
-      "title": "Supabase is acquiring Turso",
-      "score": 81,
-      "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
-      "time": "2026-10-02T15:43:03"
-    },
-    {
-      "title": "Giving friends custom text buzzes based on Morse code",
-      "score": 28,
-      "url": "https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/",
-      "time": "2026-10-01T18:56:52"
+      "title": "Zig v0.17.0",
+      "score": 51,
+      "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "time": "2026-10-02T20:56:36"
     },
     {
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "score": 24,
+      "score": 387,
       "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
       "time": "2026-10-01T22:23:07"
     },
     {
-      "title": "Shimano Bicycle Museum Review",
-      "score": 255,
-      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-      "time": "2026-10-02T05:12:58"
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "score": 104,
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "time": "2026-10-02T11:07:17"
+    },
+    {
+      "title": "Greg Kroah-Hartman \u2013 Security in the LLM Age [video]",
+      "score": 127,
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "time": "2026-10-02T02:51:27"
     }
   ],
-  "github_trending": [
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 271030,
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 250860,
-      "language": "JavaScript",
-      "url": "https://github.com/react/react"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196865,
-      "language": "JavaScript",
-      "url": "https://github.com/trekhleb/javascript-algorithms"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159005,
-      "language": "JavaScript",
-      "url": "https://github.com/Snailclimb/JavaGuide"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 151384,
-      "language": "JavaScript",
-      "url": "https://github.com/DietrichGebert/ponytail"
-    }
-  ],
-  "last_updated": "2026-10-02T16:59:02.174722+00:00"
+  "github_trending": [],
+  "last_updated": "2026-10-02T21:32:43.201386+00:00"
 }
