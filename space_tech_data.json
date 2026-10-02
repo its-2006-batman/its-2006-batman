@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "16.50\u00b0N",
-    "longitude": "87.15\u00b0E",
-    "timestamp": "2026-10-02T03:00:25+00:00",
+    "latitude": "19.40\u00b0S",
+    "longitude": "139.86\u00b0E",
+    "timestamp": "2026-10-02T11:31:38+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Pi 1.0",
-      "score": 820,
+      "score": 1359,
       "url": "https://earendil.com/posts/pi-1-0/",
       "time": "2026-10-01T19:33:05"
     },
     {
+      "title": "Shimano Bicycle Museum Review",
+      "score": 134,
+      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "time": "2026-10-02T05:12:58"
+    },
+    {
       "title": "Several vulnerabilities have been discovered in the Linux kernel",
-      "score": 135,
+      "score": 344,
       "url": "https://lwn.net/Articles/1097401/",
       "time": "2026-10-01T23:10:44"
     },
     {
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "score": 446,
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "time": "2026-10-01T16:18:57"
+      "title": "Show HN: Audionaut \u2013 an open-source cross-platform multitrack audio editor",
+      "score": 27,
+      "url": "https://github.com/kvoltmer/Audionaut",
+      "time": "2026-10-02T08:05:48"
     },
     {
-      "title": "SvelteKit 3",
-      "score": 141,
-      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "time": "2026-10-01T20:14:23"
-    },
-    {
-      "title": "Ask HN: Who is hiring? (October 2026)",
-      "score": 162,
-      "url": "https://news.ycombinator.com/item?id=49922569",
-      "time": "2026-10-01T15:02:07"
+      "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl",
+      "score": 27,
+      "url": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
+      "time": "2026-10-02T10:50:08"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 270744,
+      "stars": 270924,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250868,
+      "stars": 250858,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196868,
+      "stars": 196865,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159007,
+      "stars": 159008,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 150621,
+      "stars": 151117,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-10-02T03:00:15.992242+00:00"
+  "last_updated": "2026-10-02T11:31:37.489051+00:00"
 }
