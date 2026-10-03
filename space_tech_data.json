@@ -2,44 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "13.71\u00b0N",
-    "longitude": "162.03\u00b0E",
-    "timestamp": "2026-10-02T21:32:48+00:00",
+    "latitude": "19.91\u00b0N",
+    "longitude": "125.47\u00b0W",
+    "timestamp": "2026-10-03T02:46:20+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Apple Pass Designer",
-      "score": 207,
-      "url": "https://developer.apple.com/pass-designer/",
-      "time": "2026-10-02T19:06:56"
+      "title": "Things That Apparently Cause Cancer",
+      "score": 88,
+      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "time": "2026-10-03T00:23:11"
     },
     {
-      "title": "Zig v0.17.0",
-      "score": 51,
-      "url": "https://ziglang.org/download/0.17.0/release-notes.html",
-      "time": "2026-10-02T20:56:36"
+      "title": "The Forgetful CPU (Linux on M4)",
+      "score": 122,
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "time": "2026-10-02T14:22:12"
     },
     {
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "score": 387,
+      "score": 529,
       "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
       "time": "2026-10-01T22:23:07"
     },
     {
-      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-      "score": 104,
-      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "time": "2026-10-02T11:07:17"
+      "title": "Newgrounds.com \u2013 A community of games, music, and art",
+      "score": 18,
+      "url": "https://www.newgrounds.com/",
+      "time": "2026-10-03T00:55:25"
     },
     {
-      "title": "Greg Kroah-Hartman \u2013 Security in the LLM Age [video]",
-      "score": 127,
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "time": "2026-10-02T02:51:27"
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "score": 312,
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "time": "2026-10-01T18:20:18"
     }
   ],
-  "github_trending": [],
-  "last_updated": "2026-10-02T21:32:43.201386+00:00"
+  "github_trending": [
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 271404,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 250863,
+      "language": "JavaScript",
+      "url": "https://github.com/react/react"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196866,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 159006,
+      "language": "JavaScript",
+      "url": "https://github.com/Snailclimb/JavaGuide"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 151891,
+      "language": "JavaScript",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    }
+  ],
+  "last_updated": "2026-10-03T02:46:19.576927+00:00"
 }
