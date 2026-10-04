@@ -1,63 +1,51 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-03",
-    "explanation": "On sol 1943 of its journey of exploration across the surface of Mars, the Curiosity Rover recorded this selfie at the south rim of Vera Rubin Ridge. Of course a sol is a Martian solar day, about 40 minutes longer than an Earth day. Curiosity's sol 1943 corresponds to Earth date January 23, 2018. Als...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
-  "iss_position": {
-    "latitude": "50.67\u00b0S",
-    "longitude": "88.45\u00b0E",
-    "timestamp": "2026-10-03T20:19:06+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "nasa_apod": null,
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "score": 238,
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "time": "2026-10-04T00:20:16"
+    },
+    {
+      "title": "Bob Cringely Has Died",
+      "score": 172,
+      "url": "https://news.ycombinator.com/item?id=49949438",
+      "time": "2026-10-04T00:50:52"
+    },
+    {
+      "title": "Treachery in the Rodin Museum 3D scan verdict",
+      "score": 99,
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "time": "2026-10-03T18:01:27"
+    },
+    {
       "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "score": 71,
+      "score": 246,
       "url": "https://notoriousbfg.com/hole-punch/",
       "time": "2026-10-03T18:06:45"
     },
     {
-      "title": "Kolibri \u2013 Tech Report [pdf]",
-      "score": 84,
-      "url": "https://aleph-alpha.com/downloads/tech-report.pdf",
-      "time": "2026-10-03T17:22:48"
-    },
-    {
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "score": 50,
-      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "time": "2026-10-01T16:32:40"
-    },
-    {
-      "title": "FTL: A new operating system for clouds",
-      "score": 115,
-      "url": "https://ftl-os.org/",
-      "time": "2026-10-03T15:02:36"
-    },
-    {
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "score": 370,
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "time": "2026-10-03T09:36:04"
+      "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
+      "score": 164,
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "time": "2026-10-03T19:14:48"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 272126,
+      "stars": 272314,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250874,
+      "stars": 250872,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -71,17 +59,17 @@
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159016,
+      "stars": 159019,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 153154,
+      "stars": 153548,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-10-03T20:18:55.156357+00:00"
+  "last_updated": "2026-10-04T03:17:18.325476+00:00"
 }
