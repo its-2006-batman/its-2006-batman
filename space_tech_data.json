@@ -2,80 +2,44 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "21.97\u00b0S",
-    "longitude": "131.17\u00b0E",
-    "timestamp": "2026-10-04T11:28:37+00:00",
+    "latitude": "22.40\u00b0S",
+    "longitude": "60.82\u00b0E",
+    "timestamp": "2026-10-04T16:07:05+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "score": 29,
-      "url": "https://gamehistory.org/5k-magazines/",
-      "time": "2026-10-04T09:07:11"
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "score": 232,
+      "url": "https://github.com/Niko1221/Strata",
+      "time": "2026-10-04T12:51:53"
+    },
+    {
+      "title": "Car is a smartphone on wheels. Here's who's listening",
+      "score": 28,
+      "url": "https://automatictransmission.khoury.northeastern.edu/",
+      "time": "2026-10-04T15:43:14"
+    },
+    {
+      "title": "Glash\u00fctte Trash Clock \u2013 A 30-minute pendulum clock made from trash",
+      "score": 78,
+      "url": "https://niklasroy.com/gtc/",
+      "time": "2026-10-02T06:33:06"
     },
     {
       "title": "Tell HN: Bob Cringely has died",
-      "score": 501,
+      "score": 665,
       "url": "https://news.ycombinator.com/item?id=49949438",
       "time": "2026-10-04T00:50:52"
     },
     {
-      "title": "Why don't more developers \u201cuse the platform\u201d?",
-      "score": 159,
-      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-      "time": "2026-10-04T04:10:47"
-    },
-    {
-      "title": "So you think you could be an electrician?",
-      "score": 262,
-      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-      "time": "2026-09-30T15:43:27"
-    },
-    {
-      "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
-      "score": 312,
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "time": "2026-10-03T19:14:48"
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "score": 56,
+      "url": "https://github.com/allenv0/SCM",
+      "time": "2026-10-04T09:24:52"
     }
   ],
-  "github_trending": [
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 272560,
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 250873,
-      "language": "JavaScript",
-      "url": "https://github.com/react/react"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196864,
-      "language": "JavaScript",
-      "url": "https://github.com/trekhleb/javascript-algorithms"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159026,
-      "language": "JavaScript",
-      "url": "https://github.com/Snailclimb/JavaGuide"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 154162,
-      "language": "JavaScript",
-      "url": "https://github.com/DietrichGebert/ponytail"
-    }
-  ],
-  "last_updated": "2026-10-04T11:28:33.000922+00:00"
+  "github_trending": [],
+  "last_updated": "2026-10-04T16:07:02.509708+00:00"
 }
