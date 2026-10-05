@@ -1,81 +1,75 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": {
-    "latitude": "12.77\u00b0N",
-    "longitude": "85.37\u00b0W",
-    "timestamp": "2026-10-05T12:56:19+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "score": 130,
-      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-      "time": "2026-10-05T11:13:51"
+      "title": "Beam: Reflection's 501B open-weight model",
+      "score": 254,
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "time": "2026-10-05T19:16:35"
     },
     {
-      "title": "Web Search API",
-      "score": 91,
-      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "time": "2026-10-05T10:47:06"
+      "title": "Find the flattest route between any two points in SF",
+      "score": 62,
+      "url": "https://flattensf.com/",
+      "time": "2026-10-05T21:40:50"
     },
     {
-      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "score": 246,
-      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-      "time": "2026-10-05T08:09:36"
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "score": 66,
+      "url": "https://qlabs.sh/research/dust",
+      "time": "2026-10-05T21:15:07"
     },
     {
-      "title": "Apple and a Hacker's Future",
-      "score": 79,
-      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "time": "2026-10-05T10:05:02"
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "score": 157,
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "time": "2026-10-05T21:00:21"
     },
     {
-      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-      "score": 44,
-      "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
-      "time": "2026-10-05T10:35:59"
+      "title": "Example.com Just Launched the Biggest Redesign in Decades",
+      "score": 19,
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "time": "2026-10-05T22:55:11"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 273300,
+      "stars": 273628,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250902,
+      "stars": 250906,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196867,
+      "stars": 196860,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159028,
+      "stars": 159035,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 155564,
+      "stars": 155963,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-10-05T12:56:18.516532+00:00"
+  "last_updated": "2026-10-05T23:26:37.802153+00:00"
 }
