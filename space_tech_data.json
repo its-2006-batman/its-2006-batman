@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "12.54\u00b0S",
-    "longitude": "112.28\u00b0W",
-    "timestamp": "2026-10-05T02:53:10+00:00",
+    "latitude": "12.77\u00b0N",
+    "longitude": "85.37\u00b0W",
+    "timestamp": "2026-10-05T12:56:19+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "score": 54,
-      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "time": "2026-10-05T01:54:08"
+      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "score": 130,
+      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "time": "2026-10-05T11:13:51"
     },
     {
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "score": 634,
-      "url": "https://github.com/Niko1221/Strata",
-      "time": "2026-10-04T12:51:53"
+      "title": "Web Search API",
+      "score": 91,
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "time": "2026-10-05T10:47:06"
     },
     {
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
-      "score": 42,
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "time": "2026-10-04T21:01:28"
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "score": 246,
+      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "time": "2026-10-05T08:09:36"
     },
     {
-      "title": "Infidel goes wild",
-      "score": 86,
-      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-      "time": "2026-10-03T12:19:40"
+      "title": "Apple and a Hacker's Future",
+      "score": 79,
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "time": "2026-10-05T10:05:02"
     },
     {
-      "title": "A tribute to one of the best games on the Atari 2600",
-      "score": 5,
-      "url": "https://plicerin.github.io/riverraid-rom-port/",
-      "time": "2026-10-05T01:54:00"
+      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+      "score": 44,
+      "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+      "time": "2026-10-05T10:35:59"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 273015,
+      "stars": 273300,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250889,
+      "stars": 250902,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196871,
+      "stars": 196867,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159031,
+      "stars": 159028,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 154976,
+      "stars": 155564,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-10-05T02:53:10.072953+00:00"
+  "last_updated": "2026-10-05T12:56:18.516532+00:00"
 }
