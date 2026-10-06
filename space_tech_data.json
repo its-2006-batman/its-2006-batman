@@ -1,44 +1,50 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "29.18\u00b0S",
+    "longitude": "114.88\u00b0W",
+    "timestamp": "2026-10-06T03:43:20+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
       "title": "Beam: Reflection's 501B open-weight model",
-      "score": 254,
+      "score": 351,
       "url": "https://reflection.ai/blog/introducing-beam",
       "time": "2026-10-05T19:16:35"
     },
     {
       "title": "Find the flattest route between any two points in SF",
-      "score": 62,
+      "score": 134,
       "url": "https://flattensf.com/",
       "time": "2026-10-05T21:40:50"
     },
     {
+      "title": "Example.com just launched the biggest redesign in decades",
+      "score": 117,
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "time": "2026-10-05T22:55:11"
+    },
+    {
       "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "score": 66,
+      "score": 126,
       "url": "https://qlabs.sh/research/dust",
       "time": "2026-10-05T21:15:07"
     },
     {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "score": 157,
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "time": "2026-10-05T21:00:21"
-    },
-    {
-      "title": "Example.com Just Launched the Biggest Redesign in Decades",
-      "score": 19,
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "time": "2026-10-05T22:55:11"
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "score": 88,
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "time": "2026-10-05T22:30:02"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 273628,
+      "stars": 273713,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
@@ -52,24 +58,24 @@
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196860,
+      "stars": 196858,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159035,
+      "stars": 159036,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 155963,
+      "stars": 156080,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-10-05T23:26:37.802153+00:00"
+  "last_updated": "2026-10-06T03:43:20.027423+00:00"
 }
