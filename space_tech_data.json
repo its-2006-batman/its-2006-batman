@@ -1,81 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-06",
-    "explanation": "Have you ever seen a complete auroral oval? You can't see one from the ground because it makes too large a circle around one of Earth's magnetic poles. But spacecraft high above the Earth can see them. The featured video from ESA and CAS's robotic SMILE spacecraft shows not only a full auroral oval,...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
+  "nasa_apod": null,
+  "iss_position": {
+    "latitude": "23.43\u00b0N",
+    "longitude": "79.63\u00b0W",
+    "timestamp": "2026-10-06T21:58:53+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
   },
-  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Nobel Prize in Physics goes to Francis Halzen",
-      "score": 167,
+      "title": "Mistral Large 4",
+      "score": 1445,
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "time": "2026-10-06T13:15:49"
+    },
+    {
+      "title": "EmbeddingGemma 2",
+      "score": 128,
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "time": "2026-10-06T16:03:49"
+    },
+    {
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "score": 490,
       "url": "https://www.nobelprize.org/prizes/physics/2026/",
       "time": "2026-10-06T09:48:46"
     },
     {
-      "title": "Gleam doesn't compile to Erlang source anymore",
-      "score": 67,
-      "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
-      "time": "2026-10-06T08:08:20"
+      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
+      "score": 87,
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+      "time": "2026-10-06T20:33:47"
     },
     {
-      "title": "Beam: Reflection's 501B open-weight model",
-      "score": 479,
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "time": "2026-10-05T19:16:35"
-    },
-    {
-      "title": "Find the flattest route between any two points in SF",
-      "score": 230,
-      "url": "https://flattensf.com/",
-      "time": "2026-10-05T21:40:50"
-    },
-    {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "score": 222,
-      "url": "https://qlabs.sh/research/dust",
-      "time": "2026-10-05T21:15:07"
+      "title": "OpenTPU \u2013 An open-source AI accelerator, developed by AI",
+      "score": 179,
+      "url": "https://github.com/FeSens/openTPU",
+      "time": "2026-10-06T16:23:25"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 273957,
+      "stars": 274244,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250913,
+      "stars": 250915,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196857,
+      "stars": 196858,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159045,
+      "stars": 159050,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 156411,
+      "stars": 156775,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-10-06T12:22:23.775695+00:00"
+  "last_updated": "2026-10-06T21:58:48.335829+00:00"
 }
