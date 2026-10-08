@@ -1,75 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
-  "iss_position": null,
+  "nasa_apod": {
+    "title": "NASA Science",
+    "date": "2026-10-08",
+    "explanation": "How was the Saturn system imaged so clearly? Astrophotographer Tom Williams captured such exquisite details due to one night of exceptional atmospheric conditions above the United Kingdom. This means more than a cloudless sky. Pockets of air at different temperatures and densities move around and be...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
+  },
+  "iss_position": {
+    "latitude": "50.88\u00b0N",
+    "longitude": "2.52\u00b0W",
+    "timestamp": "2026-10-08T12:25:00+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "\u201cMath 2.0\u201d will need to value mathematical progress more holistically",
+      "score": 378,
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "time": "2026-10-08T05:14:14"
+    },
+    {
+      "title": "The Slow Formation of Durable Software",
+      "score": 30,
+      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+      "time": "2026-10-06T15:54:24"
+    },
+    {
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "score": 64,
+      "url": "https://github.com/openai/math/blob/main/history.md",
+      "time": "2026-10-08T08:08:37"
+    },
+    {
       "title": "Claude Haiku 5.5",
-      "score": 726,
+      "score": 929,
       "url": "https://www.anthropic.com/claude-haiku-5-5",
       "time": "2026-10-07T18:01:32"
     },
     {
-      "title": "Margaret Hamilton has died",
-      "score": 916,
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-      "time": "2026-10-07T21:16:18"
-    },
-    {
-      "title": "Cleo (Mathematician)",
-      "score": 57,
-      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
-      "time": "2026-10-06T18:49:45"
-    },
-    {
-      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
-      "score": 93,
-      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
-      "time": "2026-10-05T19:07:07"
-    },
-    {
-      "title": "Living off-grid: Hundred Rabbits",
-      "score": 26,
-      "url": "https://100r.ca/site/home.html",
-      "time": "2026-10-05T21:08:33"
+      "title": "The 15-year search for a band that charted once and vanished",
+      "score": 179,
+      "url": "https://shahidhussain.com/writing/search-for-salvage/",
+      "time": "2026-10-05T00:06:43"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 274996,
+      "stars": 275231,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250923,
+      "stars": 250942,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196853,
+      "stars": 196855,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159071,
+      "stars": 159092,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 157697,
+      "stars": 158134,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-10-08T03:26:18.525729+00:00"
+  "last_updated": "2026-10-08T12:24:55.832040+00:00"
 }
