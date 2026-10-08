@@ -1,81 +1,75 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": {
-    "latitude": "49.34\u00b0N",
-    "longitude": "175.35\u00b0E",
-    "timestamp": "2026-10-07T22:24:11+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
       "title": "Claude Haiku 5.5",
-      "score": 550,
+      "score": 726,
       "url": "https://www.anthropic.com/claude-haiku-5-5",
       "time": "2026-10-07T18:01:32"
     },
     {
-      "title": "GPT\u20116 and Intelligent UI for everyone",
-      "score": 395,
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "time": "2026-10-07T18:00:58"
+      "title": "Margaret Hamilton has died",
+      "score": 916,
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "time": "2026-10-07T21:16:18"
     },
     {
-      "title": "Docker Agent",
-      "score": 136,
-      "url": "https://github.com/docker/docker-agent",
-      "time": "2026-10-07T17:48:38"
+      "title": "Cleo (Mathematician)",
+      "score": 57,
+      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+      "time": "2026-10-06T18:49:45"
     },
     {
-      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
-      "score": 63,
-      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-      "time": "2026-10-07T18:43:18"
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "score": 93,
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "time": "2026-10-05T19:07:07"
     },
     {
-      "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
-      "score": 273,
-      "url": "https://bigwords.page/",
-      "time": "2026-10-07T15:44:21"
+      "title": "Living off-grid: Hundred Rabbits",
+      "score": 26,
+      "url": "https://100r.ca/site/home.html",
+      "time": "2026-10-05T21:08:33"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 274900,
+      "stars": 274996,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250920,
+      "stars": 250923,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196857,
+      "stars": 196853,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159067,
+      "stars": 159071,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 157541,
+      "stars": 157697,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-10-07T22:23:59.504881+00:00"
+  "last_updated": "2026-10-08T03:26:18.525729+00:00"
 }
