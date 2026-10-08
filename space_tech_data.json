@@ -7,81 +7,75 @@
     "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image"
   },
-  "iss_position": {
-    "latitude": "50.88\u00b0N",
-    "longitude": "2.52\u00b0W",
-    "timestamp": "2026-10-08T12:25:00+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "\u201cMath 2.0\u201d will need to value mathematical progress more holistically",
-      "score": 378,
-      "url": "https://mathstodon.xyz/@tao/117395269325940185",
-      "time": "2026-10-08T05:14:14"
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "score": 414,
+      "url": "https://cactuscompute.com/blog/whistle",
+      "time": "2026-10-08T16:59:39"
     },
     {
-      "title": "The Slow Formation of Durable Software",
-      "score": 30,
-      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
-      "time": "2026-10-06T15:54:24"
-    },
-    {
-      "title": "OpenAI Withdraws 3 Math Papers",
-      "score": 64,
-      "url": "https://github.com/openai/math/blob/main/history.md",
-      "time": "2026-10-08T08:08:37"
-    },
-    {
-      "title": "Claude Haiku 5.5",
-      "score": 929,
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "time": "2026-10-07T18:01:32"
-    },
-    {
-      "title": "The 15-year search for a band that charted once and vanished",
+      "title": "Theranos.world",
       "score": 179,
-      "url": "https://shahidhussain.com/writing/search-for-salvage/",
-      "time": "2026-10-05T00:06:43"
+      "url": "https://www.theranos.world/",
+      "time": "2026-10-08T17:51:49"
+    },
+    {
+      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+      "score": 71,
+      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+      "time": "2026-10-08T20:42:16"
+    },
+    {
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "score": 278,
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "time": "2026-10-08T00:14:48"
+    },
+    {
+      "title": "The value of not getting to the point (2015)",
+      "score": 80,
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "time": "2026-10-08T19:04:56"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 275231,
+      "stars": 275347,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250942,
+      "stars": 250758,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196855,
+      "stars": 196652,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159092,
+      "stars": 158886,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 158134,
+      "stars": 158452,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-10-08T12:24:55.832040+00:00"
+  "last_updated": "2026-10-08T22:37:42.379904+00:00"
 }
