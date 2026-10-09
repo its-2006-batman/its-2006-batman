@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "45.27\u00b0S",
-    "longitude": "124.24\u00b0E",
-    "timestamp": "2026-10-09T12:14:24+00:00",
+    "latitude": "6.54\u00b0S",
+    "longitude": "97.48\u00b0E",
+    "timestamp": "2026-10-09T21:58:32+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-      "score": 72,
-      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-      "time": "2026-10-09T11:03:48"
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "score": 138,
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "time": "2026-10-09T21:06:59"
     },
     {
-      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
-      "score": 117,
-      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
-      "time": "2026-10-09T10:12:11"
+      "title": "No Man Is an Island",
+      "score": 171,
+      "url": "https://borretti.me/article/no-man-is-an-island",
+      "time": "2026-10-09T20:04:00"
     },
     {
-      "title": "I'm in a Meeting",
-      "score": 46,
-      "url": "https://iminafleeting.com/",
-      "time": "2026-10-09T09:21:48"
+      "title": "Cloudflare acquires Deno",
+      "score": 958,
+      "url": "https://deno.com/blog/cloudflare",
+      "time": "2026-10-09T13:03:48"
     },
     {
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "score": 833,
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "time": "2026-10-08T00:14:48"
+      "title": "Triple-A Minesweeper",
+      "score": 392,
+      "url": "https://minesweeper.mikelacher.com/",
+      "time": "2026-10-09T15:51:05"
     },
     {
-      "title": "Whistle: Speech to Text in 16.9 MB",
-      "score": 805,
-      "url": "https://cactuscompute.com/blog/whistle",
-      "time": "2026-10-08T16:59:39"
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "score": 139,
+      "url": "https://carrierexplode.com/",
+      "time": "2026-10-09T18:10:55"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 275668,
+      "stars": 275925,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250762,
+      "stars": 250780,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196651,
+      "stars": 196654,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 159147,
+      "stars": 159554,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158904,
+      "stars": 158907,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-09T12:14:14.151118+00:00"
+  "last_updated": "2026-10-09T21:58:32.054924+00:00"
 }
