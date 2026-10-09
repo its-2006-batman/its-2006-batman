@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "14.08\u00b0N",
-    "longitude": "35.34\u00b0E",
-    "timestamp": "2026-10-09T03:32:05+00:00",
+    "latitude": "45.27\u00b0S",
+    "longitude": "124.24\u00b0E",
+    "timestamp": "2026-10-09T12:14:24+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "What should we tell our students?",
-      "score": 40,
-      "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
-      "time": "2026-10-09T02:27:45"
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "score": 72,
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "time": "2026-10-09T11:03:48"
+    },
+    {
+      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+      "score": 117,
+      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "time": "2026-10-09T10:12:11"
+    },
+    {
+      "title": "I'm in a Meeting",
+      "score": 46,
+      "url": "https://iminafleeting.com/",
+      "time": "2026-10-09T09:21:48"
+    },
+    {
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "score": 833,
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "time": "2026-10-08T00:14:48"
     },
     {
       "title": "Whistle: Speech to Text in 16.9 MB",
-      "score": 600,
+      "score": 805,
       "url": "https://cactuscompute.com/blog/whistle",
       "time": "2026-10-08T16:59:39"
-    },
-    {
-      "title": "Theranos.world",
-      "score": 324,
-      "url": "https://www.theranos.world/",
-      "time": "2026-10-08T17:51:49"
-    },
-    {
-      "title": "Reducing undefined behavior in the C language",
-      "score": 26,
-      "url": "https://lwn.net/Articles/1095811/",
-      "time": "2026-10-09T02:02:53"
-    },
-    {
-      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "score": 477,
-      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-      "time": "2026-10-07T16:56:30"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 275466,
+      "stars": 275668,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250754,
+      "stars": 250762,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196653,
+      "stars": 196651,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
-      "name": "Snailclimb/JavaGuide",
-      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158888,
-      "language": "JavaScript",
-      "url": "https://github.com/Snailclimb/JavaGuide"
-    },
-    {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 158661,
+      "stars": 159147,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 158904,
+      "language": "JavaScript",
+      "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-09T03:31:48.257776+00:00"
+  "last_updated": "2026-10-09T12:14:14.151118+00:00"
 }
