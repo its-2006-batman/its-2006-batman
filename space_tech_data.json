@@ -1,81 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-08",
-    "explanation": "How was the Saturn system imaged so clearly? Astrophotographer Tom Williams captured such exquisite details due to one night of exceptional atmospheric conditions above the United Kingdom. This means more than a cloudless sky. Pockets of air at different temperatures and densities move around and be...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
+  "nasa_apod": null,
+  "iss_position": {
+    "latitude": "14.08\u00b0N",
+    "longitude": "35.34\u00b0E",
+    "timestamp": "2026-10-09T03:32:05+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
   },
-  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "What should we tell our students?",
+      "score": 40,
+      "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+      "time": "2026-10-09T02:27:45"
+    },
+    {
       "title": "Whistle: Speech to Text in 16.9 MB",
-      "score": 414,
+      "score": 600,
       "url": "https://cactuscompute.com/blog/whistle",
       "time": "2026-10-08T16:59:39"
     },
     {
       "title": "Theranos.world",
-      "score": 179,
+      "score": 324,
       "url": "https://www.theranos.world/",
       "time": "2026-10-08T17:51:49"
     },
     {
-      "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
-      "score": 71,
-      "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
-      "time": "2026-10-08T20:42:16"
+      "title": "Reducing undefined behavior in the C language",
+      "score": 26,
+      "url": "https://lwn.net/Articles/1095811/",
+      "time": "2026-10-09T02:02:53"
     },
     {
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "score": 278,
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "time": "2026-10-08T00:14:48"
-    },
-    {
-      "title": "The value of not getting to the point (2015)",
-      "score": 80,
-      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
-      "time": "2026-10-08T19:04:56"
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "score": 477,
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "time": "2026-10-07T16:56:30"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 275347,
+      "stars": 275466,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250758,
+      "stars": 250754,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196652,
+      "stars": 196653,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158886,
+      "stars": 158888,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 158452,
+      "stars": 158661,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-10-08T22:37:42.379904+00:00"
+  "last_updated": "2026-10-09T03:31:48.257776+00:00"
 }
