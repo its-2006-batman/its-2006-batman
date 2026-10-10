@@ -1,41 +1,47 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "NASA Science",
+    "date": "2026-10-10",
+    "explanation": "Stickney Crater, the largest crater on the martian moon Phobos, is named for Chloe Angeline Stickney Hall, mathematician and wife of astronomer Asaph Hall. Asaph Hall discovered both the Red Planet's moons in 1877. Over 9 kilometers across, Stickney is nearly half the diameter of Phobos itself, so l...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "6.54\u00b0S",
-    "longitude": "97.48\u00b0E",
-    "timestamp": "2026-10-09T21:58:32+00:00",
+    "latitude": "37.84\u00b0N",
+    "longitude": "165.02\u00b0E",
+    "timestamp": "2026-10-10T03:12:07+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "score": 138,
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "time": "2026-10-09T21:06:59"
-    },
-    {
-      "title": "No Man Is an Island",
-      "score": 171,
-      "url": "https://borretti.me/article/no-man-is-an-island",
-      "time": "2026-10-09T20:04:00"
+      "title": "REA Reverse \u2013 Engineer Anything",
+      "score": 137,
+      "url": "https://rea.tools/",
+      "time": "2026-10-10T00:37:07"
     },
     {
       "title": "Cloudflare acquires Deno",
-      "score": 958,
+      "score": 1098,
       "url": "https://deno.com/blog/cloudflare",
       "time": "2026-10-09T13:03:48"
     },
     {
       "title": "Triple-A Minesweeper",
-      "score": 392,
+      "score": 717,
       "url": "https://minesweeper.mikelacher.com/",
       "time": "2026-10-09T15:51:05"
     },
     {
+      "title": "Our $445M Series D",
+      "score": 607,
+      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "time": "2026-10-09T13:12:47"
+    },
+    {
       "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "score": 139,
+      "score": 227,
       "url": "https://carrierexplode.com/",
       "time": "2026-10-09T18:10:55"
     }
@@ -44,38 +50,38 @@
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 275925,
+      "stars": 276034,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250780,
+      "stars": 250806,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196654,
+      "stars": 196659,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 159554,
+      "stars": 159716,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158907,
+      "stars": 158912,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-09T21:58:32.054924+00:00"
+  "last_updated": "2026-10-10T03:12:06.377189+00:00"
 }
