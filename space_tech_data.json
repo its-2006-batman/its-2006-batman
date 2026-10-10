@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "4.72\u00b0S",
-    "longitude": "175.87\u00b0E",
-    "timestamp": "2026-10-10T16:32:24+00:00",
+    "latitude": "51.49\u00b0S",
+    "longitude": "29.49\u00b0E",
+    "timestamp": "2026-10-10T20:49:54+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Bitwarden Dual License Model",
-      "score": 144,
-      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "time": "2026-10-10T14:32:50"
+      "title": "2D Vehicles",
+      "score": 164,
+      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "time": "2026-10-07T12:30:40"
     },
     {
-      "title": "Knuth Reward Check",
-      "score": 20,
-      "url": "https://www.thomas-huehn.com/knuth-reward-check",
+      "title": "Knuth reward check",
+      "score": 103,
+      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
       "time": "2026-10-10T15:47:01"
     },
     {
+      "title": "Why DuckDB 2.0 is faster",
+      "score": 51,
+      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "time": "2026-10-10T18:08:49"
+    },
+    {
       "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-      "score": 137,
+      "score": 208,
       "url": "https://github.com/rociiu/talorys",
       "time": "2026-10-10T10:52:09"
     },
     {
-      "title": "Rampart: Browser native on-device PII radaction",
-      "score": 25,
-      "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
-      "time": "2026-10-09T17:52:07"
-    },
-    {
-      "title": "REA Reverse \u2013 Engineer Anything",
-      "score": 575,
-      "url": "https://rea.tools/",
-      "time": "2026-10-10T00:37:07"
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "score": 27,
+      "url": "https://epoch.ai/publications/innovationeval",
+      "time": "2026-10-09T22:14:40"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 276325,
+      "stars": 276426,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250819,
+      "stars": 250822,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196666,
+      "stars": 196667,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 160245,
+      "stars": 160368,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158925,
+      "stars": 158928,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-10T16:32:23.458482+00:00"
+  "last_updated": "2026-10-10T20:49:50.599908+00:00"
 }
