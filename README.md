@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  37.84°N                                       ║
-║  📍 LONGITUDE: 165.02°E                                      ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-10-10 03:12 UTC                   ║
+║  📍 LATITUDE:  N/A                                           ║
+║  📍 LONGITUDE: N/A                                           ║
+║  ⚡ VELOCITY:  N/A                                           ║
+║  🌍 ALTITUDE:  N/A                                           ║
+║  ⏰ UPDATE: 2026-10-10 11:32 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: NASA Science                                             ║
-║  DATE:  2026-10-10                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **REA Reverse – Engineer Anything** (137 ⭐)
-2. **Cloudflare acquires Deno** (1098 ⭐)
-3. **Triple-A Minesweeper** (717 ⭐)
+1. **`123456' password used in Danish CPR data breach** (106 ⭐)
+2. **REA Reverse – Engineer Anything** (462 ⭐)
+3. **Talorys – A self-hosted personal AI agent on Cloudflare's fr...** (8 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (276034★)
-2. **react/react** (250806★)
-3. **trekhleb/javascript-algorithms** (196659★)
+1. **affaan-m/ECC** (276209★)
+2. **react/react** (250810★)
+3. **trekhleb/javascript-algorithms** (196662★)
 <!-- LIVE_DATA_END -->
