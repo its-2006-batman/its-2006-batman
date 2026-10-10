@@ -1,75 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
-  "iss_position": null,
+  "nasa_apod": {
+    "title": "NASA Science",
+    "date": "2026-10-10",
+    "explanation": "Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of planet Earth. From lunar orbit, the Moon's farside can become familiar, though. In fact this sharp picture, a mosaic from the Lunar Reconnaissance Orbiter's wide angle camera, is centered on the lun...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
+  },
+  "iss_position": {
+    "latitude": "4.72\u00b0S",
+    "longitude": "175.87\u00b0E",
+    "timestamp": "2026-10-10T16:32:24+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "`123456' password used in Danish CPR data breach",
-      "score": 106,
-      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-      "time": "2026-10-10T09:51:49"
+      "title": "Bitwarden Dual License Model",
+      "score": 144,
+      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+      "time": "2026-10-10T14:32:50"
     },
     {
-      "title": "REA Reverse \u2013 Engineer Anything",
-      "score": 462,
-      "url": "https://rea.tools/",
-      "time": "2026-10-10T00:37:07"
+      "title": "Knuth Reward Check",
+      "score": 20,
+      "url": "https://www.thomas-huehn.com/knuth-reward-check",
+      "time": "2026-10-10T15:47:01"
     },
     {
       "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-      "score": 8,
+      "score": 137,
       "url": "https://github.com/rociiu/talorys",
       "time": "2026-10-10T10:52:09"
     },
     {
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "score": 201,
-      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "time": "2026-10-10T03:02:47"
+      "title": "Rampart: Browser native on-device PII radaction",
+      "score": 25,
+      "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+      "time": "2026-10-09T17:52:07"
     },
     {
-      "title": "Cloudflare acquires Deno",
-      "score": 1253,
-      "url": "https://deno.com/blog/cloudflare",
-      "time": "2026-10-09T13:03:48"
+      "title": "REA Reverse \u2013 Engineer Anything",
+      "score": 575,
+      "url": "https://rea.tools/",
+      "time": "2026-10-10T00:37:07"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 276209,
+      "stars": 276325,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250810,
+      "stars": 250819,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196662,
+      "stars": 196666,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 160066,
+      "stars": 160245,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158920,
+      "stars": 158925,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-10T11:31:56.788679+00:00"
+  "last_updated": "2026-10-10T16:32:23.458482+00:00"
 }
