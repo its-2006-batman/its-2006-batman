@@ -1,63 +1,57 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-10",
-    "explanation": "Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of planet Earth. From lunar orbit, the Moon's farside can become familiar, though. In fact this sharp picture, a mosaic from the Lunar Reconnaissance Orbiter's wide angle camera, is centered on the lun...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "51.49\u00b0S",
-    "longitude": "29.49\u00b0E",
-    "timestamp": "2026-10-10T20:49:54+00:00",
+    "latitude": "22.77\u00b0S",
+    "longitude": "136.53\u00b0W",
+    "timestamp": "2026-10-11T02:44:34+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "WallHop \u2013 12ft.io is gone, so I built a replacement",
+      "score": 113,
+      "url": "https://wallhop.io/",
+      "time": "2026-10-11T00:46:48"
+    },
+    {
+      "title": "Build your own decision model",
+      "score": 133,
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "time": "2026-10-10T22:50:10"
+    },
+    {
       "title": "2D Vehicles",
-      "score": 164,
+      "score": 371,
       "url": "https://patkerr.co.uk/2d-vehicles/",
       "time": "2026-10-07T12:30:40"
     },
     {
-      "title": "Knuth reward check",
-      "score": 103,
-      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "time": "2026-10-10T15:47:01"
+      "title": "A city-building game in which the city would prefer you didn't",
+      "score": 189,
+      "url": "https://housing.over.pizza/",
+      "time": "2026-10-10T20:31:50"
     },
     {
-      "title": "Why DuckDB 2.0 is faster",
-      "score": 51,
-      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "time": "2026-10-10T18:08:49"
-    },
-    {
-      "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-      "score": 208,
-      "url": "https://github.com/rociiu/talorys",
-      "time": "2026-10-10T10:52:09"
-    },
-    {
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "score": 27,
-      "url": "https://epoch.ai/publications/innovationeval",
-      "time": "2026-10-09T22:14:40"
+      "title": "Generative AI scandal has come to one of Nikon's competitions",
+      "score": 26,
+      "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
+      "time": "2026-10-11T00:47:37"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 276426,
+      "stars": 276574,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250822,
+      "stars": 250826,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -71,17 +65,17 @@
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 160368,
+      "stars": 160514,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158928,
+      "stars": 158932,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-10T20:49:50.599908+00:00"
+  "last_updated": "2026-10-11T02:44:33.242765+00:00"
 }
