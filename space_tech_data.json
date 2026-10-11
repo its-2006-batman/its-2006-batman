@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "NASA Science",
+    "date": "2026-10-11",
+    "explanation": "Scientists are melting holes in the bottom of the world. In fact, almost 100 holes melted near the South Pole are now being used as an astronomical observatory. Astronomers with the IceCube Neutrino Observatory lowered a long string knotted with basketball-sized light detectors into each vertical la...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "22.77\u00b0S",
-    "longitude": "136.53\u00b0W",
-    "timestamp": "2026-10-11T02:44:34+00:00",
+    "latitude": "23.73\u00b0N",
+    "longitude": "46.17\u00b0E",
+    "timestamp": "2026-10-11T11:45:37+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "WallHop \u2013 12ft.io is gone, so I built a replacement",
-      "score": 113,
-      "url": "https://wallhop.io/",
-      "time": "2026-10-11T00:46:48"
+      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+      "score": 56,
+      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+      "time": "2026-10-11T10:27:53"
+    },
+    {
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "score": 108,
+      "url": "https://nitter.net",
+      "time": "2026-10-11T10:37:55"
+    },
+    {
+      "title": "LineageOS 24.0",
+      "score": 142,
+      "url": "https://lineageos.org/Changelog-32/",
+      "time": "2026-10-11T06:18:59"
+    },
+    {
+      "title": "IRCv3",
+      "score": 95,
+      "url": "https://ircv3.net/",
+      "time": "2026-10-11T10:11:27"
     },
     {
       "title": "Build your own decision model",
-      "score": 133,
+      "score": 338,
       "url": "https://nishtahir.com/build-your-own-decision-model/",
       "time": "2026-10-10T22:50:10"
-    },
-    {
-      "title": "2D Vehicles",
-      "score": 371,
-      "url": "https://patkerr.co.uk/2d-vehicles/",
-      "time": "2026-10-07T12:30:40"
-    },
-    {
-      "title": "A city-building game in which the city would prefer you didn't",
-      "score": 189,
-      "url": "https://housing.over.pizza/",
-      "time": "2026-10-10T20:31:50"
-    },
-    {
-      "title": "Generative AI scandal has come to one of Nikon's competitions",
-      "score": 26,
-      "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
-      "time": "2026-10-11T00:47:37"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 276574,
+      "stars": 276817,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250826,
+      "stars": 250858,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196667,
+      "stars": 196666,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 160514,
+      "stars": 160769,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158932,
+      "stars": 158933,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-11T02:44:33.242765+00:00"
+  "last_updated": "2026-10-11T11:45:31.487919+00:00"
 }
