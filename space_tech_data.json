@@ -1,81 +1,75 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": {
-    "latitude": "50.57\u00b0S",
-    "longitude": "92.78\u00b0E",
-    "timestamp": "2026-10-11T16:57:36+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "I paid people to try and follow my README",
-      "score": 234,
-      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-      "time": "2026-10-11T11:47:29"
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "score": 217,
+      "url": "https://nanolathe.gg",
+      "time": "2026-10-11T18:04:47"
     },
     {
-      "title": "The tilde in your PATH may not be your HOME",
+      "title": "Cartographers of North Korea",
+      "score": 58,
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "time": "2026-10-11T19:46:40"
+    },
+    {
+      "title": "Chapter 1 of Ways of Seeing by John Berger",
+      "score": 45,
+      "url": "https://www.ways-of-seeing.com/ch1",
+      "time": "2026-10-11T18:26:24"
+    },
+    {
+      "title": "Be The Onion's Hero for Once",
       "score": 124,
-      "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-      "time": "2026-10-11T12:13:13"
+      "url": "https://mailchi.mp/email.theonion.com/archivehunt",
+      "time": "2026-10-11T19:43:32"
     },
     {
-      "title": "Bot traffic from Yandex",
-      "score": 493,
-      "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-      "time": "2026-10-11T10:27:53"
-    },
-    {
-      "title": "LineageOS 24.0",
-      "score": 293,
-      "url": "https://lineageos.org/Changelog-32/",
-      "time": "2026-10-11T06:18:59"
-    },
-    {
-      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "score": 72,
-      "url": "https://verdagon.dev/blog/valen-group-borrowing",
-      "time": "2026-10-11T12:06:22"
+      "title": "Artificial Insanity",
+      "score": 23,
+      "url": "https://richwhitehouse.com/index.php?postid=78",
+      "time": "2026-10-11T19:44:45"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 276988,
+      "stars": 277142,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250864,
+      "stars": 250869,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196667,
+      "stars": 196670,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 160941,
+      "stars": 161040,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158941,
+      "stars": 158945,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-11T16:57:25.689108+00:00"
+  "last_updated": "2026-10-11T21:11:15.433555+00:00"
 }
