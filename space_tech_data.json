@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "NASA Science",
+    "date": "2026-10-12",
+    "explanation": "How many moons can you see? The best answer is five: four orbiting Jupiter and Luna orbiting Earth. This multi-moon picture was possible because Earth's Moon moved directly in front of Jupiter last week. The featured image is a series of exposures near alignment taken from Westchester, New York, USA...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "37.19\u00b0N",
-    "longitude": "155.12\u00b0E",
-    "timestamp": "2026-10-12T03:08:17+00:00",
+    "latitude": "51.39\u00b0N",
+    "longitude": "53.42\u00b0W",
+    "timestamp": "2026-10-12T13:48:39+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Whatever became of holography? (2011)",
-      "score": 81,
-      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "time": "2026-10-11T23:50:34"
+      "title": "QGIS bans AI assisted contributions",
+      "score": 204,
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "time": "2026-10-12T11:22:24"
     },
     {
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "score": 390,
-      "url": "https://nanolathe.gg",
-      "time": "2026-10-11T18:04:47"
+      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+      "score": 406,
+      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "time": "2026-10-12T10:21:27"
+    },
+    {
+      "title": "The Making Of Super Mario 64 \u2013 full Giles Goddard interview (2001)",
+      "score": 53,
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "time": "2026-10-10T19:28:41"
+    },
+    {
+      "title": "Secret of Orange Cats Revealed After 60-Year Search",
+      "score": 70,
+      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+      "time": "2026-10-10T22:10:57"
     },
     {
       "title": "Fingerprints are the new cookies",
-      "score": 124,
+      "score": 501,
       "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
       "time": "2026-10-11T22:33:39"
-    },
-    {
-      "title": "Cartographers of North Korea (2019)",
-      "score": 200,
-      "url": "https://cartographers-nk.wonyoung.so/",
-      "time": "2026-10-11T19:46:40"
-    },
-    {
-      "title": "Sorry we made you grind LeetCode",
-      "score": 5,
-      "url": "https://www.hackerrank.com/writing/why-were-sorry",
-      "time": "2026-10-12T02:52:10"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 277309,
+      "stars": 277595,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250880,
+      "stars": 250909,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196670,
+      "stars": 196672,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 161185,
+      "stars": 161576,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158948,
+      "stars": 158964,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-12T03:07:55.319205+00:00"
+  "last_updated": "2026-10-12T13:48:26.382524+00:00"
 }
