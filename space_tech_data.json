@@ -8,80 +8,80 @@
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "41.96\u00b0N",
-    "longitude": "11.49\u00b0W",
-    "timestamp": "2026-10-13T13:07:07+00:00",
+    "latitude": "32.48\u00b0N",
+    "longitude": "107.89\u00b0E",
+    "timestamp": "2026-10-13T22:03:35+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "score": 258,
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "time": "2026-10-13T10:27:00"
+      "title": "Gemini 4 Argon",
+      "score": 820,
+      "url": "https://deepmind.google/models/gemini/",
+      "time": "2026-10-13T16:03:16"
     },
     {
-      "title": "An hour of audio transcribed in about 13s on MacBook Air",
-      "score": 112,
-      "url": "https://eg2.haku.sh/",
-      "time": "2026-10-13T11:27:14"
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "score": 100,
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "time": "2026-10-13T20:23:55"
     },
     {
-      "title": "Apple HomeView",
-      "score": 10,
-      "url": "https://www.apple.com/apple-homeview/",
-      "time": "2026-10-13T13:02:12"
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "score": 147,
+      "url": "https://guitoro.com/",
+      "time": "2026-10-13T19:11:48"
     },
     {
-      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-      "score": 69,
-      "url": "https://pdftomp3.com/connect-ai/",
-      "time": "2026-10-13T10:08:34"
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "score": 297,
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "time": "2026-10-12T10:09:37"
     },
     {
-      "title": "Hittite royal archive found in Turkey",
-      "score": 156,
-      "url": "https://www.thehistoryblog.com/archives/77107",
-      "time": "2026-10-13T06:02:51"
+      "title": "Redesigning source control at Anthropic",
+      "score": 404,
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "time": "2026-10-13T15:49:56"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 278259,
+      "stars": 278541,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250987,
+      "stars": 251093,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196667,
+      "stars": 196666,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 162314,
+      "stars": 162700,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158990,
+      "stars": 158996,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-13T13:06:56.056128+00:00"
+  "last_updated": "2026-10-13T22:03:25.286753+00:00"
 }
