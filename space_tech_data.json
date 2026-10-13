@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "NASA Science",
+    "date": "2026-10-13",
+    "explanation": "This stairway in Chile brings you only a little bit closer to heaven. But ooh, the sky above it makes you wonder. For example, you may wonder about the dark lane of our own Milky Way galaxy rising behind the expansive Atacama Desert in Chile, the band of zodiacal light on the upper left, the green a...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "51.61\u00b0S",
-    "longitude": "104.54\u00b0W",
-    "timestamp": "2026-10-13T04:28:45+00:00",
+    "latitude": "41.96\u00b0N",
+    "longitude": "11.49\u00b0W",
+    "timestamp": "2026-10-13T13:07:07+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "The baffling intelligence of a single cell (2024)",
-      "score": 138,
-      "url": "https://jsomers.net/e-coli-chemotaxis/",
-      "time": "2026-10-11T11:02:30"
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "score": 258,
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "time": "2026-10-13T10:27:00"
     },
     {
-      "title": "GLM-Legal",
-      "score": 479,
-      "url": "https://z.ai/blog/glm-legal",
-      "time": "2026-10-12T16:11:45"
+      "title": "An hour of audio transcribed in about 13s on MacBook Air",
+      "score": 112,
+      "url": "https://eg2.haku.sh/",
+      "time": "2026-10-13T11:27:14"
     },
     {
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "score": 36,
-      "url": "https://arxiv.org/abs/2610.13928",
-      "time": "2026-10-13T02:07:08"
+      "title": "Apple HomeView",
+      "score": 10,
+      "url": "https://www.apple.com/apple-homeview/",
+      "time": "2026-10-13T13:02:12"
     },
     {
-      "title": "A Modern Web App in C",
-      "score": 451,
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "time": "2026-10-12T16:13:10"
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "score": 69,
+      "url": "https://pdftomp3.com/connect-ai/",
+      "time": "2026-10-13T10:08:34"
     },
     {
-      "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
-      "score": 117,
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "time": "2026-10-12T21:35:35"
+      "title": "Hittite royal archive found in Turkey",
+      "score": 156,
+      "url": "https://www.thehistoryblog.com/archives/77107",
+      "time": "2026-10-13T06:02:51"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 278019,
+      "stars": 278259,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250953,
+      "stars": 250987,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196668,
+      "stars": 196667,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 161985,
+      "stars": 162314,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158975,
+      "stars": 158990,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-13T04:28:32.523899+00:00"
+  "last_updated": "2026-10-13T13:06:56.056128+00:00"
 }
