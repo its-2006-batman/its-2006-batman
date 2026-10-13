@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "47.51\u00b0S",
-    "longitude": "4.76\u00b0W",
-    "timestamp": "2026-10-12T23:55:35+00:00",
+    "latitude": "51.61\u00b0S",
+    "longitude": "104.54\u00b0W",
+    "timestamp": "2026-10-13T04:28:45+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "The baffling intelligence of a single cell (2024)",
+      "score": 138,
+      "url": "https://jsomers.net/e-coli-chemotaxis/",
+      "time": "2026-10-11T11:02:30"
+    },
+    {
       "title": "GLM-Legal",
-      "score": 397,
+      "score": 479,
       "url": "https://z.ai/blog/glm-legal",
       "time": "2026-10-12T16:11:45"
     },
     {
-      "title": "Who Is Vfmaddrnd231pd?",
-      "score": 82,
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "time": "2026-10-12T21:12:43"
-    },
-    {
-      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
-      "score": 9,
-      "url": "https://doi.org/10.1111/acel.70751",
-      "time": "2026-10-12T23:34:22"
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "score": 36,
+      "url": "https://arxiv.org/abs/2610.13928",
+      "time": "2026-10-13T02:07:08"
     },
     {
       "title": "A Modern Web App in C",
-      "score": 356,
+      "score": 451,
       "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
       "time": "2026-10-12T16:13:10"
     },
     {
-      "title": "Phreak.ing \u2013 Internet Phone Switch",
-      "score": 42,
-      "url": "https://phreak.ing/",
-      "time": "2026-10-12T21:39:32"
+      "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
+      "score": 117,
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "time": "2026-10-12T21:35:35"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 277893,
+      "stars": 278019,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 250940,
+      "stars": 250953,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196672,
+      "stars": 196668,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 161871,
+      "stars": 161985,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158969,
+      "stars": 158975,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-12T23:55:21.962342+00:00"
+  "last_updated": "2026-10-13T04:28:32.523899+00:00"
 }
