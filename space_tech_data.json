@@ -1,47 +1,41 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-13",
-    "explanation": "This stairway in Chile brings you only a little bit closer to heaven. But ooh, the sky above it makes you wonder. For example, you may wonder about the dark lane of our own Milky Way galaxy rising behind the expansive Atacama Desert in Chile, the band of zodiacal light on the upper left, the green a...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "32.48\u00b0N",
-    "longitude": "107.89\u00b0E",
-    "timestamp": "2026-10-13T22:03:35+00:00",
+    "latitude": "10.78\u00b0N",
+    "longitude": "17.48\u00b0E",
+    "timestamp": "2026-10-14T02:34:18+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Gemini 4 Argon",
-      "score": 820,
+      "score": 1047,
       "url": "https://deepmind.google/models/gemini/",
       "time": "2026-10-13T16:03:16"
     },
     {
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "score": 100,
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "time": "2026-10-13T20:23:55"
-    },
-    {
       "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "score": 147,
+      "score": 299,
       "url": "https://guitoro.com/",
       "time": "2026-10-13T19:11:48"
     },
     {
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "score": 297,
+      "score": 467,
       "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "time": "2026-10-12T10:09:37"
     },
     {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "score": 61,
+      "url": "https://pulseos.finance",
+      "time": "2026-10-13T23:13:23"
+    },
+    {
       "title": "Redesigning source control at Anthropic",
-      "score": 404,
+      "score": 571,
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
       "time": "2026-10-13T15:49:56"
     }
@@ -50,38 +44,38 @@
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 278541,
+      "stars": 278650,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251093,
+      "stars": 251105,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196666,
+      "stars": 196665,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 162700,
+      "stars": 162821,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158996,
+      "stars": 158999,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-13T22:03:25.286753+00:00"
+  "last_updated": "2026-10-14T02:34:07.415931+00:00"
 }
