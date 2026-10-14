@@ -1,81 +1,75 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": {
-    "latitude": "10.78\u00b0N",
-    "longitude": "17.48\u00b0E",
-    "timestamp": "2026-10-14T02:34:18+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "score": 125,
+      "url": "https://typeof.net/Iosevka/",
+      "time": "2026-10-14T08:27:59"
+    },
+    {
+      "title": "Apple: Switch to Safari (From Chrome)",
+      "score": 15,
+      "url": "https://www.apple.com/safari/switch/",
+      "time": "2026-10-14T10:08:57"
+    },
+    {
       "title": "Gemini 4 Argon",
-      "score": 1047,
+      "score": 1326,
       "url": "https://deepmind.google/models/gemini/",
       "time": "2026-10-13T16:03:16"
     },
     {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "score": 299,
-      "url": "https://guitoro.com/",
-      "time": "2026-10-13T19:11:48"
+      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
+      "score": 6,
+      "url": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
+      "time": "2026-10-14T10:21:13"
     },
     {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "score": 467,
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "time": "2026-10-12T10:09:37"
-    },
-    {
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "score": 61,
-      "url": "https://pulseos.finance",
-      "time": "2026-10-13T23:13:23"
-    },
-    {
-      "title": "Redesigning source control at Anthropic",
-      "score": 571,
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "time": "2026-10-13T15:49:56"
+      "title": "Show HN: Building an LLM from Scratch in TypeScript",
+      "score": 5,
+      "url": "https://book.humanexperiences.io/",
+      "time": "2026-10-14T10:29:56"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 278650,
+      "stars": 278868,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251105,
+      "stars": 251156,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196665,
+      "stars": 196663,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 162821,
+      "stars": 163113,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 158999,
+      "stars": 159014,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-14T02:34:07.415931+00:00"
+  "last_updated": "2026-10-14T10:47:54.335909+00:00"
 }
