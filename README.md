@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  N/A                                           ║
-║  📍 LONGITUDE: N/A                                           ║
-║  ⚡ VELOCITY:  N/A                                           ║
-║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-10-14 10:48 UTC                   ║
+║  📍 LATITUDE:  47.89°S                                       ║
+║  📍 LONGITUDE: 100.96°E                                      ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ UPDATE: 2026-10-14 16:07 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: NASA Science                                             ║
+║  DATE:  2026-10-14                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Iosevka is an open-source, sans-serif and slab-serif, monosp...** (125 ⭐)
-2. **Apple: Switch to Safari (From Chrome)** (15 ⭐)
-3. **Gemini 4 Argon** (1326 ⭐)
+1. **Iosevka is an open-source, sans-serif and slab-serif, monosp...** (461 ⭐)
+2. **Pg_vectorsearch: An index that is faster than pgvector's IVF...** (115 ⭐)
+3. **Passkeys Are Not a Trap** (182 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (278868★)
-2. **react/react** (251156★)
-3. **trekhleb/javascript-algorithms** (196663★)
+1. **affaan-m/ECC** (279102★)
+2. **react/react** (251012★)
+3. **trekhleb/javascript-algorithms** (196664★)
 <!-- LIVE_DATA_END -->

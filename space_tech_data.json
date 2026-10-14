@@ -1,75 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
-  "iss_position": null,
+  "nasa_apod": {
+    "title": "NASA Science",
+    "date": "2026-10-14",
+    "explanation": "What a cosmic coincidence! In today\u2019s image, Mars joins the Beehive cluster (M44 or Praesepe) below an auroral curtain and above a horizon of happy little trees near Lansj\u00e4rv, Sweden. An eruption off the Sun reached Earth on October 10th, 2026 causing strong disturbances in Earth\u2019s magnetic field. E...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
+  },
+  "iss_position": {
+    "latitude": "47.89\u00b0S",
+    "longitude": "100.96\u00b0E",
+    "timestamp": "2026-10-14T16:07:19+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
       "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
-      "score": 125,
+      "score": 461,
       "url": "https://typeof.net/Iosevka/",
       "time": "2026-10-14T08:27:59"
     },
     {
-      "title": "Apple: Switch to Safari (From Chrome)",
-      "score": 15,
-      "url": "https://www.apple.com/safari/switch/",
-      "time": "2026-10-14T10:08:57"
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "score": 115,
+      "url": "https://github.com/timescale/pg_vectorsearch",
+      "time": "2026-10-14T11:47:53"
     },
     {
-      "title": "Gemini 4 Argon",
-      "score": 1326,
-      "url": "https://deepmind.google/models/gemini/",
-      "time": "2026-10-13T16:03:16"
+      "title": "Passkeys Are Not a Trap",
+      "score": 182,
+      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+      "time": "2026-10-14T15:15:45"
     },
     {
-      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-      "score": 6,
-      "url": "https://www.aviaduct.com/?l=og+en&u=https%3A%2F%2Fwww.aftonbladet.se%2Fnojesbladet%2Fa%2F31oE8A%2Fthe-challenge-sverige-raderad-av-ai-bara-veckor-innan-premiaren",
-      "time": "2026-10-14T10:21:13"
+      "title": "Running Windows desktop tests from Linux with disposable VMs",
+      "score": 19,
+      "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
+      "time": "2026-10-14T14:55:19"
     },
     {
-      "title": "Show HN: Building an LLM from Scratch in TypeScript",
-      "score": 5,
-      "url": "https://book.humanexperiences.io/",
-      "time": "2026-10-14T10:29:56"
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "score": 82,
+      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "time": "2026-10-14T14:38:55"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 278868,
+      "stars": 279102,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251156,
+      "stars": 251012,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196663,
+      "stars": 196664,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 163113,
+      "stars": 163338,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159014,
+      "stars": 159020,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-14T10:47:54.335909+00:00"
+  "last_updated": "2026-10-14T16:07:07.444724+00:00"
 }
