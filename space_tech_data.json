@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-14",
-    "explanation": "What a cosmic coincidence! In today\u2019s image, Mars joins the Beehive cluster (M44 or Praesepe) below an auroral curtain and above a horizon of happy little trees near Lansj\u00e4rv, Sweden. An eruption off the Sun reached Earth on October 10th, 2026 causing strong disturbances in Earth\u2019s magnetic field. E...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "47.89\u00b0S",
-    "longitude": "100.96\u00b0E",
-    "timestamp": "2026-10-14T16:07:19+00:00",
+    "latitude": "2.30\u00b0N",
+    "longitude": "88.43\u00b0E",
+    "timestamp": "2026-10-14T21:04:43+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
-      "score": 461,
-      "url": "https://typeof.net/Iosevka/",
-      "time": "2026-10-14T08:27:59"
+      "title": "Things to know if you get cancer in 2026",
+      "score": 273,
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "time": "2026-10-14T19:26:30"
     },
     {
-      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-      "score": 115,
-      "url": "https://github.com/timescale/pg_vectorsearch",
-      "time": "2026-10-14T11:47:53"
+      "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+      "score": 51,
+      "url": "https://blog.cloudflare.com/yandex-outage/",
+      "time": "2026-10-14T20:29:13"
     },
     {
-      "title": "Passkeys Are Not a Trap",
-      "score": 182,
-      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-      "time": "2026-10-14T15:15:45"
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "score": 46,
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "time": "2026-10-14T20:30:54"
     },
     {
-      "title": "Running Windows desktop tests from Linux with disposable VMs",
-      "score": 19,
-      "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
-      "time": "2026-10-14T14:55:19"
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "score": 158,
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "time": "2026-10-14T16:29:33"
     },
     {
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "score": 82,
-      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-      "time": "2026-10-14T14:38:55"
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "score": 210,
+      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+      "time": "2026-10-14T18:37:21"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 279102,
+      "stars": 279357,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251012,
+      "stars": 251022,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196664,
+      "stars": 196666,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 163338,
+      "stars": 163523,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159020,
+      "stars": 159022,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-14T16:07:07.444724+00:00"
+  "last_updated": "2026-10-14T21:04:23.700426+00:00"
 }

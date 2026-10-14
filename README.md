@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  47.89°S                                       ║
-║  📍 LONGITUDE: 100.96°E                                      ║
+║  📍 LATITUDE:  2.30°N                                        ║
+║  📍 LONGITUDE: 88.43°E                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-10-14 16:07 UTC                   ║
+║  ⏰ UPDATE: 2026-10-14 21:04 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: NASA Science                                             ║
-║  DATE:  2026-10-14                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Iosevka is an open-source, sans-serif and slab-serif, monosp...** (461 ⭐)
-2. **Pg_vectorsearch: An index that is faster than pgvector's IVF...** (115 ⭐)
-3. **Passkeys Are Not a Trap** (182 ⭐)
+1. **Things to know if you get cancer in 2026** (273 ⭐)
+2. **Yandex outage: data shows that instead of going dark, malici...** (51 ⭐)
+3. **Anthropic's Scion is heavily inspired by Mononoke** (46 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (279102★)
-2. **react/react** (251012★)
-3. **trekhleb/javascript-algorithms** (196664★)
+1. **affaan-m/ECC** (279357★)
+2. **react/react** (251022★)
+3. **trekhleb/javascript-algorithms** (196666★)
 <!-- LIVE_DATA_END -->
