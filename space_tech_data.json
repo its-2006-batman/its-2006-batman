@@ -3,85 +3,85 @@
   "nasa_apod": {
     "title": "NASA Science",
     "date": "2026-10-15",
-    "explanation": "What a cosmic coincidence! In today\u2019s image, Mars joins the Beehive cluster (M44 or Praesepe) below an auroral curtain and above a horizon of happy little trees near Lansj\u00e4rv, Sweden. An eruption off the Sun reached Earth on October 10th, 2026 causing strong disturbances in Earth\u2019s magnetic field. E...",
+    "explanation": "The city lights outshine the stars in the City That Never Sleeps. Who would have thought that the Milky Way could be visible in this sky? This image was taken with a filter that blocks most visible light, capturing instead only light in the near-infrared region of the electromagnetic spectrum (with ...",
     "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
     "media_type": "image"
   },
   "iss_position": {
-    "latitude": "39.43\u00b0N",
-    "longitude": "147.18\u00b0E",
-    "timestamp": "2026-10-15T02:14:42+00:00",
+    "latitude": "47.90\u00b0S",
+    "longitude": "123.00\u00b0E",
+    "timestamp": "2026-10-15T10:30:50+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Things to know when you get cancer",
-      "score": 826,
+      "score": 1396,
       "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
       "time": "2026-10-14T19:26:30"
     },
     {
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "score": 101,
+      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "time": "2026-10-13T12:30:08"
+    },
+    {
+      "title": "The cost of getting a job today",
+      "score": 24,
+      "url": "https://weli.dev/blog/the-cost-of-getting-a-job-today/",
+      "time": "2026-10-15T09:13:20"
+    },
+    {
       "title": "OpenCode 2.0",
-      "score": 322,
+      "score": 626,
       "url": "https://anoma.ly/notes/opencode-2-0/",
       "time": "2026-10-14T20:48:24"
     },
     {
       "title": "Tiny Little Office",
-      "score": 154,
+      "score": 452,
       "url": "https://tinylittleoffice.com/",
       "time": "2026-10-14T22:10:08"
-    },
-    {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "score": 78,
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "time": "2026-10-14T23:59:37"
-    },
-    {
-      "title": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "score": 193,
-      "url": "https://typesafe.ai/blog/jev-1-14",
-      "time": "2026-10-14T21:11:03"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 279514,
+      "stars": 279811,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251024,
+      "stars": 251042,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196669,
+      "stars": 196671,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 163665,
+      "stars": 163968,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159024,
+      "stars": 159043,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-15T02:14:41.808331+00:00"
+  "last_updated": "2026-10-15T10:30:36.366316+00:00"
 }
