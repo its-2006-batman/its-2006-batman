@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-15",
-    "explanation": "The city lights outshine the stars in the City That Never Sleeps. Who would have thought that the Milky Way could be visible in this sky? This image was taken with a filter that blocks most visible light, capturing instead only light in the near-infrared region of the electromagnetic spectrum (with ...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "47.90\u00b0S",
-    "longitude": "123.00\u00b0E",
-    "timestamp": "2026-10-15T10:30:50+00:00",
+    "latitude": "47.69\u00b0N",
+    "longitude": "140.21\u00b0W",
+    "timestamp": "2026-10-15T15:55:23+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Things to know when you get cancer",
-      "score": 1396,
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "time": "2026-10-14T19:26:30"
+      "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+      "score": 61,
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "time": "2026-10-15T14:58:48"
     },
     {
-      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
-      "score": 101,
-      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-      "time": "2026-10-13T12:30:08"
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "score": 162,
+      "url": "https://github.com/fyzugx/DEsk",
+      "time": "2026-10-15T13:23:44"
     },
     {
-      "title": "The cost of getting a job today",
-      "score": 24,
-      "url": "https://weli.dev/blog/the-cost-of-getting-a-job-today/",
-      "time": "2026-10-15T09:13:20"
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "score": 143,
+      "url": "https://libreboot.org/news/libreboot2610.html",
+      "time": "2026-10-15T12:52:16"
     },
     {
-      "title": "OpenCode 2.0",
-      "score": 626,
-      "url": "https://anoma.ly/notes/opencode-2-0/",
-      "time": "2026-10-14T20:48:24"
+      "title": "I know why Mathematicians weep",
+      "score": 111,
+      "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+      "time": "2026-10-15T13:44:32"
     },
     {
-      "title": "Tiny Little Office",
-      "score": 452,
-      "url": "https://tinylittleoffice.com/",
-      "time": "2026-10-14T22:10:08"
+      "title": "Celebrating 70 Years of Fortran",
+      "score": 39,
+      "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+      "time": "2026-10-15T15:03:17"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 279811,
+      "stars": 280027,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251042,
+      "stars": 251055,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196671,
+      "stars": 196674,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 163968,
+      "stars": 164166,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159043,
+      "stars": 159053,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-15T10:30:36.366316+00:00"
+  "last_updated": "2026-10-15T15:55:02.541007+00:00"
 }
