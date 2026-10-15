@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  2.30°N                                        ║
-║  📍 LONGITUDE: 88.43°E                                       ║
+║  📍 LATITUDE:  39.43°N                                       ║
+║  📍 LONGITUDE: 147.18°E                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-10-14 21:04 UTC                   ║
+║  ⏰ UPDATE: 2026-10-15 02:14 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: NASA Science                                             ║
+║  DATE:  2026-10-15                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Things to know if you get cancer in 2026** (273 ⭐)
-2. **Yandex outage: data shows that instead of going dark, malici...** (51 ⭐)
-3. **Anthropic's Scion is heavily inspired by Mononoke** (46 ⭐)
+1. **Things to know when you get cancer** (826 ⭐)
+2. **OpenCode 2.0** (322 ⭐)
+3. **Tiny Little Office** (154 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (279357★)
-2. **react/react** (251022★)
-3. **trekhleb/javascript-algorithms** (196666★)
+1. **affaan-m/ECC** (279514★)
+2. **react/react** (251024★)
+3. **trekhleb/javascript-algorithms** (196669★)
 <!-- LIVE_DATA_END -->
