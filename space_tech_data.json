@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "25.60\u00b0S",
-    "longitude": "1.40\u00b0W",
-    "timestamp": "2026-10-16T15:43:40+00:00",
+    "latitude": "1.87\u00b0N",
+    "longitude": "93.56\u00b0W",
+    "timestamp": "2026-10-16T20:12:44+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "I Love Software Rendering",
-      "score": 159,
-      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-      "time": "2026-10-16T12:52:08"
+      "title": "Tesla Roadster",
+      "score": 755,
+      "url": "https://www.tesla.com/roadster",
+      "time": "2026-10-16T01:32:45"
     },
     {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "score": 41,
-      "url": "https://calif.io/research/big-fish",
-      "time": "2026-10-16T14:44:02"
+      "title": "Claude reveals ECDSA curve origins",
+      "score": 262,
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "time": "2026-10-16T18:55:59"
     },
     {
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "score": 48,
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "time": "2026-10-16T13:43:48"
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "score": 66,
+      "url": "https://github.com/cobanov/PS5LM",
+      "time": "2026-10-16T18:32:35"
     },
     {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "score": 35,
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "time": "2026-10-16T14:18:44"
+      "title": "The Fatal Flaw of 911",
+      "score": 13,
+      "url": "https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health",
+      "time": "2026-10-16T19:33:00"
     },
     {
-      "title": "Gyroscopes Got So Small [video]",
-      "score": 40,
-      "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
-      "time": "2026-10-15T15:20:04"
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "score": 131,
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "time": "2026-10-16T16:12:02"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 281082,
+      "stars": 281309,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251162,
+      "stars": 251164,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196678,
+      "stars": 196679,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 164994,
+      "stars": 165134,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159077,
+      "stars": 159078,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-16T15:43:18.098156+00:00"
+  "last_updated": "2026-10-16T20:12:32.262241+00:00"
 }
