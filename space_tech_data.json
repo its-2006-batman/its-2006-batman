@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-16",
-    "explanation": "To view this video please enable JavaScript, and consider upgrading to a web browser that \t\t\t\t\tsupports HTML5 vide...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "22.46\u00b0N",
-    "longitude": "101.80\u00b0W",
-    "timestamp": "2026-10-16T10:17:54+00:00",
+    "latitude": "25.60\u00b0S",
+    "longitude": "1.40\u00b0W",
+    "timestamp": "2026-10-16T15:43:40+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Meta\u2019s new commercial terms will allow the scraping of news sites: experts",
-      "score": 305,
-      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-      "time": "2026-10-15T23:37:42"
+      "title": "I Love Software Rendering",
+      "score": 159,
+      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+      "time": "2026-10-16T12:52:08"
     },
     {
-      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-      "score": 317,
-      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-      "time": "2026-10-13T02:32:53"
-    },
-    {
-      "title": "Muse Spark Open",
-      "score": 821,
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "time": "2026-10-15T17:47:39"
-    },
-    {
-      "title": "The insider trading you're allowed to do",
-      "score": 40,
-      "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
-      "time": "2026-10-16T07:12:09"
-    },
-    {
-      "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
       "score": 41,
-      "url": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
-      "time": "2026-10-14T03:41:42"
+      "url": "https://calif.io/research/big-fish",
+      "time": "2026-10-16T14:44:02"
+    },
+    {
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "score": 48,
+      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+      "time": "2026-10-16T13:43:48"
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "score": 35,
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "time": "2026-10-16T14:18:44"
+    },
+    {
+      "title": "Gyroscopes Got So Small [video]",
+      "score": 40,
+      "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
+      "time": "2026-10-15T15:20:04"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 280800,
+      "stars": 281082,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251152,
+      "stars": 251162,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196679,
+      "stars": 196678,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 164792,
+      "stars": 164994,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159070,
+      "stars": 159077,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-16T10:17:54.058603+00:00"
+  "last_updated": "2026-10-16T15:43:18.098156+00:00"
 }
