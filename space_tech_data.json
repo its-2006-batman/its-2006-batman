@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "51.27\u00b0N",
-    "longitude": "174.19\u00b0W",
-    "timestamp": "2026-10-15T20:40:06+00:00",
+    "latitude": "50.49\u00b0S",
+    "longitude": "69.78\u00b0W",
+    "timestamp": "2026-10-16T02:05:59+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Muse Spark Open",
-      "score": 413,
+      "score": 626,
       "url": "https://research.meta.ai/blog/muse-spark-open",
       "time": "2026-10-15T17:47:39"
     },
     {
+      "title": "RPKI now protects 70% of internet routes",
+      "score": 36,
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "time": "2026-10-16T00:52:35"
+    },
+    {
+      "title": "What I Self-Host",
+      "score": 275,
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "time": "2026-10-15T20:23:25"
+    },
+    {
       "title": "Neural networks are clean",
-      "score": 337,
+      "score": 510,
       "url": "https://already-clean.goodfire.com/",
       "time": "2026-10-15T16:04:01"
     },
     {
-      "title": "E Ink Kaleido 4",
-      "score": 62,
-      "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-      "time": "2026-10-15T18:38:16"
-    },
-    {
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "score": 411,
-      "url": "https://github.com/fyzugx/DEsk",
-      "time": "2026-10-15T13:23:44"
-    },
-    {
-      "title": "Krea 3 \u2013 An image model built for editing at scale",
-      "score": 185,
-      "url": "https://www.krea.ai/krea-3",
-      "time": "2026-10-15T16:04:05"
+      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+      "score": 35,
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "time": "2026-10-15T23:37:42"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 280229,
+      "stars": 280450,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251064,
+      "stars": 251072,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196676,
+      "stars": 196677,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 164309,
+      "stars": 164467,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159055,
+      "stars": 159058,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-15T20:39:45.997604+00:00"
+  "last_updated": "2026-10-16T02:05:48.368507+00:00"
 }
