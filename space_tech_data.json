@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "7.72\u00b0S",
-    "longitude": "135.34\u00b0W",
-    "timestamp": "2026-10-18T10:03:35+00:00",
+    "latitude": "48.47\u00b0N",
+    "longitude": "141.85\u00b0W",
+    "timestamp": "2026-10-18T15:03:10+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "RepRapMicron",
+      "score": 81,
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "time": "2026-10-18T13:48:48"
+    },
+    {
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "score": 108,
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "time": "2026-10-18T10:21:51"
+    },
+    {
       "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
-      "score": 187,
+      "score": 369,
       "url": "https://api-docs.deepseek.com/guides/search/",
       "time": "2026-10-18T06:50:36"
     },
     {
-      "title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
-      "score": 128,
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "time": "2026-10-18T04:33:49"
+      "title": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
+      "score": 77,
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "time": "2026-10-18T11:16:22"
     },
     {
-      "title": "How the Elizabeth Holmes documentary \u201cYou Can See Everything\u201d is deceiving",
-      "score": 138,
-      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "time": "2026-10-18T03:19:49"
-    },
-    {
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "score": 457,
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "time": "2026-10-16T23:38:27"
-    },
-    {
-      "title": "Lean now ships with verified kernels",
-      "score": 136,
-      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-      "time": "2026-10-16T06:16:13"
+      "title": "Parser Combinators",
+      "score": 112,
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "time": "2026-10-18T08:19:53"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 282873,
+      "stars": 283038,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251243,
+      "stars": 251256,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196679,
+      "stars": 196681,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 166517,
+      "stars": 166748,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159108,
+      "stars": 159112,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-18T10:03:24.590703+00:00"
+  "last_updated": "2026-10-18T15:02:49.960701+00:00"
 }
