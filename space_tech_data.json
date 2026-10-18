@@ -1,63 +1,57 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-17",
-    "explanation": "Put on your red/blue glasses and float next to the jagged and double-lobed nucleus of Churyumov-Gerasimenko, also known as Comet 67P . The stereo anaglyph was created by combining two images from the Rosetta spacecraft's narrow angle OSIRIS camera taken on July 25, 2015 from a distance of 184 kilome...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "51.60\u00b0S",
-    "longitude": "0.01\u00b0E",
-    "timestamp": "2026-10-17T19:48:20+00:00",
+    "latitude": "51.58\u00b0S",
+    "longitude": "93.56\u00b0W",
+    "timestamp": "2026-10-18T01:59:31+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+      "score": 112,
+      "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+      "time": "2026-10-18T01:18:50"
+    },
+    {
       "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "score": 87,
+      "score": 329,
       "url": "https://www.nature.com/articles/d41586-026-03266-x",
       "time": "2026-10-16T23:38:27"
     },
     {
-      "title": "Gold is now the top U.S. export",
-      "score": 65,
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "time": "2026-10-17T17:06:07"
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "score": 201,
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "time": "2026-10-16T23:47:31"
     },
     {
-      "title": "Source code of the Estonian online voting system",
-      "score": 50,
-      "url": "https://github.com/valimised/ivxv",
-      "time": "2026-10-17T03:18:39"
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "score": 705,
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "time": "2026-10-17T08:21:25"
     },
     {
-      "title": "Development statistics for the 7.2 kernel",
-      "score": 97,
-      "url": "https://lwn.net/Articles/1088776/",
-      "time": "2026-10-17T17:14:12"
-    },
-    {
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "score": 62,
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "time": "2026-10-15T07:18:14"
+      "title": "Furifont, a Japanese font that shows furigana",
+      "score": 268,
+      "url": "https://furifont.antfu.me/",
+      "time": "2026-10-15T08:48:30"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 282300,
+      "stars": 282547,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251209,
+      "stars": 251223,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -71,17 +65,17 @@
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 166062,
+      "stars": 166271,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159097,
+      "stars": 159098,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-17T19:48:10.169529+00:00"
+  "last_updated": "2026-10-18T01:59:20.950382+00:00"
 }
