@@ -2,56 +2,56 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "49.65\u00b0N",
-    "longitude": "166.89\u00b0W",
-    "timestamp": "2026-10-18T19:49:23+00:00",
+    "latitude": "11.33\u00b0N",
+    "longitude": "154.46\u00b0E",
+    "timestamp": "2026-10-19T02:16:24+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "score": 223,
+      "url": "https://arxiv.org/abs/2610.18861",
+      "time": "2026-10-18T20:48:14"
+    },
+    {
+      "title": "William Gibson and the trademarking of cyberspace",
+      "score": 70,
+      "url": "https://colo.to/cyberspace.html",
+      "time": "2026-10-18T23:37:57"
+    },
+    {
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "score": 41,
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "time": "2026-10-18T21:09:12"
+    },
+    {
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "score": 178,
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "time": "2026-10-17T23:26:35"
+    },
+    {
       "title": "Someone behind the software",
-      "score": 140,
+      "score": 321,
       "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
       "time": "2026-10-18T16:32:00"
-    },
-    {
-      "title": "RepRapMicron",
-      "score": 271,
-      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "time": "2026-10-18T13:48:48"
-    },
-    {
-      "title": "Free Pascal Compiler Now Supports Dynamic Packages",
-      "score": 19,
-      "url": "https://www.getlazarus.org/dynamic/",
-      "time": "2026-10-18T18:48:04"
-    },
-    {
-      "title": "Personal software factories are a waste of time",
-      "score": 11,
-      "url": "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
-      "time": "2026-10-18T19:02:11"
-    },
-    {
-      "title": "HOA's are making the home crisis worse",
-      "score": 88,
-      "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
-      "time": "2026-10-18T18:40:16"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 283166,
+      "stars": 283331,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251266,
+      "stars": 251275,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -65,17 +65,17 @@
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 166929,
+      "stars": 167104,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159115,
+      "stars": 159120,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-18T19:49:08.640087+00:00"
+  "last_updated": "2026-10-19T02:16:12.723964+00:00"
 }
