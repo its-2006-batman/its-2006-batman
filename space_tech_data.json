@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-19",
-    "explanation": "What is Treble Clef? This unusual radio structure extends over 2 million light-years and resembles a common musical symbol -- but has its visible light hidden by our own Milky Way Galaxy. Examined in 2004, the nature of VLSS J0318.9+5755, dubbed Treble Clef, remained unknown. Recent observations by ...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "23.43\u00b0N",
-    "longitude": "3.12\u00b0E",
-    "timestamp": "2026-10-19T11:28:53+00:00",
+    "latitude": "20.64\u00b0S",
+    "longitude": "57.48\u00b0W",
+    "timestamp": "2026-10-19T17:54:41+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Linux 7.3 Released",
-      "score": 259,
-      "url": "https://lwn.net/Articles/1101143/",
-      "time": "2026-10-19T07:23:57"
+      "title": "CERN and Mistral join forces to accelerate AI for science",
+      "score": 184,
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "time": "2026-10-19T15:28:24"
     },
     {
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "score": 421,
-      "url": "https://arxiv.org/abs/2610.18861",
-      "time": "2026-10-18T20:48:14"
+      "title": "Inception \"Mercury 3\", 1000 tok/s diffusion LLM",
+      "score": 54,
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "time": "2026-10-19T17:27:11"
     },
     {
-      "title": "How to Train Your Robot",
-      "score": 57,
-      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
-      "time": "2026-10-15T15:13:21"
+      "title": "Wine Ported to OpenBSD",
+      "score": 315,
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "time": "2026-10-19T13:35:34"
     },
     {
-      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-      "score": 5,
-      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-      "time": "2026-10-19T10:53:39"
+      "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
+      "score": 85,
+      "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf",
+      "time": "2026-10-19T15:10:20"
     },
     {
-      "title": "William Gibson and the trademarking of cyberspace",
-      "score": 196,
-      "url": "https://colo.to/cyberspace.html",
-      "time": "2026-10-18T23:37:57"
+      "title": "Timestral: Mistral's time-series foundation models",
+      "score": 391,
+      "url": "https://mistral.ai/news/timestral/",
+      "time": "2026-10-19T09:59:32"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 283629,
+      "stars": 283879,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251358,
+      "stars": 251385,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196684,
+      "stars": 196682,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 167516,
+      "stars": 167840,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159132,
+      "stars": 159141,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-19T11:28:37.701524+00:00"
+  "last_updated": "2026-10-19T17:54:21.601175+00:00"
 }
