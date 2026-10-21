@@ -1,75 +1,81 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "26.29\u00b0S",
+    "longitude": "172.63\u00b0E",
+    "timestamp": "2026-10-21T02:24:41+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "SimCity, but with Permits",
-      "score": 278,
+      "title": "Show HN: SimCity, but with Permits",
+      "score": 589,
       "url": "https://permit.petercai.com/",
       "time": "2026-10-20T18:29:09"
     },
     {
-      "title": "Voxtral 3",
-      "score": 409,
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "time": "2026-10-20T16:02:07"
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "score": 111,
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "time": "2026-10-20T22:21:05"
     },
     {
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "score": 2012,
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "time": "2026-10-20T09:08:54"
+      "title": "Good type against all odds",
+      "score": 18,
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "time": "2026-10-21T01:45:07"
     },
     {
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "score": 188,
-      "url": "https://github.com/google-pytorch/torch_tpu",
-      "time": "2026-10-20T16:40:24"
+      "title": "Learning to live with Waymos",
+      "score": 12,
+      "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+      "time": "2026-10-21T01:44:34"
     },
     {
-      "title": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "score": 80,
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "time": "2026-10-15T19:09:34"
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "score": 74,
+      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "time": "2026-10-20T23:04:09"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 284791,
+      "stars": 284942,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251574,
+      "stars": 251594,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196684,
+      "stars": 196685,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 169429,
+      "stars": 169843,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159162,
+      "stars": 159168,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-20T20:58:27.015861+00:00"
+  "last_updated": "2026-10-21T02:24:23.632693+00:00"
 }
