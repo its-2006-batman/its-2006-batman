@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  26.29°S                                       ║
-║  📍 LONGITUDE: 172.63°E                                      ║
+║  📍 LATITUDE:  3.01°N                                        ║
+║  📍 LONGITUDE: 155.68°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-10-21 02:24 UTC                   ║
+║  ⏰ UPDATE: 2026-10-21 10:47 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: NASA Science                                             ║
+║  DATE:  2026-10-21                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Show HN: SimCity, but with Permits** (589 ⭐)
-2. **Feds suspect ransom negotiator ran ShinyHunters extortion si...** (111 ⭐)
-3. **Good type against all odds** (18 ⭐)
+1. **Eight Bits of Trust; eMudhra's CA keys cracked in millisecon...** (116 ⭐)
+2. **The 1.5°C goal of the Paris Agreement is no longer viable** (213 ⭐)
+3. **The Future of CSS** (391 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (284942★)
-2. **react/react** (251594★)
-3. **trekhleb/javascript-algorithms** (196685★)
+1. **affaan-m/ECC** (285174★)
+2. **react/react** (251593★)
+3. **trekhleb/javascript-algorithms** (196686★)
 <!-- LIVE_DATA_END -->

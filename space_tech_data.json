@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "NASA Science",
+    "date": "2026-10-21",
+    "explanation": "Jinkies, look at all those ghosts! It took 100 hours of observation and a special oxygen filter for today\u2019s image to capture three faint nebulas hidden in the Cassiopeia constellation. IC 59 and IC 63, the original Ghosts of Cassiopeia, haunt the region near multi-star system \u03b3 Cassiopeia. Energetic...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "26.29\u00b0S",
-    "longitude": "172.63\u00b0E",
-    "timestamp": "2026-10-21T02:24:41+00:00",
+    "latitude": "3.01\u00b0N",
+    "longitude": "155.68\u00b0W",
+    "timestamp": "2026-10-21T10:47:01+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Show HN: SimCity, but with Permits",
-      "score": 589,
-      "url": "https://permit.petercai.com/",
-      "time": "2026-10-20T18:29:09"
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "score": 116,
+      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+      "time": "2026-10-21T09:08:08"
     },
     {
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "score": 111,
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "time": "2026-10-20T22:21:05"
+      "title": "The 1.5\u00b0C goal of the Paris Agreement is no longer viable",
+      "score": 213,
+      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "time": "2026-10-21T09:07:49"
     },
     {
-      "title": "Good type against all odds",
-      "score": 18,
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "time": "2026-10-21T01:45:07"
+      "title": "The Future of CSS",
+      "score": 391,
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "time": "2026-10-21T01:47:28"
     },
     {
-      "title": "Learning to live with Waymos",
-      "score": 12,
-      "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
-      "time": "2026-10-21T01:44:34"
+      "title": "Whatever Happened to Fire Escapes",
+      "score": 6,
+      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+      "time": "2026-10-21T10:14:43"
     },
     {
-      "title": "The Other Epidemic: Trying to get off benzodiazepines",
-      "score": 74,
-      "url": "https://www.thebeliever.net/the-other-epidemic/",
-      "time": "2026-10-20T23:04:09"
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "score": 936,
+      "url": "https://news-web.php.net/php.announce/509",
+      "time": "2026-10-20T20:15:50"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 284942,
+      "stars": 285174,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251594,
+      "stars": 251593,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196685,
+      "stars": 196686,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 169843,
+      "stars": 170592,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159168,
+      "stars": 159173,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-21T02:24:23.632693+00:00"
+  "last_updated": "2026-10-21T10:46:51.418178+00:00"
 }
