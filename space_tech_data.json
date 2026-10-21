@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "15.14\u00b0S",
-    "longitude": "49.22\u00b0W",
-    "timestamp": "2026-10-21T16:15:42+00:00",
+    "latitude": "31.68\u00b0S",
+    "longitude": "104.54\u00b0W",
+    "timestamp": "2026-10-21T20:59:49+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "PHP 8.2.35",
-      "score": 567,
-      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "time": "2026-10-21T13:45:33"
+      "title": "Mistral Large 4",
+      "score": 257,
+      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "time": "2026-10-21T19:20:55"
     },
     {
-      "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
-      "score": 163,
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "time": "2026-10-21T14:01:22"
-    },
-    {
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "score": 89,
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "time": "2026-10-21T14:00:26"
-    },
-    {
-      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-      "score": 32,
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "score": 483,
       "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
       "time": "2026-10-21T15:48:56"
     },
     {
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "score": 580,
-      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "time": "2026-10-21T09:08:08"
+      "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+      "score": 86,
+      "url": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
+      "time": "2026-10-21T19:26:20"
+    },
+    {
+      "title": "GitLab CVSS 10.0 Integer Overflow issue",
+      "score": 90,
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "time": "2026-10-21T19:01:12"
+    },
+    {
+      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "score": 68,
+      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+      "time": "2026-10-20T00:14:03"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 285345,
+      "stars": 285591,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251612,
+      "stars": 251620,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196687,
+      "stars": 196691,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 171044,
+      "stars": 171386,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159182,
+      "stars": 159185,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-21T16:15:26.613773+00:00"
+  "last_updated": "2026-10-21T20:59:30.740490+00:00"
 }
