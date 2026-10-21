@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-21",
-    "explanation": "Jinkies, look at all those ghosts! It took 100 hours of observation and a special oxygen filter for today\u2019s image to capture three faint nebulas hidden in the Cassiopeia constellation. IC 59 and IC 63, the original Ghosts of Cassiopeia, haunt the region near multi-star system \u03b3 Cassiopeia. Energetic...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "3.01\u00b0N",
-    "longitude": "155.68\u00b0W",
-    "timestamp": "2026-10-21T10:47:01+00:00",
+    "latitude": "15.14\u00b0S",
+    "longitude": "49.22\u00b0W",
+    "timestamp": "2026-10-21T16:15:42+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "PHP 8.2.35",
+      "score": 567,
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "time": "2026-10-21T13:45:33"
+    },
+    {
+      "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
+      "score": 163,
+      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "time": "2026-10-21T14:01:22"
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "score": 89,
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "time": "2026-10-21T14:00:26"
+    },
+    {
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "score": 32,
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "time": "2026-10-21T15:48:56"
+    },
+    {
       "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "score": 116,
+      "score": 580,
       "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
       "time": "2026-10-21T09:08:08"
-    },
-    {
-      "title": "The 1.5\u00b0C goal of the Paris Agreement is no longer viable",
-      "score": 213,
-      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
-      "time": "2026-10-21T09:07:49"
-    },
-    {
-      "title": "The Future of CSS",
-      "score": 391,
-      "url": "https://www.joshwcomeau.com/css/interop-2027/",
-      "time": "2026-10-21T01:47:28"
-    },
-    {
-      "title": "Whatever Happened to Fire Escapes",
-      "score": 6,
-      "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-      "time": "2026-10-21T10:14:43"
-    },
-    {
-      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-      "score": 936,
-      "url": "https://news-web.php.net/php.announce/509",
-      "time": "2026-10-20T20:15:50"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 285174,
+      "stars": 285345,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251593,
+      "stars": 251612,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196686,
+      "stars": 196687,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 170592,
+      "stars": 171044,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159173,
+      "stars": 159182,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-21T10:46:51.418178+00:00"
+  "last_updated": "2026-10-21T16:15:26.613773+00:00"
 }
