@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  31.68°S                                       ║
-║  📍 LONGITUDE: 104.54°W                                      ║
-║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
-║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-10-21 20:59 UTC                   ║
+║  📍 LATITUDE:  N/A                                           ║
+║  📍 LONGITUDE: N/A                                           ║
+║  ⚡ VELOCITY:  N/A                                           ║
+║  🌍 ALTITUDE:  N/A                                           ║
+║  ⏰ UPDATE: 2026-10-22 02:20 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: NASA Science                                             ║
+║  DATE:  2026-10-22                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Mistral Large 4** (257 ⭐)
-2. **Today's PHP security release, and how we're strengthening se...** (483 ⭐)
-3. **Meta hit with $25B penalty for deceiving users about privacy...** (86 ⭐)
+1. **mitmproxy adds --emudhra option** (214 ⭐)
+2. **There isn't an easy exploit for this PHP vulnerability** (171 ⭐)
+3. **Railway Security Disclosure** (321 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (285591★)
-2. **react/react** (251620★)
-3. **trekhleb/javascript-algorithms** (196691★)
+1. **affaan-m/ECC** (285772★)
+2. **react/react** (251624★)
+3. **trekhleb/javascript-algorithms** (196692★)
 <!-- LIVE_DATA_END -->
