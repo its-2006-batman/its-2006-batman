@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  N/A                                           ║
-║  📍 LONGITUDE: N/A                                           ║
-║  ⚡ VELOCITY:  N/A                                           ║
-║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-10-22 02:20 UTC                   ║
+║  📍 LATITUDE:  12.91°S                                       ║
+║  📍 LONGITUDE: 26.17°E                                       ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ UPDATE: 2026-10-22 10:48 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: NASA Science                                             ║
-║  DATE:  2026-10-22                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **mitmproxy adds --emudhra option** (214 ⭐)
-2. **There isn't an easy exploit for this PHP vulnerability** (171 ⭐)
-3. **Railway Security Disclosure** (321 ⭐)
+1. **CVE-2026-111943: Compromised Intermediate Certificate Author...** (111 ⭐)
+2. **Faster than earcut: triangulating 3.7M map polygons in 489 m...** (35 ⭐)
+3. **WorldTUI: I trained a 360M model to pretend to be a terminal** (235 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (285772★)
-2. **react/react** (251624★)
-3. **trekhleb/javascript-algorithms** (196692★)
+1. **affaan-m/ECC** (286049★)
+2. **react/react** (251633★)
+3. **trekhleb/javascript-algorithms** (196688★)
 <!-- LIVE_DATA_END -->

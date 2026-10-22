@@ -1,81 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-22",
-    "explanation": "Jinkies, look at all those ghosts! It took 100 hours of observation and a special oxygen filter for today\u2019s image to capture three faint nebulas hidden in the Cassiopeia constellation. IC 59 and IC 63, the original Ghosts of Cassiopeia, haunt the region near multi-star system \u03b3 Cassiopeia. Energetic...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
+  "nasa_apod": null,
+  "iss_position": {
+    "latitude": "12.91\u00b0S",
+    "longitude": "26.17\u00b0E",
+    "timestamp": "2026-10-22T10:48:06+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
   },
-  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "mitmproxy adds --emudhra option",
-      "score": 214,
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "time": "2026-10-21T23:51:37"
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "score": 111,
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "time": "2026-10-22T08:51:31"
     },
     {
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "score": 171,
-      "url": "https://eliastaylor.com/noexploit/",
-      "time": "2026-10-21T23:13:27"
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "score": 35,
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "time": "2026-10-22T09:31:18"
     },
     {
-      "title": "Railway Security Disclosure",
-      "score": 321,
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "score": 235,
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "time": "2026-10-22T02:18:41"
+    },
+    {
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "score": 212,
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "time": "2026-10-22T02:30:52"
+    },
+    {
+      "title": "Security Disclosure",
+      "score": 475,
       "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
       "time": "2026-10-21T21:58:03"
-    },
-    {
-      "title": "GitLab Critical Patch Release",
-      "score": 255,
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "time": "2026-10-21T19:01:12"
-    },
-    {
-      "title": "Rust Style Guide",
-      "score": 215,
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "time": "2026-10-21T19:11:57"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 285772,
+      "stars": 286049,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251624,
+      "stars": 251633,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196692,
+      "stars": 196688,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 171778,
+      "stars": 172487,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159188,
+      "stars": 159203,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-22T02:19:54.075005+00:00"
+  "last_updated": "2026-10-22T10:47:55.856573+00:00"
 }
