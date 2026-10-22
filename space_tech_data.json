@@ -2,80 +2,44 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "12.91\u00b0S",
-    "longitude": "26.17\u00b0E",
-    "timestamp": "2026-10-22T10:48:06+00:00",
+    "latitude": "17.90\u00b0N",
+    "longitude": "127.59\u00b0E",
+    "timestamp": "2026-10-22T16:14:28+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-      "score": 111,
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-      "time": "2026-10-22T08:51:31"
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+      "score": 418,
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "time": "2026-10-22T13:33:39"
     },
     {
-      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-      "score": 35,
-      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-      "time": "2026-10-22T09:31:18"
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "score": 173,
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "time": "2026-10-22T14:32:38"
     },
     {
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "score": 235,
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "time": "2026-10-22T02:18:41"
+      "title": "Crystal 1.22.0",
+      "score": 97,
+      "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+      "time": "2026-10-22T13:20:13"
     },
     {
-      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "score": 212,
-      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "time": "2026-10-22T02:30:52"
+      "title": "What Is Gridifcation",
+      "score": 215,
+      "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+      "time": "2026-10-19T09:13:12"
     },
     {
-      "title": "Security Disclosure",
-      "score": 475,
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "time": "2026-10-21T21:58:03"
+      "title": "What's Getting Pwned",
+      "score": 120,
+      "url": "https://pwn.watch/",
+      "time": "2026-10-22T14:08:12"
     }
   ],
-  "github_trending": [
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 286049,
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 251633,
-      "language": "JavaScript",
-      "url": "https://github.com/react/react"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196688,
-      "language": "JavaScript",
-      "url": "https://github.com/trekhleb/javascript-algorithms"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 172487,
-      "language": "JavaScript",
-      "url": "https://github.com/DietrichGebert/ponytail"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159203,
-      "language": "JavaScript",
-      "url": "https://github.com/Snailclimb/JavaGuide"
-    }
-  ],
-  "last_updated": "2026-10-22T10:47:55.856573+00:00"
+  "github_trending": [],
+  "last_updated": "2026-10-22T16:14:07.557265+00:00"
 }
