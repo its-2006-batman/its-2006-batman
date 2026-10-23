@@ -1,63 +1,57 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-22",
-    "explanation": "Star light, star bright: is there a green star out tonight? Other than the Sun, all stars are so far from Earth that they appear as points in the sky. They are mostly white, but sometimes noticeably red or blue. This color typically relates to the temperature: blue stars are hotter than red stars. W...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "31.17\u00b0N",
-    "longitude": "69.49\u00b0E",
-    "timestamp": "2026-10-22T20:57:26+00:00",
+    "latitude": "39.62\u00b0S",
+    "longitude": "178.46\u00b0E",
+    "timestamp": "2026-10-23T02:25:29+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Docker is weird",
+      "score": 142,
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "time": "2026-10-22T23:45:56"
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "score": 133,
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "time": "2026-10-22T22:54:43"
+    },
+    {
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "score": 34,
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "time": "2026-10-23T00:52:01"
+    },
+    {
       "title": "Quad9 (DNS Resolver) to Exit France",
-      "score": 704,
+      "score": 1015,
       "url": "https://quad9.net/news/blog/au-revoir-france/",
       "time": "2026-10-22T14:32:38"
     },
     {
       "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
-      "score": 167,
+      "score": 311,
       "url": "https://github.com/NVIDIA/OpenShell",
       "time": "2026-10-22T17:44:06"
-    },
-    {
-      "title": "Getting ready to operate GNU Taler in Germany",
-      "score": 147,
-      "url": "https://www.taler.net/en/news/2026-13.html",
-      "time": "2026-10-22T16:14:31"
-    },
-    {
-      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
-      "score": 231,
-      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "time": "2026-10-22T15:26:22"
-    },
-    {
-      "title": "Show HN: UI micro interactions prompts for AI",
-      "score": 49,
-      "url": "https://www.typeui.sh/micro-interactions",
-      "time": "2026-10-22T18:32:57"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 286418,
+      "stars": 286580,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251697,
+      "stars": 251706,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -71,17 +65,17 @@
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 173258,
+      "stars": 173613,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159209,
+      "stars": 159211,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-22T20:57:13.221371+00:00"
+  "last_updated": "2026-10-23T02:25:19.558774+00:00"
 }
