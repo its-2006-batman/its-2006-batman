@@ -2,80 +2,44 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "39.62\u00b0S",
-    "longitude": "178.46\u00b0E",
-    "timestamp": "2026-10-23T02:25:29+00:00",
+    "latitude": "4.32\u00b0S",
+    "longitude": "171.68\u00b0W",
+    "timestamp": "2026-10-23T10:40:14+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "score": 432,
+      "url": "https://edjefferson.com/localwiki/",
+      "time": "2026-10-22T23:01:18"
+    },
+    {
       "title": "Docker is weird",
-      "score": 142,
+      "score": 512,
       "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
       "time": "2026-10-22T23:45:56"
     },
     {
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "score": 133,
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "time": "2026-10-22T22:54:43"
+      "title": "How does Fable 5.1 hide messages in images?",
+      "score": 94,
+      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "time": "2026-10-22T21:41:13"
+    },
+    {
+      "title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "score": 75,
+      "url": "https://arxiv.org/abs/2603.01092",
+      "time": "2026-10-22T13:25:01"
     },
     {
       "title": "The foolishness of \"natural language programming\" (1978)",
-      "score": 34,
+      "score": 189,
       "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
       "time": "2026-10-23T00:52:01"
-    },
-    {
-      "title": "Quad9 (DNS Resolver) to Exit France",
-      "score": 1015,
-      "url": "https://quad9.net/news/blog/au-revoir-france/",
-      "time": "2026-10-22T14:32:38"
-    },
-    {
-      "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
-      "score": 311,
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "time": "2026-10-22T17:44:06"
     }
   ],
-  "github_trending": [
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 286580,
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 251706,
-      "language": "JavaScript",
-      "url": "https://github.com/react/react"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196687,
-      "language": "JavaScript",
-      "url": "https://github.com/trekhleb/javascript-algorithms"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 173613,
-      "language": "JavaScript",
-      "url": "https://github.com/DietrichGebert/ponytail"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159211,
-      "language": "JavaScript",
-      "url": "https://github.com/Snailclimb/JavaGuide"
-    }
-  ],
-  "last_updated": "2026-10-23T02:25:19.558774+00:00"
+  "github_trending": [],
+  "last_updated": "2026-10-23T10:39:57.084688+00:00"
 }
