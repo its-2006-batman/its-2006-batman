@@ -2,70 +2,70 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "44.70\u00b0N",
-    "longitude": "112.17\u00b0W",
-    "timestamp": "2026-10-24T15:01:16+00:00",
+    "latitude": "3.07\u00b0S",
+    "longitude": "133.26\u00b0W",
+    "timestamp": "2026-10-24T19:57:00+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-      "score": 19,
-      "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
-      "time": "2026-10-22T09:01:10"
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "score": 185,
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "time": "2026-10-24T16:06:26"
     },
     {
-      "title": "OBS Studio 33",
-      "score": 307,
-      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "time": "2026-10-24T04:49:58"
+      "title": "Dream-1",
+      "score": 76,
+      "url": "https://dreamlabs.ai/research/dream-1/",
+      "time": "2026-10-24T18:23:24"
     },
     {
-      "title": "I Don't Understand Quantum Physics (2018)",
-      "score": 177,
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "time": "2026-10-24T09:53:26"
+      "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+      "score": 35,
+      "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+      "time": "2026-10-24T19:06:55"
     },
     {
-      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-      "score": 361,
-      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-      "time": "2026-10-24T01:15:14"
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "score": 64,
+      "url": "https://de.numista.com/9866",
+      "time": "2026-10-24T16:41:55"
     },
     {
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "score": 113,
-      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "time": "2026-10-24T08:06:39"
+      "title": "FreeDNS",
+      "score": 187,
+      "url": "https://freedns.afraid.org/",
+      "time": "2026-10-24T15:20:01"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 287768,
+      "stars": 287959,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251748,
+      "stars": 251746,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196694,
+      "stars": 196696,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 175283,
+      "stars": 175425,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-24T15:00:57.695384+00:00"
+  "last_updated": "2026-10-24T19:56:48.450272+00:00"
 }
