@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "39.96\u00b0N",
-    "longitude": "6.36\u00b0W",
-    "timestamp": "2026-10-24T02:23:26+00:00",
+    "latitude": "12.77\u00b0N",
+    "longitude": "152.95\u00b0W",
+    "timestamp": "2026-10-24T09:57:17+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "OBS Studio 33",
+      "score": 153,
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "time": "2026-10-24T04:49:58"
+    },
+    {
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "score": 741,
+      "score": 915,
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
       "time": "2026-10-23T16:59:08"
     },
     {
-      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-      "score": 90,
-      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-      "time": "2026-10-23T23:30:17"
+      "title": "Physicists trap a single antimatter particle for a month",
+      "score": 46,
+      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "time": "2026-10-21T19:40:01"
     },
     {
-      "title": "Apple Music 404 Not Found",
-      "score": 606,
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "time": "2026-10-23T12:28:47"
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "score": 883,
+      "url": "https://blog.calif.io/p/iphone",
+      "time": "2026-10-23T16:21:50"
     },
     {
-      "title": "CVE Tracker",
-      "score": 111,
-      "url": "https://cve.0xosprey.com/",
-      "time": "2026-10-23T21:21:47"
-    },
-    {
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "score": 246,
-      "url": "https://block.xyz/dessa",
-      "time": "2026-10-23T19:09:54"
+      "title": "Twelve years of distributed SQLite",
+      "score": 201,
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "time": "2026-10-24T01:16:58"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 287382,
+      "stars": 287586,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251734,
+      "stars": 251740,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196689,
+      "stars": 196692,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 174838,
+      "stars": 175088,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159220,
+      "stars": 159229,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-24T02:23:15.179299+00:00"
+  "last_updated": "2026-10-24T09:57:02.760521+00:00"
 }
