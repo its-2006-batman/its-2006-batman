@@ -2,70 +2,70 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "12.77\u00b0N",
-    "longitude": "152.95\u00b0W",
-    "timestamp": "2026-10-24T09:57:17+00:00",
+    "latitude": "44.70\u00b0N",
+    "longitude": "112.17\u00b0W",
+    "timestamp": "2026-10-24T15:01:16+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "score": 19,
+      "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+      "time": "2026-10-22T09:01:10"
+    },
+    {
       "title": "OBS Studio 33",
-      "score": 153,
+      "score": 307,
       "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
       "time": "2026-10-24T04:49:58"
     },
     {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "score": 915,
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "time": "2026-10-23T16:59:08"
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "score": 177,
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "time": "2026-10-24T09:53:26"
     },
     {
-      "title": "Physicists trap a single antimatter particle for a month",
-      "score": 46,
-      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
-      "time": "2026-10-21T19:40:01"
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "score": 361,
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "time": "2026-10-24T01:15:14"
     },
     {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "score": 883,
-      "url": "https://blog.calif.io/p/iphone",
-      "time": "2026-10-23T16:21:50"
-    },
-    {
-      "title": "Twelve years of distributed SQLite",
-      "score": 201,
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "time": "2026-10-24T01:16:58"
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "score": 113,
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "time": "2026-10-24T08:06:39"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 287586,
+      "stars": 287768,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251740,
+      "stars": 251748,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196692,
+      "stars": 196694,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 175088,
+      "stars": 175283,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-24T09:57:02.760521+00:00"
+  "last_updated": "2026-10-24T15:00:57.695384+00:00"
 }
