@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "8.89\u00b0S",
-    "longitude": "103.51\u00b0E",
-    "timestamp": "2026-10-25T15:12:35+00:00",
+    "latitude": "37.00\u00b0N",
+    "longitude": "72.54\u00b0E",
+    "timestamp": "2026-10-25T20:06:41+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Tool book of a Nuremberg knight from 1505",
-      "score": 87,
-      "url": "https://loeffelholz-codex.org/en/",
-      "time": "2026-10-25T12:37:54"
+      "title": "Dolly Parton's Imagination Library",
+      "score": 142,
+      "url": "https://imaginationlibrary.com/",
+      "time": "2026-10-25T18:23:54"
     },
     {
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "score": 99,
-      "url": "https://github.com/ihhub/fheroes2",
-      "time": "2026-10-25T11:09:12"
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "score": 242,
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "time": "2026-10-25T17:15:38"
     },
     {
-      "title": "Show HN: Farol \u2013 a risk map of a pull request for the person who approves it",
-      "score": 24,
-      "url": "https://github.com/winnin/farol",
-      "time": "2026-10-25T13:28:06"
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "score": 233,
+      "url": "https://talkweb.eu/openweb/4558/",
+      "time": "2026-10-25T17:30:55"
     },
     {
-      "title": "We should be more ambitious with the software we build",
-      "score": 566,
-      "url": "https://danluu.com/ambitious/",
-      "time": "2026-10-24T21:47:31"
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "score": 172,
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "time": "2026-10-25T18:04:11"
     },
     {
-      "title": "R/open source bans all solo projects and projects using LLMs",
-      "score": 50,
-      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
-      "time": "2026-10-25T14:05:03"
+      "title": "JetBrains Thinkrail",
+      "score": 63,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "time": "2026-10-25T16:27:12"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 288539,
+      "stars": 288739,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251822,
+      "stars": 251836,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196695,
+      "stars": 196694,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 175928,
+      "stars": 176088,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159246,
+      "stars": 159249,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-25T15:12:13.706950+00:00"
+  "last_updated": "2026-10-25T20:06:41.106301+00:00"
 }
