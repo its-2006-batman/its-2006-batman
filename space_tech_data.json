@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "45.83\u00b0S",
-    "longitude": "130.31\u00b0E",
-    "timestamp": "2026-10-25T10:20:10+00:00",
+    "latitude": "8.89\u00b0S",
+    "longitude": "103.51\u00b0E",
+    "timestamp": "2026-10-25T15:12:35+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "score": 121,
-      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-      "time": "2026-10-25T09:00:40"
+      "title": "Tool book of a Nuremberg knight from 1505",
+      "score": 87,
+      "url": "https://loeffelholz-codex.org/en/",
+      "time": "2026-10-25T12:37:54"
+    },
+    {
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "score": 99,
+      "url": "https://github.com/ihhub/fheroes2",
+      "time": "2026-10-25T11:09:12"
+    },
+    {
+      "title": "Show HN: Farol \u2013 a risk map of a pull request for the person who approves it",
+      "score": 24,
+      "url": "https://github.com/winnin/farol",
+      "time": "2026-10-25T13:28:06"
     },
     {
       "title": "We should be more ambitious with the software we build",
-      "score": 439,
+      "score": 566,
       "url": "https://danluu.com/ambitious/",
       "time": "2026-10-24T21:47:31"
     },
     {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "score": 171,
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "time": "2026-10-25T01:33:49"
-    },
-    {
-      "title": "Not Palantir",
-      "score": 18,
-      "url": "https://notpalantir.eu/",
-      "time": "2026-10-25T06:55:13"
-    },
-    {
-      "title": "How Japanese Dried Bonito Is Made",
-      "score": 44,
-      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-      "time": "2026-10-22T11:31:03"
+      "title": "R/open source bans all solo projects and projects using LLMs",
+      "score": 50,
+      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+      "time": "2026-10-25T14:05:03"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 288354,
+      "stars": 288539,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251760,
+      "stars": 251822,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196698,
+      "stars": 196695,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 175774,
+      "stars": 175928,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159244,
+      "stars": 159246,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-25T10:20:07.953102+00:00"
+  "last_updated": "2026-10-25T15:12:13.706950+00:00"
 }
