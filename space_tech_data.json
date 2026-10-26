@@ -2,44 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "47.15\u00b0N",
-    "longitude": "123.27\u00b0E",
-    "timestamp": "2026-10-26T17:50:14+00:00",
+    "latitude": "23.47\u00b0S",
+    "longitude": "19.69\u00b0W",
+    "timestamp": "2026-10-26T22:02:49+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Working with academic communities to build scientific understanding",
+      "score": 41,
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "time": "2026-10-26T21:35:28"
+    },
+    {
+      "title": "Type Server Protocol",
+      "score": 155,
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "time": "2026-10-26T18:14:49"
+    },
+    {
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "score": 253,
+      "score": 490,
       "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
       "time": "2026-10-26T15:11:59"
     },
     {
       "title": "CSS-Tricks has a new owner",
-      "score": 146,
+      "score": 322,
       "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
       "time": "2026-10-26T15:51:23"
     },
     {
-      "title": "Anthropic S-1",
-      "score": 1046,
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "time": "2026-10-26T13:04:50"
-    },
-    {
-      "title": "The Git Forge for Agent-Human Collaboration",
-      "score": 24,
-      "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
-      "time": "2026-10-26T17:23:11"
-    },
-    {
-      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
-      "score": 75,
-      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-      "time": "2026-10-25T22:29:47"
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "score": 192,
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "time": "2026-10-26T17:56:55"
     }
   ],
-  "github_trending": [],
-  "last_updated": "2026-10-26T17:49:56.550020+00:00"
+  "github_trending": [
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
+      "stars": 289750,
+      "language": "JavaScript",
+      "url": "https://github.com/affaan-m/ECC"
+    },
+    {
+      "name": "react/react",
+      "description": "The library for web and native user interfaces.",
+      "stars": 251878,
+      "language": "JavaScript",
+      "url": "https://github.com/react/react"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196700,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 177055,
+      "language": "JavaScript",
+      "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
+      "stars": 159271,
+      "language": "JavaScript",
+      "url": "https://github.com/Snailclimb/JavaGuide"
+    }
+  ],
+  "last_updated": "2026-10-26T22:02:29.790894+00:00"
 }
