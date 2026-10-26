@@ -1,87 +1,45 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-26",
-    "explanation": "The Great Nebula in Orion, an immense, nearby starbirth region, is one the most famous of all astronomical nebulas. Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away. In the featured deep image in assigned colors highlighted...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "49.49\u00b0N",
-    "longitude": "91.37\u00b0W",
-    "timestamp": "2026-10-26T11:48:10+00:00",
+    "latitude": "47.15\u00b0N",
+    "longitude": "123.27\u00b0E",
+    "timestamp": "2026-10-26T17:50:14+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Switzerland. Block by block. At 1:1 scale",
-      "score": 188,
-      "url": "https://blocks.manifold3d.ch/",
-      "time": "2026-10-26T08:46:09"
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "score": 253,
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "time": "2026-10-26T15:11:59"
     },
     {
-      "title": "Birdwatching rewires the brain and slows cognitive decline",
-      "score": 82,
-      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-      "time": "2026-10-23T22:04:55"
+      "title": "CSS-Tricks has a new owner",
+      "score": 146,
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "time": "2026-10-26T15:51:23"
     },
     {
-      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
-      "score": 267,
-      "url": "https://titleart.dvy.io/",
-      "time": "2026-10-26T03:23:57"
+      "title": "Anthropic S-1",
+      "score": 1046,
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "time": "2026-10-26T13:04:50"
     },
     {
-      "title": "PaperPilot \u2013 Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "score": 159,
-      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-      "time": "2026-10-26T03:29:05"
+      "title": "The Git Forge for Agent-Human Collaboration",
+      "score": 24,
+      "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+      "time": "2026-10-26T17:23:11"
     },
     {
-      "title": "Behind the scenes at the NeXT Computer office",
-      "score": 145,
-      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-      "time": "2026-10-26T03:31:11"
+      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "score": 75,
+      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "time": "2026-10-25T22:29:47"
     }
   ],
-  "github_trending": [
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 289218,
-      "language": "JavaScript",
-      "url": "https://github.com/affaan-m/ECC"
-    },
-    {
-      "name": "react/react",
-      "description": "The library for web and native user interfaces.",
-      "stars": 251863,
-      "language": "JavaScript",
-      "url": "https://github.com/react/react"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196700,
-      "language": "JavaScript",
-      "url": "https://github.com/trekhleb/javascript-algorithms"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 176607,
-      "language": "JavaScript",
-      "url": "https://github.com/DietrichGebert/ponytail"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159268,
-      "language": "JavaScript",
-      "url": "https://github.com/Snailclimb/JavaGuide"
-    }
-  ],
-  "last_updated": "2026-10-26T11:47:59.940109+00:00"
+  "github_trending": [],
+  "last_updated": "2026-10-26T17:49:56.550020+00:00"
 }
