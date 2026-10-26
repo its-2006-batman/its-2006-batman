@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "37.00\u00b0N",
-    "longitude": "72.54\u00b0E",
-    "timestamp": "2026-10-25T20:06:41+00:00",
+    "latitude": "19.16\u00b0N",
+    "longitude": "40.76\u00b0W",
+    "timestamp": "2026-10-26T02:11:11+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Dolly Parton's Imagination Library",
-      "score": 142,
+      "score": 394,
       "url": "https://imaginationlibrary.com/",
       "time": "2026-10-25T18:23:54"
     },
     {
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "score": 242,
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "time": "2026-10-25T17:15:38"
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "score": 143,
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "time": "2026-10-22T15:52:21"
     },
     {
-      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "score": 233,
-      "url": "https://talkweb.eu/openweb/4558/",
-      "time": "2026-10-25T17:30:55"
+      "title": "F-Zero X on Nintendo 3DS",
+      "score": 44,
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "time": "2026-10-25T23:27:30"
     },
     {
-      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "score": 172,
-      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "time": "2026-10-25T18:04:11"
+      "title": "Attention Is Not What You Need (2025)",
+      "score": 25,
+      "url": "https://arxiv.org/abs/2512.19428",
+      "time": "2026-10-25T23:52:05"
     },
     {
-      "title": "JetBrains Thinkrail",
-      "score": 63,
-      "url": "https://github.com/JetBrains/thinkrail",
-      "time": "2026-10-25T16:27:12"
+      "title": "Why I Am a Programmer",
+      "score": 140,
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "time": "2026-10-25T19:11:31"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 288739,
+      "stars": 288901,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251836,
+      "stars": 251850,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196694,
+      "stars": 196697,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 176088,
+      "stars": 176230,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159249,
+      "stars": 159252,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-25T20:06:41.106301+00:00"
+  "last_updated": "2026-10-26T02:10:51.321912+00:00"
 }
