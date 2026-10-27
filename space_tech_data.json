@@ -1,87 +1,75 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-27",
-    "explanation": "\u00a0Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun,\u00a0sunset rises upfrom the ground. Therefore, at sunset on the ground, sunlight still shines on\u00a0clouds\u00a0above. Under\u00a0usual circumstances, a pretty sunset might be visible, but unusual\u00a0noctilucent clouds\u00a0floa...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
-  "iss_position": {
-    "latitude": "16.96\u00b0N",
-    "longitude": "34.48\u00b0W",
-    "timestamp": "2026-10-27T11:13:28+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "nasa_apod": null,
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-      "score": 60,
-      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
-      "time": "2026-10-27T10:27:50"
+      "title": "Genie 4",
+      "score": 156,
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "time": "2026-10-27T16:06:01"
     },
     {
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "score": 944,
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "time": "2026-10-26T21:35:28"
+      "title": "Python's experimental JIT to be removed",
+      "score": 290,
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "time": "2026-10-27T11:17:57"
     },
     {
-      "title": "The Mythical Man-Month in the Age of AI",
-      "score": 176,
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "time": "2026-10-27T06:25:37"
+      "title": "New iMac with M6",
+      "score": 157,
+      "url": "https://www.apple.com/imac/",
+      "time": "2026-10-27T13:02:02"
     },
     {
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "score": 647,
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "time": "2026-10-26T21:59:15"
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "score": 272,
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "time": "2026-10-27T11:08:15"
     },
     {
-      "title": "Show HN: Encarta 95 Web",
-      "score": 57,
-      "url": "https://benwinding.github.io/encarta_95_web/#/article/Art",
-      "time": "2026-10-24T07:18:37"
+      "title": "The US government is hiding secret court ruling about how it spies on Americans",
+      "score": 324,
+      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+      "time": "2026-10-27T14:06:42"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 290303,
+      "stars": 290571,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251890,
+      "stars": 251902,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196698,
+      "stars": 196703,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 177640,
+      "stars": 177911,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159292,
+      "stars": 159301,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-27T11:13:16.125578+00:00"
+  "last_updated": "2026-10-27T16:59:03.840920+00:00"
 }
