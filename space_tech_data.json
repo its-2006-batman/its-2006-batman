@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "26.69\u00b0S",
-    "longitude": "123.52\u00b0E",
-    "timestamp": "2026-10-28T02:55:42+00:00",
+    "latitude": "43.20\u00b0N",
+    "longitude": "83.18\u00b0W",
+    "timestamp": "2026-10-28T11:47:32+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Genie 4",
-      "score": 760,
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "time": "2026-10-27T16:06:01"
+      "title": "Start Doing Graph Theory",
+      "score": 129,
+      "url": "https://vertex.degree/",
+      "time": "2026-10-23T13:49:50"
     },
     {
-      "title": "Git for US Legislation",
-      "score": 20,
+      "title": "Git for the US Code",
+      "score": 300,
       "url": "https://lexifina.com/blog/git-for-the-us-code",
       "time": "2026-10-28T01:47:50"
     },
     {
+      "title": "Genie 4",
+      "score": 918,
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "time": "2026-10-27T16:06:01"
+    },
+    {
       "title": "Ghostty 1.4",
-      "score": 813,
+      "score": 1078,
       "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
       "time": "2026-10-27T16:51:22"
     },
     {
       "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-      "score": 86,
+      "score": 262,
       "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
       "time": "2026-10-25T18:49:48"
-    },
-    {
-      "title": "Early progress on accelerating drug development with Claude",
-      "score": 147,
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "time": "2026-10-27T20:50:42"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 290976,
+      "stars": 291321,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251797,
+      "stars": 251770,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196704,
+      "stars": 196696,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 178275,
+      "stars": 178633,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159305,
+      "stars": 159315,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-28T02:55:29.736416+00:00"
+  "last_updated": "2026-10-28T11:47:21.269392+00:00"
 }
