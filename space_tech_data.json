@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "43.20\u00b0N",
-    "longitude": "83.18\u00b0W",
-    "timestamp": "2026-10-28T11:47:32+00:00",
+    "latitude": "21.33\u00b0N",
+    "longitude": "74.60\u00b0E",
+    "timestamp": "2026-10-28T17:35:01+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "CNC Stone Carving",
+      "score": 199,
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "time": "2026-10-28T14:38:22"
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "score": 166,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "time": "2026-10-28T17:01:23"
+    },
+    {
+      "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+      "score": 63,
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "time": "2026-10-28T15:46:30"
+    },
+    {
       "title": "Start Doing Graph Theory",
-      "score": 129,
+      "score": 391,
       "url": "https://vertex.degree/",
       "time": "2026-10-23T13:49:50"
     },
     {
-      "title": "Git for the US Code",
-      "score": 300,
-      "url": "https://lexifina.com/blog/git-for-the-us-code",
-      "time": "2026-10-28T01:47:50"
-    },
-    {
-      "title": "Genie 4",
-      "score": 918,
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "time": "2026-10-27T16:06:01"
-    },
-    {
-      "title": "Ghostty 1.4",
-      "score": 1078,
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "time": "2026-10-27T16:51:22"
-    },
-    {
-      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-      "score": 262,
-      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-      "time": "2026-10-25T18:49:48"
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "score": 257,
+      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "time": "2026-10-26T13:13:31"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 291321,
+      "stars": 291546,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251770,
+      "stars": 251784,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196696,
+      "stars": 196699,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 178633,
+      "stars": 178932,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159315,
+      "stars": 159316,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-28T11:47:21.269392+00:00"
+  "last_updated": "2026-10-28T17:34:45.618991+00:00"
 }
