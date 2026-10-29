@@ -1,81 +1,75 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": {
-    "latitude": "26.98\u00b0N",
-    "longitude": "63.70\u00b0E",
-    "timestamp": "2026-10-29T03:21:40+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
       "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "score": 153,
+      "score": 532,
       "url": "https://divagr.com/blog/qwenputer",
       "time": "2026-10-29T00:25:45"
     },
     {
       "title": "Why is this fingerprinting script creating bioweapons?",
-      "score": 920,
+      "score": 1312,
       "url": "https://nullpt.rs/fingerprinting-bioweapons",
       "time": "2026-10-28T17:13:29"
     },
     {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "score": 106,
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "time": "2026-10-28T23:45:46"
+      "title": "Getting debug access on a Brother printer over Telnet",
+      "score": 76,
+      "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
+      "time": "2026-10-26T13:54:39"
     },
     {
-      "title": "A Health Update",
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "score": 52,
+      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "time": "2026-10-29T10:44:49"
+    },
+    {
+      "title": "Zero click, silent, remote Android DoS",
       "score": 135,
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "time": "2026-10-28T21:13:21"
-    },
-    {
-      "title": "CNC Stone Carving",
-      "score": 423,
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "time": "2026-10-28T14:38:22"
+      "url": "https://smsofdeath.com/",
+      "time": "2026-10-29T07:08:50"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 291852,
+      "stars": 292205,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251799,
+      "stars": 251812,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196703,
+      "stars": 196707,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 179298,
+      "stars": 179674,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159318,
+      "stars": 159329,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-29T03:21:20.572438+00:00"
+  "last_updated": "2026-10-29T11:55:26.691967+00:00"
 }
