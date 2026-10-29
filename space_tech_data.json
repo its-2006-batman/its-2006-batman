@@ -1,51 +1,57 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "21.09\u00b0S",
+    "longitude": "178.30\u00b0E",
+    "timestamp": "2026-10-29T22:10:55+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+      "score": 151,
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "time": "2026-10-29T21:38:59"
+    },
+    {
       "title": "We're releasing the weights of Mistral Large 4",
-      "score": 681,
+      "score": 1052,
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "time": "2026-10-29T14:13:21"
     },
     {
-      "title": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
-      "score": 161,
-      "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
-      "time": "2026-10-29T16:42:17"
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "score": 221,
+      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "time": "2026-10-29T17:43:48"
     },
     {
-      "title": "H.264 Is Magic (2016)",
-      "score": 118,
-      "url": "https://sidbala.com/h-264-is-magic/",
-      "time": "2026-10-29T15:53:03"
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "score": 22,
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "time": "2026-10-29T21:40:28"
     },
     {
-      "title": "Tom\u00e1\u0161 Mikolov awarded the Medal of Merit by the President of the Czech Republic",
-      "score": 32,
-      "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
-      "time": "2026-10-29T16:56:54"
-    },
-    {
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "score": 81,
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "time": "2026-10-29T15:06:17"
+      "title": "Patrick Stewart has died",
+      "score": 1696,
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "time": "2026-10-29T19:41:39"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 292487,
+      "stars": 292644,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251819,
+      "stars": 251741,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -59,17 +65,17 @@
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 179935,
+      "stars": 180105,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159330,
+      "stars": 159333,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-29T17:45:44.388207+00:00"
+  "last_updated": "2026-10-29T22:10:32.780849+00:00"
 }
