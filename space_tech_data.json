@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "21.09\u00b0S",
-    "longitude": "178.30\u00b0E",
-    "timestamp": "2026-10-29T22:10:55+00:00",
+    "latitude": "16.91\u00b0S",
+    "longitude": "112.72\u00b0W",
+    "timestamp": "2026-10-30T03:22:56+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
-      "score": 151,
+      "score": 846,
       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "time": "2026-10-29T21:38:59"
     },
     {
       "title": "We're releasing the weights of Mistral Large 4",
-      "score": 1052,
+      "score": 1248,
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "time": "2026-10-29T14:13:21"
     },
     {
-      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
-      "score": 221,
-      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
-      "time": "2026-10-29T17:43:48"
+      "title": "Cuis: The Modern Smalltalk-80",
+      "score": 13,
+      "url": "https://cuis.st/",
+      "time": "2026-10-27T06:33:16"
     },
     {
       "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "score": 22,
+      "score": 205,
       "url": "https://labs.ycombinator.com/projects/games/index.html",
       "time": "2026-10-29T21:40:28"
     },
     {
-      "title": "Patrick Stewart has died",
-      "score": 1696,
-      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "time": "2026-10-29T19:41:39"
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "score": 11,
+      "url": "https://github.com/da-luce/astroterm",
+      "time": "2026-10-28T08:29:55"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 292644,
+      "stars": 292780,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251741,
+      "stars": 251749,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196707,
+      "stars": 196709,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 180105,
+      "stars": 180287,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159333,
+      "stars": 159335,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-29T22:10:32.780849+00:00"
+  "last_updated": "2026-10-30T03:22:45.371106+00:00"
 }
