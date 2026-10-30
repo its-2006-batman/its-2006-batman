@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "NASA Science",
+    "date": "2026-10-30",
+    "explanation": "Spooky shapes seem to haunt this dusty expanse, drifting through the night in the royal constellation Cepheus. Of course, the shapes are cosmic dust clouds visible in dimly reflected starlight. Far from your own neighborhood, they lurk above the plane of the Milky Way at the edge of the Cepheus Flar...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "16.91\u00b0S",
-    "longitude": "112.72\u00b0W",
-    "timestamp": "2026-10-30T03:22:56+00:00",
+    "latitude": "28.10\u00b0N",
+    "longitude": "72.45\u00b0W",
+    "timestamp": "2026-10-30T11:49:09+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "elect.horse",
+      "score": 67,
+      "url": "https://elect.horse/",
+      "time": "2026-10-30T09:14:34"
+    },
+    {
       "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
-      "score": 846,
+      "score": 1457,
       "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
       "time": "2026-10-29T21:38:59"
     },
     {
+      "title": "Backdoors in official Claude Code extensions",
+      "score": 83,
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "time": "2026-10-30T11:05:53"
+    },
+    {
       "title": "We're releasing the weights of Mistral Large 4",
-      "score": 1248,
+      "score": 1535,
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "time": "2026-10-29T14:13:21"
     },
     {
-      "title": "Cuis: The Modern Smalltalk-80",
-      "score": 13,
-      "url": "https://cuis.st/",
-      "time": "2026-10-27T06:33:16"
-    },
-    {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "score": 205,
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
-      "time": "2026-10-29T21:40:28"
-    },
-    {
-      "title": "Astroterm: A Planetarium for Your Terminal",
-      "score": 11,
-      "url": "https://github.com/da-luce/astroterm",
-      "time": "2026-10-28T08:29:55"
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "score": 21,
+      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
+      "time": "2026-10-30T09:49:02"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 292780,
+      "stars": 293037,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251749,
+      "stars": 251757,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196709,
+      "stars": 196707,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 180287,
+      "stars": 180627,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159335,
+      "stars": 159341,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-30T03:22:45.371106+00:00"
+  "last_updated": "2026-10-30T11:48:58.506766+00:00"
 }
