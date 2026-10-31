@@ -1,63 +1,57 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-10-31",
-    "explanation": "What spooky planet is this? Planet Earth on a dark and stormy night, of course. The ghostly scene was photographed at Hverir, a geothermally active area found along northeastern Iceland's volcanic landscape. Triggered by solar activity, geomagnetic storms have unleashed energetic particles trapped i...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "18.05\u00b0S",
-    "longitude": "40.62\u00b0E",
-    "timestamp": "2026-10-31T16:28:40+00:00",
+    "latitude": "49.68\u00b0S",
+    "longitude": "120.90\u00b0W",
+    "timestamp": "2026-10-31T20:46:17+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "score": 56,
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "time": "2026-10-31T14:29:03"
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "score": 63,
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "time": "2026-10-31T19:56:53"
     },
     {
-      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-      "score": 179,
-      "url": "https://piefed.world/post/1503394",
-      "time": "2026-10-31T10:23:41"
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "score": 97,
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "time": "2026-10-31T19:16:30"
     },
     {
-      "title": "We Took over ChatGPT Accounts",
-      "score": 191,
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "time": "2026-10-31T10:30:11"
+      "title": "The Duty of a Scholar",
+      "score": 44,
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "time": "2026-10-31T19:07:36"
     },
     {
-      "title": "Casio Watches of the 1980s",
-      "score": 10,
-      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
-      "time": "2026-10-31T16:00:48"
+      "title": "It's the Memory Latency, Stupid",
+      "score": 40,
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "time": "2026-10-31T18:38:16"
     },
     {
-      "title": "Serbia just elected the world's brainiest parliament",
-      "score": 598,
-      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "time": "2026-10-31T10:21:30"
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "score": 92,
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "time": "2026-10-31T18:50:34"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 293818,
+      "stars": 293966,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251891,
+      "stars": 251904,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -71,17 +65,17 @@
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 181352,
+      "stars": 181467,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159363,
+      "stars": 159364,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-31T16:28:22.919621+00:00"
+  "last_updated": "2026-10-31T20:45:56.912767+00:00"
 }
