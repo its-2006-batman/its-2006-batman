@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "42.39\u00b0S",
-    "longitude": "65.51\u00b0W",
-    "timestamp": "2026-10-30T21:46:19+00:00",
+    "latitude": "48.17\u00b0N",
+    "longitude": "16.88\u00b0E",
+    "timestamp": "2026-10-31T03:07:41+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "score": 169,
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "time": "2026-10-30T17:25:15"
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "score": 89,
+      "url": "https://tng.episodle.com/",
+      "time": "2026-10-30T23:51:24"
     },
     {
-      "title": "Bunny CDN Security Incident",
-      "score": 101,
-      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
-      "time": "2026-10-30T19:05:22"
-    },
-    {
-      "title": "Northflank Breached",
-      "score": 298,
-      "url": "https://status.northflank.com",
-      "time": "2026-10-30T15:10:31"
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "score": 114,
+      "url": "https://github.com/chris124567/cfsolve",
+      "time": "2026-10-28T17:29:23"
     },
     {
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "score": 663,
+      "score": 799,
       "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
       "time": "2026-10-30T07:09:12"
     },
     {
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "score": 145,
-      "url": "https://github.com/dbreunig/nesformer",
-      "time": "2026-10-30T16:40:22"
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "score": 259,
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "time": "2026-10-30T17:25:15"
+    },
+    {
+      "title": "Northflank Breached",
+      "score": 371,
+      "url": "https://status.northflank.com",
+      "time": "2026-10-30T15:10:31"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 293351,
+      "stars": 293453,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251780,
+      "stars": 251800,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196712,
+      "stars": 196714,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 180913,
+      "stars": 181021,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159351,
+      "stars": 159354,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-30T21:45:59.600659+00:00"
+  "last_updated": "2026-10-31T03:07:21.173587+00:00"
 }
