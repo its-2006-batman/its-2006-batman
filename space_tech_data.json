@@ -2,56 +2,56 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "48.17\u00b0N",
-    "longitude": "16.88\u00b0E",
-    "timestamp": "2026-10-31T03:07:41+00:00",
+    "latitude": "37.28\u00b0S",
+    "longitude": "9.66\u00b0W",
+    "timestamp": "2026-10-31T11:23:03+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-      "score": 89,
-      "url": "https://tng.episodle.com/",
-      "time": "2026-10-30T23:51:24"
+      "title": "Serbia just elected the world's brainiest parliament",
+      "score": 133,
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "time": "2026-10-31T10:21:30"
     },
     {
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "score": 114,
-      "url": "https://github.com/chris124567/cfsolve",
-      "time": "2026-10-28T17:29:23"
+      "title": "Switch Lowering in GCC",
+      "score": 70,
+      "url": "https://xoranth.net/gcc-switch/",
+      "time": "2026-10-31T08:02:26"
     },
     {
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "score": 799,
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "time": "2026-10-30T07:09:12"
+      "title": "Digital Minimalism",
+      "score": 71,
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "time": "2026-10-31T06:16:36"
     },
     {
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "score": 259,
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "time": "2026-10-30T17:25:15"
+      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "score": 75,
+      "url": "https://zebra.rodeo/en/blog/marelleo/",
+      "time": "2026-10-27T15:24:36"
     },
     {
-      "title": "Northflank Breached",
-      "score": 371,
-      "url": "https://status.northflank.com",
-      "time": "2026-10-30T15:10:31"
+      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+      "score": 5,
+      "url": "https://piefed.world/post/1503394",
+      "time": "2026-10-31T10:23:41"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 293453,
+      "stars": 293665,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251800,
+      "stars": 251845,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -65,17 +65,17 @@
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 181021,
+      "stars": 181224,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159354,
+      "stars": 159361,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-31T03:07:21.173587+00:00"
+  "last_updated": "2026-10-31T11:22:48.565895+00:00"
 }
