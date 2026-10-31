@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "NASA Science",
+    "date": "2026-10-31",
+    "explanation": "What spooky planet is this? Planet Earth on a dark and stormy night, of course. The ghostly scene was photographed at Hverir, a geothermally active area found along northeastern Iceland's volcanic landscape. Triggered by solar activity, geomagnetic storms have unleashed energetic particles trapped i...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "37.28\u00b0S",
-    "longitude": "9.66\u00b0W",
-    "timestamp": "2026-10-31T11:23:03+00:00",
+    "latitude": "18.05\u00b0S",
+    "longitude": "40.62\u00b0E",
+    "timestamp": "2026-10-31T16:28:40+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Serbia just elected the world's brainiest parliament",
-      "score": 133,
-      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "time": "2026-10-31T10:21:30"
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "score": 56,
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "time": "2026-10-31T14:29:03"
     },
     {
-      "title": "Switch Lowering in GCC",
-      "score": 70,
-      "url": "https://xoranth.net/gcc-switch/",
-      "time": "2026-10-31T08:02:26"
-    },
-    {
-      "title": "Digital Minimalism",
-      "score": 71,
-      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-      "time": "2026-10-31T06:16:36"
-    },
-    {
-      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-      "score": 75,
-      "url": "https://zebra.rodeo/en/blog/marelleo/",
-      "time": "2026-10-27T15:24:36"
-    },
-    {
-      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
-      "score": 5,
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "score": 179,
       "url": "https://piefed.world/post/1503394",
       "time": "2026-10-31T10:23:41"
+    },
+    {
+      "title": "We Took over ChatGPT Accounts",
+      "score": 191,
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "time": "2026-10-31T10:30:11"
+    },
+    {
+      "title": "Casio Watches of the 1980s",
+      "score": 10,
+      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+      "time": "2026-10-31T16:00:48"
+    },
+    {
+      "title": "Serbia just elected the world's brainiest parliament",
+      "score": 598,
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "time": "2026-10-31T10:21:30"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 293665,
+      "stars": 293818,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251845,
+      "stars": 251891,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196714,
+      "stars": 196715,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 181224,
+      "stars": 181352,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "Snailclimb/JavaGuide",
       "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159361,
+      "stars": 159363,
       "language": "JavaScript",
       "url": "https://github.com/Snailclimb/JavaGuide"
     }
   ],
-  "last_updated": "2026-10-31T11:22:48.565895+00:00"
+  "last_updated": "2026-10-31T16:28:22.919621+00:00"
 }
