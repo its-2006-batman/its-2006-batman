@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-11-01",
-    "explanation": "What spooky planet is this? Planet Earth on a dark and stormy night, of course. The ghostly scene was photographed at Hverir, a geothermally active area found along northeastern Iceland's volcanic landscape. Triggered by solar activity, geomagnetic storms have unleashed energetic particles trapped i...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "50.84\u00b0S",
-    "longitude": "177.78\u00b0E",
-    "timestamp": "2026-11-01T03:02:55+00:00",
+    "latitude": "50.30\u00b0S",
+    "longitude": "6.83\u00b0E",
+    "timestamp": "2026-11-01T12:14:26+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Norway makes shithouses great again",
+      "score": 170,
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "time": "2026-11-01T10:47:58"
+    },
+    {
       "title": "HackerTube: YouTube built from videos recommended by HN",
-      "score": 808,
+      "score": 1457,
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "time": "2026-10-31T19:56:53"
     },
     {
+      "title": "A tiny Pacific country rolls out universal basic income",
+      "score": 37,
+      "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+      "time": "2026-11-01T10:05:09"
+    },
+    {
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "score": 188,
+      "score": 501,
       "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
       "time": "2026-10-31T22:41:06"
     },
     {
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "score": 370,
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "time": "2026-10-31T19:16:30"
-    },
-    {
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "score": 101,
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "time": "2026-10-31T22:46:12"
-    },
-    {
-      "title": "Altoids Project",
-      "score": 53,
-      "url": "https://uvdn7.github.io/altoids-project/",
-      "time": "2026-10-31T22:54:55"
+      "title": "The AI cost of JavaScript frameworks",
+      "score": 113,
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "time": "2026-11-01T06:06:19"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 294123,
+      "stars": 294395,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251945,
+      "stars": 252064,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196712,
+      "stars": 196713,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
-      "name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 181571,
+      "name": "CyC2018/CS-Notes",
+      "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
+      "stars": 186410,
       "language": "JavaScript",
-      "url": "https://github.com/DietrichGebert/ponytail"
+      "url": "https://github.com/CyC2018/CS-Notes"
     },
     {
-      "name": "Snailclimb/JavaGuide",
-      "description": "Java \u9762\u8bd5 & \u540e\u7aef\u901a\u7528\u9762\u8bd5\u6307\u5357\uff0c\u8986\u76d6\u8ba1\u7b97\u673a\u57fa\u7840\u3001\u6570\u636e\u5e93\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u5e76\u53d1\u3001\u7cfb\u7edf\u8bbe\u8ba1\u4e0e AI \u5e94\u7528\u5f00\u53d1",
-      "stars": 159364,
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 181803,
       "language": "JavaScript",
-      "url": "https://github.com/Snailclimb/JavaGuide"
+      "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-11-01T03:02:45.246921+00:00"
+  "last_updated": "2026-11-01T12:14:12.950097+00:00"
 }
