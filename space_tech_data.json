@@ -1,81 +1,75 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": {
-    "latitude": "50.30\u00b0S",
-    "longitude": "6.83\u00b0E",
-    "timestamp": "2026-11-01T12:14:26+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Norway makes shithouses great again",
-      "score": 170,
-      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-      "time": "2026-11-01T10:47:58"
+      "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
+      "score": 621,
+      "url": "https://hackerbooks.org",
+      "time": "2026-11-01T15:58:28"
     },
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
-      "score": 1457,
+      "score": 2079,
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "time": "2026-10-31T19:56:53"
     },
     {
-      "title": "A tiny Pacific country rolls out universal basic income",
-      "score": 37,
-      "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
-      "time": "2026-11-01T10:05:09"
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "score": 29,
+      "url": "https://github.com/raphlinus/nibnib",
+      "time": "2026-10-30T04:17:06"
     },
     {
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "score": 501,
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "time": "2026-10-31T22:41:06"
+      "title": "Mathematics has changed. Let's act like it",
+      "score": 122,
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "time": "2026-11-01T18:28:42"
     },
     {
-      "title": "The AI cost of JavaScript frameworks",
-      "score": 113,
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "time": "2026-11-01T06:06:19"
+      "title": "John Leeson (the voice of K9) has died",
+      "score": 5,
+      "url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
+      "time": "2026-11-01T20:48:04"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 294395,
+      "stars": 294725,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252064,
+      "stars": 252068,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196713,
+      "stars": 196712,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186410,
+      "stars": 186409,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 181803,
+      "stars": 182063,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-11-01T12:14:12.950097+00:00"
+  "last_updated": "2026-11-01T21:27:35.053401+00:00"
 }
