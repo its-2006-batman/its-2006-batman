@@ -1,51 +1,57 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "23.54\u00b0N",
+    "longitude": "45.52\u00b0E",
+    "timestamp": "2026-11-02T03:13:42+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
       "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
-      "score": 621,
+      "score": 1002,
       "url": "https://hackerbooks.org",
       "time": "2026-11-01T15:58:28"
     },
     {
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 \u2013 The Beginning of BSD Unix",
+      "score": 13,
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "time": "2026-11-02T01:59:38"
+    },
+    {
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "score": 101,
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "time": "2026-10-31T01:38:56"
+    },
+    {
       "title": "HackerTube: YouTube built from videos recommended by HN",
-      "score": 2079,
+      "score": 2333,
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "time": "2026-10-31T19:56:53"
     },
     {
       "title": "Nibnib: Image compression with extreme decompression speed",
-      "score": 29,
+      "score": 109,
       "url": "https://github.com/raphlinus/nibnib",
       "time": "2026-10-30T04:17:06"
-    },
-    {
-      "title": "Mathematics has changed. Let's act like it",
-      "score": 122,
-      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-      "time": "2026-11-01T18:28:42"
-    },
-    {
-      "title": "John Leeson (the voice of K9) has died",
-      "score": 5,
-      "url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
-      "time": "2026-11-01T20:48:04"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 294725,
+      "stars": 294880,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252068,
+      "stars": 252077,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -59,17 +65,17 @@
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186409,
+      "stars": 186410,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 182063,
+      "stars": 182206,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-11-01T21:27:35.053401+00:00"
+  "last_updated": "2026-11-02T03:13:24.739214+00:00"
 }
