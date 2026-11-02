@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  23.54°N                                       ║
-║  📍 LONGITUDE: 45.52°E                                       ║
+║  📍 LATITUDE:  15.02°N                                       ║
+║  📍 LONGITUDE: 112.32°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-11-02 03:13 UTC                   ║
+║  ⏰ UPDATE: 2026-11-02 14:05 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Show HN: HackerBooks – HackerTube, but for books mentioned o...** (1002 ⭐)
-2. **F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Un...** (13 ⭐)
-3. **Postgres 19 is late because so many more bugs are being foun...** (101 ⭐)
+1. **Show HN: HackerBooks – HackerTube, but for books mentioned o...** (1624 ⭐)
+2. **Postgres 19 is late because so many more bugs are being foun...** (627 ⭐)
+3. **Show HN: I've updated my Linux System Call website and API** (82 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (294880★)
-2. **react/react** (252077★)
-3. **trekhleb/javascript-algorithms** (196712★)
+1. **affaan-m/ECC** (295239★)
+2. **react/react** (252088★)
+3. **trekhleb/javascript-algorithms** (196718★)
 <!-- LIVE_DATA_END -->
