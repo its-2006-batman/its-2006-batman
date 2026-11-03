@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "15.02\u00b0N",
-    "longitude": "112.32\u00b0W",
-    "timestamp": "2026-11-02T14:05:53+00:00",
+    "latitude": "12.74\u00b0S",
+    "longitude": "83.78\u00b0W",
+    "timestamp": "2026-11-03T00:09:36+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
-      "score": 1624,
-      "url": "https://hackerbooks.org",
-      "time": "2026-11-01T15:58:28"
+      "title": "Astra can read and write weights to improve Qwen",
+      "score": 1737,
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "time": "2026-11-02T18:21:28"
     },
     {
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "score": 627,
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "time": "2026-10-31T01:38:56"
+      "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
+      "score": 499,
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "time": "2026-11-02T17:16:17"
     },
     {
-      "title": "Show HN: I've updated my Linux System Call website and API",
-      "score": 82,
-      "url": "https://syscall.sh/",
-      "time": "2026-11-02T09:29:16"
+      "title": "US boy names that became girl names and vice versa",
+      "score": 261,
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "time": "2026-11-02T16:34:36"
     },
     {
-      "title": "Show HN: Wikihack \u2013 HackerTube, but for Wikipedia articles mentioned on HN",
-      "score": 294,
-      "url": "https://wikihack.netlify.app",
-      "time": "2026-11-02T05:06:30"
+      "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
+      "score": 113,
+      "url": "https://momentic.ai/",
+      "time": "2026-11-02T17:05:25"
     },
     {
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "score": 2693,
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "time": "2026-10-31T19:56:53"
+      "title": "If you love a website, back it up",
+      "score": 367,
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "time": "2026-11-02T13:25:35"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 295239,
+      "stars": 295655,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252088,
+      "stars": 251877,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196718,
+      "stars": 196721,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186429,
+      "stars": 186431,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 182597,
+      "stars": 182881,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-11-02T14:05:42.672770+00:00"
+  "last_updated": "2026-11-03T00:09:10.375835+00:00"
 }
