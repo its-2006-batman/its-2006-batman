@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "19.29\u00b0N",
-    "longitude": "94.22\u00b0E",
-    "timestamp": "2026-11-04T13:26:16+00:00",
+    "latitude": "51.44\u00b0N",
+    "longitude": "16.30\u00b0E",
+    "timestamp": "2026-11-04T22:58:29+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Residential proxies detected on White House network",
+      "score": 416,
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "time": "2026-11-04T20:45:18"
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "score": 174,
+      "url": "https://www.ricursive.com/ripple",
+      "time": "2026-11-04T18:53:29"
+    },
+    {
+      "title": "Insects don't swarm at LED lights",
+      "score": 120,
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "time": "2026-11-04T19:50:23"
+    },
+    {
       "title": "AI is forcing us to pay off 40 years of technical debt",
-      "score": 201,
+      "score": 990,
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
       "time": "2026-11-04T11:52:17"
     },
     {
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "score": 218,
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "time": "2026-11-04T08:46:29"
-    },
-    {
-      "title": "Incident with Pull Requests, Git Operations and Issues",
-      "score": 128,
-      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
-      "time": "2026-11-04T10:00:06"
-    },
-    {
-      "title": "Verification Is Not Knowledge: Science needs more than answers",
-      "score": 98,
-      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
-      "time": "2026-11-04T09:01:58"
-    },
-    {
-      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "score": 166,
-      "url": "https://news.ycombinator.com/item?id=50363461",
-      "time": "2026-11-04T10:10:27"
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "score": 19,
+      "url": "https://icode4.coffee/?p=1746",
+      "time": "2026-11-04T22:01:49"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 296896,
+      "stars": 297216,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251918,
+      "stars": 251960,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196715,
+      "stars": 196717,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186438,
+      "stars": 186442,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 184190,
+      "stars": 184511,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-11-04T13:26:02.204792+00:00"
+  "last_updated": "2026-11-04T22:58:18.138524+00:00"
 }
