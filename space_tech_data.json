@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "43.71\u00b0S",
-    "longitude": "175.99\u00b0E",
-    "timestamp": "2026-11-04T03:47:25+00:00",
+    "latitude": "19.29\u00b0N",
+    "longitude": "94.22\u00b0E",
+    "timestamp": "2026-11-04T13:26:16+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "The Internals of PostgreSQL",
-      "score": 167,
-      "url": "https://www.interdb.jp/pg/index.html",
-      "time": "2026-11-03T21:51:06"
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "score": 201,
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "time": "2026-11-04T11:52:17"
     },
     {
-      "title": "C++26 Disapproved",
-      "score": 69,
-      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-      "time": "2026-11-04T00:33:22"
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "score": 218,
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "time": "2026-11-04T08:46:29"
     },
     {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "score": 655,
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "time": "2026-11-02T16:29:19"
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "score": 128,
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "time": "2026-11-04T10:00:06"
     },
     {
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "score": 436,
-      "url": "https://neufangled.com/",
-      "time": "2026-11-03T16:47:29"
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "score": 98,
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "time": "2026-11-04T09:01:58"
     },
     {
-      "title": "Giant canyon on Mars is still tectonically active",
-      "score": 25,
-      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-      "time": "2026-11-04T01:40:42"
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "score": 166,
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "time": "2026-11-04T10:10:27"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 296619,
+      "stars": 296896,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251905,
+      "stars": 251918,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196720,
+      "stars": 196715,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186444,
+      "stars": 186438,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 183856,
+      "stars": 184190,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-11-04T03:47:10.608717+00:00"
+  "last_updated": "2026-11-04T13:26:02.204792+00:00"
 }
