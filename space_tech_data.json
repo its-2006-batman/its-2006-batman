@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "5.02\u00b0S",
-    "longitude": "127.27\u00b0E",
-    "timestamp": "2026-11-03T22:40:19+00:00",
+    "latitude": "43.71\u00b0S",
+    "longitude": "175.99\u00b0E",
+    "timestamp": "2026-11-04T03:47:25+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "score": 64,
-      "url": "https://arxiv.org/abs/2605.29713",
-      "time": "2026-11-03T21:40:53"
-    },
-    {
       "title": "The Internals of PostgreSQL",
-      "score": 22,
+      "score": 167,
       "url": "https://www.interdb.jp/pg/index.html",
       "time": "2026-11-03T21:51:06"
     },
     {
-      "title": "Safari introduces Adaptive Dark Mode in 27.3",
-      "score": 121,
-      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "time": "2026-11-03T21:39:05"
+      "title": "C++26 Disapproved",
+      "score": 69,
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "time": "2026-11-04T00:33:22"
     },
     {
       "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "score": 538,
+      "score": 655,
       "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
       "time": "2026-11-02T16:29:19"
     },
     {
       "title": "Stringman, an $800 open-source room scale gripper robot",
-      "score": 270,
+      "score": 436,
       "url": "https://neufangled.com/",
       "time": "2026-11-03T16:47:29"
+    },
+    {
+      "title": "Giant canyon on Mars is still tectonically active",
+      "score": 25,
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+      "time": "2026-11-04T01:40:42"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 296518,
+      "stars": 296619,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251901,
+      "stars": 251905,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196721,
+      "stars": 196720,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186443,
+      "stars": 186444,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 183693,
+      "stars": 183856,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-11-03T22:40:00.172787+00:00"
+  "last_updated": "2026-11-04T03:47:10.608717+00:00"
 }
