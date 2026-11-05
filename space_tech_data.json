@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "51.60\u00b0S",
-    "longitude": "22.86\u00b0W",
-    "timestamp": "2026-11-05T13:40:27+00:00",
+    "latitude": "50.39\u00b0S",
+    "longitude": "146.82\u00b0W",
+    "timestamp": "2026-11-05T22:59:55+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Sshole",
-      "score": 362,
+      "title": "Kagi Search for Everyone",
+      "score": 318,
+      "url": "https://kagi.com/changelog",
+      "time": "2026-11-05T20:03:34"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "score": 181,
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "time": "2026-11-05T20:43:42"
+    },
+    {
+      "title": "sshole",
+      "score": 2181,
       "url": "https://sshhole.com",
       "time": "2026-11-05T12:19:02"
     },
     {
-      "title": "Baidu released ERNIE 5.5 Flash Base",
-      "score": 100,
-      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-      "time": "2026-11-05T09:29:12"
+      "title": "Claude Code sends your email address to websites",
+      "score": 91,
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "time": "2026-11-05T22:17:15"
     },
     {
-      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "score": 32,
-      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
-      "time": "2026-11-05T11:40:30"
-    },
-    {
-      "title": "Residential proxies detected on White House network",
-      "score": 1159,
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "time": "2026-11-04T20:45:18"
-    },
-    {
-      "title": "Awesome repositories are no longer awesome",
-      "score": 90,
-      "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
-      "time": "2026-11-05T11:16:51"
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "score": 533,
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "time": "2026-11-05T14:44:20"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 297592,
+      "stars": 297844,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 251984,
+      "stars": 252019,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196720,
+      "stars": 196715,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186451,
+      "stars": 186453,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 184932,
+      "stars": 185204,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-11-05T13:40:07.077075+00:00"
+  "last_updated": "2026-11-05T22:59:38.760870+00:00"
 }
