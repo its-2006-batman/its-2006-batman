@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "NASA Science",
+    "date": "2026-11-06",
+    "explanation": "One of our Solar System's most tantalizing worlds, Enceladus is backlit by the Sun in this Cassini spacecraft image from November 1, 2009. The dramatic illumination reveals the plumes that continuously spew into space from the south pole of Saturn's 500 kilometer diameter moon. Discovered by Cassini...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "50.39\u00b0S",
-    "longitude": "146.82\u00b0W",
-    "timestamp": "2026-11-05T22:59:55+00:00",
+    "latitude": "10.53\u00b0N",
+    "longitude": "141.94\u00b0W",
+    "timestamp": "2026-11-06T04:02:05+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Kagi Search for Everyone",
-      "score": 318,
-      "url": "https://kagi.com/changelog",
-      "time": "2026-11-05T20:03:34"
-    },
-    {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "score": 181,
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "time": "2026-11-05T20:43:42"
-    },
-    {
-      "title": "sshole",
-      "score": 2181,
-      "url": "https://sshhole.com",
-      "time": "2026-11-05T12:19:02"
-    },
-    {
       "title": "Claude Code sends your email address to websites",
-      "score": 91,
+      "score": 679,
       "url": "https://github.com/anthropics/claude-code/issues/107757",
       "time": "2026-11-05T22:17:15"
     },
     {
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "score": 533,
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "time": "2026-11-05T14:44:20"
+      "title": "sshole",
+      "score": 2419,
+      "url": "https://sshhole.com",
+      "time": "2026-11-05T12:19:02"
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "score": 374,
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "time": "2026-11-05T20:43:42"
+    },
+    {
+      "title": "Inkling 2 Small",
+      "score": 107,
+      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "time": "2026-11-06T00:00:24"
+    },
+    {
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "score": 12,
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "time": "2026-11-06T03:16:26"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 297844,
+      "stars": 297945,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252019,
+      "stars": 252013,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196715,
+      "stars": 196716,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186453,
+      "stars": 186454,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 185204,
+      "stars": 185314,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-11-05T22:59:38.760870+00:00"
+  "last_updated": "2026-11-06T04:01:55.098667+00:00"
 }
