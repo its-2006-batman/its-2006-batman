@@ -2,56 +2,56 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "28.09\u00b0N",
-    "longitude": "91.65\u00b0E",
-    "timestamp": "2026-11-06T13:24:37+00:00",
+    "latitude": "6.27\u00b0S",
+    "longitude": "76.85\u00b0W",
+    "timestamp": "2026-11-06T22:29:34+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-      "score": 265,
-      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-      "time": "2026-11-06T09:27:12"
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "score": 198,
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "time": "2026-11-06T19:48:51"
     },
     {
-      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-      "score": 349,
-      "url": "https://github.com/ppmpreetham/BUI",
-      "time": "2026-11-06T07:40:35"
+      "title": "AI is dramatically accelerating AI research",
+      "score": 103,
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "time": "2026-11-06T20:27:23"
     },
     {
-      "title": "Claude Code sends your email address to websites",
-      "score": 1285,
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "time": "2026-11-05T22:17:15"
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "score": 114,
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "time": "2026-11-06T19:33:38"
     },
     {
-      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-      "score": 65,
-      "url": "https://jhr.pensoft.net/articles.php?id=9096",
-      "time": "2026-11-06T10:21:15"
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "score": 235,
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "time": "2026-11-06T04:00:28"
     },
     {
-      "title": "We've built an open-source feature flag server for 11 years",
-      "score": 27,
-      "url": "https://github.com/Unleash/unleash",
-      "time": "2026-11-06T11:40:06"
+      "title": "Tesla to wind down Cybertruck production",
+      "score": 724,
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "time": "2026-11-06T12:13:51"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 298245,
+      "stars": 298540,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252077,
+      "stars": 252228,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -65,17 +65,17 @@
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186455,
+      "stars": 186452,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 185585,
+      "stars": 185821,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     }
   ],
-  "last_updated": "2026-11-06T13:24:25.956193+00:00"
+  "last_updated": "2026-11-06T22:29:24.065120+00:00"
 }
