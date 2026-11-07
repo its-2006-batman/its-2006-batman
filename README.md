@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  51.45°S                                       ║
-║  📍 LONGITUDE: 14.52°W                                       ║
+║  📍 LATITUDE:  43.48°S                                       ║
+║  📍 LONGITUDE: 170.53°E                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-11-07 12:02 UTC                   ║
+║  ⏰ UPDATE: 2026-11-07 21:12 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: NASA Science                                             ║
-║  DATE:  2026-11-07                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Every Mac comes with an (undocumented) family member classif...** (121 ⭐)
-2. **Libghostty 1.0** (710 ⭐)
-3. **Upload Your RAM** (87 ⭐)
+1. **The end of Microsoft Research's AI Frontiers group** (225 ⭐)
+2. **Claude Code's "Don't Ask Again" exposes passwords in 1,122 p...** (24 ⭐)
+3. **What I run on my $10 USD OpenStick homelab** (156 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (298852★)
-2. **react/react** (252345★)
-3. **trekhleb/javascript-algorithms** (196721★)
+1. **affaan-m/ECC** (299102★)
+2. **react/react** (252362★)
+3. **trekhleb/javascript-algorithms** (196717★)
 <!-- LIVE_DATA_END -->
