@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  N/A                                           ║
-║  📍 LONGITUDE: N/A                                           ║
-║  ⚡ VELOCITY:  N/A                                           ║
-║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-11-07 03:38 UTC                   ║
+║  📍 LATITUDE:  51.45°S                                       ║
+║  📍 LONGITUDE: 14.52°W                                       ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ UPDATE: 2026-11-07 12:02 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: NASA Science                                             ║
+║  DATE:  2026-11-07                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Libghostty 1.0** (309 ⭐)
-2. **A Jev that can ask Opus for help gives Opus accuracy at 4x l...** (366 ⭐)
-3. **I Toured Unitree's Factory. I'm More Bullish on the West** (51 ⭐)
+1. **Every Mac comes with an (undocumented) family member classif...** (121 ⭐)
+2. **Libghostty 1.0** (710 ⭐)
+3. **Upload Your RAM** (87 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (298641★)
-2. **react/react** (252278★)
-3. **trekhleb/javascript-algorithms** (196720★)
+1. **affaan-m/ECC** (298852★)
+2. **react/react** (252345★)
+3. **trekhleb/javascript-algorithms** (196721★)
 <!-- LIVE_DATA_END -->
