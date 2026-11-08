@@ -1,87 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-11-08",
-    "explanation": "De Gerlache-Kocher massif looms on the visible horizon in this close-up of the edge of the Moon. The mountainous formation rises about 4 kilometers above its surroundings and is located very close to the lunar south pole. Boasting permanently shadowed crater floors that likely contain deposits of wa...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
+  "nasa_apod": null,
   "iss_position": {
-    "latitude": "9.96\u00b0S",
-    "longitude": "38.74\u00b0E",
-    "timestamp": "2026-11-08T03:10:43+00:00",
+    "latitude": "2.29\u00b0N",
+    "longitude": "111.47\u00b0W",
+    "timestamp": "2026-11-08T12:23:10+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "score": 413,
-      "url": "https://hunch.net/?p=13764006",
-      "time": "2026-11-07T18:02:17"
+      "title": "Person of Interest",
+      "score": 60,
+      "url": "https://krthr.co/person-of-interest/",
+      "time": "2026-11-08T11:23:28"
     },
     {
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "score": 381,
-      "url": "https://blog.bosscher.ch/posts/openstick/",
-      "time": "2026-11-07T18:12:12"
+      "title": "Petered (what happens after the Peter Principle)",
+      "score": 31,
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "time": "2026-11-08T10:56:43"
     },
     {
-      "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
-      "score": 388,
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "time": "2026-11-07T17:06:36"
+      "title": "Goodbye Claude, Hello Pi",
+      "score": 372,
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "time": "2026-11-08T03:11:48"
     },
     {
-      "title": "Making any integer with four 2s (2025)",
-      "score": 71,
-      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "time": "2026-11-07T22:38:58"
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "score": 65,
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "time": "2026-11-08T08:40:23"
     },
     {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "score": 208,
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "time": "2026-11-07T20:45:32"
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "score": 14,
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "time": "2026-11-08T10:42:15"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 299232,
+      "stars": 299428,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252367,
+      "stars": 252408,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196718,
+      "stars": 196723,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
-      "name": "CyC2018/CS-Notes",
-      "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186465,
-      "language": "JavaScript",
-      "url": "https://github.com/CyC2018/CS-Notes"
-    },
-    {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 186444,
+      "stars": 186634,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
+    },
+    {
+      "name": "CyC2018/CS-Notes",
+      "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
+      "stars": 186466,
+      "language": "JavaScript",
+      "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-08T03:10:33.650938+00:00"
+  "last_updated": "2026-11-08T12:23:00.244709+00:00"
 }
