@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  43.48°S                                       ║
-║  📍 LONGITUDE: 170.53°E                                      ║
+║  📍 LATITUDE:  9.96°S                                        ║
+║  📍 LONGITUDE: 38.74°E                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-11-07 21:12 UTC                   ║
+║  ⏰ UPDATE: 2026-11-08 03:10 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: NASA Science                                             ║
+║  DATE:  2026-11-08                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **The end of Microsoft Research's AI Frontiers group** (225 ⭐)
-2. **Claude Code's "Don't Ask Again" exposes passwords in 1,122 p...** (24 ⭐)
-3. **What I run on my $10 USD OpenStick homelab** (156 ⭐)
+1. **The end of Microsoft Research's AI Frontiers group** (413 ⭐)
+2. **What I run on my $10 USD OpenStick homelab** (381 ⭐)
+3. **Apple’s grey list: Words and phrases your iPhone won’t help ...** (388 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (299102★)
-2. **react/react** (252362★)
-3. **trekhleb/javascript-algorithms** (196717★)
+1. **affaan-m/ECC** (299232★)
+2. **react/react** (252367★)
+3. **trekhleb/javascript-algorithms** (196718★)
 <!-- LIVE_DATA_END -->
