@@ -1,81 +1,75 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": {
-    "latitude": "2.29\u00b0N",
-    "longitude": "111.47\u00b0W",
-    "timestamp": "2026-11-08T12:23:10+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Person of Interest",
-      "score": 60,
-      "url": "https://krthr.co/person-of-interest/",
-      "time": "2026-11-08T11:23:28"
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "score": 401,
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "time": "2026-11-08T18:16:07"
     },
     {
-      "title": "Petered (what happens after the Peter Principle)",
-      "score": 31,
-      "url": "https://aworkinglibrary.com/writing/petered",
-      "time": "2026-11-08T10:56:43"
+      "title": "How I Fight AI Brain Fry",
+      "score": 76,
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "time": "2026-11-08T19:37:42"
     },
     {
-      "title": "Goodbye Claude, Hello Pi",
-      "score": 372,
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "time": "2026-11-08T03:11:48"
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "score": 76,
+      "url": "https://duxlabs.dev/",
+      "time": "2026-11-08T19:08:51"
     },
     {
-      "title": "Agent memory needs its OpenTelemetry moment",
-      "score": 65,
-      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-      "time": "2026-11-08T08:40:23"
+      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+      "score": 129,
+      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+      "time": "2026-11-08T17:20:29"
     },
     {
-      "title": "JIT bitmap text rendering for microcontrollers",
-      "score": 14,
-      "url": "https://linebender.org/blog/jit-bitmap-text/",
-      "time": "2026-11-08T10:42:15"
+      "title": "Declarative Dragging",
+      "score": 146,
+      "url": "https://declarative-dragging.github.io/",
+      "time": "2026-11-04T17:05:07"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 299428,
+      "stars": 299655,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252408,
+      "stars": 252420,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196723,
+      "stars": 196725,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 186634,
+      "stars": 186873,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186466,
+      "stars": 186467,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-08T12:23:00.244709+00:00"
+  "last_updated": "2026-11-08T21:26:46.148430+00:00"
 }
