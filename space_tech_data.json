@@ -1,65 +1,71 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "49.27\u00b0N",
+    "longitude": "47.55\u00b0W",
+    "timestamp": "2026-11-09T03:32:02+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-      "score": 401,
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "time": "2026-11-08T18:16:07"
+      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+      "score": 266,
+      "url": "https://ketchup3d.github.io/app/",
+      "time": "2026-11-08T22:35:35"
     },
     {
-      "title": "How I Fight AI Brain Fry",
-      "score": 76,
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "time": "2026-11-08T19:37:42"
+      "title": "Unlocking any car from X brand in most of the world",
+      "score": 123,
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "time": "2026-11-09T00:10:50"
     },
     {
-      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-      "score": 76,
-      "url": "https://duxlabs.dev/",
-      "time": "2026-11-08T19:08:51"
+      "title": "Chimera Vocal Synth",
+      "score": 128,
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "time": "2026-11-08T22:36:03"
     },
     {
-      "title": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-      "score": 129,
-      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-      "time": "2026-11-08T17:20:29"
+      "title": "RIP, Harvest",
+      "score": 36,
+      "url": "https://aphyr.com/posts/427-rip-harvest",
+      "time": "2026-11-09T01:58:21"
     },
     {
-      "title": "Declarative Dragging",
-      "score": 146,
-      "url": "https://declarative-dragging.github.io/",
-      "time": "2026-11-04T17:05:07"
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "score": 280,
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "time": "2026-11-08T19:20:32"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 299655,
+      "stars": 299754,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252420,
+      "stars": 252428,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196725,
+      "stars": 196721,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 186873,
+      "stars": 186993,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
@@ -71,5 +77,5 @@
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-08T21:26:46.148430+00:00"
+  "last_updated": "2026-11-09T03:31:49.450323+00:00"
 }
