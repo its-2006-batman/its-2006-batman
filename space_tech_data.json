@@ -2,70 +2,70 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "49.27\u00b0N",
-    "longitude": "47.55\u00b0W",
-    "timestamp": "2026-11-09T03:32:02+00:00",
+    "latitude": "8.05\u00b0N",
+    "longitude": "156.30\u00b0W",
+    "timestamp": "2026-11-09T14:37:59+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
-      "score": 266,
-      "url": "https://ketchup3d.github.io/app/",
-      "time": "2026-11-08T22:35:35"
+      "title": "Humans will never again create a project like Wikipedia",
+      "score": 218,
+      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+      "time": "2026-11-09T12:30:20"
     },
     {
-      "title": "Unlocking any car from X brand in most of the world",
-      "score": 123,
-      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-      "time": "2026-11-09T00:10:50"
+      "title": "Fold Epic Paper Airplanes",
+      "score": 244,
+      "url": "https://www.foldableflight.com",
+      "time": "2026-11-09T12:19:22"
     },
     {
-      "title": "Chimera Vocal Synth",
-      "score": 128,
-      "url": "https://chimera-vocal-synth.vercel.app/",
-      "time": "2026-11-08T22:36:03"
+      "title": "Children of Men: The Future Is a Mirror for the Present",
+      "score": 44,
+      "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
+      "time": "2026-11-09T13:27:01"
     },
     {
-      "title": "RIP, Harvest",
-      "score": 36,
-      "url": "https://aphyr.com/posts/427-rip-harvest",
-      "time": "2026-11-09T01:58:21"
+      "title": "What is malloc doing, anyway?",
+      "score": 58,
+      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+      "time": "2026-11-09T11:31:05"
     },
     {
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-      "score": 280,
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "time": "2026-11-08T19:20:32"
+      "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
+      "score": 68,
+      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+      "time": "2026-11-09T10:11:47"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 299754,
+      "stars": 299989,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252428,
+      "stars": 252437,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196721,
+      "stars": 196722,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 186993,
+      "stars": 187338,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-09T03:31:49.450323+00:00"
+  "last_updated": "2026-11-09T14:37:39.353882+00:00"
 }
