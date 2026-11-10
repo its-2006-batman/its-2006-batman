@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "39.00\u00b0N",
-    "longitude": "87.34\u00b0W",
-    "timestamp": "2026-11-10T00:57:17+00:00",
+    "latitude": "10.89\u00b0S",
+    "longitude": "136.24\u00b0W",
+    "timestamp": "2026-11-10T13:55:27+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "score": 905,
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "time": "2026-11-09T18:56:29"
+      "title": "AlphaProof Code",
+      "score": 173,
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "time": "2026-11-10T12:11:12"
     },
     {
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "score": 435,
-      "url": "https://postalpro.usps.com/zcb",
-      "time": "2026-11-09T19:58:59"
+      "title": "Ableton Live 13",
+      "score": 46,
+      "url": "https://www.ableton.com/en/live/",
+      "time": "2026-11-10T12:58:04"
     },
     {
-      "title": "TPU 8tx and TPU 8i Max",
-      "score": 185,
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-      "time": "2026-11-09T21:56:57"
+      "title": "Don't buy AR glasses",
+      "score": 40,
+      "url": "https://blog.yaros.ae/dont-buy-ar-glasses/",
+      "time": "2026-11-10T13:10:25"
     },
     {
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "score": 364,
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "time": "2026-11-09T18:24:38"
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "score": 440,
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "time": "2026-11-10T06:01:08"
     },
     {
-      "title": "Fable 5.2 one-shotted my nephew's dream game",
-      "score": 77,
-      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-      "time": "2026-11-09T23:08:13"
+      "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
+      "score": 52,
+      "url": "https://github.com/HolyArrs/HolyArrs",
+      "time": "2026-11-10T11:51:19"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 300247,
+      "stars": 300530,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252462,
+      "stars": 252475,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196721,
+      "stars": 196723,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 187700,
+      "stars": 188143,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186469,
+      "stars": 186474,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-10T00:57:06.790615+00:00"
+  "last_updated": "2026-11-10T13:54:59.569679+00:00"
 }
