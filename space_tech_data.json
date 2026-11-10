@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "8.05\u00b0N",
-    "longitude": "156.30\u00b0W",
-    "timestamp": "2026-11-09T14:37:59+00:00",
+    "latitude": "39.00\u00b0N",
+    "longitude": "87.34\u00b0W",
+    "timestamp": "2026-11-10T00:57:17+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Humans will never again create a project like Wikipedia",
-      "score": 218,
-      "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
-      "time": "2026-11-09T12:30:20"
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "score": 905,
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "time": "2026-11-09T18:56:29"
     },
     {
-      "title": "Fold Epic Paper Airplanes",
-      "score": 244,
-      "url": "https://www.foldableflight.com",
-      "time": "2026-11-09T12:19:22"
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "score": 435,
+      "url": "https://postalpro.usps.com/zcb",
+      "time": "2026-11-09T19:58:59"
     },
     {
-      "title": "Children of Men: The Future Is a Mirror for the Present",
-      "score": 44,
-      "url": "https://reactormag.com/children-of-men-the-future-is-a-mirror-for-the-present/",
-      "time": "2026-11-09T13:27:01"
+      "title": "TPU 8tx and TPU 8i Max",
+      "score": 185,
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "time": "2026-11-09T21:56:57"
     },
     {
-      "title": "What is malloc doing, anyway?",
-      "score": 58,
-      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
-      "time": "2026-11-09T11:31:05"
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "score": 364,
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "time": "2026-11-09T18:24:38"
     },
     {
-      "title": "Fun things to do with your VM/370 CE machine \u2013 Fun with big computers",
-      "score": 68,
-      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
-      "time": "2026-11-09T10:11:47"
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "score": 77,
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "time": "2026-11-09T23:08:13"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 299989,
+      "stars": 300247,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252437,
+      "stars": 252462,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196722,
+      "stars": 196721,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 187338,
+      "stars": 187700,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186467,
+      "stars": 186469,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-09T14:37:39.353882+00:00"
+  "last_updated": "2026-11-10T00:57:06.790615+00:00"
 }
