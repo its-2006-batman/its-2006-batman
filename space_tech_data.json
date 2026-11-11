@@ -1,63 +1,51 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-11-11",
-    "explanation": "Don\u2019t judge a galaxy by its size. Our home galaxy, the Milky Way, is about 100,000 light years across. This huge expanse of space contains hundreds of billions of stars! The smallest galaxies, called dwarf galaxies, are about 1/10th the size of the Milky Way and only contain a few billion stars. The...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
-  "iss_position": {
-    "latitude": "15.84\u00b0S",
-    "longitude": "125.99\u00b0W",
-    "timestamp": "2026-11-11T13:08:18+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "nasa_apod": null,
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "title": "AWS emulator",
+      "score": 583,
+      "url": "https://github.com/aws/aws-emulator",
+      "time": "2026-11-11T18:21:38"
+    },
+    {
+      "title": "Tim Peters has died",
+      "score": 777,
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "time": "2026-11-11T07:03:17"
+    },
+    {
+      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
       "score": 45,
-      "url": "https://pietromiotti.com/latest/maya-site/?maya",
-      "time": "2026-11-11T12:05:22"
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "time": "2026-11-11T22:34:23"
     },
     {
-      "title": "Can a Linear Program Do Weight-Space Programming?",
-      "score": 14,
-      "url": "https://nathan.rs/posts/weight-space-lp/",
-      "time": "2026-11-11T12:30:17"
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "score": 258,
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "time": "2026-11-11T21:24:35"
     },
     {
-      "title": "Using voltage glitching to unleash the A100 in my mining card",
-      "score": 42,
-      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-      "time": "2026-11-11T10:48:40"
-    },
-    {
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "score": 271,
-      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-      "time": "2026-11-11T04:28:57"
-    },
-    {
-      "title": "Smart home devices should work without the internet",
-      "score": 1047,
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-      "time": "2026-11-10T15:25:20"
+      "title": "Lock Your GitHub Actions",
+      "score": 64,
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "time": "2026-11-11T22:16:41"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 301064,
+      "stars": 301355,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252553,
+      "stars": 252524,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -71,17 +59,17 @@
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 188806,
+      "stars": 189135,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186483,
+      "stars": 186485,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-11T13:08:06.794348+00:00"
+  "last_updated": "2026-11-11T23:48:17.408858+00:00"
 }
