@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "NASA Science",
+    "date": "2026-11-11",
+    "explanation": "Don\u2019t judge a galaxy by its size. Our home galaxy, the Milky Way, is about 100,000 light years across. This huge expanse of space contains hundreds of billions of stars! The smallest galaxies, called dwarf galaxies, are about 1/10th the size of the Milky Way and only contain a few billion stars. The...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "21.20\u00b0N",
-    "longitude": "12.32\u00b0W",
-    "timestamp": "2026-11-11T03:39:29+00:00",
+    "latitude": "15.84\u00b0S",
+    "longitude": "125.99\u00b0W",
+    "timestamp": "2026-11-11T13:08:18+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-      "score": 312,
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-      "time": "2026-11-10T22:17:56"
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "score": 45,
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "time": "2026-11-11T12:05:22"
     },
     {
-      "title": "A great old-timey game-programming hack (2013)",
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "score": 14,
+      "url": "https://nathan.rs/posts/weight-space-lp/",
+      "time": "2026-11-11T12:30:17"
+    },
+    {
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
       "score": 42,
-      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-      "time": "2026-11-11T01:56:31"
+      "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "time": "2026-11-11T10:48:40"
     },
     {
-      "title": ".name Grandfathered",
-      "score": 717,
-      "url": "https://neil.fraser.name/news/2026/11/10/",
-      "time": "2026-11-10T16:37:44"
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "score": 271,
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "time": "2026-11-11T04:28:57"
     },
     {
       "title": "Smart home devices should work without the internet",
-      "score": 761,
+      "score": 1047,
       "url": "https://docodethatmatters.com/home-automation-overnight-success/",
       "time": "2026-11-10T15:25:20"
-    },
-    {
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "score": 362,
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "time": "2026-11-10T19:50:46"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 300861,
+      "stars": 301064,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252502,
+      "stars": 252553,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196727,
+      "stars": 196729,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 188481,
+      "stars": 188806,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186478,
+      "stars": 186483,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-11T03:39:09.202738+00:00"
+  "last_updated": "2026-11-11T13:08:06.794348+00:00"
 }
