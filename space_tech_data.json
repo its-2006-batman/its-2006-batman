@@ -1,57 +1,57 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-11-10",
-    "explanation": "Sometimes Saturn disappears. It doesn't really go away, of course -- it just\u00a0disappears\u00a0from our view when\u00a0Earth's Moon\u00a0moves in front. Such a\u00a0Saturnian eclipse, more formally called an\u00a0occultation, was visible in early 2025 along a small\u00a0swath\u00a0of\u00a0Earth\u00a0-- from\u00a0Greenland\u00a0through central\u00a0Europe\u00a0and i...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
+  "nasa_apod": null,
+  "iss_position": {
+    "latitude": "21.20\u00b0N",
+    "longitude": "12.32\u00b0W",
+    "timestamp": "2026-11-11T03:39:29+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
   },
-  "iss_position": null,
   "tech_headlines": [
     {
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "score": 312,
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "time": "2026-11-10T22:17:56"
+    },
+    {
+      "title": "A great old-timey game-programming hack (2013)",
+      "score": 42,
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "time": "2026-11-11T01:56:31"
+    },
+    {
       "title": ".name Grandfathered",
-      "score": 592,
+      "score": 717,
       "url": "https://neil.fraser.name/news/2026/11/10/",
       "time": "2026-11-10T16:37:44"
     },
     {
-      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
-      "score": 143,
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-      "time": "2026-11-10T19:50:46"
-    },
-    {
       "title": "Smart home devices should work without the internet",
-      "score": 594,
+      "score": 761,
       "url": "https://docodethatmatters.com/home-automation-overnight-success/",
       "time": "2026-11-10T15:25:20"
     },
     {
-      "title": "Six Math Essentials by Terence Tao",
-      "score": 54,
-      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-      "time": "2026-11-10T20:58:44"
-    },
-    {
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "score": 229,
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-      "time": "2026-11-10T18:02:02"
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "score": 362,
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "time": "2026-11-10T19:50:46"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 300767,
+      "stars": 300861,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252496,
+      "stars": 252502,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -65,17 +65,17 @@
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 188352,
+      "stars": 188481,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186477,
+      "stars": 186478,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-10T22:37:56.526761+00:00"
+  "last_updated": "2026-11-11T03:39:09.202738+00:00"
 }
