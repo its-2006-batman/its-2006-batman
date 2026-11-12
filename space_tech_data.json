@@ -1,75 +1,81 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "45.27\u00b0S",
+    "longitude": "35.48\u00b0E",
+    "timestamp": "2026-11-12T04:47:16+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "AWS emulator",
-      "score": 583,
-      "url": "https://github.com/aws/aws-emulator",
-      "time": "2026-11-11T18:21:38"
-    },
-    {
-      "title": "Tim Peters has died",
-      "score": 777,
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "time": "2026-11-11T07:03:17"
-    },
-    {
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-      "score": 45,
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "score": 260,
       "url": "https://www.mcmillen.dev/sigbovik/",
       "time": "2026-11-11T22:34:23"
     },
     {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "score": 258,
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "time": "2026-11-11T21:24:35"
+      "title": "Tim Peters has died",
+      "score": 989,
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "time": "2026-11-11T07:03:17"
     },
     {
-      "title": "Lock Your GitHub Actions",
-      "score": 64,
-      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "time": "2026-11-11T22:16:41"
+      "title": "AWS emulator",
+      "score": 751,
+      "url": "https://github.com/aws/aws-emulator",
+      "time": "2026-11-11T18:21:38"
+    },
+    {
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "score": 52,
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "time": "2026-11-12T02:11:11"
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "score": 718,
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "time": "2026-11-11T22:31:06"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 301355,
+      "stars": 301487,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252524,
+      "stars": 252531,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196729,
+      "stars": 196725,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 189135,
+      "stars": 189264,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186485,
+      "stars": 186491,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-11T23:48:17.408858+00:00"
+  "last_updated": "2026-11-12T04:47:05.946410+00:00"
 }
