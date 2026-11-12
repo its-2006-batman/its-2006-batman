@@ -1,81 +1,75 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": {
-    "latitude": "45.27\u00b0S",
-    "longitude": "35.48\u00b0E",
-    "timestamp": "2026-11-12T04:47:16+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "score": 260,
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "time": "2026-11-11T22:34:23"
+      "title": "NVIDIA Announces CEO Transition",
+      "score": 263,
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "time": "2026-11-12T13:52:29"
     },
     {
-      "title": "Tim Peters has died",
-      "score": 989,
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "time": "2026-11-11T07:03:17"
+      "title": "Why Writing Correct Software Is Hard",
+      "score": 165,
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "time": "2026-11-12T10:28:26"
     },
     {
-      "title": "AWS emulator",
-      "score": 751,
-      "url": "https://github.com/aws/aws-emulator",
-      "time": "2026-11-11T18:21:38"
+      "title": "Jane Street: Socratic Tutor",
+      "score": 430,
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "time": "2026-11-10T10:18:22"
     },
     {
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "score": 52,
-      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-      "time": "2026-11-12T02:11:11"
+      "title": "Jensen Huang resigns as Nvidia CEO immediately",
+      "score": 38,
+      "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+      "time": "2026-11-12T13:56:11"
     },
     {
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "score": 718,
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "time": "2026-11-11T22:31:06"
+      "title": "A live tree of systemd jobs on the boot console",
+      "score": 198,
+      "url": "https://codeberg.org/wvhulle/bootvine",
+      "time": "2026-11-09T13:02:44"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 301487,
+      "stars": 301736,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252531,
+      "stars": 252537,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196725,
+      "stars": 196726,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 189264,
+      "stars": 189546,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186491,
+      "stars": 186500,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-12T04:47:05.946410+00:00"
+  "last_updated": "2026-11-12T14:11:04.121368+00:00"
 }
