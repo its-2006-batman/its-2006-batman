@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "NASA Science",
+    "date": "2026-11-13",
+    "explanation": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and ...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "27.90\u00b0S",
-    "longitude": "2.51\u00b0W",
-    "timestamp": "2026-11-13T13:35:08+00:00",
+    "latitude": "5.30\u00b0S",
+    "longitude": "125.30\u00b0W",
+    "timestamp": "2026-11-13T22:59:17+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-      "score": 126,
-      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-      "time": "2026-11-13T12:10:24"
+      "title": "FAA Issues National Ground Stop",
+      "score": 862,
+      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+      "time": "2026-11-13T21:05:53"
     },
     {
-      "title": "Jensen Huang resigns",
-      "score": 3706,
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "time": "2026-11-12T13:52:29"
+      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+      "score": 241,
+      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "time": "2026-11-13T18:40:44"
     },
     {
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "score": 302,
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
-      "time": "2026-11-13T10:18:13"
+      "title": "National Weather Service reports nationwide radar website outage amid FAA stop",
+      "score": 32,
+      "url": "https://www.news9.com/oklahoma-city-news/national-weather-service-reports-nationwide-radar-website-outage",
+      "time": "2026-11-13T22:16:11"
     },
     {
-      "title": "IceWM",
-      "score": 256,
-      "url": "https://ice-wm.org/",
-      "time": "2026-11-13T04:54:53"
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "score": 46,
+      "url": "https://orcasairband.com/",
+      "time": "2026-11-13T22:04:24"
     },
     {
-      "title": "Rust 1.100",
-      "score": 750,
-      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-      "time": "2026-11-12T18:39:05"
+      "title": "FM-1 Workbench",
+      "score": 143,
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "time": "2026-11-13T19:14:02"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 302261,
+      "stars": 302439,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252572,
+      "stars": 252590,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196726,
+      "stars": 196725,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 190102,
+      "stars": 190342,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186500,
+      "stars": 186503,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-13T13:34:56.229509+00:00"
+  "last_updated": "2026-11-13T22:59:07.420301+00:00"
 }
