@@ -2,70 +2,70 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "18.16\u00b0N",
-    "longitude": "50.29\u00b0E",
-    "timestamp": "2026-11-12T22:57:24+00:00",
+    "latitude": "45.21\u00b0S",
+    "longitude": "41.80\u00b0E",
+    "timestamp": "2026-11-13T03:58:25+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Africa's solar revolution is vast and speedy",
+      "score": 95,
+      "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
+      "time": "2026-11-13T02:28:15"
+    },
+    {
       "title": "Jensen Huang resigns",
-      "score": 2638,
+      "score": 3124,
       "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "time": "2026-11-12T13:52:29"
     },
     {
       "title": "Rust 1.100",
-      "score": 262,
+      "score": 502,
       "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
       "time": "2026-11-12T18:39:05"
     },
     {
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "score": 187,
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "time": "2026-11-13T02:16:24"
+    },
+    {
       "title": "Gemini 4 Hydrogen and Orchestrator",
-      "score": 211,
+      "score": 343,
       "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
       "time": "2026-11-12T18:52:01"
-    },
-    {
-      "title": "Foundation Models framework",
-      "score": 60,
-      "url": "https://developer.apple.com/foundation-models-framework/",
-      "time": "2026-11-12T21:13:26"
-    },
-    {
-      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-      "score": 148,
-      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-      "time": "2026-11-12T19:05:33"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 301993,
+      "stars": 302077,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252556,
+      "stars": 252561,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196728,
+      "stars": 196727,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 189758,
+      "stars": 189857,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-12T22:56:59.572616+00:00"
+  "last_updated": "2026-11-13T03:58:12.738934+00:00"
 }
