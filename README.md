@@ -418,7 +418,7 @@ END TRANSMISSION
 ║  📍 LONGITUDE: N/A                                           ║
 ║  ⚡ VELOCITY:  N/A                                           ║
 ║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-11-15 13:06 UTC                   ║
+║  ⏰ UPDATE: 2026-11-15 22:15 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: NASA Science                                             ║
+║  DATE:  2026-11-15                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **SpaceX catches the Starship to end Flight 15** (1341 ⭐)
-2. **Why did some Apollo missions carry a grenade launcher?** (78 ⭐)
-3. **Lovable apps expose passport details and more than 200K priv...** (874 ⭐)
+1. **Your Agent Will Pick the Hackable One** (33 ⭐)
+2. **A short explainer on how El Niño works [video]** (121 ⭐)
+3. **Protomaps: Self-hosting map tiles has gotten cheap and easy** (46 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (303510★)
-2. **react/react** (252634★)
+1. **affaan-m/ECC** (303792★)
+2. **react/react** (252658★)
 3. **trekhleb/javascript-algorithms** (196728★)
 <!-- LIVE_DATA_END -->
