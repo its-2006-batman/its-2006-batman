@@ -2,56 +2,56 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "51.10\u00b0S",
-    "longitude": "150.30\u00b0E",
-    "timestamp": "2026-11-14T21:47:13+00:00",
+    "latitude": "13.39\u00b0S",
+    "longitude": "7.80\u00b0W",
+    "timestamp": "2026-11-15T03:41:09+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "score": 857,
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "time": "2026-11-14T21:22:24"
+    },
+    {
       "title": "Lovable apps expose passport details and more than 200K private messages",
-      "score": 473,
+      "score": 692,
       "url": "https://www.crissyfield.de/research/lovable-en/",
       "time": "2026-11-14T17:43:10"
     },
     {
-      "title": "SpaceX Catches the Starship to end Flight 15",
-      "score": 156,
-      "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-      "time": "2026-11-14T21:22:24"
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "score": 134,
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "time": "2026-11-14T22:22:49"
     },
     {
-      "title": "A Family Tree of Software Job Titles",
-      "score": 120,
+      "title": "A family tree of software job titles",
+      "score": 234,
       "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
       "time": "2026-11-14T17:45:19"
     },
     {
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "score": 171,
-      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-      "time": "2026-11-14T15:40:52"
-    },
-    {
-      "title": "KDE: The documentary [video]",
-      "score": 316,
-      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "time": "2026-11-14T13:43:28"
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "score": 283,
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "time": "2026-11-14T22:26:30"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 302984,
+      "stars": 303173,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252611,
+      "stars": 252625,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
@@ -65,17 +65,17 @@
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 190863,
+      "stars": 190983,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186509,
+      "stars": 186517,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-14T21:46:52.843108+00:00"
+  "last_updated": "2026-11-15T03:40:49.599268+00:00"
 }
