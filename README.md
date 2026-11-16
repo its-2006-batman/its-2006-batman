@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  N/A                                           ║
-║  📍 LONGITUDE: N/A                                           ║
-║  ⚡ VELOCITY:  N/A                                           ║
-║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-11-15 22:15 UTC                   ║
+║  📍 LATITUDE:  28.83°S                                       ║
+║  📍 LONGITUDE: 31.23°W                                       ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ UPDATE: 2026-11-16 14:13 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: NASA Science                                             ║
-║  DATE:  2026-11-15                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Your Agent Will Pick the Hackable One** (33 ⭐)
-2. **A short explainer on how El Niño works [video]** (121 ⭐)
-3. **Protomaps: Self-hosting map tiles has gotten cheap and easy** (46 ⭐)
+1. **The Secret ThinkPad Powerbutton Code to Bring Dead Laptops B...** (86 ⭐)
+2. **How to make almost anything** (482 ⭐)
+3. **Universal XSS in uBlock Origin from website-driven element p...** (479 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (303792★)
-2. **react/react** (252658★)
+1. **affaan-m/ECC** (304242★)
+2. **react/react** (252629★)
 3. **trekhleb/javascript-algorithms** (196728★)
 <!-- LIVE_DATA_END -->
