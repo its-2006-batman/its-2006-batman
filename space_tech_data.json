@@ -2,70 +2,70 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "28.83\u00b0S",
-    "longitude": "31.23\u00b0W",
-    "timestamp": "2026-11-16T14:13:43+00:00",
+    "latitude": "8.90\u00b0N",
+    "longitude": "166.47\u00b0W",
+    "timestamp": "2026-11-17T01:15:37+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-      "score": 86,
-      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-      "time": "2026-11-16T11:39:31"
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "score": 639,
+      "url": "https://www.cs.cmu.edu/learn/",
+      "time": "2026-11-16T20:43:36"
     },
     {
-      "title": "How to make almost anything",
-      "score": 482,
-      "url": "https://pub.cba.mit.edu/863.26/site/",
-      "time": "2026-11-16T05:50:37"
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "score": 177,
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "time": "2026-11-16T22:58:20"
     },
     {
-      "title": "Universal XSS in uBlock Origin from website-driven element picker",
-      "score": 479,
-      "url": "https://iter.ca/post/ubo-uxss/",
-      "time": "2026-11-16T02:04:48"
+      "title": "BugMeNot has closed",
+      "score": 290,
+      "url": "https://www.bugmenot.com/",
+      "time": "2026-11-16T21:32:17"
     },
     {
-      "title": "Coffeehouses and the Rise of Science [pdf]",
-      "score": 104,
-      "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
-      "time": "2026-11-16T11:03:16"
+      "title": "World's Largest Brands Infected With Malware Via Optimizely",
+      "score": 184,
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "time": "2026-11-16T21:08:38"
     },
     {
-      "title": "Researchers track whole body movement with just a smartwatch",
-      "score": 106,
-      "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
-      "time": "2026-11-13T17:29:49"
+      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+      "score": 75,
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "time": "2026-11-16T23:00:34"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 304242,
+      "stars": 304659,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252629,
+      "stars": 252708,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196728,
+      "stars": 196733,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 191875,
+      "stars": 192190,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-16T14:13:18.418096+00:00"
+  "last_updated": "2026-11-17T01:15:19.372827+00:00"
 }
