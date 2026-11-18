@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  N/A                                           ║
-║  📍 LONGITUDE: N/A                                           ║
-║  ⚡ VELOCITY:  N/A                                           ║
-║  🌍 ALTITUDE:  N/A                                           ║
-║  ⏰ UPDATE: 2026-11-17 15:05 UTC                   ║
+║  📍 LATITUDE:  38.87°S                                       ║
+║  📍 LONGITUDE: 157.41°E                                      ║
+║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
+║  🌍 ALTITUDE:  ~408 km                                       ║
+║  ⏰ UPDATE: 2026-11-18 00:10 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: NASA Science                                             ║
-║  DATE:  2026-11-17                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **We don't need more apps. We need better open source** (20 ⭐)
-2. **New Evidence Shows School Phone Bans Are Gradually Improving...** (481 ⭐)
-3. **Carnegie Mellon is putting computer science courses on YouTu...** (1925 ⭐)
+1. **Java4Shell: RCE in OpenJDK when processing Base64** (403 ⭐)
+2. **GPT‑6.2 Astra and Sol** (1037 ⭐)
+3. **Quad9's withdrawal from France: A canary in the coal mine** (176 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (305123★)
-2. **react/react** (252821★)
-3. **trekhleb/javascript-algorithms** (196734★)
+1. **affaan-m/ECC** (305484★)
+2. **react/react** (252904★)
+3. **trekhleb/javascript-algorithms** (196736★)
 <!-- LIVE_DATA_END -->

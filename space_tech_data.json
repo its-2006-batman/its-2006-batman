@@ -1,81 +1,81 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-11-17",
-    "explanation": "Are these two giant arches battling for control of the sky? No, but it sure looks like it! The arch on the left is the central band of our\u00a0Milky Way Galaxy, an ancient system of stars, gas, and dust that predates\u00a0our Earth\u00a0and is very far away. The arch on the right, by contrast, is an\u00a0auroral ribbo...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
+  "nasa_apod": null,
+  "iss_position": {
+    "latitude": "38.87\u00b0S",
+    "longitude": "157.41\u00b0E",
+    "timestamp": "2026-11-18T00:10:06+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
   },
-  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "We don't need more apps. We need better open source",
-      "score": 20,
-      "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
-      "time": "2026-11-17T14:45:36"
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "score": 403,
+      "url": "https://calif.io/java4shell/",
+      "time": "2026-11-17T21:11:28"
     },
     {
-      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "score": 481,
-      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-      "time": "2026-11-17T11:45:51"
+      "title": "GPT\u20116.2 Astra and Sol",
+      "score": 1037,
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "time": "2026-11-17T17:46:43"
     },
     {
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "score": 1925,
-      "url": "https://www.cs.cmu.edu/learn/",
-      "time": "2026-11-16T20:43:36"
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "score": 176,
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "time": "2026-11-17T22:13:34"
     },
     {
-      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
-      "score": 21,
-      "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
-      "time": "2026-11-16T15:02:20"
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "score": 344,
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "time": "2026-11-17T17:12:06"
     },
     {
-      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
-      "score": 142,
-      "url": "https://visualbasic.world/",
-      "time": "2026-11-15T23:08:30"
+      "title": "jQuery 4.1.0",
+      "score": 226,
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "time": "2026-11-17T19:50:40"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 305123,
+      "stars": 305484,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252821,
+      "stars": 252904,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196734,
+      "stars": 196736,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 192679,
+      "stars": 193016,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186538,
+      "stars": 186539,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-17T15:05:35.744850+00:00"
+  "last_updated": "2026-11-18T00:09:46.204250+00:00"
 }
