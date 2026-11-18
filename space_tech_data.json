@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "38.87\u00b0S",
-    "longitude": "157.41\u00b0E",
-    "timestamp": "2026-11-18T00:10:06+00:00",
+    "latitude": "49.85\u00b0N",
+    "longitude": "84.86\u00b0E",
+    "timestamp": "2026-11-18T14:44:53+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "score": 144,
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "time": "2026-11-18T13:18:02"
+    },
+    {
+      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+      "score": 32,
+      "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+      "time": "2026-11-18T13:51:03"
+    },
+    {
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "score": 186,
+      "url": "https://energy-based-reasoners.github.io/",
+      "time": "2026-11-18T09:29:32"
+    },
+    {
+      "title": "A Perfect SimCity",
+      "score": 117,
+      "url": "https://www.jeffquast.com/post/a-perfect-simcity/",
+      "time": "2026-11-15T05:54:22"
+    },
+    {
       "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "score": 403,
+      "score": 1065,
       "url": "https://calif.io/java4shell/",
       "time": "2026-11-17T21:11:28"
-    },
-    {
-      "title": "GPT\u20116.2 Astra and Sol",
-      "score": 1037,
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "time": "2026-11-17T17:46:43"
-    },
-    {
-      "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "score": 176,
-      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-      "time": "2026-11-17T22:13:34"
-    },
-    {
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "score": 344,
-      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-      "time": "2026-11-17T17:12:06"
-    },
-    {
-      "title": "jQuery 4.1.0",
-      "score": 226,
-      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-      "time": "2026-11-17T19:50:40"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 305484,
+      "stars": 306164,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252904,
+      "stars": 252787,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196736,
+      "stars": 196738,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 193016,
+      "stars": 193768,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186539,
+      "stars": 186543,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-18T00:09:46.204250+00:00"
+  "last_updated": "2026-11-18T14:44:43.458230+00:00"
 }
