@@ -4,72 +4,72 @@
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": "How the European Commission rolled out Matrix to more than 40k staff",
-      "score": 354,
-      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-      "time": "2026-11-19T10:58:29"
+      "title": "Anthropic\u2019s Nasdaq debut",
+      "score": 822,
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "time": "2026-11-19T17:02:40"
     },
     {
-      "title": "Garage Door Spam",
-      "score": 245,
-      "url": "https://blog.harrison.page/garage-door-spam/",
-      "time": "2026-11-16T16:13:36"
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "score": 470,
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "time": "2026-11-19T17:25:33"
     },
     {
-      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "score": 53,
-      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-      "time": "2026-11-19T13:18:11"
+      "title": "Synology Security Advisory",
+      "score": 69,
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "time": "2026-11-19T22:13:40"
     },
     {
-      "title": "PHP 8.5.13",
-      "score": 29,
-      "url": "https://www.php.net/ChangeLog-8.php",
-      "time": "2026-11-19T14:09:50"
+      "title": "Claude solves two open problems in the physics of black holes",
+      "score": 345,
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "time": "2026-11-19T17:30:44"
     },
     {
-      "title": "Show HN: Foolscap \u2013 a writing app that reads your book and never writes for you",
-      "score": 41,
-      "url": "https://foolscap.works/",
-      "time": "2026-11-19T13:21:20"
+      "title": "RegExr: Temporarily Offline",
+      "score": 24,
+      "url": "https://regexr.com/",
+      "time": "2026-11-19T22:27:07"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 307001,
+      "stars": 307275,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252771,
+      "stars": 252800,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196748,
+      "stars": 196753,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 194633,
+      "stars": 194835,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186548,
+      "stars": 186549,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-19T14:51:45.967273+00:00"
+  "last_updated": "2026-11-19T23:59:15.745407+00:00"
 }
