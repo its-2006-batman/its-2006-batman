@@ -1,75 +1,81 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "11.41\u00b0N",
+    "longitude": "70.62\u00b0W",
+    "timestamp": "2026-11-19T04:55:39+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
+      "title": "Gemini 4 Neon",
+      "score": 600,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "time": "2026-11-18T21:34:07"
+    },
+    {
       "title": "Unauthenticated remote code execution in Nginx",
-      "score": 1034,
+      "score": 1230,
       "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
       "time": "2026-11-18T15:19:55"
     },
     {
-      "title": "Seven new models at scalable price-performance",
-      "score": 402,
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "time": "2026-11-18T16:08:24"
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "score": 156,
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "time": "2026-11-19T00:29:45"
     },
     {
-      "title": "Inside Deutsche Bank",
-      "score": 510,
-      "url": "https://www.inside-db.com/",
-      "time": "2026-11-18T15:38:33"
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "score": 146,
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "time": "2026-11-18T23:52:50"
     },
     {
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "score": 313,
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "time": "2026-11-18T15:49:34"
-    },
-    {
-      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
-      "score": 107,
-      "url": "https://www.radixark.com/blog/daisyrose-27b",
-      "time": "2026-11-18T19:39:16"
+      "title": "Unreal Tournament 2004 in the Browser",
+      "score": 73,
+      "url": "https://ut2004.dev/",
+      "time": "2026-11-19T01:29:29"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 306463,
+      "stars": 306677,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252732,
+      "stars": 252723,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196741,
+      "stars": 196740,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 194007,
+      "stars": 194189,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186544,
+      "stars": 186543,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-18T23:40:30.107973+00:00"
+  "last_updated": "2026-11-19T04:55:28.968239+00:00"
 }
