@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "12.50\u00b0N",
-    "longitude": "130.05\u00b0E",
-    "timestamp": "2026-11-20T14:55:33+00:00",
+    "latitude": "4.28\u00b0S",
+    "longitude": "173.57\u00b0W",
+    "timestamp": "2026-11-20T23:28:25+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-      "score": 158,
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "score": 1305,
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "time": "2026-11-20T18:33:14"
+    },
+    {
+      "title": "Inkling 2 Mini",
+      "score": 513,
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "time": "2026-11-20T20:12:19"
+    },
+    {
+      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "score": 2254,
       "url": "https://alpo.ge/remark.pdf",
       "time": "2026-11-20T14:16:21"
     },
     {
-      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "score": 264,
-      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-      "time": "2026-11-20T09:43:19"
+      "title": "We promoted developers into architects without informing them",
+      "score": 238,
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "time": "2026-11-20T18:17:51"
     },
     {
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "score": 351,
-      "url": "https://architectlabs.com/blog/frostbite",
-      "time": "2026-11-20T10:01:41"
-    },
-    {
-      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-      "score": 46,
-      "url": "https://kobi.music/research/dettato",
-      "time": "2026-11-17T01:03:05"
-    },
-    {
-      "title": "Llms.txt and MCP didn't move the needle",
-      "score": 20,
-      "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
-      "time": "2026-11-20T14:00:23"
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "score": 288,
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "time": "2026-11-20T17:21:36"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 307602,
+      "stars": 307832,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252836,
+      "stars": 252838,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196754,
+      "stars": 196753,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 195334,
+      "stars": 195601,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186554,
+      "stars": 186557,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-20T14:55:13.319114+00:00"
+  "last_updated": "2026-11-20T23:28:09.861598+00:00"
 }
