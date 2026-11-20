@@ -1,75 +1,81 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "12.50\u00b0N",
+    "longitude": "130.05\u00b0E",
+    "timestamp": "2026-11-20T14:55:33+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "GIMP now has UI tests",
-      "score": 50,
-      "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
-      "time": "2026-11-20T04:00:24"
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "score": 158,
+      "url": "https://alpo.ge/remark.pdf",
+      "time": "2026-11-20T14:16:21"
     },
     {
-      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-      "score": 106,
-      "url": "https://github.com/openssl/openssl/pull/33652",
-      "time": "2026-11-20T02:01:09"
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "score": 264,
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "time": "2026-11-20T09:43:19"
     },
     {
-      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-      "score": 45,
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-      "time": "2026-11-20T02:43:49"
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "score": 351,
+      "url": "https://architectlabs.com/blog/frostbite",
+      "time": "2026-11-20T10:01:41"
     },
     {
-      "title": "Vint Cerf on why TCP/IP was never patented",
-      "score": 73,
-      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
-      "time": "2026-11-20T01:06:12"
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "score": 46,
+      "url": "https://kobi.music/research/dettato",
+      "time": "2026-11-17T01:03:05"
     },
     {
-      "title": "Claude solves two open problems in the physics of black holes",
-      "score": 450,
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "time": "2026-11-19T17:30:44"
+      "title": "Llms.txt and MCP didn't move the needle",
+      "score": 20,
+      "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+      "time": "2026-11-20T14:00:23"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 307389,
+      "stars": 307602,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252819,
+      "stars": 252836,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196755,
+      "stars": 196754,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 195012,
+      "stars": 195334,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186549,
+      "stars": 186554,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-20T05:58:40.501146+00:00"
+  "last_updated": "2026-11-20T14:55:13.319114+00:00"
 }
