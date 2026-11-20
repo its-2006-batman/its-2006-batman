@@ -4,62 +4,62 @@
   "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Anthropic\u2019s Nasdaq debut",
-      "score": 822,
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "time": "2026-11-19T17:02:40"
+      "title": "GIMP now has UI tests",
+      "score": 50,
+      "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+      "time": "2026-11-20T04:00:24"
     },
     {
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "score": 470,
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "time": "2026-11-19T17:25:33"
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "score": 106,
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "time": "2026-11-20T02:01:09"
     },
     {
-      "title": "Synology Security Advisory",
-      "score": 69,
-      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-      "time": "2026-11-19T22:13:40"
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "score": 45,
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "time": "2026-11-20T02:43:49"
+    },
+    {
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "score": 73,
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "time": "2026-11-20T01:06:12"
     },
     {
       "title": "Claude solves two open problems in the physics of black holes",
-      "score": 345,
+      "score": 450,
       "url": "https://www.anthropic.com/research/claude-black-hole-physics",
       "time": "2026-11-19T17:30:44"
-    },
-    {
-      "title": "RegExr: Temporarily Offline",
-      "score": 24,
-      "url": "https://regexr.com/",
-      "time": "2026-11-19T22:27:07"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 307275,
+      "stars": 307389,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252800,
+      "stars": 252819,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196753,
+      "stars": 196755,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 194835,
+      "stars": 195012,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
@@ -71,5 +71,5 @@
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-19T23:59:15.745407+00:00"
+  "last_updated": "2026-11-20T05:58:40.501146+00:00"
 }
