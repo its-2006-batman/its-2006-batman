@@ -2,70 +2,70 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "4.28\u00b0S",
-    "longitude": "173.57\u00b0W",
-    "timestamp": "2026-11-20T23:28:25+00:00",
+    "latitude": "37.12\u00b0N",
+    "longitude": "106.53\u00b0W",
+    "timestamp": "2026-11-21T04:41:22+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
       "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "score": 1305,
+      "score": 1755,
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
       "time": "2026-11-20T18:33:14"
     },
     {
-      "title": "Inkling 2 Mini",
-      "score": 513,
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "time": "2026-11-20T20:12:19"
-    },
-    {
       "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "score": 2254,
+      "score": 2457,
       "url": "https://alpo.ge/remark.pdf",
       "time": "2026-11-20T14:16:21"
     },
     {
-      "title": "We promoted developers into architects without informing them",
-      "score": 238,
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "time": "2026-11-20T18:17:51"
+      "title": "Inkling 2 Mini",
+      "score": 813,
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "time": "2026-11-20T20:12:19"
     },
     {
-      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "score": 288,
-      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "time": "2026-11-20T17:21:36"
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "score": 171,
+      "url": "https://ninlive.com/",
+      "time": "2026-11-20T22:30:47"
+    },
+    {
+      "title": "We promoted developers into architects without informing them",
+      "score": 345,
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "time": "2026-11-20T18:17:51"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 307832,
+      "stars": 307929,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252838,
+      "stars": 252837,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196753,
+      "stars": 196754,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 195601,
+      "stars": 195722,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-20T23:28:09.861598+00:00"
+  "last_updated": "2026-11-21T04:41:10.012101+00:00"
 }
