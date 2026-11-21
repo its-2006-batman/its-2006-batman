@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "37.12\u00b0N",
-    "longitude": "106.53\u00b0W",
-    "timestamp": "2026-11-21T04:41:22+00:00",
+    "latitude": "49.28\u00b0N",
+    "longitude": "83.55\u00b0E",
+    "timestamp": "2026-11-21T13:51:24+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
+      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+      "score": 199,
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "time": "2026-11-17T15:22:57"
+    },
+    {
+      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+      "score": 12,
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "time": "2026-11-21T13:23:14"
+    },
+    {
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "score": 67,
+      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "time": "2026-11-21T10:36:32"
+    },
+    {
       "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "score": 1755,
+      "score": 2227,
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
       "time": "2026-11-20T18:33:14"
     },
     {
       "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "score": 2457,
+      "score": 2733,
       "url": "https://alpo.ge/remark.pdf",
       "time": "2026-11-20T14:16:21"
-    },
-    {
-      "title": "Inkling 2 Mini",
-      "score": 813,
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "time": "2026-11-20T20:12:19"
-    },
-    {
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "score": 171,
-      "url": "https://ninlive.com/",
-      "time": "2026-11-20T22:30:47"
-    },
-    {
-      "title": "We promoted developers into architects without informing them",
-      "score": 345,
-      "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "time": "2026-11-20T18:17:51"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 307929,
+      "stars": 308126,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252837,
+      "stars": 252844,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196754,
+      "stars": 196755,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 195722,
+      "stars": 196045,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186557,
+      "stars": 186558,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-21T04:41:10.012101+00:00"
+  "last_updated": "2026-11-21T13:51:13.989270+00:00"
 }
