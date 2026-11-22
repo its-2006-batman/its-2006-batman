@@ -1,81 +1,75 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": {
-    "latitude": "51.59\u00b0S",
-    "longitude": "126.15\u00b0W",
-    "timestamp": "2026-11-22T13:44:40+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "iss_position": null,
   "tech_headlines": [
     {
-      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "score": 707,
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "time": "2026-11-22T04:04:56"
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "score": 250,
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "time": "2026-11-22T19:10:34"
     },
     {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "score": 1131,
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "time": "2026-11-20T21:03:12"
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "score": 80,
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "time": "2026-11-22T21:01:16"
     },
     {
-      "title": "A real Linux kernel, compiled to WebAssembly",
-      "score": 111,
-      "url": "https://github.com/pithings/unkernel",
-      "time": "2026-11-17T16:35:46"
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "score": 62,
+      "url": "https://nyx.net/",
+      "time": "2026-11-22T20:15:59"
     },
     {
-      "title": "Lean verification of the Riemann Hypothesis",
-      "score": 1095,
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "time": "2026-11-21T14:36:45"
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "score": 74,
+      "url": "https://smallsf.com/",
+      "time": "2026-11-22T20:33:23"
     },
     {
-      "title": "Self-hosted library branch over public web OPDS",
-      "score": 40,
-      "url": "https://joinmayberry.com/",
-      "time": "2026-11-19T21:15:47"
+      "title": "Perplexity and Intelligence",
+      "score": 423,
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "time": "2026-11-22T17:06:27"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 308675,
+      "stars": 308991,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252896,
+      "stars": 252931,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
-      "name": "trekhleb/javascript-algorithms",
-      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196764,
-      "language": "JavaScript",
-      "url": "https://github.com/trekhleb/javascript-algorithms"
-    },
-    {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 196666,
+      "stars": 196854,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
+      "name": "trekhleb/javascript-algorithms",
+      "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+      "stars": 196766,
+      "language": "JavaScript",
+      "url": "https://github.com/trekhleb/javascript-algorithms"
+    },
+    {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186562,
+      "stars": 186561,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-22T13:44:24.945171+00:00"
+  "last_updated": "2026-11-22T22:55:38.410419+00:00"
 }
