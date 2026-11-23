@@ -1,58 +1,64 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "36.70\u00b0N",
+    "longitude": "116.54\u00b0W",
+    "timestamp": "2026-11-23T04:36:24+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "score": 250,
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-      "time": "2026-11-22T19:10:34"
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "score": 238,
+      "url": "https://spelunkr.tv",
+      "time": "2026-11-23T01:13:51"
+    },
+    {
+      "title": "Masullo on the Riemann Hypothesis",
+      "score": 108,
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "time": "2026-11-22T10:59:56"
     },
     {
       "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "score": 80,
+      "score": 337,
       "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
       "time": "2026-11-22T21:01:16"
     },
     {
-      "title": "Nyx, the Oldest Internet Service Provider",
-      "score": 62,
-      "url": "https://nyx.net/",
-      "time": "2026-11-22T20:15:59"
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "score": 406,
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "time": "2026-11-22T19:10:34"
     },
     {
-      "title": "A miniature San Francisco with live buses, planes and boats",
-      "score": 74,
-      "url": "https://smallsf.com/",
-      "time": "2026-11-22T20:33:23"
-    },
-    {
-      "title": "Perplexity and Intelligence",
-      "score": 423,
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "time": "2026-11-22T17:06:27"
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "score": 155,
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "time": "2026-11-18T15:43:29"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 308991,
+      "stars": 309101,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252931,
+      "stars": 252942,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 196854,
+      "stars": 196997,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
@@ -71,5 +77,5 @@
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-22T22:55:38.410419+00:00"
+  "last_updated": "2026-11-23T04:36:12.584495+00:00"
 }
