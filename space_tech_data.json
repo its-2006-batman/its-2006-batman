@@ -1,87 +1,75 @@
 {
   "spacex_launch": null,
-  "nasa_apod": {
-    "title": "NASA Science",
-    "date": "2026-11-23",
-    "explanation": "If you stare into space for a long time, what might you see? At first, you might only see the usual brightest stars, but if your eyes (or camera) could continue to collect light, you would see increasingly more. In the direction of the featured image, after only a few minutes, you would begin to not...",
-    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
-    "media_type": "image"
-  },
-  "iss_position": {
-    "latitude": "50.69\u00b0N",
-    "longitude": "10.31\u00b0W",
-    "timestamp": "2026-11-23T16:45:33+00:00",
-    "velocity": "~27,600 km/h",
-    "altitude": "~408 km"
-  },
+  "nasa_apod": null,
+  "iss_position": null,
   "tech_headlines": [
     {
       "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "score": 318,
+      "score": 2232,
       "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
       "time": "2026-11-23T14:00:18"
     },
     {
-      "title": "Ladybird Is Now in Alpha",
-      "score": 182,
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "score": 263,
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "time": "2026-11-23T22:32:29"
+    },
+    {
+      "title": "Ladybird is now in alpha",
+      "score": 1544,
       "url": "https://ladybird.org/posts/alpha/",
       "time": "2026-11-23T16:13:12"
     },
     {
-      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-      "score": 693,
-      "url": "https://z.ai/blog/glm-5.4",
-      "time": "2026-11-23T10:06:43"
+      "title": "The search for a top dark matter candidate",
+      "score": 21,
+      "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+      "time": "2026-11-23T23:12:40"
     },
     {
-      "title": "Win4wine \u2013 Run Windows Shell as the Linux Desktop on Wine",
-      "score": 114,
-      "url": "https://github.com/mikuta0407/win4wine",
-      "time": "2026-11-23T12:28:11"
-    },
-    {
-      "title": "Nospeaker \u2500 Make your MacBook's trackpad talk using its haptic motor",
-      "score": 135,
-      "url": "https://github.com/os6/nospeaker",
-      "time": "2026-11-23T11:31:54"
+      "title": "GPUI is getting its own repository",
+      "score": 164,
+      "url": "https://github.com/zed-industries/gpui",
+      "time": "2026-11-23T20:52:54"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 309392,
+      "stars": 309637,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252902,
+      "stars": 252817,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 197378,
+      "stars": 197579,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196766,
+      "stars": 196768,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186570,
+      "stars": 186572,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-23T16:45:21.912403+00:00"
+  "last_updated": "2026-11-24T03:34:38.803810+00:00"
 }
