@@ -1,75 +1,81 @@
 {
   "spacex_launch": null,
   "nasa_apod": null,
-  "iss_position": null,
+  "iss_position": {
+    "latitude": "47.75\u00b0S",
+    "longitude": "150.44\u00b0E",
+    "timestamp": "2026-11-24T16:40:23+00:00",
+    "velocity": "~27,600 km/h",
+    "altitude": "~408 km"
+  },
   "tech_headlines": [
     {
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "score": 2232,
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "time": "2026-11-23T14:00:18"
+      "title": "2035 came early",
+      "score": 705,
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+      "time": "2026-11-24T06:30:33"
     },
     {
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "score": 263,
-      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-      "time": "2026-11-23T22:32:29"
+      "title": "LLM agents work for their parent companies, not for you",
+      "score": 554,
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "time": "2026-11-24T12:40:15"
     },
     {
-      "title": "Ladybird is now in alpha",
-      "score": 1544,
-      "url": "https://ladybird.org/posts/alpha/",
-      "time": "2026-11-23T16:13:12"
+      "title": "Tidal Bans AI-Generated Music",
+      "score": 55,
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+      "time": "2026-11-24T16:12:38"
     },
     {
-      "title": "The search for a top dark matter candidate",
-      "score": 21,
-      "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
-      "time": "2026-11-23T23:12:40"
+      "title": "A training engine for your local model, using your idle compute",
+      "score": 28,
+      "url": "https://github.com/sous-labs/songe",
+      "time": "2026-11-24T15:03:40"
     },
     {
-      "title": "GPUI is getting its own repository",
-      "score": 164,
-      "url": "https://github.com/zed-industries/gpui",
-      "time": "2026-11-23T20:52:54"
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "score": 153,
+      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "time": "2026-11-24T10:50:14"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 309637,
+      "stars": 310030,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252817,
+      "stars": 252801,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 197579,
+      "stars": 197921,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196768,
+      "stars": 196766,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186572,
+      "stars": 186579,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-24T03:34:38.803810+00:00"
+  "last_updated": "2026-11-24T16:40:03.858679+00:00"
 }
