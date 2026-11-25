@@ -2,80 +2,80 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "47.75\u00b0S",
-    "longitude": "150.44\u00b0E",
-    "timestamp": "2026-11-24T16:40:23+00:00",
+    "latitude": "15.25\u00b0S",
+    "longitude": "35.86\u00b0W",
+    "timestamp": "2026-11-25T01:43:35+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "2035 came early",
-      "score": 705,
-      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-      "time": "2026-11-24T06:30:33"
+      "title": "Ternary Bonsai 2.5 27B",
+      "score": 335,
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "time": "2026-11-24T20:08:03"
     },
     {
-      "title": "LLM agents work for their parent companies, not for you",
-      "score": 554,
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-      "time": "2026-11-24T12:40:15"
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "score": 165,
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "time": "2026-11-24T21:02:22"
     },
     {
-      "title": "Tidal Bans AI-Generated Music",
-      "score": 55,
-      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
-      "time": "2026-11-24T16:12:38"
+      "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
+      "score": 68,
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "time": "2026-11-24T20:44:15"
     },
     {
-      "title": "A training engine for your local model, using your idle compute",
-      "score": 28,
-      "url": "https://github.com/sous-labs/songe",
-      "time": "2026-11-24T15:03:40"
+      "title": "Here in the World: Letters of Albert Camus, 1944\u20131959",
+      "score": 14,
+      "url": "https://literaryreview.co.uk/here-in-the-world",
+      "time": "2026-11-25T00:36:43"
     },
     {
-      "title": "Worshipping at the altar of Brendan Gregg",
-      "score": 153,
-      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
-      "time": "2026-11-24T10:50:14"
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "score": 264,
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "time": "2026-11-24T16:32:17"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 310030,
+      "stars": 310228,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252801,
+      "stars": 252877,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 197921,
+      "stars": 198087,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196766,
+      "stars": 196764,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186579,
+      "stars": 186580,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-24T16:40:03.858679+00:00"
+  "last_updated": "2026-11-25T01:43:14.862552+00:00"
 }
