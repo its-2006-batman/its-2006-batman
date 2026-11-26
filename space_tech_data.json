@@ -2,63 +2,63 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "12.97\u00b0N",
-    "longitude": "81.53\u00b0W",
-    "timestamp": "2026-11-25T16:23:52+00:00",
+    "latitude": "49.04\u00b0S",
+    "longitude": "66.66\u00b0E",
+    "timestamp": "2026-11-26T01:16:48+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "score": 130,
-      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-      "time": "2026-11-25T15:14:32"
+      "title": "1Password Security Incident",
+      "score": 1108,
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "time": "2026-11-25T17:18:26"
     },
     {
-      "title": "Investigating degraded experiences across GitHub products",
-      "score": 39,
-      "url": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
-      "time": "2026-11-25T15:59:23"
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+      "score": 861,
+      "url": "https://scottaaronson.blog/?p=10379",
+      "time": "2026-11-25T19:11:27"
     },
     {
-      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
-      "score": 224,
-      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-      "time": "2026-11-25T13:33:07"
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "score": 248,
+      "url": "https://github.com/lsernau/grh-lean",
+      "time": "2026-11-25T21:48:10"
     },
     {
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "score": 208,
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-      "time": "2026-11-25T11:34:25"
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "score": 184,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "time": "2026-11-25T21:18:02"
     },
     {
-      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
-      "score": 668,
-      "url": "https://buttons.joshwcomeau.com/",
-      "time": "2026-11-25T03:23:07"
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "score": 234,
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "time": "2026-11-22T16:44:48"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 310555,
+      "stars": 310748,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252937,
+      "stars": 252972,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 198556,
+      "stars": 198748,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
@@ -72,10 +72,10 @@
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186590,
+      "stars": 186594,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-25T16:23:41.867912+00:00"
+  "last_updated": "2026-11-26T01:16:36.182132+00:00"
 }
