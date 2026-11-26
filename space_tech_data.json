@@ -2,63 +2,63 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "49.04\u00b0S",
-    "longitude": "66.66\u00b0E",
-    "timestamp": "2026-11-26T01:16:48+00:00",
+    "latitude": "48.54\u00b0N",
+    "longitude": "24.81\u00b0E",
+    "timestamp": "2026-11-26T15:58:06+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "1Password Security Incident",
-      "score": 1108,
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "time": "2026-11-25T17:18:26"
+      "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+      "score": 250,
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "time": "2026-11-26T11:50:49"
+    },
+    {
+      "title": "Tell HN: Happy Thanksgiving",
+      "score": 187,
+      "url": "https://news.ycombinator.com/item?id=50655664",
+      "time": "2026-11-26T14:26:54"
+    },
+    {
+      "title": "Intel One Mono font",
+      "score": 283,
+      "url": "https://github.com/intel/intel-one-mono",
+      "time": "2026-11-26T10:11:01"
     },
     {
       "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
-      "score": 861,
+      "score": 1801,
       "url": "https://scottaaronson.blog/?p=10379",
       "time": "2026-11-25T19:11:27"
     },
     {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "score": 248,
-      "url": "https://github.com/lsernau/grh-lean",
-      "time": "2026-11-25T21:48:10"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "score": 184,
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "time": "2026-11-25T21:18:02"
-    },
-    {
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "score": 234,
-      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "time": "2026-11-22T16:44:48"
+      "title": "1Password Security Incident",
+      "score": 1569,
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "time": "2026-11-25T17:18:26"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 310748,
+      "stars": 311119,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252972,
+      "stars": 252987,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 198748,
+      "stars": 199204,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
@@ -72,10 +72,10 @@
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186594,
+      "stars": 186604,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-26T01:16:36.182132+00:00"
+  "last_updated": "2026-11-26T15:57:56.352559+00:00"
 }
