@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  48.54°N                                       ║
-║  📍 LONGITUDE: 24.81°E                                       ║
+║  📍 LATITUDE:  47.86°N                                       ║
+║  📍 LONGITUDE: 114.09°W                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-11-26 15:58 UTC                   ║
+║  ⏰ UPDATE: 2026-11-27 01:15 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -440,12 +440,12 @@ END TRANSMISSION
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **Euro-Office comes to your desktop with the Nextcloud Office ...** (250 ⭐)
-2. **Tell HN: Happy Thanksgiving** (187 ⭐)
-3. **Intel One Mono font** (283 ⭐)
+1. **AI made self-hosting fun again** (271 ⭐)
+2. **Kamil Khan Mumtaz: Pakistani architect, admired at home, alm...** (221 ⭐)
+3. **AMD-specific fork of llama.cpp** (279 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (311119★)
-2. **react/react** (252987★)
-3. **DietrichGebert/ponytail** (199204★)
+1. **affaan-m/ECC** (311316★)
+2. **react/react** (252994★)
+3. **DietrichGebert/ponytail** (199376★)
 <!-- LIVE_DATA_END -->
