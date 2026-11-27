@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  47.86°N                                       ║
-║  📍 LONGITUDE: 114.09°W                                      ║
+║  📍 LATITUDE:  48.33°S                                       ║
+║  📍 LONGITUDE: 148.41°E                                      ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-11-27 01:15 UTC                   ║
+║  ⏰ UPDATE: 2026-11-27 15:46 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: N/A                                                      ║
-║  DATE:  N/A                                                       ║
-║  TYPE:  N/A                                                       ║
+║  TITLE: NASA Science                                             ║
+║  DATE:  2026-11-27                                                ║
+║  TYPE:  image                                                     ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **AI made self-hosting fun again** (271 ⭐)
-2. **Kamil Khan Mumtaz: Pakistani architect, admired at home, alm...** (221 ⭐)
-3. **AMD-specific fork of llama.cpp** (279 ⭐)
+1. **First images of the impact of DART asteroid deflection exper...** (71 ⭐)
+2. **Show HN: bouncemarket – a live prediction market game for a ...** (31 ⭐)
+3. **Kimi for Science: More scientific ideas, made possible** (104 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (311316★)
-2. **react/react** (252994★)
-3. **DietrichGebert/ponytail** (199376★)
+1. **affaan-m/ECC** (311641★)
+2. **react/react** (253024★)
+3. **DietrichGebert/ponytail** (199831★)
 <!-- LIVE_DATA_END -->

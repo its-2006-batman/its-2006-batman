@@ -1,81 +1,87 @@
 {
   "spacex_launch": null,
-  "nasa_apod": null,
+  "nasa_apod": {
+    "title": "NASA Science",
+    "date": "2026-11-27",
+    "explanation": "On November 24, all denizens of our fair planet could watch the Moon rise opposite the setting Sun. Easy to spot in twilight skies above fields, fences, backyards, and even stone walls, the Moon was big and bright, and at its full phase. Known to some as a Beaver Moon, November's Full Moon was also ...",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "media_type": "image"
+  },
   "iss_position": {
-    "latitude": "47.86\u00b0N",
-    "longitude": "114.09\u00b0W",
-    "timestamp": "2026-11-27T01:15:00+00:00",
+    "latitude": "48.33\u00b0S",
+    "longitude": "148.41\u00b0E",
+    "timestamp": "2026-11-27T15:46:33+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "AI made self-hosting fun again",
-      "score": 271,
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "time": "2026-11-26T21:47:45"
+      "title": "First images of the impact of DART asteroid deflection experiment",
+      "score": 71,
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "time": "2026-11-26T17:24:37"
     },
     {
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "score": 221,
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "time": "2026-11-26T21:08:05"
+      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+      "score": 31,
+      "url": "https://bouncemarket.minhanhday.com/",
+      "time": "2026-11-27T15:01:50"
     },
     {
-      "title": "AMD-specific fork of llama.cpp",
-      "score": 279,
-      "url": "https://devnull.land/amd-specific-llama-cpp",
-      "time": "2026-11-26T17:11:29"
+      "title": "Kimi for Science: More scientific ideas, made possible",
+      "score": 104,
+      "url": "https://www.kimi.ai/news/kimi-for-science-program",
+      "time": "2026-11-27T12:03:11"
     },
     {
-      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
-      "score": 255,
-      "url": "https://github.com/antonpictures/youtube-punisher",
-      "time": "2026-11-26T17:36:47"
+      "title": "The group chat where your AI talks behind your back",
+      "score": 503,
+      "url": "https://construct22.com/",
+      "time": "2026-11-27T06:44:34"
     },
     {
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "score": 204,
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "time": "2026-11-26T17:47:45"
+      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+      "score": 147,
+      "url": "https://eprint.iacr.org/2026/3020.pdf",
+      "time": "2026-11-27T12:08:51"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 311316,
+      "stars": 311641,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252994,
+      "stars": 253024,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 199376,
+      "stars": 199831,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196767,
+      "stars": 196765,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
     {
       "name": "CyC2018/CS-Notes",
       "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
-      "stars": 186601,
+      "stars": 186605,
       "language": "JavaScript",
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-27T01:14:46.437840+00:00"
+  "last_updated": "2026-11-27T15:46:23.591460+00:00"
 }
