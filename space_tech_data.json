@@ -2,70 +2,70 @@
   "spacex_launch": null,
   "nasa_apod": null,
   "iss_position": {
-    "latitude": "11.39\u00b0S",
-    "longitude": "42.91\u00b0W",
-    "timestamp": "2026-11-28T00:48:02+00:00",
+    "latitude": "10.83\u00b0S",
+    "longitude": "104.58\u00b0E",
+    "timestamp": "2026-11-28T14:42:27+00:00",
     "velocity": "~27,600 km/h",
     "altitude": "~408 km"
   },
   "tech_headlines": [
     {
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "score": 284,
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-      "time": "2026-11-25T15:16:53"
+      "title": "Farewell",
+      "score": 451,
+      "url": "https://github.com/p-e-w/heretic/issues/601",
+      "time": "2026-11-28T11:42:26"
     },
     {
-      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "score": 411,
-      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-      "time": "2026-11-27T15:40:31"
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "score": 198,
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "time": "2026-11-28T10:37:40"
     },
     {
-      "title": "Convex skills send the user's app idea to a remote server without telling them",
-      "score": 220,
-      "url": "https://github.com/convex/convex-backend-skill/issues/64",
-      "time": "2026-11-27T18:02:45"
+      "title": "Audible removes download option for purchased audiobooks",
+      "score": 118,
+      "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+      "time": "2026-11-28T11:51:27"
     },
     {
-      "title": "Source Control from Hell",
+      "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
       "score": 48,
-      "url": "https://frantic.im/git/",
-      "time": "2026-11-27T22:06:44"
+      "url": "https://scriptor-pro.github.io/luciole-mono/",
+      "time": "2026-11-28T12:50:15"
     },
     {
-      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-      "score": 30,
-      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-      "time": "2026-11-27T23:06:29"
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "score": 53,
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+      "time": "2026-11-28T11:57:04"
     }
   ],
   "github_trending": [
     {
       "name": "affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencod",
-      "stars": 311868,
+      "stars": 312206,
       "language": "JavaScript",
       "url": "https://github.com/affaan-m/ECC"
     },
     {
       "name": "react/react",
       "description": "The library for web and native user interfaces.",
-      "stars": 252862,
+      "stars": 252834,
       "language": "JavaScript",
       "url": "https://github.com/react/react"
     },
     {
       "name": "DietrichGebert/ponytail",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "stars": 200130,
+      "stars": 200532,
       "language": "JavaScript",
       "url": "https://github.com/DietrichGebert/ponytail"
     },
     {
       "name": "trekhleb/javascript-algorithms",
       "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-      "stars": 196764,
+      "stars": 196767,
       "language": "JavaScript",
       "url": "https://github.com/trekhleb/javascript-algorithms"
     },
@@ -77,5 +77,5 @@
       "url": "https://github.com/CyC2018/CS-Notes"
     }
   ],
-  "last_updated": "2026-11-28T00:47:51.428506+00:00"
+  "last_updated": "2026-11-28T14:42:06.814539+00:00"
 }
