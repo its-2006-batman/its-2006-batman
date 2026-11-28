@@ -414,11 +414,11 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🛰️  ISS TRACKING - REAL-TIME POSITION                        ║
 ╠════════════════════════════════════════════════════════════════╣
-║  📍 LATITUDE:  48.33°S                                       ║
-║  📍 LONGITUDE: 148.41°E                                      ║
+║  📍 LATITUDE:  11.39°S                                       ║
+║  📍 LONGITUDE: 42.91°W                                       ║
 ║  ⚡ VELOCITY:  ~27,600 km/h                                  ║
 ║  🌍 ALTITUDE:  ~408 km                                       ║
-║  ⏰ UPDATE: 2026-11-27 15:46 UTC                   ║
+║  ⏰ UPDATE: 2026-11-28 00:48 UTC                   ║
 ╚════════════════════════════════════════════════════════════════╝
 
 ╔════════════════════════════════════════════════════════════════╗
@@ -433,19 +433,19 @@ END TRANSMISSION
 ╔════════════════════════════════════════════════════════════════╗
 ║  🌌 NASA ASTRONOMY PICTURE OF THE DAY                          ║
 ╠════════════════════════════════════════════════════════════════╣
-║  TITLE: NASA Science                                             ║
-║  DATE:  2026-11-27                                                ║
-║  TYPE:  image                                                     ║
+║  TITLE: N/A                                                      ║
+║  DATE:  N/A                                                       ║
+║  TYPE:  N/A                                                       ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
 
 ### 💻 TOP TECH HEADLINES
-1. **First images of the impact of DART asteroid deflection exper...** (71 ⭐)
-2. **Show HN: bouncemarket – a live prediction market game for a ...** (31 ⭐)
-3. **Kimi for Science: More scientific ideas, made possible** (104 ⭐)
+1. **GPT 6.2 Astra Solves a Historical Mystery** (284 ⭐)
+2. **Credit card skimming scripts using WebRTC found on popular s...** (411 ⭐)
+3. **Convex skills send the user's app idea to a remote server wi...** (220 ⭐)
 
 ### ⭐ TRENDING REPOS
-1. **affaan-m/ECC** (311641★)
-2. **react/react** (253024★)
-3. **DietrichGebert/ponytail** (199831★)
+1. **affaan-m/ECC** (311868★)
+2. **react/react** (252862★)
+3. **DietrichGebert/ponytail** (200130★)
 <!-- LIVE_DATA_END -->
